@@ -226,6 +226,11 @@ def handle_submit(case,user_id):
                     idx1=math.ceil(j/4)  #除以4，向上取整
                     inner_dict["time_span"]=records[idx2]["upload_time"]-records[idx1]["upload_time"]
                     break
+    else:
+        inner_dict["final_score"]=0
+        inner_dict["is_1A"]=False
+        inner_dict["Nums_before_AC"]=0
+        inner_dict["time_span"]=0
     record_dict[inner_dict["record_id"]]=inner_dict
     record_idx+=1
 
