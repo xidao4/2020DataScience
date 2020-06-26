@@ -4,6 +4,8 @@ import urllib.request,urllib.parse
 import zipfile
 import math
 
+
+
 #把src_zip解压缩，存到dest_dir中
 def unzip(src_zip,dest_dir):
     if zipfile.is_zipfile(src_zip):
@@ -63,12 +65,27 @@ def check_TO(path):
 
     return isTO
 
+def check_py(path):
+    fp = open(path, encoding="utf8")
+    cnt=0
+    for l in fp.readlines():
+        l = l.lstrip()
+        if l.startswith("//") or l.startswith("#include") or l.startswith("const") or l.startswith("int") or l.startswith("void"):
+            return False
+        if l.endswith(";"):
+            return False
+
+        cnt+=1
+        if cnt==10: break
+    return True
+
 def get_testCase_Nums(path):
     f = open(path, encoding="utf8")
     res = f.read()
     data = json.loads(res)
     return len(data)
 
+#文件、文件夹命名不能包含以下特殊字符
 def replace_char(dir):
     dir=dir.replace('*','_')
     # dir=dir.replace('\\',' ')
@@ -84,10 +101,17 @@ def replace_char(dir):
 def handle_pro(case):
     filename = urllib.parse.unquote(os.path.basename(case["case_zip"]))
     # url里最后一个/后的内容作为文件名,eg. 找相同字符_1578246661060.zip
-    dir_filename=replace_char(filename)
-    zip_url = pro_pre + dir_filename
-    unzip_dir = zip_url + "_unzip\\" # eg     找相同字符_1578246661060.zip_unzip
+    print(filename)
+
+    #使用radon时，文件、文件夹的路径不能有中文
+    # dir_filename=urllib.parse.quote(filename)
+    # dir_filename=replace_char(dir_filename)
+    global pro_idx
+    zip_url = pro_pre + str(pro_idx)
+    unzip_dir = zip_url + "_unzip\\"
+    print(unzip_dir)
     if not os.path.exists(unzip_dir):
+        # if not os.path.exists(zip)
         url = urllib.parse.quote(case["case_zip"], safe=";/?:@&=+$,")  # 编码url里的中文
         try:
             urllib.request.urlretrieve(url, zip_url)
@@ -106,11 +130,22 @@ def handle_pro(case):
     inner_dict={}
     inner_dict["case_id"]=case["case_id"]
     inner_dict["case_type"]=case["case_type"]
+    inner_dict["case_name"]=filename #case_zip的url最后一个/后的内容 有中文
     inner_dict["case_zip"]=case["case_zip"]
-    inner_dict["case_name"]=filename #case_zip的url最后一个/后的内容
     testCases_url=unzip_dir+".mooctest\\testCases.json"
-    inner_dict["testCase_Nums"]=get_testCase_Nums(testCases_url)
+    try:
+        inner_dict["testCase_Nums"]=get_testCase_Nums(testCases_url)
+    except Exception as e:
+        print("获取测试用例数量失败！",e)
+    answer_url=unzip_dir+".mooctest\\answer.py"
+    try:
+        inner_dict["ans_is_py"]=check_py(answer_url)
+        if inner_dict["ans_is_py"]:
+            inner_dict["case_unzip_dir"] = unzip_dir
+    except Exception as e:
+        print("面向用例检测失败！",e)
     pro_dict[inner_dict["case_id"]]=inner_dict
+    pro_idx+=1
 
 def handle_submit(case,user_id):
     records = case["upload_records"]
@@ -125,11 +160,18 @@ def handle_submit(case,user_id):
         if records[i]["score"] == case["final_score"]:
             chosen_record = records[i]
             break
+
     filename = urllib.parse.unquote(os.path.basename(chosen_record["code_url"]))  # url最后一个/后的内容，解码为中文
+    print(filename)
+
     # eg.文件名为单词分类_1582023289869.zip，下载的是个压缩包
-    zip_url = submit_pre + "\\" + filename
-    zip_url=replace_char(zip_url)
+    # zip_url = submit_pre + "\\" + os.path.basename(chosen_record["code_url"])
+    # zip_url=replace_char(zip_url)
+    global record_idx
+    zip_url=submit_pre+"\\"+str(record_idx)
     unzip_dir = zip_url + "_unzip\\"
+    print(unzip_dir)
+
     if not os.path.exists(unzip_dir):
         if not os.path.exists(zip_url):
             try:
@@ -150,63 +192,69 @@ def handle_submit(case,user_id):
             remove_zip(inner_zip)
         except Exception as e:
             print("外层解压并删除，获取内层并解压与删除，操作失败", e)
-    record_dict={}
-    record_dict["record_id"]=chosen_record["upload_id"]
-    record_dict["case_id"]=case["case_id"]
-    record_dict["user_id"]=user_id
-    record_dict["record_url"]=chosen_record["code_url"]
+    inner_dict={}
+    inner_dict["record_id"]=chosen_record["upload_id"]
+    inner_dict["case_id"]=case["case_id"]
+    inner_dict["user_id"]=user_id
+    inner_dict["record_url"]=chosen_record["code_url"]
     code_url = unzip_dir + "main.py"
     is_TO = check_TO(code_url)
-    if is_TO:
-        record_dict["is_TO"]=True
-    else:
-        record_dict["is_TO"]=False
-        record_dict["final_score"]=chosen_record["score"]
-        if int(record_dict["final_score"])!=100:
-            record_dict["is_1A"]=False
+    inner_dict["is_TO"]=is_TO
+    is_py=check_py(code_url)
+    inner_dict["is_py"]=is_py
+    if not is_TO and is_py:
+        inner_dict["final_score"]=chosen_record["score"]
+        inner_dict["path"]=unzip_dir
+
+        if int(inner_dict["final_score"])!=100:
+            inner_dict["is_1A"]=False
             ln=len(records)
-            record_dict["Nums_before_AC"]=ln
+            inner_dict["Nums_before_AC"]=ln
             idx1=math.ceil((ln-1)/4)          #向上取整
             idx2=ln-1
-            record_dict["time_span"]=records[idx2]["upload_time"]-records[idx1]["upload_time"]
+            inner_dict["time_span"]=records[idx2]["upload_time"]-records[idx1]["upload_time"]
         elif int(records[0]["score"])==100:
-            record_dict["is_1A"]=True
-            record_dict["Nums_before_AC"]=0
-            record_dict["time_span"]=0
+            inner_dict["is_1A"]=True
+            inner_dict["Nums_before_AC"]=0
+            inner_dict["time_span"]=0
         else:
-            record_dict["is_1A"]=False
+            inner_dict["is_1A"]=False
             for j in range(1,len(records)):
                 if int(records[j]["score"])==100:
-                    record_dict["Nums_before_AC"]=j-1
+                    inner_dict["Nums_before_AC"]=j-1
                     idx2=j
                     idx1=math.ceil(j/4)  #除以4，向上取整
-                    record_dict["time_span"]=records[idx2]["upload_time"]-records[idx1]["upload_time"]
+                    inner_dict["time_span"]=records[idx2]["upload_time"]-records[idx1]["upload_time"]
                     break
-    record_lst.append(record_dict)
+    record_dict[inner_dict["record_id"]]=inner_dict
+    record_idx+=1
 
-
-f=open("mini_sample.json",encoding="utf8")
+f=open("sample.json",encoding="utf8")
 res=f.read()
 data=json.loads(res)
 data=list(dict.values(data))
 
 pro_dict={}
-record_lst=[]
+record_dict={}
+pro_idx=0
+record_idx=0
 
 for user in data:
+    # global record_idx
     cases=user["cases"]
-    submit_pre = "mini_submit_code\\user_" + str(user["user_id"])
-    pro_pre = "mini_answer_testCases\\"
+    submit_pre = "s_submit_code\\user_" + str(user["user_id"])
+    pro_pre = "s_answer_testCases\\"
     if not os.path.exists(submit_pre):
         os.mkdir(submit_pre)
     for case in cases:
         handle_pro(case)
         handle_submit(case,user["user_id"])
+    record_idx = 0
 
 json_pro=json.dumps(pro_dict,ensure_ascii=False, indent=4, separators=(',', ': '))
 #要加encoding="utf8" 否则输出到.json中中文乱码
-with open('mini_pro_dict.json',mode='w',encoding="utf8") as f:
+with open('s_pro_dict.json',mode='w',encoding="utf8") as f:
     f.write(json_pro)
-json_record=json.dumps(record_lst,ensure_ascii=False,indent=4, separators=(',', ': '))
-with open('mini_record_lst.json','w') as f:
+json_record=json.dumps(record_dict,ensure_ascii=False,indent=4, separators=(',', ': '))
+with open('s_record_dict.json','w') as f:
     f.write(json_record)
