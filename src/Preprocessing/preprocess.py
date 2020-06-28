@@ -189,8 +189,8 @@ def handle_pro(case):
     #使用radon时，文件、文件夹的路径不能有中文
     # dir_filename=urllib.parse.quote(filename)
     # dir_filename=replace_char(dir_filename)
-    global pro_idx
-    zip_url = pro_pre + str(pro_idx)
+
+    zip_url = pro_pre + str(case["case_id"])
     unzip_dir = zip_url + "_unzip\\"
     print(unzip_dir)
     if not os.path.exists(unzip_dir):
@@ -211,7 +211,7 @@ def handle_pro(case):
         except Exception as e:
             print("解压与删除，操作失败", e)
     inner_dict={}
-    inner_dict["path_idx"]=pro_idx
+    inner_dict["path_idx"]=case["case_id"]
     inner_dict["case_id"]=case["case_id"]
     inner_dict["case_type"]=case["case_type"]
     inner_dict["case_name"]=filename #case_zip的url最后一个/后的内容 有中文
@@ -230,7 +230,7 @@ def handle_pro(case):
     except Exception as e:
         print("检测编程语言失败！",e)
     pro_dict[inner_dict["case_id"]]=inner_dict
-    pro_idx+=1
+
 
 def handle_submit(case,user_id):
     records = case["upload_records"]
@@ -328,7 +328,6 @@ data=list(dict.values(data))
 
 pro_dict={}
 record_dict={}
-pro_idx=0
 record_idx=0
 
 for user in data:
