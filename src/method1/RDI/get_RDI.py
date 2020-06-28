@@ -11,7 +11,7 @@ for v in pro_dict.values():
     scores.append(v["avg_score"])
 plt.figure(figsize=(20,8),dpi=100)#2创建画布
 #3绘制直方图
-dist=5
+dist=4
 group_num=int((max(scores)-min(scores))/dist)
 plt.hist(scores,bins=group_num)
 plt.xticks(range(int(min(scores)),int(max(scores)+1),dist))#修改x轴刻度
@@ -43,6 +43,8 @@ for v in pro_dict.values():
 json_pro=json.dumps(difficulty_dict,ensure_ascii=False, indent=4, separators=(',', ': '))
 # 要加encoding="utf8" 否则输出到.json中中文乱码
 with open('s_difficulty_dict.json',mode='w',encoding="utf8") as f:
+    f.write(json_pro)
+with open('../PDI/s_difficulty_dict.json',mode='w',encoding="utf8") as f:
     f.write(json_pro)
 
 level_name=["A","B","C","D"]

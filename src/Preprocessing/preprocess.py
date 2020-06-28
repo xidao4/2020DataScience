@@ -3,7 +3,7 @@ import os
 import urllib.request,urllib.parse
 import zipfile
 import math
-
+import re
 
 
 #把src_zip解压缩，存到dest_dir中
@@ -30,6 +30,7 @@ def get_inner(dir):
     return inner
 
 #Testcases Oriented Programming
+#要改进
 def check_TO(path):
     fp=open(path,encoding="utf8")
     isTO=False
@@ -65,6 +66,87 @@ def check_TO(path):
 
     return isTO
 
+def copy_file(path):
+    fp=open(path,encoding="utf8")
+    code=[]
+    for l in fp.readlines():
+        code.append(l)
+    output_path = path[:-3] + "_modify.py"
+    with open(output_path, mode='w',encoding="utf8") as f:
+        f.writelines(code)
+
+#去除注释 加上main函数
+def modify_code(path):
+    #删除注释，写入 path_modify.py中
+    fp=open(path,encoding="utf8")
+    code=[]
+    comment_flag = False
+    for old in fp.readlines():
+        # 行末#的情况
+        # 去除'#'和“#”的情况
+        searchObj = re.search("\'#", old)
+        if searchObj:
+            code.append(old)
+            continue
+        searchObj = re.search("\"#", old)
+        if searchObj:
+            code.append(old)
+            continue
+        searchObj=re.search('#',old)
+        if searchObj:
+            idx=searchObj.span()[0]
+            code.append(old[:idx]+"\n")
+            continue
+        #'''或者"""   或者单行#的情况
+        l=old.strip()
+        if l.startswith("\"\"\"") or l.startswith("\'\'\'"):
+            if not comment_flag:
+                comment_flag=True
+            else:
+                comment_flag=False
+            continue
+        if comment_flag:
+            continue
+        if l.startswith("#"):
+            continue
+        code.append(old)    #code加入没去掉开头的空格的代码
+    output_path = path[:-3] + "_modify.py"
+    with open(output_path, mode='w', encoding="utf8") as f:
+        f.writelines(code)
+
+    #如果本来就有main函数
+    fp = open(output_path, encoding="utf8")
+    for line in fp.readlines():
+        line=line.lstrip()
+        if line=="if __name__ == \"__main__\":\n":
+            return
+
+    #已经去除所有注释  加上main函数
+    fp = open(output_path, encoding="utf8")
+    code=[]
+    code.append("def main():\n")
+    intend=4
+    for l in fp.readlines():
+        if intend==2:
+            code.append("  "+l)
+        elif intend==4:
+            code.append("    "+l)
+        else:
+            print("intend",intend,path,"添加main函数，删除注释失败！")
+            return
+    #原代码最后一行可能没有换行
+    code.append("\nif __name__ == \"__main__\":\n")
+    if intend==2:
+        code.append("  main()")
+    elif intend==4:
+        code.append("    main()")
+    else:
+        print("intend", intend, path, "添加main函数，删除注释失败！")
+        return
+    with open(output_path, mode='w',encoding="utf8") as f:
+        f.writelines(code)
+
+#排除c++ java,也排除一些python2的情况 radon好像只认python3
 def check_py(path):
     fp = open(path, encoding="utf8")
     cnt=0
@@ -72,11 +154,12 @@ def check_py(path):
         l = l.lstrip()
         if l.startswith("//") or l.startswith("#include") or l.startswith("const") or l.startswith("int") or l.startswith("void"):
             return False
-        if l.endswith(";"):
+        if l.endswith(";\n") or l.startswith("public static void main") or l.startswith("System.out"):
             return False
 
-        cnt+=1
-        if cnt==10: break
+        if "raw_input" in l: #最好通配一下“print 你好” 这类
+            return False
+
     return True
 
 def get_testCase_Nums(path):
@@ -128,6 +211,7 @@ def handle_pro(case):
         except Exception as e:
             print("解压与删除，操作失败", e)
     inner_dict={}
+    inner_dict["path_idx"]=pro_idx
     inner_dict["case_id"]=case["case_id"]
     inner_dict["case_type"]=case["case_type"]
     inner_dict["case_name"]=filename #case_zip的url最后一个/后的内容 有中文
@@ -142,8 +226,9 @@ def handle_pro(case):
         inner_dict["ans_is_py"]=check_py(answer_url)
         if inner_dict["ans_is_py"]:
             inner_dict["case_unzip_dir"] = unzip_dir
+            modify_code(answer_url) #当答案代码是Python3时，才需要改造代码
     except Exception as e:
-        print("面向用例检测失败！",e)
+        print("检测编程语言失败！",e)
     pro_dict[inner_dict["case_id"]]=inner_dict
     pro_idx+=1
 
@@ -193,6 +278,7 @@ def handle_submit(case,user_id):
         except Exception as e:
             print("外层解压并删除，获取内层并解压与删除，操作失败", e)
     inner_dict={}
+    inner_dict["path_idx"]=record_idx
     inner_dict["record_id"]=chosen_record["upload_id"]
     inner_dict["case_id"]=case["case_id"]
     inner_dict["user_id"]=user_id
@@ -205,6 +291,7 @@ def handle_submit(case,user_id):
     if not is_TO and is_py:
         inner_dict["final_score"]=chosen_record["score"]
         inner_dict["path"]=unzip_dir
+        modify_code(code_url)  #当提交代码是python3且没有面向用例，才需要改造代码
 
         if int(inner_dict["final_score"])!=100:
             inner_dict["is_1A"]=False

@@ -1,7 +1,7 @@
 import json
 import numpy as np
 
-#      ***********!修改!字典类型case中的键值对**************
+
 def init(case):
     case["submit_Nums"] = 0
     case["total_time_span_to_AC"] = 0
@@ -9,6 +9,7 @@ def init(case):
     case["1A_Nums"] = 0
     case["full_records"]=[]
     case["score_lst"]=[]
+    case["full_records_path_idx"]=[]
 
 
 f=open("s_record_dict.json",encoding="utf8")
@@ -34,9 +35,13 @@ for record in record_dict.values():
         case["total_time_span_to_AC"] += record["time_span"]
         if len(case["full_records"])==10: continue
         case["full_records"].append(record["path"])
+        tmp={}
+        tmp["user_id"] = record["user_id"]
+        tmp["path_idx"]=record["path_idx"]
+        case["full_records_path_idx"].append(tmp)
     if record["is_py"] and not record["is_TO"]: #sumbit_Nums不算非正常提交
         case["submit_Nums"] += record["Nums_before_AC"]
-        if record["final_score"]==100:
+        if record["final_score"]==100 and record["is_py"]:
             case["submit_Nums"]+=1
     #pro_dict[record["case_id"]]=case    #不需要写回去
 
@@ -60,4 +65,8 @@ for v in pro_dict.values():
 json_pro=json.dumps(pro_dict,ensure_ascii=False, indent=4, separators=(',', ': '))
 #要加encoding="utf8" 否则输出到.json中中文乱码
 with open('s_pro_detail_dict.json',mode='w',encoding="utf8") as f:
+    f.write(json_pro)
+with open('../method1/RDI/s_pro_detail_dict.json',mode='w',encoding="utf8") as f:
+    f.write(json_pro)
+with open('../method1/PDI/s_pro_detail_dict.json',mode='w',encoding="utf8") as f:
     f.write(json_pro)
