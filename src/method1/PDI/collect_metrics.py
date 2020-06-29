@@ -18,7 +18,7 @@ def get_cc(case_id):
         dict = json.loads(res)
     except Exception as e:
         print("打开.json文件失败",e)
-        return -1,-1
+        return
     cc_lst=[]
     try:
         for v in dict.values():
@@ -34,9 +34,10 @@ def get_cc(case_id):
     if len(cc_lst)==0:
         print("dict",dict)
         print("cc为空")
-        return -1,-1
+        return
     global cc_suc
     avg_cc_score=np.mean(cc_lst)
+    avg_cc_level=None
     if 1<=avg_cc_score and avg_cc_score<5.5:
         avg_cc_level="A"
     elif 5.5 <= avg_cc_score and avg_cc_score < 10.5:
@@ -50,7 +51,6 @@ def get_cc(case_id):
     elif 40.5 <= avg_cc_score:
         avg_cc_level = "F"
     else:
-        avg_cc_level="-1"
         print(case_id," avg_cc_score",avg_cc_score,"圈复杂度分数错误，生成等级失败！")
     cc_suc+=1
     return avg_cc_score,avg_cc_level
@@ -62,13 +62,13 @@ def get_raw(case_id):
         dict = json.loads(res)
     except Exception as e:
         print("打开.json文件失败",e)
-        return -1
+        return
     for v in dict.values():
         try:
             return v["lloc"]
         except Exception as e:
             print("获取raw度量LLOC失败！",v,e)
-            return -1
+            return
 
 def get_hal(case_id):
     try:
@@ -77,13 +77,13 @@ def get_hal(case_id):
         dict=json.loads(res)
     except Exception as e:
         print("打开.json文件失败", e)
-        return -1,-1,-1,-1
+        return
     for v in dict.values():
         try:
             return v["total"][0],v["total"][1],v["total"][2],v["total"][3]
         except Exception as e:
             print("获取hal度量失败！",v,e)
-            return -1,-1,-1,-1
+            return
 
 
 f=open("s_pro_detail_dict.json",encoding="utf8")
@@ -105,18 +105,33 @@ for k in pro_dict.keys():
     inner_dict["RDI"]=old_case["RDI"]
 
     tmp_lst=get_cc(k)
-    inner_dict["avg_cc_score"]=tmp_lst[0]
-    print("avg_cc_score", tmp_lst[0])
-    inner_dict["avg_cc_level"] = tmp_lst[1]
-    print("avg_cc_level", tmp_lst[1])
-    inner_dict["avg_LLOC"]=get_raw(k)
+    if tmp_lst !=None:
+        inner_dict["avg_cc_score"]=tmp_lst[0]
+        inner_dict["avg_cc_level"] = tmp_lst[1]
+    else:
+        inner_dict["avg_cc_score"] = None
+        inner_dict["avg_cc_level"] = None
+    print("avg_cc_score_level", tmp_lst)
+
+    ret=get_raw(k)
+    if ret!=None:
+        inner_dict["avg_LLOC"]=ret
+    else:
+        inner_dict["avg_LLOC"]=None
     print("avg_LLOC",inner_dict["avg_LLOC"])
+
     hal_lst=get_hal(k)
-    print("hal_lst",hal_lst)
-    inner_dict["avg_unique_operator_Nums"]=hal_lst[0]
-    inner_dict["avg_unique_operand_Nums"] = hal_lst[1]
-    inner_dict["avg_operator_Nums"] = hal_lst[2]
-    inner_dict["avg_operand_Nums"]=hal_lst[3]
+    if hal_lst!=None:
+        inner_dict["avg_unique_operator_Nums"]=hal_lst[0]
+        inner_dict["avg_unique_operand_Nums"] = hal_lst[1]
+        inner_dict["avg_operator_Nums"] = hal_lst[2]
+        inner_dict["avg_operand_Nums"]=hal_lst[3]
+    else:
+        inner_dict["avg_unique_operator_Nums"] =None
+        inner_dict["avg_unique_operand_Nums"] = None
+        inner_dict["avg_operator_Nums"] = None
+        inner_dict["avg_operand_Nums"] = None
+    print("hal_lst", hal_lst)
 
     diff_dict[k]=inner_dict
     print()
