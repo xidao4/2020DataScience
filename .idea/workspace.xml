@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ad058c5-3163-49bf-99fc-013f4000a4ff" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Preprocessing/get_abnormal_sample.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Preprocessing/sample_separator.py" afterDir="false" />
-    </list>
+    <list default="true" id="9ad058c5-3163-49bf-99fc-013f4000a4ff" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +39,7 @@
       <updated>1593757068895</updated>
       <workItem from="1593757070149" duration="187000" />
       <workItem from="1593757286521" duration="127000" />
+      <workItem from="1593758874184" duration="7000" />
     </task>
     <servers />
   </component>
