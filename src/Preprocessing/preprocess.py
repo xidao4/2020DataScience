@@ -39,9 +39,21 @@ def check_TO(path):
     line_num = 0 #suspected/line_num的比例高于阈值，判定为TO
     print_num=0 #print出现超过20次，判定为TO。print行数/总行数比例过高。
 
+    contents=""
+    for l in fp.readlines():         #遍历一遍获取所有英文内容
+        l = l.lstrip()  # 用于截掉字符串左边的空格或指定字符
+        if not (l.startswith("#")):  # 非注释
+            for letter in l:
+                if (letter>='a' and letter<='z') or (letter>='A' and letter<='Z'):
+                    contents+=letter
+    num_if=contents.count("if")
+    num_print=contents.count("print")
+    num_case=contents.count("case")
+
+
     for l in fp.readlines():
         l=l.lstrip()#用于截掉字符串左边的空格或指定字符
-        if not(l.startswith("#")):#非注释
+        if not(l.startswith("#") and len(l)==0):#非注释非空
             line_num+=1
         else:#该行是注释，不算入行数，直接跳过
             former_line=l
@@ -60,10 +72,11 @@ def check_TO(path):
 
         former_line=l
 
-    if print_num>20: isTO=True #print出现超过20次，判定为TO。
+    if print_num>10: isTO=True #print出现超过10次，判定为TO。
     elif line_num>0 and suspected/line_num>=0.3: isTO=True #suspected/line_num的比例高于阈值，判定为TO
     elif line_num>0 and print_num/line_num>=0.9: isTO=True #print行数/总行数比例过高。
-
+    elif abs(num_if-num_print)<=1 and num_print>=5 : isTO=True  #if和print的数量之差不超过1而且>=5设为TO
+    elif abs(num_case - num_print) <= 1 and num_print >= 5: isTO = True  #switch case的情况
     return isTO
 
 def copy_file(path):
@@ -321,6 +334,7 @@ def handle_submit(case,user_id):
     record_dict[inner_dict["record_id"]]=inner_dict
     record_idx+=1
 
+
 f=open("sample.json",encoding="utf8")
 res=f.read()
 data=json.loads(res)
@@ -340,6 +354,7 @@ for user in data:
     for case in cases:
         handle_pro(case)
         handle_submit(case,user["user_id"])
+
     record_idx = 0
 
 json_pro=json.dumps(pro_dict,ensure_ascii=False, indent=4, separators=(',', ': '))
