@@ -39,7 +39,7 @@ submit_time,task,user,score,status
 2020-06-20 23:29:41+0900,C - Shift,totori_nyaa,0,WA
 2020-06-20 23:29:41+0900,"A - Takahashikun, The Strider",KoustavBeginner,0,WA
 2020-06-20 23:29:41+0900,"A - Takahashikun, The Strider",yadom,0,WA
-2020-06-20 23:29:41+0900,D - Secret Passage,august14,0,TLE
+2020-06-20 23:29:41+0900,D - Secret Passage,14-Aug,0,TLE
 2020-06-20 23:29:41+0900,B - Extension,wolley,0,WA
 2020-06-20 23:29:40+0900,"A - Takahashikun, The Strider",roka0521,200,AC
 2020-06-20 23:29:40+0900,B - Extension,teppi,0,WA
@@ -112,7 +112,7 @@ submit_time,task,user,score,status
 2020-06-20 23:28:29+0900,B - Extension,kei_data,0,WA
 2020-06-20 23:28:29+0900,B - Extension,merhorn,0,WA
 2020-06-20 23:28:26+0900,"A - Takahashikun, The Strider",Rhunosuke,200,AC
-2020-06-20 23:28:25+0900,D - Secret Passage,august14,0,TLE
+2020-06-20 23:28:25+0900,D - Secret Passage,14-Aug,0,TLE
 2020-06-20 23:28:21+0900,B - Extension,crossing0ver,0,TLE
 2020-06-20 23:28:19+0900,C - Shift,CKP,800,AC
 2020-06-20 23:28:17+0900,C - Shift,nrvft,800,AC
@@ -124,7 +124,7 @@ submit_time,task,user,score,status
 2020-06-20 23:28:06+0900,E - Permutation Cover,akouryy,0,WA
 2020-06-20 23:28:05+0900,E - Permutation Cover,ksun48,0,RE
 2020-06-20 23:28:00+0900,D - Secret Passage,fruwajacybyk,0,WA
-2020-06-20 23:28:00+0900,D - Secret Passage,august14,0,TLE
+2020-06-20 23:28:00+0900,D - Secret Passage,14-Aug,0,TLE
 2020-06-20 23:28:00+0900,B - Extension,march,0,TLE
 2020-06-20 23:27:59+0900,"A - Takahashikun, The Strider",kotatsugame,200,AC
 2020-06-20 23:27:57+0900,E - Permutation Cover,krijgertje,0,WA
@@ -148,7 +148,7 @@ submit_time,task,user,score,status
 2020-06-20 23:27:33+0900,B - Extension,fukki,600,AC
 2020-06-20 23:27:27+0900,B - Extension,kenkoooo,0,TLE
 2020-06-20 23:27:25+0900,E - Permutation Cover,EliteWantsYou,0,WA
-2020-06-20 23:27:24+0900,D - Secret Passage,august14,0,TLE
+2020-06-20 23:27:24+0900,D - Secret Passage,14-Aug,0,TLE
 2020-06-20 23:27:22+0900,D - Secret Passage,nxteru,0,WA
 2020-06-20 23:27:22+0900,D - Secret Passage,noimi,0,WA
 2020-06-20 23:27:19+0900,"A - Takahashikun, The Strider",kotatsugame,200,AC
@@ -368,13 +368,13 @@ submit_time,task,user,score,status
 2020-06-20 23:20:16+0900,C - Shift,TrivialMan,0,RE
 2020-06-20 23:20:16+0900,B - Extension,kernelian,0,WA
 2020-06-20 23:20:15+0900,C - Shift,anatolik,800,AC
-2020-06-20 23:20:14+0900,D - Secret Passage,august14,0,TLE
+2020-06-20 23:20:14+0900,D - Secret Passage,14-Aug,0,TLE
 2020-06-20 23:20:06+0900,E - Permutation Cover,alacreme,0,RE
 2020-06-20 23:20:02+0900,"A - Takahashikun, The Strider",Sheerlore,0,WA
 2020-06-20 23:20:02+0900,C - Shift,shirowa,800,AC
 2020-06-20 23:19:58+0900,B - Extension,saxofone111,0,WA
 2020-06-20 23:19:57+0900,D - Secret Passage,hjk1030,1100,AC
-2020-06-20 23:19:56+0900,D - Secret Passage,august14,0,CE
+2020-06-20 23:19:56+0900,D - Secret Passage,14-Aug,0,CE
 2020-06-20 23:19:53+0900,B - Extension,kiriyako,0,CE
 2020-06-20 23:19:51+0900,E - Permutation Cover,Alex_2oo8,1500,AC
 2020-06-20 23:19:49+0900,E - Permutation Cover,OtoFuse,0,WA
@@ -2540,7 +2540,7 @@ submit_time,task,user,score,status
 2020-06-20 21:58:26+0900,B - Extension,veryitchy,600,AC
 2020-06-20 21:58:25+0900,"A - Takahashikun, The Strider",dubeyji0110,0,WA
 2020-06-20 21:58:24+0900,B - Extension,BlahDuckling747,600,AC
-2020-06-20 21:58:23+0900,C - Shift,august14,800,AC
+2020-06-20 21:58:23+0900,C - Shift,14-Aug,800,AC
 2020-06-20 21:58:22+0900,"A - Takahashikun, The Strider",hooloovoo,0,WA
 2020-06-20 21:58:20+0900,B - Extension,akul,0,WA
 2020-06-20 21:58:17+0900,"A - Takahashikun, The Strider",whirok,0,WA
@@ -2556,7 +2556,7 @@ submit_time,task,user,score,status
 2020-06-20 21:58:06+0900,"A - Takahashikun, The Strider",Deepak_verma,0,RE
 2020-06-20 21:58:04+0900,"A - Takahashikun, The Strider",weed,200,AC
 2020-06-20 21:58:04+0900,B - Extension,anayk,0,WA
-2020-06-20 21:58:00+0900,C - Shift,august14,0,CE
+2020-06-20 21:58:00+0900,C - Shift,14-Aug,0,CE
 2020-06-20 21:57:55+0900,"A - Takahashikun, The Strider",tnakam0507,0,WA
 2020-06-20 21:57:53+0900,"A - Takahashikun, The Strider",neguseatama,200,AC
 2020-06-20 21:57:50+0900,C - Shift,tomerun,800,AC
@@ -3035,7 +3035,7 @@ submit_time,task,user,score,status
 2020-06-20 21:45:13+0900,B - Extension,bansals888,600,AC
 2020-06-20 21:45:11+0900,"A - Takahashikun, The Strider",bijoybiswas,0,WA
 2020-06-20 21:45:10+0900,"A - Takahashikun, The Strider",umeboshi123,0,WA
-2020-06-20 21:45:10+0900,B - Extension,august14,600,AC
+2020-06-20 21:45:10+0900,B - Extension,14-Aug,600,AC
 2020-06-20 21:45:08+0900,C - Shift,Arkajaisha13,0,WA
 2020-06-20 21:45:07+0900,"A - Takahashikun, The Strider",Zargham,0,WA
 2020-06-20 21:45:07+0900,B - Extension,torisasami,600,AC
@@ -4067,7 +4067,7 @@ submit_time,task,user,score,status
 2020-06-20 21:25:15+0900,"A - Takahashikun, The Strider",nxtgear,200,AC
 2020-06-20 21:25:13+0900,"A - Takahashikun, The Strider",faaiz,0,WA
 2020-06-20 21:25:13+0900,"A - Takahashikun, The Strider",O2MT,0,WA
-2020-06-20 21:25:12+0900,"A - Takahashikun, The Strider",July1,0,WA
+2020-06-20 21:25:12+0900,"A - Takahashikun, The Strider",1-Jul,0,WA
 2020-06-20 21:25:10+0900,"A - Takahashikun, The Strider",iluzn,0,CE
 2020-06-20 21:25:09+0900,"A - Takahashikun, The Strider",shibatamykey,0,WA
 2020-06-20 21:25:07+0900,"A - Takahashikun, The Strider",boruke,0,TLE
@@ -6658,7 +6658,7 @@ submit_time,task,user,score,status
 2020-06-20 21:04:08+0900,"A - Takahashikun, The Strider",Kurpilyansky,200,AC
 2020-06-20 21:04:07+0900,"A - Takahashikun, The Strider",arasius,200,AC
 2020-06-20 21:04:07+0900,"A - Takahashikun, The Strider",adarshj322,0,WA
-2020-06-20 21:04:07+0900,"A - Takahashikun, The Strider",august14,200,AC
+2020-06-20 21:04:07+0900,"A - Takahashikun, The Strider",14-Aug,200,AC
 2020-06-20 21:04:07+0900,"A - Takahashikun, The Strider",Delfad0r,200,AC
 2020-06-20 21:04:06+0900,"A - Takahashikun, The Strider",Rohit_k,0,WA
 2020-06-20 21:04:06+0900,"A - Takahashikun, The Strider",UdoyDas,0,WA
@@ -7213,7 +7213,7 @@ submit_time,task,user,score,status
 2020-06-20 21:02:22+0900,"A - Takahashikun, The Strider",dajizzle,0,WA
 2020-06-20 21:02:21+0900,"A - Takahashikun, The Strider",kal013,200,AC
 2020-06-20 21:02:21+0900,"A - Takahashikun, The Strider",noshi91,200,AC
-2020-06-20 21:02:21+0900,"A - Takahashikun, The Strider",tRue,200,AC
+2020-06-20 21:02:21+0900,"A - Takahashikun, The Strider",TRUE,200,AC
 2020-06-20 21:02:21+0900,"A - Takahashikun, The Strider",Thast,0,WA
 2020-06-20 21:02:21+0900,"A - Takahashikun, The Strider",DNA1980,200,AC
 2020-06-20 21:02:20+0900,"A - Takahashikun, The Strider",shiftpsh,0,WA
@@ -7469,3 +7469,79 @@ submit_time,task,user,score,status
 2020-06-20 21:01:28+0900,"A - Takahashikun, The Strider",maspy,200,AC
 2020-06-20 21:01:28+0900,"A - Takahashikun, The Strider",im_ute,0,RE
 2020-06-20 21:01:27+0900,"A - Takahashikun, The Strider",Trineutron,200,AC
+2020-06-20 21:01:27+0900,"A - Takahashikun, The Strider",suisen,200,AC
+2020-06-20 21:01:27+0900,"A - Takahashikun, The Strider",yuto1115,200,AC
+2020-06-20 21:01:27+0900,"A - Takahashikun, The Strider",Stonefeang,200,AC
+2020-06-20 21:01:27+0900,"A - Takahashikun, The Strider",zaneyu,200,AC
+2020-06-20 21:01:27+0900,"A - Takahashikun, The Strider",qwerty787788,200,AC
+2020-06-20 21:01:26+0900,"A - Takahashikun, The Strider",Kalashnikov,0,WA
+2020-06-20 21:01:26+0900,"A - Takahashikun, The Strider",mattukouta,0,WA
+2020-06-20 21:01:25+0900,"A - Takahashikun, The Strider",ameise,200,AC
+2020-06-20 21:01:25+0900,"A - Takahashikun, The Strider",Motsu_xe,200,AC
+2020-06-20 21:01:24+0900,"A - Takahashikun, The Strider",udupa2000,0,WA
+2020-06-20 21:01:24+0900,"A - Takahashikun, The Strider",jonathanpaulson,200,AC
+2020-06-20 21:01:23+0900,"A - Takahashikun, The Strider",QCFium,200,AC
+2020-06-20 21:01:23+0900,"A - Takahashikun, The Strider",Yoika,200,AC
+2020-06-20 21:01:23+0900,"A - Takahashikun, The Strider",satanic0258,200,AC
+2020-06-20 21:01:23+0900,"A - Takahashikun, The Strider",kzyKT,200,AC
+2020-06-20 21:01:22+0900,"A - Takahashikun, The Strider",Alex_Wei,200,AC
+2020-06-20 21:01:21+0900,"A - Takahashikun, The Strider",BLAHBLAHBLAH,200,AC
+2020-06-20 21:01:21+0900,"A - Takahashikun, The Strider",endagorion,200,AC
+2020-06-20 21:01:21+0900,"A - Takahashikun, The Strider",Benq,200,AC
+2020-06-20 21:01:20+0900,"A - Takahashikun, The Strider",naru1,0,WA
+2020-06-20 21:01:20+0900,"A - Takahashikun, The Strider",Vergara,200,AC
+2020-06-20 21:01:19+0900,"A - Takahashikun, The Strider",watarimaycry2,0,WA
+2020-06-20 21:01:19+0900,"A - Takahashikun, The Strider",forzaMilan,0,WA
+2020-06-20 21:01:19+0900,"A - Takahashikun, The Strider",kdboreo,0,WA
+2020-06-20 21:01:19+0900,"A - Takahashikun, The Strider",mencotton,200,AC
+2020-06-20 21:01:18+0900,"A - Takahashikun, The Strider",kaage,200,AC
+2020-06-20 21:01:15+0900,"A - Takahashikun, The Strider",M0N,0,CE
+2020-06-20 21:01:14+0900,"A - Takahashikun, The Strider",kotatsugame,200,AC
+2020-06-20 21:01:14+0900,"A - Takahashikun, The Strider",js0898,0,WA
+2020-06-20 21:01:14+0900,"A - Takahashikun, The Strider",jtnydv25,200,AC
+2020-06-20 21:01:13+0900,"A - Takahashikun, The Strider",mhrb,200,AC
+2020-06-20 21:01:13+0900,"A - Takahashikun, The Strider",i_love_chickpea,200,AC
+2020-06-20 21:01:13+0900,"A - Takahashikun, The Strider",soshun,200,AC
+2020-06-20 21:01:12+0900,"A - Takahashikun, The Strider",posij118,200,AC
+2020-06-20 21:01:12+0900,"A - Takahashikun, The Strider",startcpp,200,AC
+2020-06-20 21:01:12+0900,"A - Takahashikun, The Strider",Suika_predator,200,AC
+2020-06-20 21:01:12+0900,"A - Takahashikun, The Strider",Series_205,200,AC
+2020-06-20 21:01:11+0900,"A - Takahashikun, The Strider",drogskol,200,AC
+2020-06-20 21:01:11+0900,"A - Takahashikun, The Strider",hogeover30,0,WA
+2020-06-20 21:01:11+0900,"A - Takahashikun, The Strider",tran0826,200,AC
+2020-06-20 21:01:10+0900,"A - Takahashikun, The Strider",physics0523,200,AC
+2020-06-20 21:01:09+0900,"A - Takahashikun, The Strider",nilan8,0,WA
+2020-06-20 21:01:09+0900,"A - Takahashikun, The Strider",soto800,0,WA
+2020-06-20 21:01:08+0900,"A - Takahashikun, The Strider",E869120,200,AC
+2020-06-20 21:01:08+0900,"A - Takahashikun, The Strider",zln,0,WA
+2020-06-20 21:01:08+0900,"A - Takahashikun, The Strider",Osmium_1008,200,AC
+2020-06-20 21:01:07+0900,"A - Takahashikun, The Strider",yutas,200,AC
+2020-06-20 21:01:07+0900,"A - Takahashikun, The Strider",mikit,200,AC
+2020-06-20 21:01:07+0900,"A - Takahashikun, The Strider",Luft,200,AC
+2020-06-20 21:01:07+0900,"A - Takahashikun, The Strider",Kanaya,0,WA
+2020-06-20 21:01:07+0900,"A - Takahashikun, The Strider",shun0923,200,AC
+2020-06-20 21:01:06+0900,"A - Takahashikun, The Strider",Tomii9273,0,WA
+2020-06-20 21:01:05+0900,"A - Takahashikun, The Strider",shirokuroneko,0,WA
+2020-06-20 21:01:05+0900,"A - Takahashikun, The Strider",kort0n,200,AC
+2020-06-20 21:01:04+0900,"A - Takahashikun, The Strider",dolicas,0,WA
+2020-06-20 21:01:03+0900,"A - Takahashikun, The Strider",Mitsubachi,200,AC
+2020-06-20 21:01:02+0900,"A - Takahashikun, The Strider",mainulislam588,0,WA
+2020-06-20 21:01:01+0900,"A - Takahashikun, The Strider",tada72,200,AC
+2020-06-20 21:01:01+0900,"A - Takahashikun, The Strider",king_of_coder,0,WA
+2020-06-20 21:00:58+0900,"A - Takahashikun, The Strider",June_boy,200,AC
+2020-06-20 21:00:58+0900,"A - Takahashikun, The Strider",Fumiya_Cyrus,0,WA
+2020-06-20 21:00:58+0900,"A - Takahashikun, The Strider",Hexazine,200,AC
+2020-06-20 21:00:57+0900,"A - Takahashikun, The Strider",tako0218,200,AC
+2020-06-20 21:00:55+0900,"A - Takahashikun, The Strider",xiaowuc1,200,AC
+2020-06-20 21:00:55+0900,"A - Takahashikun, The Strider",to_omoT222,0,WA
+2020-06-20 21:00:55+0900,"A - Takahashikun, The Strider",FlowerOfSorrow,200,AC
+2020-06-20 21:00:55+0900,"A - Takahashikun, The Strider",PikMike,200,AC
+2020-06-20 21:00:54+0900,"A - Takahashikun, The Strider",n_chiba_,0,WA
+2020-06-20 21:00:54+0900,"A - Takahashikun, The Strider",Thast,0,WA
+2020-06-20 21:00:51+0900,"A - Takahashikun, The Strider",QCFium,0,WA
+2020-06-20 21:00:50+0900,"A - Takahashikun, The Strider",southball,200,AC
+2020-06-20 21:00:47+0900,"A - Takahashikun, The Strider",tyawanmusi,200,AC
+2020-06-20 21:00:47+0900,"A - Takahashikun, The Strider",yupiteru,0,WA
+2020-06-20 21:00:23+0900,"A - Takahashikun, The Strider",packer_jp,0,CE
+2020-06-20 21:00:06+0900,"A - Takahashikun, The Strider",pitsu,0,CE
+2020-06-20 21:00:05+0900,F - Forbidden Tournament,kawara_y,0,CE
