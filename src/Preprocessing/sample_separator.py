@@ -19,7 +19,7 @@ def download_and_extract(filepath, save_dir):
         print('\nSuccessfully downloaded')
 
 
-# 目前用的数据还是s_record_dict.json
+# s_record_dict.json
 f = open("s_record_dict.json", encoding="utf8")
 res = f.read()
 data = json.loads(res)
@@ -55,6 +55,7 @@ with open('valid_dict.json', 'w') as f:
 
 # get file
 # abnormal sample
+"""
 f = open("abnormal_dict.json", encoding="utf8")
 res = f.read()
 data = json.loads(res)
@@ -68,8 +69,9 @@ for rec in data:
 
     if os.path.exists(file_path):
         shutil.copytree(file_path, to_path)
-
+"""
 # valid sample
+"""
 f = open("valid_dict.json", encoding="utf8")
 res = f.read()
 data = json.loads(res)
@@ -83,3 +85,4 @@ for rec in data:
 
     if os.path.exists(file_path):
         shutil.copytree(file_path, to_path)
+"""
