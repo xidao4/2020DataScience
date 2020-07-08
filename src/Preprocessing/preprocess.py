@@ -296,15 +296,17 @@ def handle_submit(case,user_id):
     inner_dict["case_id"]=case["case_id"]
     inner_dict["user_id"]=user_id
     inner_dict["record_url"]=chosen_record["code_url"]
-    code_url = unzip_dir + "main.py"
-    is_TO = check_TO(code_url)
+    code_url1 = unzip_dir + "main.py"
+    code_url2 = unzip_dir + "//.mooctest//answer.py"
+	# check_py使用原始代码
+    is_TO = check_TO(code_url1)
     inner_dict["is_TO"]=is_TO
-    is_py=check_py(code_url)
+    is_py = check_py(code_url2)
     inner_dict["is_py"]=is_py
     if not is_TO and is_py:
         inner_dict["final_score"]=chosen_record["score"]
         inner_dict["path"]=unzip_dir
-        modify_code(code_url)  #当提交代码是python3且没有面向用例，才需要改造代码
+        modify_code(code_url1)  #当提交代码是python3且没有面向用例，才需要改造代码
 
         if int(inner_dict["final_score"])!=100:
             inner_dict["is_1A"]=False
