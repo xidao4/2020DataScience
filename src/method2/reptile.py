@@ -44,7 +44,7 @@ def get_records(contest_name,page_Nums):
     # 3 获取每一页的提交记录
     print("提交记录")
     rows=[]
-    for i in range(500,page_Nums):
+    for i in range(540,page_Nums):
     #for i in range(558,page_Nums):
         print()
         print('第',i+1,'页')
@@ -133,4 +133,4 @@ if __name__=="__main__":
     #     print(row[1]['page_Nums'])
     #     get_records(row[1]['id'],int(row[1]['page_Nums']))
 
-    get_records('agc009',673)
+    get_records('agc036',917)

@@ -51,9 +51,16 @@ def str_to_int(arrLike):
     return get_score(arrLike['score'])
 
 def get_new_id(arrLike,contest):
-    return contest+'_'+arrLike['id']
+    id=arrLike['id']
+    # idx = id.find(',')
+    # if idx==-1:
+    #     return contest+'_'+id
+    # else:
+    #     return contest+'_'+id[:idx]
+    return contest+'_'+id
 
 def get_difficulty(contest_name):
+
     print("OJ给的题目难度（由题目的分值决定）")
     url="https://atcoder.jp/contests/"+contest_name
     try:
@@ -87,24 +94,36 @@ def get_difficulty(contest_name):
     data = pd.read_csv(filename)
     print('变换前')
     print(data)
-    data['modify_score'] = data.apply(str_to_int, axis=1)
+    #data['modify_score'] = data.apply(str_to_int, axis=1)
     data['id'] = data.apply(get_new_id, axis=1, args=(contest_name,))
-    del data['score']
+    #del data['score']
     print('变换后')
     print(data)
     data.to_csv("contests\\" + contest_name + "\\pro_score_modify.csv", index=False)# id modify_score
+    print()
+    print()
+    print()
 
 
 def get_diff_lvl(arrLike):
-    s=arrLike['modify_score']
+    s=arrLike['score']
     if s<600: return 'A'
     elif s<1000: return 'B'
-    elif s<1500: return 'C'
+    elif s<1400: return 'C'
     else: return 'D'
+
+
+def modify_id(arrLike):
+    id=arrLike['id']
+    idx = id.find(',')
+    if idx == -1:
+        return id
+    else:
+        return id[:idx]
 
 def get_chosen_pro_info():
     data = pd.read_csv("chosen_page_Nums.csv")
-    id = []
+
     contest_series = data.id
     # for i, v in contest_series.items():
     #     id.append(v + '_A')
@@ -118,6 +137,7 @@ def get_chosen_pro_info():
     df1=DataFrame({'id':[]})
     for i,v in contest_series.items():
         df2=pd.read_csv("contests\\"+v+"\\pro_score_modify.csv")
+        df2['id']=df2.apply(modify_id,axis=1)
         df1=pd.merge(df1,df2,how='outer')
     print(df1)
     df1['difficulty_level']=df1.apply(get_diff_lvl,axis=1)
@@ -142,5 +162,6 @@ if __name__=="__main__":
         path="contests\\"+contest
         if not os.path.exists(path):
             os.mkdir(path)
-        #get_difficulty(contest) #选定的比赛的题目分数及相应难度
+        #选定的比赛的题目的分数
+        #get_difficulty(contest) #选定的比赛的题目的难度
     get_chosen_pro_info()  #选定的比赛的题目id,modify_score,difficulty_level
