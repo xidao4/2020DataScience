@@ -1,6 +1,6 @@
 import json
 import os
-import urllib.request,urllib.parse
+import urllib.request, urllib.parse
 import zipfile
 import math
 import re
@@ -9,7 +9,7 @@ import re
 #把src_zip解压缩，存到dest_dir中
 def unzip(src_zip,dest_dir):
     if zipfile.is_zipfile(src_zip):
-        zip_file=zipfile.ZipFile(src_zip,'r')
+        zip_file = zipfile.ZipFile(src_zip,'r')
         for file in zip_file.namelist():
             zip_file.extract(file,dest_dir)
     else:
@@ -23,7 +23,7 @@ def remove_zip(zip_path):
         print('路径'+zip_path+'不存在，为什么要删除？')
 
 def get_inner(dir):
-    inner=[]
+    inner = []
     for root,dirs,files in os.walk(dir):
         for file in files:
             inner.append(os.path.join(root,file))
@@ -32,12 +32,12 @@ def get_inner(dir):
 #Testcases Oriented Programming
 #要改进
 def check_TO(path):
-    fp=open(path,encoding="utf8")
-    isTO=False
-    suspected=0
-    former_line=""
+    fp = open(path,encoding="utf8")
+    isTO = False
+    suspected = 0
+    former_line = ""
     line_num = 0 #suspected/line_num的比例高于阈值，判定为TO
-    print_num=0 #print出现超过20次，判定为TO。print行数/总行数比例过高。
+    print_num = 0 #print出现超过20次，判定为TO。print行数/总行数比例过高。
 
     contents=""
     for l in fp.readlines():         #遍历一遍获取所有英文内容
@@ -296,17 +296,16 @@ def handle_submit(case,user_id):
     inner_dict["case_id"]=case["case_id"]
     inner_dict["user_id"]=user_id
     inner_dict["record_url"]=chosen_record["code_url"]
-    code_url1 = unzip_dir + "main.py"
-    code_url2 = unzip_dir + "//.mooctest//answer.py"
+    code_url = unzip_dir + "main.py"
 	# check_py使用原始代码
-    is_TO = check_TO(code_url1)
+    is_TO = check_TO(code_url)
     inner_dict["is_TO"]=is_TO
-    is_py = check_py(code_url2)
+    is_py = check_py(code_url)
     inner_dict["is_py"]=is_py
     if not is_TO and is_py:
         inner_dict["final_score"]=chosen_record["score"]
         inner_dict["path"]=unzip_dir
-        modify_code(code_url1)  #当提交代码是python3且没有面向用例，才需要改造代码
+        modify_code(code_url)  #当提交代码是python3且没有面向用例，才需要改造代码
 
         if int(inner_dict["final_score"])!=100:
             inner_dict["is_1A"]=False
