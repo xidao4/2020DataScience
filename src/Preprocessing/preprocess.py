@@ -1,6 +1,6 @@
 import json
 import os
-import urllib.request, urllib.parse
+import urllib.request,urllib.parse
 import zipfile
 import math
 import re
@@ -9,7 +9,7 @@ import re
 #把src_zip解压缩，存到dest_dir中
 def unzip(src_zip,dest_dir):
     if zipfile.is_zipfile(src_zip):
-        zip_file = zipfile.ZipFile(src_zip,'r')
+        zip_file=zipfile.ZipFile(src_zip,'r')
         for file in zip_file.namelist():
             zip_file.extract(file,dest_dir)
     else:
@@ -23,7 +23,7 @@ def remove_zip(zip_path):
         print('路径'+zip_path+'不存在，为什么要删除？')
 
 def get_inner(dir):
-    inner = []
+    inner=[]
     for root,dirs,files in os.walk(dir):
         for file in files:
             inner.append(os.path.join(root,file))
@@ -32,12 +32,12 @@ def get_inner(dir):
 #Testcases Oriented Programming
 #要改进
 def check_TO(path):
-    fp = open(path,encoding="utf8")
-    isTO = False
-    suspected = 0
-    former_line = ""
+    fp=open(path,encoding="utf8")
+    isTO=False
+    suspected=0
+    former_line=""
     line_num = 0 #suspected/line_num的比例高于阈值，判定为TO
-    print_num = 0 #print出现超过20次，判定为TO。print行数/总行数比例过高。
+    print_num=0 #print出现超过20次，判定为TO。print行数/总行数比例过高。
 
     contents=""
     for l in fp.readlines():         #遍历一遍获取所有英文内容
@@ -50,12 +50,12 @@ def check_TO(path):
     num_print=contents.count("print")
     num_case=contents.count("case")
 
-
+    fp = open(path, encoding="utf8")   #重新打开
     for l in fp.readlines():
         l=l.lstrip()#用于截掉字符串左边的空格或指定字符
         if not(l.startswith("#") and len(l)==0):#非注释非空
             line_num+=1
-        else:#该行是注释，不算入行数，直接跳过
+        else:#该行是注释或者空行，不算入行数，直接跳过
             former_line=l
             continue
 
@@ -169,7 +169,6 @@ def check_py(path):
             return False
         if l.endswith(";\n") or l.startswith("public static void main") or l.startswith("System.out"):
             return False
-
         if "raw_input" in l: #最好通配一下“print 你好” 这类
             return False
 
