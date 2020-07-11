@@ -8,7 +8,7 @@ def handle_submit(contest_name):
     df=pd.read_csv("contests\\"+contest_name+"\\record_"+contest_name+".csv")
     d0={}
     for index,rows in df.iterrows():
-        task=contest_name+"_"+rows['task'][0]   #eg. agc028_F
+        task=contest_name+rows['task'][0]   #eg. agc028F
         if task not in d0.keys():
             d0[task]={}
         d1=d0[task]
@@ -33,27 +33,21 @@ def get_interval(last,first):
 
 def add_new_cols():
     pros = pd.read_csv("pro.csv")
-    pros = pros.set_index('id')
-    print(pros)
-    ac_rate_series = pd.Series([],dtype="float64")
-    a1_rate_series = pd.Series([],dtype="float64")
-    avg_ac_time_series = pd.Series([],dtype="float64")
-    avg_score_series = pd.Series([],dtype="float64")
-    pros.insert(2, 'ac_rate', ac_rate_series)
-    pros.insert(3, '1a_rate', a1_rate_series)
-    pros.insert(4, 'avg_ac_time', avg_ac_time_series)
-    pros.insert(5, 'avg_score', avg_score_series)
-    pros.insert(6,'score_rate',pd.Series([],dtype='float64'))
-    pros.insert(7,'total_submit',pd.Series([],dtype="float64"))
-    pros.insert(8,'ac_Nums',pd.Series([],dtype="float64"))
-    pros.insert(9,'1a_Nums',pd.Series([],dtype='float64'))
-    pros.insert(10,'ac_time',pd.Series([],dtype='float64'))
-    pros.insert(11,'total_score',pd.Series([],dtype='float64'))
-    pros.insert(12,'user_Nums',pd.Series([],dtype='float64'))
-    print()
-    print(pros)
-    pros.to_csv("pro_with_features.csv")
-
+    #pros = pros.set_index('id')
+    #print(pros)
+    pros.insert(2, 'ac_rate', pd.Series([],dtype="float64"))#ac率
+    pros.insert(3, '1a_rate', pd.Series([],dtype="float64"))#1a率
+    pros.insert(4, 'avg_ac_time', pd.Series([],dtype="float64")) #平均ac用时
+    pros.insert(5, 'avg_score', pd.Series([],dtype="float64"))#平均分
+    pros.insert(6,'score_rate',pd.Series([],dtype='float64')) #平均得分率
+    pros.insert(7,'total_submit',pd.Series([],dtype="float64")) #提交总数
+    pros.insert(8,'ac_Nums',pd.Series([],dtype="float64")) #ac总数
+    pros.insert(9,'1a_Nums',pd.Series([],dtype='float64')) #1a总数
+    pros.insert(10,'ac_time',pd.Series([],dtype='float64'))#ac总用时
+    pros.insert(11,'total_score',pd.Series([],dtype='float64')) #总分
+    pros.insert(12,'user_Nums',pd.Series([],dtype='float64')) #参与用户数
+    #print(pros)
+    pros.to_csv("pro_with_features.csv",index=False)
 
 def get_pro_info(contest_name):
     f=open("contests\\"+contest_name+"\\"+contest_name+"_handled.json")#encoding=utf8
@@ -63,7 +57,7 @@ def get_pro_info(contest_name):
     pros=pd.read_csv("pro_with_features.csv")
     #print(pros)
     pros=pros.set_index('id')
-    print(pros)
+    #print(pros)
 
     for k0,v0 in d0.items():
         total_submit=0
@@ -118,10 +112,24 @@ def get_pro_info(contest_name):
         pros.at[k0,'total_score']=total_score
         pros.at[k0,'user_Nums']=user_Nums
 
+    print(contest_name)
     print(pros)
     pros.to_csv("pro_with_features.csv")
 
 if __name__ == "__main__":
-    handle_submit("agc036")
-    #add_new_cols()
-    get_pro_info("agc036")
+    # contests=['agc036','agc037','agc040','agc044','agc045','agc046']
+    # for contest_name in contests:
+    #     print(contest_name)
+    #     handle_submit(contest_name)
+    add_new_cols()
+    contests = [3, 6, 9, 10, 13, 14, 15, 16, 18, 23, 26, 32, 36, 37, 40, 44, 45, 46]
+    for i in range(len(contests)):
+        if len(str(contests[i])) == 1:
+            contests[i] = 'agc00' + str(contests[i])
+        else:
+            contests[i] = 'agc0' + str(contests[i])
+    for contest_name in contests:
+        #handle_submit(contest_name)
+        print(contest_name)
+        get_pro_info(contest_name)
+

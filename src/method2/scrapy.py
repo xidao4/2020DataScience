@@ -139,7 +139,7 @@ def get_first_page(id):
     if id=='033': return 950
     if id == '034': return 950
     if id == '035': return 700
-    if id == '038': return 609
+    if id == '038': return 611
     if id == '039': return 700
     if id == '043': return 400
 
@@ -163,7 +163,7 @@ def get_records(contest_name):
 if __name__=='__main__':
     #contests = [3, 6, 9, 10, 13, 14, 15, 16, 18, 23, 24, 25, 26, 31, 32, 36, 37, 38, 40, 44, 45, 46]
     #contests = [3, 6, 10, 13, 14, 15, 23, 24, 25, 31, 38]
-    contests=[25]
+    contests=[38]
     for i in range(len(contests)):
         if len(str(contests[i])) == 1:
             contests[i] = 'agc00' + str(contests[i])
