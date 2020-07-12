@@ -29,9 +29,22 @@ def get_inner(dir):
             inner.append(os.path.join(root,file))
     return inner
 
+def get_allAnswers(path):       #获取指定路径下的参考答案  变为数组
+    path_ans=path[0:len(path)-7]+".mooctest\\testCases.json"
+    answers=[]
+    f=open(path_ans,encoding="utf8")
+    testcase = f.read()
+    data = json.loads(testcase)
+    for item in data:
+        temp=item["output"].split("\n")
+        for i in temp:
+            if i!="":
+                answers.append(i)         #存放所有标准答案的
+    return answers
 #Testcases Oriented Programming
 #要改进
 def check_TO(path):
+    answers=get_allAnswers(path)                                 #存放所有标准答案的
     fp=open(path,encoding="utf8")
     isTO=False
     suspected=0
@@ -39,31 +52,61 @@ def check_TO(path):
     line_num = 0 #suspected/line_num的比例高于阈值，判定为TO
     print_num=0 #print出现超过20次，判定为TO。print行数/总行数比例过高。
 
+    if path=="s_submit_code\\user_60606\\198_unzip\\main.py":  #调试所用
+        print("error")
+
+
+    contents=""
+    numOf_point=0           #计算'''的数量  单数情况下就是注释内容
+    num_if=0   #计算if的数量
+
+
+
+    fp = open(path, encoding="utf8")   #打开文件
     for l in fp.readlines():
         l=l.lstrip()#用于截掉字符串左边的空格或指定字符
-        if not(l.startswith("#")):#非注释
+        if l.find("'''") > -1:
+            numOf_point += 1
+            continue
+        if not(l.startswith("#")) and len(l)>0 and (numOf_point%2==0):#非注释非空
             line_num+=1
-        else:#该行是注释，不算入行数，直接跳过
+        else:#该行是注释或者空行，不算入行数，直接跳过
             former_line=l
             continue
-
+        for letter in l:
+             if (letter>='a' and letter<='z') or (letter>='A' and letter<='Z') or (letter>='0' and letter<='9') or letter==' ':
+                 contents+=letter
+        contents+="\n"
         #看这行代码是否有TO的嫌疑
-        if l.startswith("print"):
-            print_num+=1
+        # if l.find("print")>=0:
+        #     print_num+=1
+        if l.find("if")>=0:
+            num_if+=1
 
-        if l.startswith("print") and former_line.startswith("if"):
+        if l.find("print")>=0 and former_line.startswith("if"):
             suspected += 1
-        elif l.startswith("print") and former_line.startswith("elif"):
+        elif l.find("print")>=0 and former_line.startswith("elif"):
             suspected+=1
-        elif l.startswith("print") and former_line.startswith("else"):
+        elif l.find("print")>=0 and former_line.startswith("else"):
             suspected+=1
 
         former_line=l
 
-    if print_num>20: isTO=True #print出现超过20次，判定为TO。
-    elif line_num>0 and suspected/line_num>=0.3: isTO=True #suspected/line_num的比例高于阈值，判定为TO
-    elif line_num>0 and print_num/line_num>=0.9: isTO=True #print行数/总行数比例过高。
+    containAllans=True   #判定是不是所有参考答案都在代码文本里找到
+    for j in answers:
+        if contents.find(j)<0:
+            containAllans=False
+            break
 
+    num_print=contents.count("print")    #print的数量
+    num_case=contents.count("case")      #case的数量
+
+    if num_print>10: isTO=True                           #print出现超过10次，判定为TO。
+    elif line_num>0 and suspected/line_num>=0.3: isTO=True #suspected/line_num的比例高于阈值，判定为TO
+    elif line_num>0 and num_print/line_num>=0.9: isTO=True #print行数/总行数比例过高。
+    elif line_num>0 and abs(num_if-num_print)<=1 and num_print>=5 : isTO=True  #if和print的数量之差不超过1而且>=5设为TO
+    elif line_num>0 and abs(num_case - num_print) <= 1 and num_print >= 5: isTO = True  #switch case的情况
+    elif line_num>0 and containAllans: isTO=True    #所有答案都出现在代码里判定是TO
     return isTO
 
 def copy_file(path):
@@ -149,17 +192,20 @@ def modify_code(path):
 #排除c++ java,也排除一些python2的情况 radon好像只认python3
 def check_py(path):
     fp = open(path, encoding="utf8")
+    num_end=0   #计算分号的数量
     cnt=0
     for l in fp.readlines():
         l = l.lstrip()
-        if l.startswith("//") or l.startswith("#include") or l.startswith("const") or l.startswith("int") or l.startswith("void"):
+        if l.endswith(";\n") :
+            num_end+=1
+        if l.startswith("//") or l.startswith("#include") or l.startswith("const") or l.startswith("int ") or l.startswith("void"):#int后面多加一个空格
             return False
-        if l.endswith(";\n") or l.startswith("public static void main") or l.startswith("System.out"):
+        if  l.startswith("public static void main") or l.startswith("System.out"):
             return False
-
         if "raw_input" in l: #最好通配一下“print 你好” 这类
             return False
-
+    if num_end>=3:    #多于三个分号判为不是Py 防止有些同学误写了分号
+        return False
     return True
 
 def get_testCase_Nums(path):
@@ -284,9 +330,10 @@ def handle_submit(case,user_id):
     inner_dict["user_id"]=user_id
     inner_dict["record_url"]=chosen_record["code_url"]
     code_url = unzip_dir + "main.py"
+	# check_py使用原始代码
     is_TO = check_TO(code_url)
     inner_dict["is_TO"]=is_TO
-    is_py=check_py(code_url)
+    is_py = check_py(code_url)
     inner_dict["is_py"]=is_py
     if not is_TO and is_py:
         inner_dict["final_score"]=chosen_record["score"]
@@ -321,6 +368,7 @@ def handle_submit(case,user_id):
     record_dict[inner_dict["record_id"]]=inner_dict
     record_idx+=1
 
+
 f=open("sample.json",encoding="utf8")
 res=f.read()
 data=json.loads(res)
@@ -340,6 +388,7 @@ for user in data:
     for case in cases:
         handle_pro(case)
         handle_submit(case,user["user_id"])
+
     record_idx = 0
 
 json_pro=json.dumps(pro_dict,ensure_ascii=False, indent=4, separators=(',', ': '))
