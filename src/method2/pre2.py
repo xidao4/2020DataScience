@@ -1,5 +1,6 @@
 import pandas as pd
 from pandas import DataFrame
+
 '''
 创建pro.csv    选定的比赛的题目id(带比赛的编号),score
 '''

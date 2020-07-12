@@ -144,8 +144,6 @@ def my_kmeans():
 
     print('KMeans',calinski_harabasz_score(train_features,predict_y))
 
-def EM():
-    return
 
 def assessment(test_labels,pred_labels):
     a1=0
