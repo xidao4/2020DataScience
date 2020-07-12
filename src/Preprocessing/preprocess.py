@@ -277,7 +277,6 @@ def handle_pro(case):
         print("检测编程语言失败！",e)
     pro_dict[inner_dict["case_id"]]=inner_dict
 
-
 def handle_submit(case,user_id):
     records = case["upload_records"]
     # 将列表records里的字典元素，按照提交时间从先到后排序
@@ -369,7 +368,11 @@ def handle_submit(case,user_id):
     record_idx+=1
 
 
+
 f=open("sample.json",encoding="utf8")
+
+f=open("test_data.json",encoding="utf8")
+
 res=f.read()
 data=json.loads(res)
 data=list(dict.values(data))
@@ -381,8 +384,8 @@ record_idx=0
 for user in data:
     # global record_idx
     cases=user["cases"]
-    submit_pre = "s_submit_code\\user_" + str(user["user_id"])
-    pro_pre = "s_answer_testCases\\"
+    submit_pre = "submit_code\\user_" + str(user["user_id"])
+    pro_pre = "answer_testCases\\"
     if not os.path.exists(submit_pre):
         os.mkdir(submit_pre)
     for case in cases:
