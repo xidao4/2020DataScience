@@ -82,17 +82,33 @@ def AdaBoost():
     print("adaboost分类树准确率 %.4lf" % score)
     return test_labels,pred_labels
 
+def AdaBoost2():
+    data = pd.read_csv('pro_with_features_difficulty.csv')
+    # 特征选择
+    features = ['1a_rate', 'ac_rate', 'total_submit','avg_ac_time','score_rate']
+    features_data = data[features]
+    labels_data = data['difficulty_level']
+    # 划分训练集 测试集
+    train_features, test_features, train_labels, test_labels = train_test_split(features_data, labels_data,
+                                                                                test_size=0.25)  # random_state
+    clf = AdaBoostClassifier(DecisionTreeClassifier(max_depth=2,min_samples_split=19), n_estimators=137)
+    clf.fit(train_features, train_labels)
+    pred_labels = clf.predict(test_features)
+    score = accuracy_score(test_labels, pred_labels)
+    print("adaboost分类树准确率 %.4lf" % score)
+    return test_labels, pred_labels,score
+
 from sklearn.model_selection import GridSearchCV
 def param():
     data = pd.read_csv('pro_with_features_difficulty.csv')
     # 特征选择
-    features = ['1a_rate', 'ac_rate', 'total_submit']
+    features = ['1a_rate', 'ac_rate', 'total_submit','avg_ac_time','score_rate']
     features_data = data[features]
     labels_data = data['difficulty_level']
     # 划分训练集 测试集
     train_features, test_features, train_labels, test_labels = train_test_split(features_data, labels_data,test_size=0.25)  # random_state
     # 对框架参数，如学习器个数进行择优
-    param_test1 = {"n_estimators": range(115, 145, 5)}
+    param_test1 = {"n_estimators": range(131, 138, 1)}
     estimatorCart = DecisionTreeClassifier()
     gsearch1 = GridSearchCV(estimator=AdaBoostClassifier(estimatorCart),
                             param_grid=param_test1) #, scoring="roc_auc", cv=5
@@ -104,7 +120,7 @@ from sklearn.model_selection import cross_validate
 def param2():
     data = pd.read_csv('pro_with_features_difficulty.csv')
     # 特征选择
-    features = ['1a_rate', 'ac_rate', 'total_submit']
+    features = ['1a_rate', 'ac_rate', 'total_submit','avg_ac_time','score_rate']
     features_data = data[features]
     labels_data = data['difficulty_level']
     # 划分训练集 测试集
@@ -117,7 +133,7 @@ def param2():
         print(i)
         for j in range(18, 22):
             print(j)
-            bdt = AdaBoostClassifier(DecisionTreeClassifier(max_depth=i,min_samples_split=j), n_estimators=130)
+            bdt = AdaBoostClassifier(DecisionTreeClassifier(max_depth=i,min_samples_split=j), n_estimators=137)
             cv_result = cross_validate(bdt, train_features, train_labels, return_train_score=False, cv=5)
             cv_value_vec = cv_result["test_score"]
             cv_mean = np.mean(cv_value_vec)
@@ -176,20 +192,25 @@ def assessment(test_labels,pred_labels):
     return a_rate,b_rate,c_rate
 
 if __name__=='__main__':
-    # a=0
-#     # b=0
-#     # c=0
-#     # for i in range(10):
-#     #     print(i)
-#     #     test_labels,pred_labels=AdaBoost()
-#     #     a_rate,b_rate,c_rate=assessment(list(test_labels.values),pred_labels)
-#     #     a+=a_rate
-#     #     b+=b_rate
-#     #     c+=c_rate
-#     # print()
-#     # print('A类型题目预测准确率为',a/10)
-#     # print('B类型题目预测准确率为',b/10)
-#     # print('C类型题目预测准确率为', c/10)
+    a=0
+    b=0
+    c=0
+    total_score=0
+    for i in range(10):
+        print(i)
+        test_labels,pred_labels,score=AdaBoost2()
+        a_rate,b_rate,c_rate=assessment(list(test_labels.values),pred_labels)
+        total_score+=score
+        a+=a_rate
+        b+=b_rate
+        c+=c_rate
+    print()
+    print('平均准确率为',total_score/10)
+    print('A类型题目预测准确率为',a/10)
+    print('B类型题目预测准确率为',b/10)
+    print('C类型题目预测准确率为', c/10)
+
 
     #param2()
-    my_kmeans()
+
+    #my_kmeans()
