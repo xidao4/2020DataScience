@@ -132,11 +132,13 @@ def param2():
 def my_kmeans():
     data = pd.read_csv('pro_with_features.csv')
     # 特征选择
-    features = ['1a_rate', 'avg_ac_time', 'score_rate', 'total_submit', 'ac_Nums']
+    features = ['1a_rate', 'ac_rate', 'total_submit']
     train_features = data[features]
-    #标准化到[-1,1]空间
-    z_score_scaler=preprocessing.ZScoreScaler()
-    train_features=z_score_scaler.fit_transform(train_features)
+    print(train_features)
+    #标准化
+    train_features=preprocessing.scale(train_features)
+    train_features=pd.DataFrame(train_features,columns=['1a_rate', 'ac_rate', 'total_submit'])
+    print(train_features)
     #kmeans算法
     kmeans = KMeans(n_clusters=4)
     kmeans.fit(train_features)
@@ -174,18 +176,20 @@ def assessment(test_labels,pred_labels):
     return a_rate,b_rate,c_rate
 
 if __name__=='__main__':
-    a=0
-    b=0
-    c=0
-    for i in range(10):
-        print(i)
-        test_labels,pred_labels=AdaBoost()
-        a_rate,b_rate,c_rate=assessment(list(test_labels.values),pred_labels)
-        a+=a_rate
-        b+=b_rate
-        c+=c_rate
-    print()
-    print('A类型题目预测准确率为',a/10)
-    print('B类型题目预测准确率为',b/10)
-    print('C类型题目预测准确率为', c/10)
+    # a=0
+#     # b=0
+#     # c=0
+#     # for i in range(10):
+#     #     print(i)
+#     #     test_labels,pred_labels=AdaBoost()
+#     #     a_rate,b_rate,c_rate=assessment(list(test_labels.values),pred_labels)
+#     #     a+=a_rate
+#     #     b+=b_rate
+#     #     c+=c_rate
+#     # print()
+#     # print('A类型题目预测准确率为',a/10)
+#     # print('B类型题目预测准确率为',b/10)
+#     # print('C类型题目预测准确率为', c/10)
+
     #param2()
+    my_kmeans()
