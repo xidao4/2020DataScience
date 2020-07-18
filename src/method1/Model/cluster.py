@@ -47,7 +47,7 @@ def get_data1():
     print(data)
     return data
 
-def draw_with_classification(y,data):
+def draw_with_classification(y,data,centers):
     print(data)
     print(data.describe())
     # arr0=0
@@ -65,9 +65,13 @@ def draw_with_classification(y,data):
             ax.scatter(data.iloc[i, 0], data.iloc[i, 1], data.iloc[i, 2], c='g', marker='*')
         else:
             print('error')
+    ax.scatter(centers[:,0],centers[:,1],centers[:,2],c='b',marker='+')
     # ax=fig.add_subplot(1,1,1)
     # ax=fig.gca(projection='3d')
     plt.title('kmeans scatter result')
+    ax.set_xlabel('avg_cc_score')
+    ax.set_ylabel('avg_LLOC')
+    ax.set_zlabel('avg_unique_operand_Nums')
     #plt.legend(loc=2)
     #plt.show()
     plt.savefig('with_classification.png', bbox_inches='tight')
@@ -163,10 +167,10 @@ def kmeans(features_data):
     kmeans.fit(features_data)
     predict_y = kmeans.predict(features_data)
     print('KMeans', calinski_harabasz_score(features_data, predict_y))
+    centers=kmeans.cluster_centers_
+    print(centers)
 
-    draw_with_classification(predict_y,features_data)
-
-
+    draw_with_classification(predict_y,features_data,centers)
 
 
 if __name__=='__main__':
