@@ -17,44 +17,11 @@ def is_valid(start,real,end):
     #2020-06-07 23:30:00+0900
     return s<=r and r<=e
 
-def get_curr_page_Nums(contest_name):
-    url = "https://atcoder.jp/contests/" + contest_name + "/submissions"
-    # 获取总页数
-    r = requests.get(url, headers={
-        "User-Agent": "Mozilla//5.0 (Windows NT 10.0; Win64; x64) AppleWebKit//537.36 (KHTML, like Gecko) Chrome//80.0.3987.132 Safari//537.36"})
-    #print(r.status_code)
-    html = r.content.decode(r.encoding)
-    html = etree.HTML(html)
-    page_Nums = html.xpath(
-        "/html/body/div[@id='main-div']/div[@id='main-container']/div[@class='row']/div[@class='col-sm-12'][2]/div[@class='text-center'][1]/ul[@class='pagination pagination-sm mt-0 mb-1']/li[last()]/a/text()")
-    page_Nums = int(page_Nums[0])
-    print(contest_name,'总页数',page_Nums)
-    return page_Nums
-
-def get_start_page_Num(contest_name,page_Nums,start_time,end_time):
-    slice=page_Nums//5
-    candidate=slice*3
-    while True:
-        url="https://atcoder.jp/contests/"+contest_name+"/submissions?page="+str(candidate)
-        r = requests.get(url, headers={"User-Agent": "Mozilla//5.0 (Windows NT 10.0; Win64; x64) AppleWebKit//537.36 (KHTML, like Gecko) Chrome//80.0.3987.132 Safari//537.36"})
-        # print(r.status_code)
-        html = r.content.decode(r.encoding)
-        soup = BeautifulSoup(html, 'html.parser')
-        time = soup.tbody.time.get_text()
-        if not is_valid(start_time,time,end_time):
-            print('start_page',candidate)
-            return candidate
-        candidate-=slice
-        if candidate<=0:
-            candidate=1
-
-
 def get_time_and_pages(contest_name):
     print('比赛时间')
     url = "https://atcoder.jp/contests/" + contest_name+'/submissions'
     r = requests.get(url, headers={
         "User-Agent": "Mozilla//5.0 (Windows NT 10.0; Win64; x64) AppleWebKit//537.36 (KHTML, like Gecko) Chrome//80.0.3987.132 Safari//537.36"})
-    #print(r.status_code)
     html = r.content.decode(r.encoding)
     # html = etree.HTML(html)
     # start_time = html.xpath("//small[@class='contest-duration']/a[1]/time[@class='fixtime-full']/text()")
@@ -85,7 +52,6 @@ def get_all_records(start_page_Num,page_Nums,start_time,end_time):
         # driver = webdriver.Chrome()
         # driver.get(url)
         r=requests.get(url, headers={"User-Agent": "Mozilla//5.0 (Windows NT 10.0; Win64; x64) AppleWebKit//537.36 (KHTML, like Gecko) Chrome//80.0.3987.132 Safari//537.36"})
-        #print(r.status_code)
         html=r.content.decode(r.encoding)
         # 3.1 获取每页所有行的提交时间
         soup = BeautifulSoup(html, 'html.parser')
@@ -125,6 +91,7 @@ def get_all_records(start_page_Num,page_Nums,start_time,end_time):
     return rows
 
 def get_first_page(id):
+    # 手动查看的
     if id=='003': return 1100
     if id=='006': return 788
     if id=='010': return 905
@@ -146,12 +113,11 @@ def get_first_page(id):
 def get_records(contest_name):
     #获取比赛开始和结束时间 以及 总页数
     start_time,end_time,page_Nums=get_time_and_pages(contest_name)
-    #获取爬取的起始页数
-    #start_page_Num=get_start_page_Num(contest_name,page_Nums,start_time,end_time)
-    start_page_Num=get_first_page(contest_name[3:])
+    #start_page_Num=get_start_page_Num(contest_name,page_Nums,start_time,end_time) #获取爬取的起始页数
+    start_page_Num=get_first_page(contest_name[3:]) #获取开始爬取的页数
     #获取表头
     fields=["submit_time","task","user","score","status"]
-    #获取每一页的提交记录
+    #获取每一场的提交记录
     rows=get_all_records(start_page_Num,page_Nums,start_time,end_time)
     #写进record_agc003.csv中
     filename = "contests\\"+contest_name + "\\record_"+contest_name+".csv"
@@ -161,9 +127,8 @@ def get_records(contest_name):
         csvwriter.writerows(rows)
 
 if __name__=='__main__':
-    #contests = [3, 6, 9, 10, 13, 14, 15, 16, 18, 23, 24, 25, 26, 31, 32, 36, 37, 38, 40, 44, 45, 46]
-    #contests = [3, 6, 10, 13, 14, 15, 23, 24, 25, 31, 38]
-    contests=[38]
+    #pre1.py选取的比赛
+    contests = [3, 6, 9, 10, 13, 14, 15, 16, 18, 23, 26, 32, 36, 37, 40, 44, 45, 46]
     for i in range(len(contests)):
         if len(str(contests[i])) == 1:
             contests[i] = 'agc00' + str(contests[i])

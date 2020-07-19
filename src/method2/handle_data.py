@@ -121,7 +121,7 @@ if __name__ == "__main__":
     # for contest_name in contests:
     #     print(contest_name)
     #     handle_submit(contest_name)
-    add_new_cols()
+    add_new_cols() #增加dataframe的字段，如ac_rate,1a_rate,total_submit
     contests = [3, 6, 9, 10, 13, 14, 15, 16, 18, 23, 26, 32, 36, 37, 40, 44, 45, 46]
     for i in range(len(contests)):
         if len(str(contests[i])) == 1:
@@ -129,7 +129,7 @@ if __name__ == "__main__":
         else:
             contests[i] = 'agc0' + str(contests[i])
     for contest_name in contests:
-        #handle_submit(contest_name)
+        handle_submit(contest_name) #处理每场比赛的提交记录，得到部分新增字段的数值（如ac_nums,1a_nums）
         print(contest_name)
-        get_pro_info(contest_name)
+        get_pro_info(contest_name)  #得到全部新增字段的数值（如ac_rate,1a_rate）
 

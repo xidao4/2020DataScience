@@ -9,6 +9,7 @@ from sklearn import preprocessing
 from sklearn.metrics import calinski_harabasz_score
 
 def CART():
+    #没用
     data=pd.read_csv('pro_with_features_difficulty.csv')
     # print(data)
     # print()
@@ -57,34 +58,6 @@ def CART():
 def AdaBoost():
     data = pd.read_csv('pro_with_features_difficulty.csv')
     # 特征选择
-    features = ['1a_rate', 'ac_rate', 'total_submit']
-    features_data = data[features]
-    labels_data = data['difficulty_level']
-    # 划分训练集 测试集
-    train_features, test_features, train_labels, test_labels = train_test_split(features_data, labels_data,test_size=0.25)#random_state
-    # print()
-    # print()
-    # print('test_labels')
-    # print(test_labels)
-    # print()
-    # print()
-
-    clf = AdaBoostClassifier(DecisionTreeClassifier(max_depth=2),n_estimators=130)
-    #clf=AdaBoostClassifier(DecisionTreeClassifier(max_depth=30,min_samples_split=5,min_samples_leaf=3),
-    #                       algorithm="SAMME",n_estimators=200,learning_rate=0.8)
-    clf.fit(train_features, train_labels)
-    pred_labels = clf.predict(test_features)
-    # print('pred_labels')
-    # print(pred_labels)
-    # print()
-    # print()
-    score = accuracy_score(test_labels, pred_labels)
-    print("adaboost分类树准确率 %.4lf" % score)
-    return test_labels,pred_labels
-
-def AdaBoost2():
-    data = pd.read_csv('pro_with_features_difficulty.csv')
-    # 特征选择
     features = ['1a_rate', 'ac_rate', 'total_submit','avg_ac_time','score_rate']
     features_data = data[features]
     labels_data = data['difficulty_level']
@@ -99,6 +72,7 @@ def AdaBoost2():
     return test_labels, pred_labels,score
 
 from sklearn.model_selection import GridSearchCV
+
 def param():
     data = pd.read_csv('pro_with_features_difficulty.csv')
     # 特征选择
@@ -117,6 +91,7 @@ def param():
 
 import numpy as np
 from sklearn.model_selection import cross_validate
+
 def param2():
     data = pd.read_csv('pro_with_features_difficulty.csv')
     # 特征选择
@@ -144,24 +119,6 @@ def param2():
     print(tree_depth)
     print(samples_split)
     return tree_depth,samples_split
-
-def my_kmeans():
-    data = pd.read_csv('pro_with_features.csv')
-    # 特征选择
-    features = ['1a_rate', 'ac_rate', 'total_submit']
-    train_features = data[features]
-    print(train_features)
-    #标准化
-    train_features=preprocessing.scale(train_features)
-    train_features=pd.DataFrame(train_features,columns=['1a_rate', 'ac_rate', 'total_submit'])
-    print(train_features)
-    #kmeans算法
-    kmeans = KMeans(n_clusters=4)
-    kmeans.fit(train_features)
-    predict_y=kmeans.predict(train_features)
-
-    print('KMeans',calinski_harabasz_score(train_features,predict_y))
-
 
 def assessment(test_labels,pred_labels):
     a1=0
@@ -192,13 +149,15 @@ def assessment(test_labels,pred_labels):
     return a_rate,b_rate,c_rate
 
 if __name__=='__main__':
+    #param()
+    #param2()
     a=0
     b=0
     c=0
     total_score=0
     for i in range(10):
         print(i)
-        test_labels,pred_labels,score=AdaBoost2()
+        test_labels,pred_labels,score=AdaBoost()
         a_rate,b_rate,c_rate=assessment(list(test_labels.values),pred_labels)
         total_score+=score
         a+=a_rate
@@ -211,6 +170,5 @@ if __name__=='__main__':
     print('C类型题目预测准确率为', c/10)
 
 
-    #param2()
 
-    #my_kmeans()
+

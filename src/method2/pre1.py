@@ -13,65 +13,16 @@ from pandas import Series
 '''
 
 
-def get_page_Nums(contest_name,pages):
-    url="https://atcoder.jp/contests/"+contest_name+"/submissions"
-    #获取总页数
-    r = requests.get(url, headers={"User-Agent": "Mozilla//5.0 (Windows NT 10.0; Win64; x64) AppleWebKit//537.36 (KHTML, like Gecko) Chrome//80.0.3987.132 Safari//537.36"})
-    print(r.status_code)
-    html = r.content.decode(r.encoding)
-    html = etree.HTML(html)
-    page_Nums=html.xpath("/html/body/div[@id='main-div']/div[@id='main-container']/div[@class='row']/div[@class='col-sm-12'][2]/div[@class='text-center'][1]/ul[@class='pagination pagination-sm mt-0 mb-1']/li[last()]/a/text()")
-    page_Nums=int(page_Nums[0])
-    print(page_Nums)
-    pages[contest_name]=page_Nums
 
-def get_total_page_Nums(contests):
-    pages = {}
-    for contest in contests:
-        print(contest)
-        get_page_Nums(contest,pages)
-    s = Series(pages).sort_values()
-    print(s)
-    print(s.describe())
-    s.to_csv("page_Nums.csv")
 
-def get_chosen_page_Nums():
-    data = pd.read_csv("page_Nums.csv")
-    data.rename(columns={'Unnamed: 0':'id','0': 'page_Nums'},inplace=True)
-    data=data.sort_values(by='page_Nums')
-    data=data.iloc[:18,:2]
-    print(data)
-    data.to_csv("chosen_page_Nums.csv", index=False)
-
-def get_score(score_str):
-    idx=score_str.find('(')
-    if idx==-1:
-        return int(score_str)
-    else:
-        return int(score_str[:idx])
-
-def str_to_int(arrLike):
-    if isinstance(arrLike['score'],int):
-        return arrLike['score']
-    return get_score(arrLike['score'])
-
-def get_new_id(arrLike,contest):
-    id=arrLike['id']
-    # idx = id.find(',')
-    # if idx==-1:
-    #     return contest+'_'+id
-    # else:
-    #     return contest+'_'+id[:idx]
-    return contest+'_'+id
-
-def process_id(rows,contest_name):
+def process_id(rows,contest_name):   #爬下来的数据只有字母，该函数加上题号，如F ->  agc004_F
     for lst in rows:
         lst[0]=contest_name+lst[0][0]
     print('新的ID,eg.  agc004_F')
     print(rows)
     return rows
 
-def check_validation(rows):
+def check_validation(rows):  #有些比赛一题有两问，处理起来比较麻烦，则不取这些比赛
     for lst in rows:
         if '(' in lst[1]:
             return False
@@ -113,45 +64,7 @@ def get_difficulty(contest_name):
         csvwriter.writerows(rows)
     return True
 
-def get_diff_lvl(arrLike):
-    s=arrLike['score']
-    if s<600: return 'A'
-    elif s<1000: return 'B'
-    elif s<1400: return 'C'
-    else: return 'D'
 
-
-def modify_id(arrLike):
-    id=arrLike['id']
-    idx = id.find(',')
-    if idx == -1:
-        return id
-    else:
-        return id[:idx]
-
-def get_chosen_pro_info():
-    data = pd.read_csv("chosen_page_Nums.csv")
-
-    contest_series = data.id
-    # for i, v in contest_series.items():
-    #     id.append(v + '_A')
-    #     id.append(v + '_B')
-    #     id.append(v + '_C')
-    #     id.append(v + '_D')
-    #     id.append(v + '_E')
-    #     id.append(v + '_F')
-    # my_dict = {'id': id}
-    # df = DataFrame(my_dict)
-    df1=DataFrame({'id':[]})
-    for i,v in contest_series.items():
-        df2=pd.read_csv("contests\\"+v+"\\pro_score_modify.csv")
-        df2['id']=df2.apply(modify_id,axis=1)
-        df1=pd.merge(df1,df2,how='outer')
-    print(df1)
-    df1['difficulty_level']=df1.apply(get_diff_lvl,axis=1)
-    df1=df1.set_index('id')
-    print(df1)
-    df1.to_csv("pro.csv",index=True)
 
 if __name__=="__main__":
     contests=[]
@@ -161,40 +74,13 @@ if __name__=="__main__":
         if i==42: continue #042没有这场比赛
         contests.append("agc0"+str(i))  #010-041 043-046
 
-    #contests=['agc022']
-
     chosen_contests=[]
     #获取题目难度，如果不带括号，则加入chosen_contests中，并且新建contests\\agc004\\score_agc004.csv，属性为id(带比赛的编号),score
     for contest_name in contests:
         print()
         if get_difficulty(contest_name):
+            #每场比赛6题，但是比赛期间提交记录最多可上万，所以尽可能选取提交记录较少的比赛，同时选取每道题分值均固定的比赛
             chosen_contests.append(chosen_contests)
         else:
             print(contest_name+'不符合条件')
     print(chosen_contests)
-
-
-
-
-    #创建pro_with_difficulty.csv,根据情况划分难度
-
-    #提高准确率： 换特征值 限制深度 改变难度划分 多些数据 分题型计算准确率
-
-
-    #get_total_page_Nums(contests)  #获取全部比赛的页数   page_Nums.csv
-
-
-
-
-    # get_chosen_page_Nums()  #页数从小到大排序，获取前18场比赛      chosen_page_Nums.csv
-    # #选定的比赛的题目分数及相应难度
-    # data = pd.read_csv("chosen_page_Nums.csv")
-    # contest_series=data.id
-    # for i,contest in contest_series.items():
-    #     print(contest)
-    #     path="contests\\"+contest
-    #     if not os.path.exists(path):
-    #         os.mkdir(path)
-    #     #选定的比赛的题目的分数
-    #     #get_difficulty(contest) #选定的比赛的题目的难度
-    # get_chosen_pro_info()  #选定的比赛的题目id,modify_score,difficulty_level

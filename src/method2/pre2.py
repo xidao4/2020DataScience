@@ -15,6 +15,7 @@ def get_pro(contests):
 if __name__=='__main__':
 
     #contests=[3,6,9,10,13,14,15,16,18,23,24,25,26,31,32,36,37,38,40,44,45,46]
+    #pre1.py选出的18场比赛
     contests = [3, 6, 9, 10, 13, 14, 15, 16, 18, 23, 26, 32, 36, 37, 40, 44, 45, 46]
     for i in range(len(contests)):
         if len(str(contests[i]))==1:
@@ -22,6 +23,6 @@ if __name__=='__main__':
         else:
             contests[i]='agc0'+str(contests[i])
     print(contests)
-    print(len(contests))
+    print(len(contests))#18
 
     get_pro(contests)
