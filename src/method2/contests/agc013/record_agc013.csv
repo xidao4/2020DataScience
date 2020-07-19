@@ -1,0 +1,3333 @@
+submit_time,task,user,score,status
+2017-04-15 23:29:58+0900,C - Ants on a Circle,redboltz,0,TLE
+2017-04-15 23:29:57+0900,B - Hamiltonish Path,fushime2,0,WA
+2017-04-15 23:29:56+0900,C - Ants on a Circle,TryMyEdge,0,WA
+2017-04-15 23:29:56+0900,C - Ants on a Circle,tinumukiti631,0,RE
+2017-04-15 23:29:53+0900,C - Ants on a Circle,Tabasz,700,AC
+2017-04-15 23:29:53+0900,C - Ants on a Circle,apiad,0,RE
+2017-04-15 23:29:49+0900,C - Ants on a Circle,funcsr,0,RE
+2017-04-15 23:29:49+0900,C - Ants on a Circle,zhan8855,0,WA
+2017-04-15 23:29:49+0900,D - Piling Up,furuya1223,0,WA
+2017-04-15 23:29:47+0900,A - Sorted Arrays,mechanicalpenciI,0,WA
+2017-04-15 23:29:46+0900,D - Piling Up,tsniper1237,0,WA
+2017-04-15 23:29:45+0900,C - Ants on a Circle,masakt,0,WA
+2017-04-15 23:29:44+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 23:29:44+0900,C - Ants on a Circle,kawabys,0,RE
+2017-04-15 23:29:43+0900,C - Ants on a Circle,zazaboon,0,RE
+2017-04-15 23:29:41+0900,C - Ants on a Circle,akarin55,0,WA
+2017-04-15 23:29:41+0900,A - Sorted Arrays,lofu_imgkr,300,AC
+2017-04-15 23:29:38+0900,C - Ants on a Circle,JKJeong,0,WA
+2017-04-15 23:29:38+0900,B - Hamiltonish Path,ujzwt4it,0,RE
+2017-04-15 23:29:36+0900,B - Hamiltonish Path,shi2chuan1,0,WA
+2017-04-15 23:29:34+0900,B - Hamiltonish Path,EndlessSora,0,WA
+2017-04-15 23:29:31+0900,C - Ants on a Circle,jasamdobro,0,TLE
+2017-04-15 23:29:31+0900,C - Ants on a Circle,utdotk,0,CE
+2017-04-15 23:29:30+0900,C - Ants on a Circle,takkii,0,WA
+2017-04-15 23:29:28+0900,E - Placing Squares,NASU41,0,RE
+2017-04-15 23:29:27+0900,A - Sorted Arrays,annzi,300,AC
+2017-04-15 23:29:24+0900,C - Ants on a Circle,zazaboon,0,RE
+2017-04-15 23:29:22+0900,A - Sorted Arrays,krzysiek27,0,RE
+2017-04-15 23:29:21+0900,B - Hamiltonish Path,kosakkun,0,WA
+2017-04-15 23:29:17+0900,B - Hamiltonish Path,hoxosh,0,TLE
+2017-04-15 23:29:17+0900,C - Ants on a Circle,JKJeong,0,WA
+2017-04-15 23:29:16+0900,B - Hamiltonish Path,Yoga,0,CE
+2017-04-15 23:29:14+0900,C - Ants on a Circle,satanic0258,0,WA
+2017-04-15 23:29:14+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 23:29:12+0900,C - Ants on a Circle,tuna_roll,0,WA
+2017-04-15 23:29:11+0900,B - Hamiltonish Path,tsuneo,0,RE
+2017-04-15 23:29:11+0900,B - Hamiltonish Path,estelle0500,0,RE
+2017-04-15 23:28:58+0900,C - Ants on a Circle,Mikester,0,WA
+2017-04-15 23:28:56+0900,D - Piling Up,krzysiek27,0,WA
+2017-04-15 23:28:56+0900,C - Ants on a Circle,freeloop,0,RE
+2017-04-15 23:28:52+0900,C - Ants on a Circle,zhan8855,0,WA
+2017-04-15 23:28:51+0900,C - Ants on a Circle,TryMyEdge,0,WA
+2017-04-15 23:28:48+0900,A - Sorted Arrays,jasamdobro,0,RE
+2017-04-15 23:28:46+0900,C - Ants on a Circle,apiad,0,RE
+2017-04-15 23:28:45+0900,C - Ants on a Circle,tloinuy,0,WA
+2017-04-15 23:28:43+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 23:28:42+0900,B - Hamiltonish Path,sadtomato,0,RE
+2017-04-15 23:28:39+0900,C - Ants on a Circle,npz35,0,WA
+2017-04-15 23:28:37+0900,B - Hamiltonish Path,SmallSir,0,WA
+2017-04-15 23:28:32+0900,A - Sorted Arrays,sniose,300,AC
+2017-04-15 23:28:30+0900,C - Ants on a Circle,hoxosh,0,WA
+2017-04-15 23:28:28+0900,C - Ants on a Circle,plasmaeffect,0,WA
+2017-04-15 23:28:26+0900,C - Ants on a Circle,masakt,0,WA
+2017-04-15 23:28:26+0900,D - Piling Up,hamayanhamayan,0,WA
+2017-04-15 23:28:23+0900,C - Ants on a Circle,JKJeong,0,WA
+2017-04-15 23:28:20+0900,D - Piling Up,ei13333,0,MLE
+2017-04-15 23:28:15+0900,C - Ants on a Circle,nannany,0,RE
+2017-04-15 23:28:13+0900,A - Sorted Arrays,flamee,0,WA
+2017-04-15 23:28:10+0900,B - Hamiltonish Path,kwkm0429,0,WA
+2017-04-15 23:28:09+0900,C - Ants on a Circle,tzhuan,0,WA
+2017-04-15 23:28:07+0900,C - Ants on a Circle,abisheka,0,WA
+2017-04-15 23:28:06+0900,C - Ants on a Circle,Hoi_koro,700,AC
+2017-04-15 23:27:57+0900,B - Hamiltonish Path,claw88,0,TLE
+2017-04-15 23:27:55+0900,C - Ants on a Circle,plasmaeffect,0,CE
+2017-04-15 23:27:55+0900,C - Ants on a Circle,hiromi_ayase,0,RE
+2017-04-15 23:27:52+0900,A - Sorted Arrays,Yang33,300,AC
+2017-04-15 23:27:46+0900,B - Hamiltonish Path,simanto,0,WA
+2017-04-15 23:27:45+0900,B - Hamiltonish Path,tanutarou,0,TLE
+2017-04-15 23:27:39+0900,C - Ants on a Circle,kamelong,0,WA
+2017-04-15 23:27:36+0900,C - Ants on a Circle,akarin55,0,WA
+2017-04-15 23:27:36+0900,C - Ants on a Circle,Hec,700,AC
+2017-04-15 23:27:35+0900,B - Hamiltonish Path,sadtomato,0,RE
+2017-04-15 23:27:31+0900,B - Hamiltonish Path,kosakkun,0,WA
+2017-04-15 23:27:30+0900,B - Hamiltonish Path,llll_,0,RE
+2017-04-15 23:27:24+0900,A - Sorted Arrays,iaur64,0,RE
+2017-04-15 23:27:16+0900,A - Sorted Arrays,sniose,300,AC
+2017-04-15 23:27:09+0900,C - Ants on a Circle,tloinuy,0,WA
+2017-04-15 23:27:08+0900,A - Sorted Arrays,petrouchka,0,WA
+2017-04-15 23:27:07+0900,A - Sorted Arrays,ShinjiSHIBATA,0,WA
+2017-04-15 23:27:06+0900,C - Ants on a Circle,hoxosh,0,WA
+2017-04-15 23:27:04+0900,B - Hamiltonish Path,yoshi78,0,WA
+2017-04-15 23:27:03+0900,E - Placing Squares,uwi,1600,AC
+2017-04-15 23:27:02+0900,C - Ants on a Circle,zhan8855,0,WA
+2017-04-15 23:27:01+0900,B - Hamiltonish Path,ujzwt4it,0,WA
+2017-04-15 23:26:50+0900,B - Hamiltonish Path,sadtomato,0,RE
+2017-04-15 23:26:50+0900,D - Piling Up,fanache99,900,AC
+2017-04-15 23:26:35+0900,B - Hamiltonish Path,simanto,0,WA
+2017-04-15 23:26:29+0900,A - Sorted Arrays,kensuke,0,WA
+2017-04-15 23:26:27+0900,A - Sorted Arrays,pandachan,0,WA
+2017-04-15 23:26:18+0900,C - Ants on a Circle,spica314,700,AC
+2017-04-15 23:26:16+0900,D - Piling Up,mjy0724,0,WA
+2017-04-15 23:26:16+0900,C - Ants on a Circle,ion,0,RE
+2017-04-15 23:26:13+0900,B - Hamiltonish Path,SmallSir,0,WA
+2017-04-15 23:26:09+0900,C - Ants on a Circle,takkii,0,WA
+2017-04-15 23:26:06+0900,A - Sorted Arrays,annzi,0,WA
+2017-04-15 23:26:06+0900,B - Hamiltonish Path,youki,0,RE
+2017-04-15 23:26:05+0900,C - Ants on a Circle,Hoi_koro,0,WA
+2017-04-15 23:25:59+0900,C - Ants on a Circle,guroota,0,WA
+2017-04-15 23:25:52+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 23:25:50+0900,B - Hamiltonish Path,noteton,0,WA
+2017-04-15 23:25:42+0900,C - Ants on a Circle,suginamiku,0,RE
+2017-04-15 23:25:40+0900,C - Ants on a Circle,pekempey,0,WA
+2017-04-15 23:25:34+0900,C - Ants on a Circle,Hoi_koro,0,CE
+2017-04-15 23:25:32+0900,B - Hamiltonish Path,tsutaj,0,WA
+2017-04-15 23:25:17+0900,C - Ants on a Circle,Motarack,0,WA
+2017-04-15 23:25:16+0900,A - Sorted Arrays,sdub,0,WA
+2017-04-15 23:25:14+0900,B - Hamiltonish Path,youki,0,RE
+2017-04-15 23:25:12+0900,A - Sorted Arrays,sniose,0,WA
+2017-04-15 23:25:08+0900,C - Ants on a Circle,m_buyoh,0,WA
+2017-04-15 23:25:07+0900,C - Ants on a Circle,iscsi,0,WA
+2017-04-15 23:25:06+0900,A - Sorted Arrays,flamee,0,WA
+2017-04-15 23:24:56+0900,C - Ants on a Circle,jasamdobro,0,TLE
+2017-04-15 23:24:56+0900,C - Ants on a Circle,kamelong,0,WA
+2017-04-15 23:24:56+0900,B - Hamiltonish Path,youki,0,RE
+2017-04-15 23:24:49+0900,C - Ants on a Circle,eha,0,RE
+2017-04-15 23:24:46+0900,C - Ants on a Circle,pavelsavchenkov,700,AC
+2017-04-15 23:24:45+0900,B - Hamiltonish Path,tsuneo,0,RE
+2017-04-15 23:24:43+0900,B - Hamiltonish Path,sopurani885,0,TLE
+2017-04-15 23:24:42+0900,B - Hamiltonish Path,alex99,0,WA
+2017-04-15 23:24:36+0900,B - Hamiltonish Path,SmallSir,0,WA
+2017-04-15 23:24:35+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 23:24:32+0900,B - Hamiltonish Path,stihahi,0,WA
+2017-04-15 23:24:31+0900,B - Hamiltonish Path,youki,0,CE
+2017-04-15 23:24:29+0900,A - Sorted Arrays,delta71,300,AC
+2017-04-15 23:24:28+0900,C - Ants on a Circle,zhan8855,0,WA
+2017-04-15 23:24:26+0900,D - Piling Up,kmjp,0,TLE
+2017-04-15 23:24:25+0900,B - Hamiltonish Path,yoshi78,0,WA
+2017-04-15 23:24:24+0900,C - Ants on a Circle,ion,0,RE
+2017-04-15 23:24:22+0900,C - Ants on a Circle,mcalancea,0,WA
+2017-04-15 23:24:21+0900,B - Hamiltonish Path,tsutaj,0,WA
+2017-04-15 23:24:20+0900,A - Sorted Arrays,s1230006,0,WA
+2017-04-15 23:24:13+0900,C - Ants on a Circle,iscsi,0,WA
+2017-04-15 23:24:12+0900,C - Ants on a Circle,myanta,0,WA
+2017-04-15 23:24:04+0900,C - Ants on a Circle,apiad,0,RE
+2017-04-15 23:24:02+0900,A - Sorted Arrays,flamee,0,RE
+2017-04-15 23:24:02+0900,B - Hamiltonish Path,frnfnts,500,AC
+2017-04-15 23:24:01+0900,C - Ants on a Circle,suginamiku,0,RE
+2017-04-15 23:24:00+0900,C - Ants on a Circle,JKJeong,0,WA
+2017-04-15 23:23:55+0900,B - Hamiltonish Path,IDoNotKnow,0,WA
+2017-04-15 23:23:53+0900,C - Ants on a Circle,Power730,0,TLE
+2017-04-15 23:23:52+0900,B - Hamiltonish Path,noconocolib,0,WA
+2017-04-15 23:23:51+0900,B - Hamiltonish Path,yoshi78,0,WA
+2017-04-15 23:23:42+0900,B - Hamiltonish Path,DingChao,0,RE
+2017-04-15 23:23:42+0900,C - Ants on a Circle,Hec,0,WA
+2017-04-15 23:23:24+0900,A - Sorted Arrays,kensuke,0,WA
+2017-04-15 23:23:23+0900,C - Ants on a Circle,hoxosh,0,WA
+2017-04-15 23:23:22+0900,B - Hamiltonish Path,niwatolli3,0,TLE
+2017-04-15 23:23:18+0900,C - Ants on a Circle,Sryo7809,0,WA
+2017-04-15 23:23:18+0900,C - Ants on a Circle,pavelsavchenkov,0,RE
+2017-04-15 23:23:17+0900,C - Ants on a Circle,mechanicalpenciI,0,WA
+2017-04-15 23:23:13+0900,A - Sorted Arrays,flamee,0,CE
+2017-04-15 23:23:11+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 23:23:10+0900,A - Sorted Arrays,kurowassann,300,AC
+2017-04-15 23:23:08+0900,B - Hamiltonish Path,tsutaj,0,WA
+2017-04-15 23:23:01+0900,B - Hamiltonish Path,hoxosh,0,TLE
+2017-04-15 23:23:01+0900,E - Placing Squares,Petr,1600,AC
+2017-04-15 23:22:57+0900,D - Piling Up,ryoissy,0,WA
+2017-04-15 23:22:54+0900,A - Sorted Arrays,Yang33,0,WA
+2017-04-15 23:22:50+0900,B - Hamiltonish Path,youki,0,RE
+2017-04-15 23:22:49+0900,B - Hamiltonish Path,ujzwt4it,0,WA
+2017-04-15 23:22:45+0900,C - Ants on a Circle,Hec,0,WA
+2017-04-15 23:22:45+0900,B - Hamiltonish Path,fushime2,0,RE
+2017-04-15 23:22:40+0900,B - Hamiltonish Path,yuki_,0,RE
+2017-04-15 23:22:40+0900,C - Ants on a Circle,MikeZ,700,AC
+2017-04-15 23:22:40+0900,C - Ants on a Circle,claw88,0,WA
+2017-04-15 23:22:35+0900,C - Ants on a Circle,zhan8855,0,WA
+2017-04-15 23:22:34+0900,A - Sorted Arrays,sdub,0,WA
+2017-04-15 23:22:31+0900,A - Sorted Arrays,syk,300,AC
+2017-04-15 23:22:30+0900,A - Sorted Arrays,s1230006,0,WA
+2017-04-15 23:22:29+0900,C - Ants on a Circle,supercomputerjoi,0,WA
+2017-04-15 23:22:21+0900,A - Sorted Arrays,hoimy,0,WA
+2017-04-15 23:22:19+0900,C - Ants on a Circle,qijew,0,WA
+2017-04-15 23:22:19+0900,A - Sorted Arrays,iaur64,0,RE
+2017-04-15 23:22:18+0900,A - Sorted Arrays,toricor,0,WA
+2017-04-15 23:22:09+0900,B - Hamiltonish Path,sopurani885,0,WA
+2017-04-15 23:22:02+0900,B - Hamiltonish Path,DingChao,0,RE
+2017-04-15 23:22:02+0900,A - Sorted Arrays,ant2357,0,WA
+2017-04-15 23:22:00+0900,C - Ants on a Circle,CrazyBBB,700,AC
+2017-04-15 23:21:57+0900,C - Ants on a Circle,joisino,0,WA
+2017-04-15 23:21:57+0900,C - Ants on a Circle,spica314,0,WA
+2017-04-15 23:21:55+0900,B - Hamiltonish Path,ujzwt4it,0,RE
+2017-04-15 23:21:52+0900,C - Ants on a Circle,eiya,700,AC
+2017-04-15 23:21:51+0900,B - Hamiltonish Path,stihahi,0,WA
+2017-04-15 23:21:51+0900,B - Hamiltonish Path,niwatolli3,0,TLE
+2017-04-15 23:21:45+0900,A - Sorted Arrays,DingChao,0,RE
+2017-04-15 23:21:42+0900,D - Piling Up,fanache99,0,WA
+2017-04-15 23:21:42+0900,A - Sorted Arrays,flamee,0,WA
+2017-04-15 23:21:41+0900,B - Hamiltonish Path,peroon,0,WA
+2017-04-15 23:21:38+0900,B - Hamiltonish Path,yukim,500,AC
+2017-04-15 23:21:38+0900,C - Ants on a Circle,TryMyEdge,0,WA
+2017-04-15 23:21:33+0900,C - Ants on a Circle,t8m8,0,RE
+2017-04-15 23:21:30+0900,B - Hamiltonish Path,noconocolib,0,WA
+2017-04-15 23:21:24+0900,B - Hamiltonish Path,yuki_,0,CE
+2017-04-15 23:21:21+0900,A - Sorted Arrays,DingChao,0,RE
+2017-04-15 23:21:18+0900,C - Ants on a Circle,sugarrr,0,WA
+2017-04-15 23:21:16+0900,A - Sorted Arrays,hsoccer,0,WA
+2017-04-15 23:21:15+0900,C - Ants on a Circle,iica,700,AC
+2017-04-15 23:21:12+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 23:21:11+0900,D - Piling Up,Tabasz,900,AC
+2017-04-15 23:21:09+0900,B - Hamiltonish Path,takeo1116,0,TLE
+2017-04-15 23:21:06+0900,B - Hamiltonish Path,stni,500,AC
+2017-04-15 23:21:03+0900,E - Placing Squares,sigma425,1600,AC
+2017-04-15 23:21:02+0900,C - Ants on a Circle,abc050,0,RE
+2017-04-15 23:20:58+0900,B - Hamiltonish Path,miki,0,WA
+2017-04-15 23:20:54+0900,B - Hamiltonish Path,mmxsrup,0,WA
+2017-04-15 23:20:51+0900,C - Ants on a Circle,mrMaster,0,WA
+2017-04-15 23:20:50+0900,C - Ants on a Circle,miyajiro,0,WA
+2017-04-15 23:20:45+0900,B - Hamiltonish Path,takeo1116,0,RE
+2017-04-15 23:20:38+0900,A - Sorted Arrays,Skyler_,300,AC
+2017-04-15 23:20:35+0900,C - Ants on a Circle,mcalancea,0,WA
+2017-04-15 23:20:32+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 23:20:31+0900,B - Hamiltonish Path,RockyB,0,WA
+2017-04-15 23:20:26+0900,B - Hamiltonish Path,fine,0,WA
+2017-04-15 23:20:21+0900,C - Ants on a Circle,pavelsavchenkov,0,WA
+2017-04-15 23:20:15+0900,C - Ants on a Circle,iscsi,0,WA
+2017-04-15 23:20:13+0900,A - Sorted Arrays,do2424,0,WA
+2017-04-15 23:20:11+0900,B - Hamiltonish Path,noconocolib,0,WA
+2017-04-15 23:20:08+0900,C - Ants on a Circle,conf,0,WA
+2017-04-15 23:20:08+0900,C - Ants on a Circle,takkii,0,RE
+2017-04-15 23:20:07+0900,C - Ants on a Circle,eiya,0,RE
+2017-04-15 23:20:06+0900,A - Sorted Arrays,schwarzahl,0,RE
+2017-04-15 23:20:02+0900,E - Placing Squares,geniucos,1600,AC
+2017-04-15 23:20:00+0900,B - Hamiltonish Path,mmxsrup,0,WA
+2017-04-15 23:19:57+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 23:19:54+0900,C - Ants on a Circle,guangxuan,700,AC
+2017-04-15 23:19:47+0900,C - Ants on a Circle,iaur64,0,RE
+2017-04-15 23:19:45+0900,C - Ants on a Circle,pavelsavchenkov,0,WA
+2017-04-15 23:19:40+0900,C - Ants on a Circle,TryMyEdge,0,WA
+2017-04-15 23:19:39+0900,C - Ants on a Circle,drafear,700,AC
+2017-04-15 23:19:39+0900,C - Ants on a Circle,MikeZ,0,WA
+2017-04-15 23:19:38+0900,B - Hamiltonish Path,v9fly,500,AC
+2017-04-15 23:19:32+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 23:19:30+0900,C - Ants on a Circle,MikeZ,0,WA
+2017-04-15 23:19:29+0900,A - Sorted Arrays,s1230006,0,WA
+2017-04-15 23:19:28+0900,B - Hamiltonish Path,kosakkun,0,WA
+2017-04-15 23:19:27+0900,C - Ants on a Circle,swm_sxt,700,AC
+2017-04-15 23:19:26+0900,C - Ants on a Circle,tloinuy,0,WA
+2017-04-15 23:19:03+0900,C - Ants on a Circle,pavelsavchenkov,0,WA
+2017-04-15 23:18:59+0900,C - Ants on a Circle,iscsi,0,WA
+2017-04-15 23:18:55+0900,A - Sorted Arrays,bhza8987510,300,AC
+2017-04-15 23:18:52+0900,C - Ants on a Circle,TryMyEdge,0,WA
+2017-04-15 23:18:52+0900,B - Hamiltonish Path,takeo1116,0,WA
+2017-04-15 23:18:51+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 23:18:49+0900,C - Ants on a Circle,mm14,0,TLE
+2017-04-15 23:18:41+0900,C - Ants on a Circle,masafumi,0,WA
+2017-04-15 23:18:40+0900,C - Ants on a Circle,wxh010910,700,AC
+2017-04-15 23:18:32+0900,B - Hamiltonish Path,kosakkun,0,WA
+2017-04-15 23:18:31+0900,C - Ants on a Circle,akouryy,0,WA
+2017-04-15 23:18:28+0900,C - Ants on a Circle,zazaboon,0,RE
+2017-04-15 23:18:23+0900,B - Hamiltonish Path,takeo1116,0,RE
+2017-04-15 23:18:22+0900,C - Ants on a Circle,bakanaouji,0,WA
+2017-04-15 23:18:20+0900,D - Piling Up,kawatea,900,AC
+2017-04-15 23:18:19+0900,B - Hamiltonish Path,shi2chuan1,0,WA
+2017-04-15 23:18:19+0900,C - Ants on a Circle,Sryo7809,0,WA
+2017-04-15 23:18:14+0900,C - Ants on a Circle,guangxuan,0,RE
+2017-04-15 23:18:13+0900,B - Hamiltonish Path,OccccccuPie,0,WA
+2017-04-15 23:18:13+0900,B - Hamiltonish Path,OccccccuPie,0,WA
+2017-04-15 23:18:03+0900,C - Ants on a Circle,masakt,0,WA
+2017-04-15 23:18:02+0900,D - Piling Up,piroz95,0,TLE
+2017-04-15 23:17:58+0900,B - Hamiltonish Path,yukim,0,WA
+2017-04-15 23:17:54+0900,B - Hamiltonish Path,albicilla,0,RE
+2017-04-15 23:17:54+0900,B - Hamiltonish Path,SmallSir,0,WA
+2017-04-15 23:17:49+0900,B - Hamiltonish Path,DingChao,0,CE
+2017-04-15 23:17:47+0900,C - Ants on a Circle,TAB,0,WA
+2017-04-15 23:17:46+0900,C - Ants on a Circle,Sryo7809,0,CE
+2017-04-15 23:17:30+0900,A - Sorted Arrays,annzi,0,WA
+2017-04-15 23:17:30+0900,C - Ants on a Circle,Fcdkbear,0,WA
+2017-04-15 23:17:28+0900,B - Hamiltonish Path,apiad,500,AC
+2017-04-15 23:17:26+0900,C - Ants on a Circle,ten986,0,WA
+2017-04-15 23:17:26+0900,B - Hamiltonish Path,mmxsrup,0,TLE
+2017-04-15 23:17:26+0900,B - Hamiltonish Path,mmxsrup,0,TLE
+2017-04-15 23:17:23+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 23:17:13+0900,B - Hamiltonish Path,L3Sota,0,TLE
+2017-04-15 23:17:10+0900,C - Ants on a Circle,wxh010910,0,WA
+2017-04-15 23:17:07+0900,C - Ants on a Circle,suginamiku,0,RE
+2017-04-15 23:17:04+0900,C - Ants on a Circle,alecsyde,700,AC
+2017-04-15 23:17:03+0900,C - Ants on a Circle,npz35,0,WA
+2017-04-15 23:17:00+0900,C - Ants on a Circle,naughie,0,WA
+2017-04-15 23:16:59+0900,C - Ants on a Circle,atmos,0,WA
+2017-04-15 23:16:52+0900,A - Sorted Arrays,bhza8987510,0,WA
+2017-04-15 23:16:52+0900,D - Piling Up,TangentDay,0,WA
+2017-04-15 23:16:50+0900,C - Ants on a Circle,swm_sxt,0,WA
+2017-04-15 23:16:49+0900,C - Ants on a Circle,CrazyBBB,0,WA
+2017-04-15 23:16:43+0900,E - Placing Squares,uwi,0,WA
+2017-04-15 23:16:42+0900,B - Hamiltonish Path,noy72,0,WA
+2017-04-15 23:16:42+0900,C - Ants on a Circle,mcalancea,0,WA
+2017-04-15 23:16:39+0900,B - Hamiltonish Path,DingChao,0,CE
+2017-04-15 23:16:37+0900,C - Ants on a Circle,shiitake,0,WA
+2017-04-15 23:16:35+0900,B - Hamiltonish Path,IDoNotKnow,0,WA
+2017-04-15 23:16:34+0900,C - Ants on a Circle,ats5515,0,WA
+2017-04-15 23:16:29+0900,C - Ants on a Circle,t8m8,0,RE
+2017-04-15 23:16:25+0900,B - Hamiltonish Path,Tyler,0,RE
+2017-04-15 23:16:18+0900,B - Hamiltonish Path,stihahi,0,WA
+2017-04-15 23:16:13+0900,C - Ants on a Circle,Victor_Lee,700,AC
+2017-04-15 23:16:10+0900,C - Ants on a Circle,tloinuy,0,WA
+2017-04-15 23:16:06+0900,C - Ants on a Circle,Hec,0,WA
+2017-04-15 23:16:05+0900,C - Ants on a Circle,schwarzahl,0,WA
+2017-04-15 23:16:02+0900,C - Ants on a Circle,tossy,700,AC
+2017-04-15 23:16:01+0900,A - Sorted Arrays,hippopmonkey,300,AC
+2017-04-15 23:16:01+0900,C - Ants on a Circle,logicmachine,0,WA
+2017-04-15 23:16:00+0900,B - Hamiltonish Path,Tiger,500,AC
+2017-04-15 23:15:57+0900,A - Sorted Arrays,noteton,300,AC
+2017-04-15 23:15:50+0900,A - Sorted Arrays,Skyler_,0,TLE
+2017-04-15 23:15:31+0900,C - Ants on a Circle,abc050,0,RE
+2017-04-15 23:15:26+0900,B - Hamiltonish Path,tsutaj,0,WA
+2017-04-15 23:15:22+0900,C - Ants on a Circle,Hoi_koro,0,WA
+2017-04-15 23:15:21+0900,B - Hamiltonish Path,mmxsrup,0,TLE
+2017-04-15 23:15:13+0900,A - Sorted Arrays,ShinjiSHIBATA,0,WA
+2017-04-15 23:15:09+0900,C - Ants on a Circle,TryMyEdge,0,WA
+2017-04-15 23:15:07+0900,C - Ants on a Circle,mcalancea,0,WA
+2017-04-15 23:15:07+0900,C - Ants on a Circle,ChopsticksAN,0,WA
+2017-04-15 23:15:05+0900,C - Ants on a Circle,logicmachine,0,RE
+2017-04-15 23:15:02+0900,C - Ants on a Circle,mm14,0,TLE
+2017-04-15 23:14:58+0900,C - Ants on a Circle,JKJeong,0,WA
+2017-04-15 23:14:56+0900,D - Piling Up,Nson,0,WA
+2017-04-15 23:14:54+0900,E - Placing Squares,Petr,0,MLE
+2017-04-15 23:14:40+0900,A - Sorted Arrays,pandachan,0,WA
+2017-04-15 23:14:40+0900,C - Ants on a Circle,logicmachine,0,RE
+2017-04-15 23:14:39+0900,C - Ants on a Circle,MikeZ,0,WA
+2017-04-15 23:14:38+0900,C - Ants on a Circle,ngkan146,0,RE
+2017-04-15 23:14:36+0900,B - Hamiltonish Path,noconocolib,0,WA
+2017-04-15 23:14:27+0900,B - Hamiltonish Path,stihahi,0,WA
+2017-04-15 23:14:24+0900,C - Ants on a Circle,iica,0,WA
+2017-04-15 23:14:21+0900,A - Sorted Arrays,kumaanba,300,AC
+2017-04-15 23:14:14+0900,C - Ants on a Circle,spica314,0,WA
+2017-04-15 23:14:14+0900,C - Ants on a Circle,Hoi_koro,0,WA
+2017-04-15 23:14:11+0900,B - Hamiltonish Path,fushime2,0,RE
+2017-04-15 23:14:07+0900,C - Ants on a Circle,WA_TLE,0,WA
+2017-04-15 23:14:05+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 23:14:05+0900,C - Ants on a Circle,logicmachine,0,RE
+2017-04-15 23:14:02+0900,A - Sorted Arrays,Skyler_,0,TLE
+2017-04-15 23:14:02+0900,C - Ants on a Circle,mcalancea,0,WA
+2017-04-15 23:14:00+0900,C - Ants on a Circle,zazaboon,0,RE
+2017-04-15 23:13:58+0900,C - Ants on a Circle,drafear,0,WA
+2017-04-15 23:13:58+0900,C - Ants on a Circle,eiya,0,WA
+2017-04-15 23:13:26+0900,A - Sorted Arrays,danthespaceman,300,AC
+2017-04-15 23:13:26+0900,B - Hamiltonish Path,noy72,0,WA
+2017-04-15 23:13:05+0900,B - Hamiltonish Path,furuya1223,500,AC
+2017-04-15 23:13:05+0900,C - Ants on a Circle,yukim,700,AC
+2017-04-15 23:13:01+0900,B - Hamiltonish Path,tanutarou,0,TLE
+2017-04-15 23:12:58+0900,C - Ants on a Circle,tuna_roll,0,TLE
+2017-04-15 23:12:56+0900,C - Ants on a Circle,npz35,0,TLE
+2017-04-15 23:12:51+0900,C - Ants on a Circle,logicmachine,0,WA
+2017-04-15 23:12:49+0900,B - Hamiltonish Path,noy72,0,CE
+2017-04-15 23:12:46+0900,C - Ants on a Circle,swm_sxt,0,WA
+2017-04-15 23:12:40+0900,B - Hamiltonish Path,chahan69,500,AC
+2017-04-15 23:12:40+0900,B - Hamiltonish Path,ZZZZone,0,WA
+2017-04-15 23:12:38+0900,C - Ants on a Circle,pkMZ75105,0,WA
+2017-04-15 23:12:33+0900,B - Hamiltonish Path,hoxosh,0,TLE
+2017-04-15 23:12:22+0900,B - Hamiltonish Path,v9fly,0,RE
+2017-04-15 23:12:21+0900,C - Ants on a Circle,TryMyEdge,0,WA
+2017-04-15 23:12:19+0900,B - Hamiltonish Path,furuya1223,0,WA
+2017-04-15 23:12:16+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 23:12:15+0900,C - Ants on a Circle,t8m8,0,RE
+2017-04-15 23:12:14+0900,C - Ants on a Circle,pwypeanut,700,AC
+2017-04-15 23:11:57+0900,D - Piling Up,mtsd,0,WA
+2017-04-15 23:11:50+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 23:11:50+0900,F - Two Faced Cards,apiad,2000,AC
+2017-04-15 23:11:49+0900,C - Ants on a Circle,iscsi,0,WA
+2017-04-15 23:11:46+0900,C - Ants on a Circle,zerokugi,0,WA
+2017-04-15 23:11:45+0900,A - Sorted Arrays,kumaanba,0,WA
+2017-04-15 23:11:45+0900,C - Ants on a Circle,olphe,0,WA
+2017-04-15 23:11:44+0900,C - Ants on a Circle,ats5515,0,WA
+2017-04-15 23:11:42+0900,C - Ants on a Circle,conf,0,WA
+2017-04-15 23:11:41+0900,B - Hamiltonish Path,balakrishnan_v,500,AC
+2017-04-15 23:11:38+0900,A - Sorted Arrays,raduleonardo,0,WA
+2017-04-15 23:11:38+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 23:11:37+0900,A - Sorted Arrays,noteton,0,WA
+2017-04-15 23:11:30+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 23:11:27+0900,C - Ants on a Circle,iica,0,WA
+2017-04-15 23:11:21+0900,C - Ants on a Circle,mcalancea,0,WA
+2017-04-15 23:11:19+0900,C - Ants on a Circle,KingArthur,0,WA
+2017-04-15 23:11:17+0900,B - Hamiltonish Path,lazel,0,WA
+2017-04-15 23:11:11+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 23:11:01+0900,C - Ants on a Circle,TryMyEdge,0,WA
+2017-04-15 23:10:58+0900,B - Hamiltonish Path,shiro46,500,AC
+2017-04-15 23:10:57+0900,A - Sorted Arrays,Yang33,0,WA
+2017-04-15 23:10:56+0900,B - Hamiltonish Path,stni,0,TLE
+2017-04-15 23:10:45+0900,C - Ants on a Circle,frank_c1,0,WA
+2017-04-15 23:10:43+0900,B - Hamiltonish Path,stihahi,0,WA
+2017-04-15 23:10:39+0900,C - Ants on a Circle,Charming_Chen,700,AC
+2017-04-15 23:10:33+0900,B - Hamiltonish Path,noconocolib,0,WA
+2017-04-15 23:10:31+0900,C - Ants on a Circle,schwarzahl,0,RE
+2017-04-15 23:10:18+0900,C - Ants on a Circle,KingArthur,0,WA
+2017-04-15 23:10:16+0900,B - Hamiltonish Path,meg,0,WA
+2017-04-15 23:10:11+0900,C - Ants on a Circle,sate3saku3,0,RE
+2017-04-15 23:10:11+0900,B - Hamiltonish Path,yoshi78,0,RE
+2017-04-15 23:10:10+0900,D - Piling Up,phidnight,900,AC
+2017-04-15 23:10:09+0900,A - Sorted Arrays,LayCurse,300,AC
+2017-04-15 23:10:03+0900,C - Ants on a Circle,TryMyEdge,0,RE
+2017-04-15 23:09:56+0900,C - Ants on a Circle,Whalanator,0,WA
+2017-04-15 23:09:46+0900,C - Ants on a Circle,olphe,0,RE
+2017-04-15 23:09:43+0900,B - Hamiltonish Path,Tiger,0,WA
+2017-04-15 23:09:41+0900,C - Ants on a Circle,MikeZ,0,WA
+2017-04-15 23:09:38+0900,C - Ants on a Circle,IvL,700,AC
+2017-04-15 23:09:33+0900,C - Ants on a Circle,t8m8,0,RE
+2017-04-15 23:09:24+0900,C - Ants on a Circle,conf,0,WA
+2017-04-15 23:09:21+0900,B - Hamiltonish Path,yoshi78,0,CE
+2017-04-15 23:09:19+0900,C - Ants on a Circle,beet,0,WA
+2017-04-15 23:09:18+0900,C - Ants on a Circle,olphe,0,RE
+2017-04-15 23:09:09+0900,B - Hamiltonish Path,kqp,500,AC
+2017-04-15 23:09:05+0900,B - Hamiltonish Path,hoxosh,0,WA
+2017-04-15 23:09:03+0900,E - Placing Squares,sigma425,0,TLE
+2017-04-15 23:09:00+0900,C - Ants on a Circle,gazelle,700,AC
+2017-04-15 23:08:59+0900,C - Ants on a Circle,mechanicalpenciI,0,WA
+2017-04-15 23:08:56+0900,A - Sorted Arrays,bhza8987510,0,WA
+2017-04-15 23:08:55+0900,B - Hamiltonish Path,matsu7874,500,AC
+2017-04-15 23:08:39+0900,C - Ants on a Circle,commy,0,WA
+2017-04-15 23:08:37+0900,A - Sorted Arrays,ksfhajlas,0,WA
+2017-04-15 23:08:37+0900,A - Sorted Arrays,Yang33,0,WA
+2017-04-15 23:08:33+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 23:08:32+0900,A - Sorted Arrays,Nafmo2,0,WA
+2017-04-15 23:08:31+0900,C - Ants on a Circle,lsmll,700,AC
+2017-04-15 23:08:25+0900,C - Ants on a Circle,hank55663,0,WA
+2017-04-15 23:08:24+0900,A - Sorted Arrays,raduleonardo,0,WA
+2017-04-15 23:08:23+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 23:08:21+0900,C - Ants on a Circle,mcalancea,0,WA
+2017-04-15 23:08:20+0900,C - Ants on a Circle,bakanaouji,0,WA
+2017-04-15 23:08:16+0900,C - Ants on a Circle,zerokugi,0,WA
+2017-04-15 23:08:14+0900,A - Sorted Arrays,statiolake,300,AC
+2017-04-15 23:08:13+0900,B - Hamiltonish Path,Yang33,500,AC
+2017-04-15 23:08:08+0900,C - Ants on a Circle,yukim,0,WA
+2017-04-15 23:07:54+0900,C - Ants on a Circle,atatomir,0,WA
+2017-04-15 23:07:51+0900,C - Ants on a Circle,kawamura2001,0,RE
+2017-04-15 23:07:47+0900,C - Ants on a Circle,Yang33,700,AC
+2017-04-15 23:07:42+0900,C - Ants on a Circle,MikeZ,0,WA
+2017-04-15 23:07:41+0900,B - Hamiltonish Path,fushime2,0,RE
+2017-04-15 23:07:35+0900,C - Ants on a Circle,olphe,0,RE
+2017-04-15 23:07:29+0900,C - Ants on a Circle,zerokugi,0,WA
+2017-04-15 23:07:27+0900,A - Sorted Arrays,annzi,0,WA
+2017-04-15 23:07:20+0900,C - Ants on a Circle,abc050,0,RE
+2017-04-15 23:07:13+0900,B - Hamiltonish Path,miki,0,WA
+2017-04-15 23:07:10+0900,B - Hamiltonish Path,yoshi78,0,RE
+2017-04-15 23:07:09+0900,B - Hamiltonish Path,yoshi78,0,RE
+2017-04-15 23:07:08+0900,C - Ants on a Circle,voidmax,700,AC
+2017-04-15 23:07:00+0900,B - Hamiltonish Path,hato_roll,0,WA
+2017-04-15 23:06:53+0900,C - Ants on a Circle,sate3saku3,0,RE
+2017-04-15 23:06:52+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 23:06:46+0900,B - Hamiltonish Path,stihahi,0,WA
+2017-04-15 23:06:40+0900,C - Ants on a Circle,joisino,0,WA
+2017-04-15 23:06:39+0900,C - Ants on a Circle,Yang33,0,WA
+2017-04-15 23:06:34+0900,B - Hamiltonish Path,xchaos,0,WA
+2017-04-15 23:06:32+0900,C - Ants on a Circle,Mikester,0,WA
+2017-04-15 23:06:26+0900,B - Hamiltonish Path,claw88,0,TLE
+2017-04-15 23:06:25+0900,B - Hamiltonish Path,maxi,0,RE
+2017-04-15 23:06:24+0900,A - Sorted Arrays,kensuke,0,WA
+2017-04-15 23:06:24+0900,C - Ants on a Circle,pkMZ75105,0,WA
+2017-04-15 23:06:17+0900,B - Hamiltonish Path,tanutarou,0,TLE
+2017-04-15 23:06:17+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 23:06:16+0900,C - Ants on a Circle,pavelsavchenkov,0,WA
+2017-04-15 23:06:15+0900,C - Ants on a Circle,Motarack,0,WA
+2017-04-15 23:06:12+0900,B - Hamiltonish Path,hato_roll,0,CE
+2017-04-15 23:06:11+0900,B - Hamiltonish Path,obsproth,0,WA
+2017-04-15 23:06:09+0900,C - Ants on a Circle,kyawakyawa,0,WA
+2017-04-15 23:06:00+0900,B - Hamiltonish Path,sopurani885,0,TLE
+2017-04-15 23:05:55+0900,B - Hamiltonish Path,stni,0,TLE
+2017-04-15 23:05:54+0900,A - Sorted Arrays,ksfhajlas,0,WA
+2017-04-15 23:05:53+0900,C - Ants on a Circle,sate3saku3,0,RE
+2017-04-15 23:05:49+0900,B - Hamiltonish Path,hoxosh,0,TLE
+2017-04-15 23:05:47+0900,C - Ants on a Circle,chari,0,WA
+2017-04-15 23:05:34+0900,C - Ants on a Circle,goto,700,AC
+2017-04-15 23:05:28+0900,C - Ants on a Circle,tossy,0,RE
+2017-04-15 23:05:25+0900,C - Ants on a Circle,mm14,0,TLE
+2017-04-15 23:05:23+0900,B - Hamiltonish Path,noconocolib,0,WA
+2017-04-15 23:05:19+0900,B - Hamiltonish Path,maxi,0,RE
+2017-04-15 23:05:15+0900,A - Sorted Arrays,japan4415,0,RE
+2017-04-15 23:05:12+0900,B - Hamiltonish Path,alex99,0,WA
+2017-04-15 23:04:56+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 23:04:49+0900,A - Sorted Arrays,ksfhajlas,0,WA
+2017-04-15 23:04:46+0900,C - Ants on a Circle,akarin55,0,WA
+2017-04-15 23:04:33+0900,C - Ants on a Circle,Yang33,0,WA
+2017-04-15 23:04:29+0900,A - Sorted Arrays,wysmm,300,AC
+2017-04-15 23:04:13+0900,F - Two Faced Cards,apiad,0,WA
+2017-04-15 23:04:10+0900,B - Hamiltonish Path,noconocolib,0,RE
+2017-04-15 23:04:10+0900,C - Ants on a Circle,mjhun,0,WA
+2017-04-15 23:04:08+0900,C - Ants on a Circle,ats5515,0,WA
+2017-04-15 23:04:06+0900,B - Hamiltonish Path,hato_roll,0,WA
+2017-04-15 23:03:59+0900,C - Ants on a Circle,ACforgood,0,WA
+2017-04-15 23:03:58+0900,B - Hamiltonish Path,tanutarou,0,TLE
+2017-04-15 23:03:58+0900,A - Sorted Arrays,logicmachine,0,RE
+2017-04-15 23:03:56+0900,C - Ants on a Circle,olphe,0,RE
+2017-04-15 23:03:54+0900,C - Ants on a Circle,atatomir,0,WA
+2017-04-15 23:03:50+0900,B - Hamiltonish Path,miyagawa,500,AC
+2017-04-15 23:03:49+0900,B - Hamiltonish Path,akshit_1996,500,AC
+2017-04-15 23:03:49+0900,C - Ants on a Circle,schwarzahl,0,WA
+2017-04-15 23:03:48+0900,B - Hamiltonish Path,untan,0,WA
+2017-04-15 23:03:46+0900,C - Ants on a Circle,IvL,0,RE
+2017-04-15 23:03:42+0900,C - Ants on a Circle,ngkan146,0,WA
+2017-04-15 23:03:35+0900,A - Sorted Arrays,miyagawa,0,RE
+2017-04-15 23:03:30+0900,B - Hamiltonish Path,freeloop,500,AC
+2017-04-15 23:03:29+0900,C - Ants on a Circle,Sryo7809,0,WA
+2017-04-15 23:03:29+0900,A - Sorted Arrays,minorin,300,AC
+2017-04-15 23:03:28+0900,C - Ants on a Circle,Kostroma,0,WA
+2017-04-15 23:03:25+0900,C - Ants on a Circle,Yang33,0,WA
+2017-04-15 23:03:22+0900,B - Hamiltonish Path,v9fly,0,RE
+2017-04-15 23:03:17+0900,C - Ants on a Circle,pavelsavchenkov,0,WA
+2017-04-15 23:03:13+0900,C - Ants on a Circle,hasi,0,TLE
+2017-04-15 23:03:12+0900,B - Hamiltonish Path,IDoNotKnow,0,WA
+2017-04-15 23:03:03+0900,B - Hamiltonish Path,hoget157,0,WA
+2017-04-15 23:03:01+0900,C - Ants on a Circle,mxzf0213,0,WA
+2017-04-15 23:03:00+0900,C - Ants on a Circle,CrazyBBB,0,WA
+2017-04-15 23:02:48+0900,B - Hamiltonish Path,fushime2,0,RE
+2017-04-15 23:02:45+0900,C - Ants on a Circle,mechanicalpenciI,0,WA
+2017-04-15 23:02:42+0900,F - Two Faced Cards,w4yneb0t,2000,AC
+2017-04-15 23:02:41+0900,B - Hamiltonish Path,mmxsrup,0,TLE
+2017-04-15 23:02:41+0900,C - Ants on a Circle,logicmachine,0,WA
+2017-04-15 23:02:36+0900,C - Ants on a Circle,user32,0,WA
+2017-04-15 23:02:36+0900,B - Hamiltonish Path,Tyler,0,RE
+2017-04-15 23:02:26+0900,C - Ants on a Circle,ChopsticksAN,0,WA
+2017-04-15 23:02:22+0900,C - Ants on a Circle,spica314,0,WA
+2017-04-15 23:02:15+0900,B - Hamiltonish Path,scor,0,RE
+2017-04-15 23:02:15+0900,C - Ants on a Circle,takkii,0,WA
+2017-04-15 23:02:13+0900,E - Placing Squares,ilyakor,1600,AC
+2017-04-15 23:02:10+0900,C - Ants on a Circle,Pulmn,0,RE
+2017-04-15 23:02:08+0900,A - Sorted Arrays,japan4415,0,RE
+2017-04-15 23:02:07+0900,B - Hamiltonish Path,Naoki_M_,0,TLE
+2017-04-15 23:01:30+0900,B - Hamiltonish Path,noconocolib,0,RE
+2017-04-15 23:01:27+0900,C - Ants on a Circle,kosakkun,0,WA
+2017-04-15 23:01:26+0900,C - Ants on a Circle,iica,0,WA
+2017-04-15 23:01:23+0900,B - Hamiltonish Path,sadtomato,0,RE
+2017-04-15 23:01:19+0900,C - Ants on a Circle,kazuma,700,AC
+2017-04-15 23:01:14+0900,C - Ants on a Circle,voidmax,0,RE
+2017-04-15 23:01:13+0900,A - Sorted Arrays,marble0117,300,AC
+2017-04-15 23:01:05+0900,C - Ants on a Circle,SmallBoy,0,WA
+2017-04-15 23:01:04+0900,C - Ants on a Circle,CrazyBBB,0,WA
+2017-04-15 23:01:02+0900,A - Sorted Arrays,shamimjucse,300,AC
+2017-04-15 23:01:02+0900,B - Hamiltonish Path,fushime2,0,RE
+2017-04-15 23:01:01+0900,A - Sorted Arrays,xiebanmeiqin,300,AC
+2017-04-15 23:01:00+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 23:00:50+0900,B - Hamiltonish Path,upc1507010109,500,AC
+2017-04-15 23:00:46+0900,B - Hamiltonish Path,chm517,500,AC
+2017-04-15 23:00:45+0900,B - Hamiltonish Path,sazerterus25,500,AC
+2017-04-15 23:00:45+0900,C - Ants on a Circle,yukim,0,WA
+2017-04-15 23:00:42+0900,B - Hamiltonish Path,hoxosh,0,WA
+2017-04-15 23:00:39+0900,C - Ants on a Circle,mechanicalpenciI,0,WA
+2017-04-15 23:00:35+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 23:00:31+0900,A - Sorted Arrays,raduleonardo,0,WA
+2017-04-15 23:00:29+0900,C - Ants on a Circle,ChopsticksAN,0,WA
+2017-04-15 23:00:25+0900,A - Sorted Arrays,yinghualuowu,300,AC
+2017-04-15 23:00:23+0900,C - Ants on a Circle,pkMZ75105,0,WA
+2017-04-15 23:00:15+0900,B - Hamiltonish Path,phyllo,500,AC
+2017-04-15 23:00:09+0900,C - Ants on a Circle,olphe,0,RE
+2017-04-15 23:00:06+0900,E - Placing Squares,kunyavskiy,1600,AC
+2017-04-15 23:00:06+0900,B - Hamiltonish Path,shi2chuan1,0,RE
+2017-04-15 23:00:01+0900,C - Ants on a Circle,ats5515,0,RE
+2017-04-15 22:59:58+0900,B - Hamiltonish Path,eiya,500,AC
+2017-04-15 22:59:54+0900,C - Ants on a Circle,rqgao2014,700,AC
+2017-04-15 22:59:52+0900,C - Ants on a Circle,voidmax,0,RE
+2017-04-15 22:59:49+0900,A - Sorted Arrays,inmir,300,AC
+2017-04-15 22:59:49+0900,B - Hamiltonish Path,yxl,0,WA
+2017-04-15 22:59:46+0900,C - Ants on a Circle,tuna_roll,0,WA
+2017-04-15 22:59:46+0900,C - Ants on a Circle,ngkan146,0,WA
+2017-04-15 22:59:40+0900,B - Hamiltonish Path,tanutarou,0,WA
+2017-04-15 22:59:40+0900,C - Ants on a Circle,SmallBoy,0,WA
+2017-04-15 22:59:40+0900,D - Piling Up,tsniper1237,0,WA
+2017-04-15 22:59:39+0900,C - Ants on a Circle,Hoi_koro,0,WA
+2017-04-15 22:59:36+0900,A - Sorted Arrays,rqgao2014,0,WA
+2017-04-15 22:59:34+0900,A - Sorted Arrays,masakt,0,WA
+2017-04-15 22:59:33+0900,C - Ants on a Circle,300iq,700,AC
+2017-04-15 22:59:26+0900,C - Ants on a Circle,alecsyde,0,WA
+2017-04-15 22:59:25+0900,A - Sorted Arrays,int_tt,0,TLE
+2017-04-15 22:59:25+0900,C - Ants on a Circle,ishibashijun,0,TLE
+2017-04-15 22:59:23+0900,C - Ants on a Circle,painfulness,700,AC
+2017-04-15 22:59:15+0900,B - Hamiltonish Path,xchaos,0,WA
+2017-04-15 22:59:12+0900,B - Hamiltonish Path,damekamo,0,WA
+2017-04-15 22:59:12+0900,A - Sorted Arrays,mencotton,300,AC
+2017-04-15 22:59:09+0900,B - Hamiltonish Path,Bwambocos,0,WA
+2017-04-15 22:59:09+0900,B - Hamiltonish Path,v9fly,0,WA
+2017-04-15 22:59:01+0900,B - Hamiltonish Path,albicilla,0,WA
+2017-04-15 22:59:01+0900,A - Sorted Arrays,inmir,0,WA
+2017-04-15 22:58:58+0900,B - Hamiltonish Path,alex99,0,WA
+2017-04-15 22:58:54+0900,A - Sorted Arrays,voidmax,0,RE
+2017-04-15 22:58:54+0900,B - Hamiltonish Path,hanssy,500,AC
+2017-04-15 22:58:39+0900,B - Hamiltonish Path,phyllo,0,WA
+2017-04-15 22:58:37+0900,B - Hamiltonish Path,peroon,0,WA
+2017-04-15 22:58:36+0900,A - Sorted Arrays,ksfhajlas,0,WA
+2017-04-15 22:58:31+0900,C - Ants on a Circle,tossy,0,WA
+2017-04-15 22:58:25+0900,C - Ants on a Circle,sate3saku3,0,RE
+2017-04-15 22:58:24+0900,C - Ants on a Circle,TangentDay,700,AC
+2017-04-15 22:58:21+0900,A - Sorted Arrays,okari1993,300,AC
+2017-04-15 22:58:18+0900,C - Ants on a Circle,t8m8,0,RE
+2017-04-15 22:58:18+0900,B - Hamiltonish Path,hoget157,0,WA
+2017-04-15 22:58:14+0900,A - Sorted Arrays,xiebanmeiqin,0,WA
+2017-04-15 22:58:13+0900,C - Ants on a Circle,atatomir,0,WA
+2017-04-15 22:58:11+0900,C - Ants on a Circle,Hoi_koro,0,WA
+2017-04-15 22:57:57+0900,A - Sorted Arrays,s15ti003,300,AC
+2017-04-15 22:57:56+0900,B - Hamiltonish Path,zvb7yh,500,AC
+2017-04-15 22:57:52+0900,B - Hamiltonish Path,hoxosh,0,WA
+2017-04-15 22:57:50+0900,B - Hamiltonish Path,xiebanmeiqin,500,AC
+2017-04-15 22:57:49+0900,B - Hamiltonish Path,yxl,0,WA
+2017-04-15 22:57:43+0900,C - Ants on a Circle,Mikester,0,WA
+2017-04-15 22:57:34+0900,A - Sorted Arrays,btk15049,300,AC
+2017-04-15 22:57:32+0900,C - Ants on a Circle,olphe,0,RE
+2017-04-15 22:57:32+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 22:57:26+0900,B - Hamiltonish Path,noconocolib,0,WA
+2017-04-15 22:57:17+0900,C - Ants on a Circle,gazelle,0,WA
+2017-04-15 22:57:10+0900,A - Sorted Arrays,Nafmo2,0,WA
+2017-04-15 22:57:10+0900,C - Ants on a Circle,bakanaouji,0,WA
+2017-04-15 22:57:07+0900,B - Hamiltonish Path,yoshi78,0,RE
+2017-04-15 22:57:04+0900,B - Hamiltonish Path,oigami,500,AC
+2017-04-15 22:56:59+0900,B - Hamiltonish Path,yinghualuowu,500,AC
+2017-04-15 22:56:54+0900,C - Ants on a Circle,hasi,0,TLE
+2017-04-15 22:56:51+0900,B - Hamiltonish Path,yxl,0,WA
+2017-04-15 22:56:51+0900,B - Hamiltonish Path,eiya,0,WA
+2017-04-15 22:56:42+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 22:56:38+0900,D - Piling Up,StanislavErshov,900,AC
+2017-04-15 22:56:36+0900,B - Hamiltonish Path,nadare881,0,TLE
+2017-04-15 22:56:36+0900,C - Ants on a Circle,sakky711,700,AC
+2017-04-15 22:56:31+0900,B - Hamiltonish Path,SmallSir,0,WA
+2017-04-15 22:56:24+0900,B - Hamiltonish Path,toxzi,0,RE
+2017-04-15 22:56:22+0900,C - Ants on a Circle,Hoi_koro,0,WA
+2017-04-15 22:56:11+0900,A - Sorted Arrays,sylvia,0,WA
+2017-04-15 22:56:09+0900,A - Sorted Arrays,kensuke,0,WA
+2017-04-15 22:56:09+0900,C - Ants on a Circle,TangentDay,0,RE
+2017-04-15 22:56:06+0900,C - Ants on a Circle,yuki_,0,WA
+2017-04-15 22:56:04+0900,A - Sorted Arrays,inmir,0,WA
+2017-04-15 22:56:02+0900,C - Ants on a Circle,chuka231,0,WA
+2017-04-15 22:56:02+0900,A - Sorted Arrays,voidmax,0,RE
+2017-04-15 22:56:01+0900,B - Hamiltonish Path,yxl,0,CE
+2017-04-15 22:56:01+0900,F - Two Faced Cards,apiad,0,WA
+2017-04-15 22:55:59+0900,A - Sorted Arrays,int_tt,0,WA
+2017-04-15 22:55:57+0900,A - Sorted Arrays,shibly,300,AC
+2017-04-15 22:55:53+0900,B - Hamiltonish Path,hoxosh,0,TLE
+2017-04-15 22:55:52+0900,A - Sorted Arrays,int_tt,0,CE
+2017-04-15 22:55:45+0900,B - Hamiltonish Path,noconocolib,0,WA
+2017-04-15 22:55:43+0900,C - Ants on a Circle,tomsawyer,700,AC
+2017-04-15 22:55:27+0900,B - Hamiltonish Path,maxi,0,RE
+2017-04-15 22:55:14+0900,C - Ants on a Circle,painfulness,0,WA
+2017-04-15 22:55:13+0900,C - Ants on a Circle,kurenai3110,0,WA
+2017-04-15 22:55:09+0900,C - Ants on a Circle,TumoiYorozu,0,WA
+2017-04-15 22:55:08+0900,C - Ants on a Circle,ngkan146,0,WA
+2017-04-15 22:55:02+0900,C - Ants on a Circle,hoimy,0,WA
+2017-04-15 22:54:58+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 22:54:56+0900,B - Hamiltonish Path,shi2chuan1,0,WA
+2017-04-15 22:54:46+0900,C - Ants on a Circle,King_George,700,AC
+2017-04-15 22:54:45+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:54:45+0900,A - Sorted Arrays,kwkm0429,300,AC
+2017-04-15 22:54:45+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 22:54:42+0900,C - Ants on a Circle,sumoooru,700,AC
+2017-04-15 22:54:42+0900,C - Ants on a Circle,imulan,0,WA
+2017-04-15 22:54:41+0900,B - Hamiltonish Path,yxl,0,WA
+2017-04-15 22:54:39+0900,C - Ants on a Circle,hank55663,0,WA
+2017-04-15 22:54:39+0900,C - Ants on a Circle,ChopsticksAN,0,WA
+2017-04-15 22:54:38+0900,A - Sorted Arrays,karakasa,0,WA
+2017-04-15 22:54:34+0900,B - Hamiltonish Path,utdotk,500,AC
+2017-04-15 22:54:32+0900,C - Ants on a Circle,halin,0,WA
+2017-04-15 22:54:26+0900,A - Sorted Arrays,iaur64,0,WA
+2017-04-15 22:54:21+0900,A - Sorted Arrays,Nafmo2,0,WA
+2017-04-15 22:54:17+0900,B - Hamiltonish Path,mm14,0,RE
+2017-04-15 22:54:16+0900,B - Hamiltonish Path,damekamo,0,WA
+2017-04-15 22:54:15+0900,C - Ants on a Circle,abisheka,0,WA
+2017-04-15 22:54:11+0900,C - Ants on a Circle,joisino,0,RE
+2017-04-15 22:54:11+0900,C - Ants on a Circle,spica314,0,WA
+2017-04-15 22:54:04+0900,A - Sorted Arrays,hoimy,0,RE
+2017-04-15 22:54:04+0900,B - Hamiltonish Path,shi2chuan1,0,CE
+2017-04-15 22:53:59+0900,C - Ants on a Circle,liumh8,700,AC
+2017-04-15 22:53:56+0900,C - Ants on a Circle,logicmachine,0,RE
+2017-04-15 22:53:53+0900,C - Ants on a Circle,yukim,0,WA
+2017-04-15 22:53:51+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 22:53:49+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 22:53:43+0900,C - Ants on a Circle,sumoooru,0,WA
+2017-04-15 22:53:42+0900,C - Ants on a Circle,olphe,0,RE
+2017-04-15 22:53:37+0900,D - Piling Up,krismaz,900,AC
+2017-04-15 22:53:31+0900,B - Hamiltonish Path,tsutaj,0,WA
+2017-04-15 22:53:29+0900,C - Ants on a Circle,TangentDay,0,RE
+2017-04-15 22:53:29+0900,C - Ants on a Circle,pkMZ75105,0,WA
+2017-04-15 22:53:28+0900,C - Ants on a Circle,pekempey,0,WA
+2017-04-15 22:53:23+0900,C - Ants on a Circle,pavelsavchenkov,0,WA
+2017-04-15 22:53:20+0900,C - Ants on a Circle,miyajiro,0,WA
+2017-04-15 22:53:19+0900,C - Ants on a Circle,qinghaili,700,AC
+2017-04-15 22:53:18+0900,B - Hamiltonish Path,matsu7874,0,WA
+2017-04-15 22:53:15+0900,B - Hamiltonish Path,nanae,500,AC
+2017-04-15 22:53:14+0900,C - Ants on a Circle,ChopsticksAN,0,RE
+2017-04-15 22:53:12+0900,B - Hamiltonish Path,tsuburin,0,TLE
+2017-04-15 22:53:10+0900,C - Ants on a Circle,chentong,0,WA
+2017-04-15 22:53:07+0900,B - Hamiltonish Path,miyagawa,0,WA
+2017-04-15 22:53:04+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 22:53:01+0900,C - Ants on a Circle,hank55663,0,WA
+2017-04-15 22:52:59+0900,B - Hamiltonish Path,mban,500,AC
+2017-04-15 22:52:52+0900,A - Sorted Arrays,int_tt,0,TLE
+2017-04-15 22:52:47+0900,B - Hamiltonish Path,yoshi78,0,RE
+2017-04-15 22:52:42+0900,B - Hamiltonish Path,hoget157,0,WA
+2017-04-15 22:52:41+0900,B - Hamiltonish Path,nanae,0,RE
+2017-04-15 22:52:40+0900,C - Ants on a Circle,spica314,0,WA
+2017-04-15 22:52:38+0900,B - Hamiltonish Path,gtpan77,0,WA
+2017-04-15 22:52:15+0900,B - Hamiltonish Path,chm517,0,WA
+2017-04-15 22:52:11+0900,C - Ants on a Circle,olphe,0,RE
+2017-04-15 22:52:04+0900,A - Sorted Arrays,tanphatls987,300,AC
+2017-04-15 22:52:03+0900,B - Hamiltonish Path,hoxosh,0,WA
+2017-04-15 22:52:03+0900,C - Ants on a Circle,mHuman,0,WA
+2017-04-15 22:51:56+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 22:51:55+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 22:51:50+0900,A - Sorted Arrays,ant2357,0,WA
+2017-04-15 22:51:47+0900,A - Sorted Arrays,inmir,0,WA
+2017-04-15 22:51:43+0900,C - Ants on a Circle,wtw,0,WA
+2017-04-15 22:51:43+0900,C - Ants on a Circle,pkMZ75105,0,RE
+2017-04-15 22:51:42+0900,C - Ants on a Circle,King_George,0,WA
+2017-04-15 22:51:42+0900,A - Sorted Arrays,iaur64,0,WA
+2017-04-15 22:51:42+0900,C - Ants on a Circle,King_George,0,WA
+2017-04-15 22:51:41+0900,A - Sorted Arrays,rqgao2014,0,WA
+2017-04-15 22:51:38+0900,C - Ants on a Circle,mjhun,0,WA
+2017-04-15 22:51:35+0900,C - Ants on a Circle,spica314,0,RE
+2017-04-15 22:51:33+0900,A - Sorted Arrays,yoshi78,0,RE
+2017-04-15 22:51:31+0900,A - Sorted Arrays,yinghualuowu,300,AC
+2017-04-15 22:51:26+0900,C - Ants on a Circle,pwypeanut,0,RE
+2017-04-15 22:51:23+0900,B - Hamiltonish Path,peroon,0,WA
+2017-04-15 22:51:20+0900,A - Sorted Arrays,hoimy,0,RE
+2017-04-15 22:51:19+0900,C - Ants on a Circle,hank55663,0,RE
+2017-04-15 22:51:18+0900,B - Hamiltonish Path,youki,0,WA
+2017-04-15 22:51:17+0900,B - Hamiltonish Path,meg,0,RE
+2017-04-15 22:51:17+0900,C - Ants on a Circle,TangentDay,0,RE
+2017-04-15 22:51:15+0900,C - Ants on a Circle,tzhuan,0,RE
+2017-04-15 22:51:01+0900,A - Sorted Arrays,annzi,0,WA
+2017-04-15 22:50:59+0900,C - Ants on a Circle,liumh8,0,WA
+2017-04-15 22:50:57+0900,C - Ants on a Circle,hasi,0,TLE
+2017-04-15 22:50:56+0900,B - Hamiltonish Path,tks,0,WA
+2017-04-15 22:50:53+0900,C - Ants on a Circle,goodqt,700,AC
+2017-04-15 22:50:49+0900,C - Ants on a Circle,btk15049,700,AC
+2017-04-15 22:50:47+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 22:50:45+0900,B - Hamiltonish Path,nadare881,0,TLE
+2017-04-15 22:50:42+0900,B - Hamiltonish Path,tnag,0,WA
+2017-04-15 22:50:24+0900,C - Ants on a Circle,atatomir,0,WA
+2017-04-15 22:50:16+0900,E - Placing Squares,ilyakor,0,WA
+2017-04-15 22:50:15+0900,A - Sorted Arrays,karakasa,0,CE
+2017-04-15 22:50:03+0900,C - Ants on a Circle,yukim,0,WA
+2017-04-15 22:49:59+0900,B - Hamiltonish Path,StoneDot,500,AC
+2017-04-15 22:49:58+0900,B - Hamiltonish Path,T1610,0,TLE
+2017-04-15 22:49:57+0900,B - Hamiltonish Path,Gear,500,AC
+2017-04-15 22:49:48+0900,A - Sorted Arrays,karakasa,0,CE
+2017-04-15 22:49:45+0900,B - Hamiltonish Path,tsuburin,0,RE
+2017-04-15 22:49:33+0900,C - Ants on a Circle,wtw,0,WA
+2017-04-15 22:49:32+0900,C - Ants on a Circle,Veronica,0,WA
+2017-04-15 22:49:26+0900,B - Hamiltonish Path,tnag,0,WA
+2017-04-15 22:49:23+0900,C - Ants on a Circle,TangentDay,0,RE
+2017-04-15 22:49:15+0900,C - Ants on a Circle,abisheka,0,WA
+2017-04-15 22:49:15+0900,C - Ants on a Circle,WA_TLE,0,WA
+2017-04-15 22:49:14+0900,A - Sorted Arrays,Amnestia,0,WA
+2017-04-15 22:49:09+0900,B - Hamiltonish Path,Saiyan_Warrior,0,WA
+2017-04-15 22:49:01+0900,B - Hamiltonish Path,matsu7874,0,WA
+2017-04-15 22:48:58+0900,B - Hamiltonish Path,nadare881,0,TLE
+2017-04-15 22:48:49+0900,C - Ants on a Circle,Power730,0,TLE
+2017-04-15 22:48:41+0900,C - Ants on a Circle,pavelsavchenkov,0,WA
+2017-04-15 22:48:40+0900,B - Hamiltonish Path,yoshi78,0,RE
+2017-04-15 22:48:36+0900,B - Hamiltonish Path,usernameson,500,AC
+2017-04-15 22:48:36+0900,B - Hamiltonish Path,drafear,500,AC
+2017-04-15 22:48:34+0900,B - Hamiltonish Path,hoget157,0,WA
+2017-04-15 22:48:33+0900,B - Hamiltonish Path,Naoki_M_,0,TLE
+2017-04-15 22:48:29+0900,C - Ants on a Circle,wenbao,0,WA
+2017-04-15 22:48:25+0900,A - Sorted Arrays,annzi,0,WA
+2017-04-15 22:48:17+0900,C - Ants on a Circle,MikeZ,0,WA
+2017-04-15 22:48:17+0900,D - Piling Up,sazerterus25,900,AC
+2017-04-15 22:48:16+0900,B - Hamiltonish Path,tnag,0,WA
+2017-04-15 22:48:15+0900,C - Ants on a Circle,fwm94,0,WA
+2017-04-15 22:48:14+0900,B - Hamiltonish Path,qijew,0,WA
+2017-04-15 22:48:12+0900,A - Sorted Arrays,Veronica,0,WA
+2017-04-15 22:48:05+0900,B - Hamiltonish Path,yuiop,0,WA
+2017-04-15 22:48:04+0900,C - Ants on a Circle,wtw,0,WA
+2017-04-15 22:48:02+0900,C - Ants on a Circle,Kostroma,0,WA
+2017-04-15 22:48:01+0900,C - Ants on a Circle,spica314,0,WA
+2017-04-15 22:47:58+0900,A - Sorted Arrays,tshr,0,WA
+2017-04-15 22:47:58+0900,A - Sorted Arrays,int_tt,0,RE
+2017-04-15 22:47:56+0900,B - Hamiltonish Path,matsu7874,0,WA
+2017-04-15 22:47:51+0900,C - Ants on a Circle,roiti,0,WA
+2017-04-15 22:47:44+0900,B - Hamiltonish Path,mmxsrup,0,WA
+2017-04-15 22:47:41+0900,C - Ants on a Circle,zerokugi,0,WA
+2017-04-15 22:47:38+0900,C - Ants on a Circle,den,700,AC
+2017-04-15 22:47:35+0900,C - Ants on a Circle,King_George,0,WA
+2017-04-15 22:47:34+0900,B - Hamiltonish Path,hoxosh,0,TLE
+2017-04-15 22:47:24+0900,D - Piling Up,tamionv,900,AC
+2017-04-15 22:47:23+0900,B - Hamiltonish Path,shi2chuan1,0,RE
+2017-04-15 22:47:19+0900,B - Hamiltonish Path,niwatolli3,0,TLE
+2017-04-15 22:47:18+0900,C - Ants on a Circle,hasi,0,TLE
+2017-04-15 22:47:14+0900,B - Hamiltonish Path,yuiop,0,WA
+2017-04-15 22:47:12+0900,B - Hamiltonish Path,kurowassann,500,AC
+2017-04-15 22:47:11+0900,B - Hamiltonish Path,drafear,0,WA
+2017-04-15 22:47:05+0900,F - Two Faced Cards,apiad,0,WA
+2017-04-15 22:47:02+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 22:46:51+0900,C - Ants on a Circle,sakky711,0,RE
+2017-04-15 22:46:50+0900,C - Ants on a Circle,yamad,0,WA
+2017-04-15 22:46:50+0900,C - Ants on a Circle,TangentDay,0,WA
+2017-04-15 22:46:47+0900,A - Sorted Arrays,Amnestia,0,WA
+2017-04-15 22:46:44+0900,B - Hamiltonish Path,mmxsrup,0,TLE
+2017-04-15 22:46:44+0900,D - Piling Up,sazerterus25,0,MLE
+2017-04-15 22:46:40+0900,B - Hamiltonish Path,tnag,0,WA
+2017-04-15 22:46:35+0900,A - Sorted Arrays,inmir,0,RE
+2017-04-15 22:46:28+0900,A - Sorted Arrays,sacheendra9044,0,WA
+2017-04-15 22:46:26+0900,B - Hamiltonish Path,tsuburin,0,TLE
+2017-04-15 22:46:25+0900,B - Hamiltonish Path,usernameson,0,WA
+2017-04-15 22:46:24+0900,A - Sorted Arrays,int_tt,0,RE
+2017-04-15 22:46:22+0900,B - Hamiltonish Path,oigami,0,WA
+2017-04-15 22:46:21+0900,C - Ants on a Circle,zscoder,0,WA
+2017-04-15 22:46:19+0900,C - Ants on a Circle,goodqt,0,WA
+2017-04-15 22:46:16+0900,B - Hamiltonish Path,hoget157,0,WA
+2017-04-15 22:46:15+0900,B - Hamiltonish Path,alex99,0,WA
+2017-04-15 22:46:14+0900,B - Hamiltonish Path,hato_roll,0,WA
+2017-04-15 22:46:10+0900,A - Sorted Arrays,Nafmo2,0,WA
+2017-04-15 22:46:02+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 22:45:55+0900,A - Sorted Arrays,bttb,300,AC
+2017-04-15 22:45:55+0900,D - Piling Up,zemen,900,AC
+2017-04-15 22:45:39+0900,C - Ants on a Circle,rqgao2014,0,WA
+2017-04-15 22:45:39+0900,A - Sorted Arrays,inmir,0,RE
+2017-04-15 22:45:38+0900,A - Sorted Arrays,chenxeney,300,AC
+2017-04-15 22:45:37+0900,A - Sorted Arrays,takkii,300,AC
+2017-04-15 22:45:31+0900,C - Ants on a Circle,den,0,WA
+2017-04-15 22:45:25+0900,A - Sorted Arrays,laomi,300,AC
+2017-04-15 22:45:25+0900,A - Sorted Arrays,int_tt,0,RE
+2017-04-15 22:45:24+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 22:45:21+0900,B - Hamiltonish Path,letranger,0,WA
+2017-04-15 22:45:16+0900,C - Ants on a Circle,goto,0,WA
+2017-04-15 22:45:15+0900,B - Hamiltonish Path,T1610,0,TLE
+2017-04-15 22:45:08+0900,B - Hamiltonish Path,niwatolli3,0,WA
+2017-04-15 22:45:06+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:45:03+0900,A - Sorted Arrays,kamituka,0,WA
+2017-04-15 22:45:00+0900,A - Sorted Arrays,jack0710,300,AC
+2017-04-15 22:44:56+0900,C - Ants on a Circle,King_George,0,WA
+2017-04-15 22:44:54+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:44:53+0900,B - Hamiltonish Path,Woodpecker1123,500,AC
+2017-04-15 22:44:48+0900,C - Ants on a Circle,tossy,0,WA
+2017-04-15 22:44:47+0900,C - Ants on a Circle,rqgao2014,0,WA
+2017-04-15 22:44:44+0900,B - Hamiltonish Path,noy72,0,WA
+2017-04-15 22:44:42+0900,A - Sorted Arrays,ouka,0,WA
+2017-04-15 22:44:37+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 22:44:36+0900,B - Hamiltonish Path,wenbao,0,WA
+2017-04-15 22:44:36+0900,C - Ants on a Circle,mjhun,0,WA
+2017-04-15 22:44:32+0900,C - Ants on a Circle,yukim,0,WA
+2017-04-15 22:44:29+0900,C - Ants on a Circle,Power730,0,TLE
+2017-04-15 22:44:26+0900,A - Sorted Arrays,int_tt,0,RE
+2017-04-15 22:44:26+0900,C - Ants on a Circle,TumoiYorozu,0,RE
+2017-04-15 22:44:17+0900,E - Placing Squares,Stonefeang,1600,AC
+2017-04-15 22:44:09+0900,B - Hamiltonish Path,nabehide,0,WA
+2017-04-15 22:43:59+0900,B - Hamiltonish Path,letranger,0,TLE
+2017-04-15 22:43:54+0900,B - Hamiltonish Path,tatsuyuki,500,AC
+2017-04-15 22:43:40+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:43:36+0900,C - Ants on a Circle,kawamura2001,0,RE
+2017-04-15 22:43:36+0900,B - Hamiltonish Path,hoxosh,0,WA
+2017-04-15 22:43:25+0900,A - Sorted Arrays,ant2357,0,WA
+2017-04-15 22:43:24+0900,A - Sorted Arrays,annzi,0,WA
+2017-04-15 22:43:22+0900,B - Hamiltonish Path,albicilla,0,WA
+2017-04-15 22:43:21+0900,A - Sorted Arrays,int_tt,0,RE
+2017-04-15 22:43:17+0900,B - Hamiltonish Path,niwatolli3,0,TLE
+2017-04-15 22:43:11+0900,C - Ants on a Circle,rqgao2014,0,WA
+2017-04-15 22:43:04+0900,A - Sorted Arrays,inmir,0,RE
+2017-04-15 22:43:00+0900,A - Sorted Arrays,sdub,0,RE
+2017-04-15 22:42:55+0900,B - Hamiltonish Path,alex99,0,WA
+2017-04-15 22:42:55+0900,B - Hamiltonish Path,StoneDot,0,RE
+2017-04-15 22:42:48+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:42:42+0900,C - Ants on a Circle,reew2n,700,AC
+2017-04-15 22:42:37+0900,C - Ants on a Circle,atatomir,0,WA
+2017-04-15 22:42:33+0900,B - Hamiltonish Path,ProMAGFAT,0,WA
+2017-04-15 22:42:27+0900,B - Hamiltonish Path,Gear,0,WA
+2017-04-15 22:42:27+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:42:22+0900,C - Ants on a Circle,pavelsavchenkov,0,WA
+2017-04-15 22:42:03+0900,A - Sorted Arrays,karakasa,0,WA
+2017-04-15 22:41:56+0900,C - Ants on a Circle,bakanaouji,0,WA
+2017-04-15 22:41:50+0900,C - Ants on a Circle,fwm94,0,WA
+2017-04-15 22:41:44+0900,C - Ants on a Circle,TangentDay,0,WA
+2017-04-15 22:41:42+0900,C - Ants on a Circle,tossy,0,WA
+2017-04-15 22:41:35+0900,A - Sorted Arrays,rqgao2014,0,WA
+2017-04-15 22:41:34+0900,C - Ants on a Circle,MikeZ,0,WA
+2017-04-15 22:41:33+0900,C - Ants on a Circle,Kostroma,0,WA
+2017-04-15 22:41:20+0900,B - Hamiltonish Path,muramasa8191,0,WA
+2017-04-15 22:41:18+0900,A - Sorted Arrays,hanssy,300,AC
+2017-04-15 22:41:17+0900,B - Hamiltonish Path,tatsuyuki,0,WA
+2017-04-15 22:41:07+0900,B - Hamiltonish Path,phyllo,0,TLE
+2017-04-15 22:41:06+0900,C - Ants on a Circle,TumoiYorozu,0,RE
+2017-04-15 22:41:01+0900,C - Ants on a Circle,wtw,0,WA
+2017-04-15 22:40:55+0900,D - Piling Up,TeaPot,900,AC
+2017-04-15 22:40:53+0900,B - Hamiltonish Path,dicenull,0,WA
+2017-04-15 22:40:53+0900,B - Hamiltonish Path,IDoNotKnow,0,WA
+2017-04-15 22:40:43+0900,C - Ants on a Circle,nwin,0,RE
+2017-04-15 22:40:41+0900,B - Hamiltonish Path,tanutarou,0,TLE
+2017-04-15 22:40:38+0900,D - Piling Up,Deemo,900,AC
+2017-04-15 22:40:34+0900,B - Hamiltonish Path,StoneDot,0,RE
+2017-04-15 22:40:33+0900,A - Sorted Arrays,yupshion,0,WA
+2017-04-15 22:40:31+0900,B - Hamiltonish Path,eiya,0,TLE
+2017-04-15 22:40:29+0900,B - Hamiltonish Path,peroon,0,WA
+2017-04-15 22:40:25+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 22:40:21+0900,A - Sorted Arrays,lofu_imgkr,0,WA
+2017-04-15 22:40:20+0900,C - Ants on a Circle,goto,0,WA
+2017-04-15 22:40:14+0900,C - Ants on a Circle,clatisus,700,AC
+2017-04-15 22:40:08+0900,B - Hamiltonish Path,a2stnk,500,AC
+2017-04-15 22:40:06+0900,A - Sorted Arrays,inmir,0,RE
+2017-04-15 22:40:04+0900,A - Sorted Arrays,annzi,0,WA
+2017-04-15 22:40:00+0900,C - Ants on a Circle,IanWong,0,WA
+2017-04-15 22:39:58+0900,C - Ants on a Circle,hasi,0,TLE
+2017-04-15 22:39:51+0900,C - Ants on a Circle,MikeZ,0,WA
+2017-04-15 22:39:50+0900,C - Ants on a Circle,sakky711,0,WA
+2017-04-15 22:39:47+0900,B - Hamiltonish Path,toxzi,0,RE
+2017-04-15 22:39:40+0900,C - Ants on a Circle,nobik,700,AC
+2017-04-15 22:39:36+0900,A - Sorted Arrays,laomi,0,WA
+2017-04-15 22:39:25+0900,B - Hamiltonish Path,Halksel,0,WA
+2017-04-15 22:39:24+0900,A - Sorted Arrays,kamituka,0,WA
+2017-04-15 22:39:19+0900,D - Piling Up,yutaka1999,900,AC
+2017-04-15 22:39:16+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 22:39:13+0900,C - Ants on a Circle,IanWong,0,RE
+2017-04-15 22:39:13+0900,B - Hamiltonish Path,emon,500,AC
+2017-04-15 22:39:05+0900,C - Ants on a Circle,spica314,0,WA
+2017-04-15 22:39:04+0900,B - Hamiltonish Path,shi2chuan1,0,RE
+2017-04-15 22:38:53+0900,B - Hamiltonish Path,untan,0,WA
+2017-04-15 22:38:50+0900,A - Sorted Arrays,s1230006,0,WA
+2017-04-15 22:38:49+0900,A - Sorted Arrays,xiebanmeiqin,0,WA
+2017-04-15 22:38:47+0900,A - Sorted Arrays,dwhdwh,300,AC
+2017-04-15 22:38:44+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 22:38:44+0900,B - Hamiltonish Path,tsuburin,0,TLE
+2017-04-15 22:38:41+0900,A - Sorted Arrays,Nafmo2,0,WA
+2017-04-15 22:38:37+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 22:38:36+0900,A - Sorted Arrays,sylvia,0,WA
+2017-04-15 22:38:28+0900,B - Hamiltonish Path,noy72,0,WA
+2017-04-15 22:38:26+0900,A - Sorted Arrays,jack0710,0,WA
+2017-04-15 22:38:23+0900,C - Ants on a Circle,nwin,0,RE
+2017-04-15 22:38:22+0900,B - Hamiltonish Path,akarin55,0,TLE
+2017-04-15 22:38:21+0900,A - Sorted Arrays,shny,300,AC
+2017-04-15 22:38:20+0900,C - Ants on a Circle,lsmll,0,WA
+2017-04-15 22:38:15+0900,B - Hamiltonish Path,Gear,0,WA
+2017-04-15 22:38:10+0900,A - Sorted Arrays,SmallSir,300,AC
+2017-04-15 22:38:09+0900,C - Ants on a Circle,Archazey,700,AC
+2017-04-15 22:38:09+0900,B - Hamiltonish Path,alex99,0,WA
+2017-04-15 22:38:07+0900,A - Sorted Arrays,kamituka,0,WA
+2017-04-15 22:38:03+0900,B - Hamiltonish Path,yangshu,0,WA
+2017-04-15 22:37:50+0900,A - Sorted Arrays,lofu_imgkr,0,WA
+2017-04-15 22:37:50+0900,C - Ants on a Circle,MikeZ,0,WA
+2017-04-15 22:37:47+0900,B - Hamiltonish Path,alex99,0,CE
+2017-04-15 22:37:45+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:37:42+0900,B - Hamiltonish Path,matsu7874,0,WA
+2017-04-15 22:37:39+0900,A - Sorted Arrays,Nafmo2,0,WA
+2017-04-15 22:37:38+0900,C - Ants on a Circle,alecsyde,0,WA
+2017-04-15 22:37:25+0900,B - Hamiltonish Path,niwatolli3,0,WA
+2017-04-15 22:37:21+0900,B - Hamiltonish Path,alex99,0,CE
+2017-04-15 22:37:21+0900,B - Hamiltonish Path,yuiop,0,WA
+2017-04-15 22:37:11+0900,C - Ants on a Circle,wtw,0,WA
+2017-04-15 22:37:08+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 22:37:07+0900,B - Hamiltonish Path,Halksel,0,WA
+2017-04-15 22:36:59+0900,B - Hamiltonish Path,IDoNotKnow,0,WA
+2017-04-15 22:36:55+0900,C - Ants on a Circle,reew2n,0,WA
+2017-04-15 22:36:55+0900,B - Hamiltonish Path,nadare881,0,TLE
+2017-04-15 22:36:52+0900,B - Hamiltonish Path,fetetriste,500,AC
+2017-04-15 22:36:48+0900,B - Hamiltonish Path,akshit_1996,0,WA
+2017-04-15 22:36:48+0900,B - Hamiltonish Path,popovicirobert,500,AC
+2017-04-15 22:36:46+0900,A - Sorted Arrays,takeyarise,300,AC
+2017-04-15 22:36:45+0900,A - Sorted Arrays,yamagenii,300,AC
+2017-04-15 22:36:39+0900,C - Ants on a Circle,haji,0,RE
+2017-04-15 22:36:36+0900,B - Hamiltonish Path,kojikojio,0,WA
+2017-04-15 22:36:31+0900,A - Sorted Arrays,yamagenii,0,WA
+2017-04-15 22:36:30+0900,C - Ants on a Circle,Ra16bit,700,AC
+2017-04-15 22:36:30+0900,C - Ants on a Circle,spica314,0,RE
+2017-04-15 22:36:27+0900,B - Hamiltonish Path,tatsuyuki,0,WA
+2017-04-15 22:36:24+0900,C - Ants on a Circle,reew2n,0,WA
+2017-04-15 22:36:22+0900,A - Sorted Arrays,skyward,300,AC
+2017-04-15 22:36:18+0900,B - Hamiltonish Path,shi2chuan1,0,RE
+2017-04-15 22:36:18+0900,A - Sorted Arrays,sgtukk0128,300,AC
+2017-04-15 22:36:16+0900,C - Ants on a Circle,hasi,0,TLE
+2017-04-15 22:36:16+0900,C - Ants on a Circle,pwypeanut,0,RE
+2017-04-15 22:36:15+0900,C - Ants on a Circle,Archazey,0,RE
+2017-04-15 22:36:15+0900,C - Ants on a Circle,sumoooru,0,WA
+2017-04-15 22:36:13+0900,A - Sorted Arrays,atkrym,300,AC
+2017-04-15 22:35:59+0900,B - Hamiltonish Path,tsuburin,0,CE
+2017-04-15 22:35:57+0900,B - Hamiltonish Path,letranger,0,RE
+2017-04-15 22:35:56+0900,B - Hamiltonish Path,Woodpecker1123,0,WA
+2017-04-15 22:35:55+0900,B - Hamiltonish Path,niwatolli3,0,WA
+2017-04-15 22:35:53+0900,F - Two Faced Cards,apiad,0,WA
+2017-04-15 22:35:52+0900,A - Sorted Arrays,kumaanba,0,WA
+2017-04-15 22:35:47+0900,E - Placing Squares,yosupo,1600,AC
+2017-04-15 22:35:46+0900,C - Ants on a Circle,nobik,0,WA
+2017-04-15 22:35:38+0900,B - Hamiltonish Path,Halksel,0,WA
+2017-04-15 22:35:28+0900,C - Ants on a Circle,MikeZ,0,WA
+2017-04-15 22:35:27+0900,D - Piling Up,zemen,0,WA
+2017-04-15 22:35:24+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 22:35:17+0900,B - Hamiltonish Path,albicilla,0,WA
+2017-04-15 22:35:15+0900,A - Sorted Arrays,kcvlex,0,WA
+2017-04-15 22:35:13+0900,A - Sorted Arrays,laomi,0,WA
+2017-04-15 22:35:04+0900,C - Ants on a Circle,uenoku,0,WA
+2017-04-15 22:34:59+0900,B - Hamiltonish Path,letranger,0,RE
+2017-04-15 22:34:58+0900,B - Hamiltonish Path,shiro46,0,TLE
+2017-04-15 22:34:53+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 22:34:39+0900,B - Hamiltonish Path,RockyB,0,WA
+2017-04-15 22:34:38+0900,C - Ants on a Circle,yukim,0,TLE
+2017-04-15 22:34:37+0900,A - Sorted Arrays,statiolake,300,AC
+2017-04-15 22:34:32+0900,C - Ants on a Circle,takkii,0,WA
+2017-04-15 22:34:29+0900,A - Sorted Arrays,jack0710,0,WA
+2017-04-15 22:34:21+0900,B - Hamiltonish Path,nadare881,0,RE
+2017-04-15 22:34:13+0900,B - Hamiltonish Path,nebukuro09,500,AC
+2017-04-15 22:34:10+0900,C - Ants on a Circle,goto,0,WA
+2017-04-15 22:34:06+0900,A - Sorted Arrays,NASU41,300,AC
+2017-04-15 22:34:03+0900,B - Hamiltonish Path,tks,0,WA
+2017-04-15 22:33:58+0900,C - Ants on a Circle,tanzaku,700,AC
+2017-04-15 22:33:55+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 22:33:51+0900,C - Ants on a Circle,sjj118,700,AC
+2017-04-15 22:33:47+0900,C - Ants on a Circle,pwypeanut,0,WA
+2017-04-15 22:33:43+0900,C - Ants on a Circle,mtsd,700,AC
+2017-04-15 22:33:41+0900,C - Ants on a Circle,den,0,WA
+2017-04-15 22:33:39+0900,B - Hamiltonish Path,shi2chuan1,0,RE
+2017-04-15 22:33:37+0900,B - Hamiltonish Path,chenjiaqi,0,WA
+2017-04-15 22:33:26+0900,B - Hamiltonish Path,ravenclaws1,500,AC
+2017-04-15 22:33:25+0900,B - Hamiltonish Path,alex99,0,WA
+2017-04-15 22:33:23+0900,B - Hamiltonish Path,obsproth,0,RE
+2017-04-15 22:33:19+0900,C - Ants on a Circle,uenoku,0,WA
+2017-04-15 22:33:14+0900,B - Hamiltonish Path,tomsawyer,500,AC
+2017-04-15 22:33:12+0900,A - Sorted Arrays,sgtukk0128,0,RE
+2017-04-15 22:33:10+0900,C - Ants on a Circle,rqgao2014,0,WA
+2017-04-15 22:33:09+0900,C - Ants on a Circle,IvL,0,WA
+2017-04-15 22:33:05+0900,A - Sorted Arrays,terakun,300,AC
+2017-04-15 22:33:02+0900,B - Hamiltonish Path,cuber2460,500,AC
+2017-04-15 22:32:57+0900,B - Hamiltonish Path,noy72,0,WA
+2017-04-15 22:32:56+0900,A - Sorted Arrays,Lionking07,0,WA
+2017-04-15 22:32:54+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 22:32:49+0900,A - Sorted Arrays,LitMc,300,AC
+2017-04-15 22:32:45+0900,A - Sorted Arrays,misty1999,300,AC
+2017-04-15 22:32:45+0900,A - Sorted Arrays,misty1999,300,AC
+2017-04-15 22:32:32+0900,B - Hamiltonish Path,youki,0,RE
+2017-04-15 22:32:29+0900,C - Ants on a Circle,marshi,0,TLE
+2017-04-15 22:32:24+0900,C - Ants on a Circle,wenbao,0,WA
+2017-04-15 22:32:23+0900,B - Hamiltonish Path,ei13333,500,AC
+2017-04-15 22:32:23+0900,A - Sorted Arrays,Nafmo2,0,WA
+2017-04-15 22:32:18+0900,B - Hamiltonish Path,chenjiaqi,0,WA
+2017-04-15 22:32:18+0900,C - Ants on a Circle,IvL,0,WA
+2017-04-15 22:31:58+0900,C - Ants on a Circle,King_George,0,WA
+2017-04-15 22:31:57+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 22:31:50+0900,A - Sorted Arrays,kosakkun,0,WA
+2017-04-15 22:31:47+0900,B - Hamiltonish Path,nebukuro09,0,WA
+2017-04-15 22:31:46+0900,B - Hamiltonish Path,yoshi78,0,RE
+2017-04-15 22:31:38+0900,A - Sorted Arrays,sdub,0,WA
+2017-04-15 22:31:30+0900,C - Ants on a Circle,plasmaeffect,0,WA
+2017-04-15 22:31:30+0900,C - Ants on a Circle,goto,0,WA
+2017-04-15 22:31:26+0900,A - Sorted Arrays,ksfhajlas,0,WA
+2017-04-15 22:31:26+0900,B - Hamiltonish Path,fine,0,TLE
+2017-04-15 22:31:25+0900,B - Hamiltonish Path,c7c7,500,AC
+2017-04-15 22:31:20+0900,A - Sorted Arrays,atkrym,0,WA
+2017-04-15 22:31:18+0900,B - Hamiltonish Path,obsproth,0,RE
+2017-04-15 22:31:16+0900,E - Placing Squares,dreamoon,1600,AC
+2017-04-15 22:31:14+0900,A - Sorted Arrays,tks,0,RE
+2017-04-15 22:31:11+0900,C - Ants on a Circle,lsmll,0,WA
+2017-04-15 22:31:07+0900,A - Sorted Arrays,kcvlex,0,WA
+2017-04-15 22:30:58+0900,C - Ants on a Circle,dohatsutsu,0,WA
+2017-04-15 22:30:57+0900,B - Hamiltonish Path,toxzi,0,WA
+2017-04-15 22:30:54+0900,A - Sorted Arrays,kosakkun,0,WA
+2017-04-15 22:30:49+0900,C - Ants on a Circle,atatomir,0,WA
+2017-04-15 22:30:49+0900,A - Sorted Arrays,Amnestia,0,WA
+2017-04-15 22:30:42+0900,C - Ants on a Circle,hylian,0,TLE
+2017-04-15 22:30:42+0900,C - Ants on a Circle,plasmaeffect,0,WA
+2017-04-15 22:30:41+0900,B - Hamiltonish Path,yangshu,0,WA
+2017-04-15 22:30:41+0900,B - Hamiltonish Path,akshit_1996,0,WA
+2017-04-15 22:30:37+0900,A - Sorted Arrays,isojin,0,WA
+2017-04-15 22:30:28+0900,B - Hamiltonish Path,lfforu,500,AC
+2017-04-15 22:30:27+0900,C - Ants on a Circle,goto,0,WA
+2017-04-15 22:30:26+0900,B - Hamiltonish Path,mmxsrup,0,TLE
+2017-04-15 22:30:24+0900,C - Ants on a Circle,voidmax,0,WA
+2017-04-15 22:30:21+0900,C - Ants on a Circle,Power730,0,WA
+2017-04-15 22:30:20+0900,B - Hamiltonish Path,Naoki_M_,0,RE
+2017-04-15 22:30:18+0900,B - Hamiltonish Path,IDoNotKnow,0,WA
+2017-04-15 22:30:17+0900,B - Hamiltonish Path,shi2chuan1,0,RE
+2017-04-15 22:30:11+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 22:29:56+0900,A - Sorted Arrays,isojin,0,CE
+2017-04-15 22:29:52+0900,B - Hamiltonish Path,xchaos,0,WA
+2017-04-15 22:29:42+0900,B - Hamiltonish Path,tomsawyer,0,WA
+2017-04-15 22:29:41+0900,B - Hamiltonish Path,StoneDot,0,RE
+2017-04-15 22:29:28+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 22:29:24+0900,B - Hamiltonish Path,akshit_1996,0,WA
+2017-04-15 22:29:19+0900,C - Ants on a Circle,atatomir,0,WA
+2017-04-15 22:29:19+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:29:19+0900,D - Piling Up,imang,900,AC
+2017-04-15 22:29:14+0900,B - Hamiltonish Path,nadare881,0,TLE
+2017-04-15 22:29:11+0900,C - Ants on a Circle,zhongzihao,700,AC
+2017-04-15 22:29:10+0900,C - Ants on a Circle,zerokugi,0,RE
+2017-04-15 22:29:05+0900,A - Sorted Arrays,pashka,300,AC
+2017-04-15 22:29:05+0900,A - Sorted Arrays,chenxeney,0,WA
+2017-04-15 22:29:03+0900,B - Hamiltonish Path,xchaos,0,CE
+2017-04-15 22:29:02+0900,B - Hamiltonish Path,youki,0,RE
+2017-04-15 22:28:58+0900,B - Hamiltonish Path,OccccccuPie,0,WA
+2017-04-15 22:28:52+0900,A - Sorted Arrays,Lionking07,300,AC
+2017-04-15 22:28:52+0900,A - Sorted Arrays,SmallSir,0,WA
+2017-04-15 22:28:49+0900,B - Hamiltonish Path,albicilla,0,WA
+2017-04-15 22:28:49+0900,B - Hamiltonish Path,IDoNotKnow,0,WA
+2017-04-15 22:28:48+0900,A - Sorted Arrays,ykri021,300,AC
+2017-04-15 22:28:45+0900,C - Ants on a Circle,yukim,0,WA
+2017-04-15 22:28:43+0900,C - Ants on a Circle,hasi,0,TLE
+2017-04-15 22:28:38+0900,B - Hamiltonish Path,ferin_tech,0,RE
+2017-04-15 22:28:38+0900,C - Ants on a Circle,krijgertje,700,AC
+2017-04-15 22:28:36+0900,B - Hamiltonish Path,polko,0,WA
+2017-04-15 22:28:36+0900,B - Hamiltonish Path,obsproth,0,RE
+2017-04-15 22:28:34+0900,C - Ants on a Circle,wtw,0,WA
+2017-04-15 22:28:29+0900,B - Hamiltonish Path,tookunn,500,AC
+2017-04-15 22:28:25+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 22:28:21+0900,B - Hamiltonish Path,pachicobue,500,AC
+2017-04-15 22:27:57+0900,B - Hamiltonish Path,iloveeslam,500,AC
+2017-04-15 22:27:51+0900,A - Sorted Arrays,sdub,0,WA
+2017-04-15 22:27:43+0900,B - Hamiltonish Path,tks,0,CE
+2017-04-15 22:27:43+0900,C - Ants on a Circle,sjj118,0,WA
+2017-04-15 22:27:39+0900,B - Hamiltonish Path,toxzi,0,RE
+2017-04-15 22:27:39+0900,C - Ants on a Circle,toma25,700,AC
+2017-04-15 22:27:36+0900,B - Hamiltonish Path,latte0119,500,AC
+2017-04-15 22:27:36+0900,A - Sorted Arrays,La_teth,0,WA
+2017-04-15 22:27:35+0900,A - Sorted Arrays,jack0710,0,WA
+2017-04-15 22:27:31+0900,A - Sorted Arrays,terakun,0,WA
+2017-04-15 22:27:30+0900,A - Sorted Arrays,fijixfiji,0,RE
+2017-04-15 22:27:25+0900,B - Hamiltonish Path,shi2chuan1,0,RE
+2017-04-15 22:27:21+0900,A - Sorted Arrays,hsoccer,0,WA
+2017-04-15 22:27:20+0900,C - Ants on a Circle,toma25,0,WA
+2017-04-15 22:27:17+0900,B - Hamiltonish Path,fei6409,0,TLE
+2017-04-15 22:27:14+0900,A - Sorted Arrays,isojin,0,WA
+2017-04-15 22:27:13+0900,B - Hamiltonish Path,TakaakiUmedu,0,RE
+2017-04-15 22:27:11+0900,C - Ants on a Circle,wtw,0,WA
+2017-04-15 22:27:09+0900,B - Hamiltonish Path,Halksel,0,WA
+2017-04-15 22:27:08+0900,B - Hamiltonish Path,T1610,0,WA
+2017-04-15 22:27:07+0900,D - Piling Up,Kostroma,900,AC
+2017-04-15 22:27:05+0900,A - Sorted Arrays,sdub,0,CE
+2017-04-15 22:27:04+0900,A - Sorted Arrays,Mngshmok,0,RE
+2017-04-15 22:27:00+0900,C - Ants on a Circle,tanzaku,0,WA
+2017-04-15 22:26:56+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:26:48+0900,D - Piling Up,TeaPot,0,MLE
+2017-04-15 22:26:42+0900,C - Ants on a Circle,kyawakyawa,0,WA
+2017-04-15 22:26:39+0900,B - Hamiltonish Path,polko,0,WA
+2017-04-15 22:26:32+0900,A - Sorted Arrays,satashun,0,WA
+2017-04-15 22:26:32+0900,A - Sorted Arrays,iloveeslam,0,RE
+2017-04-15 22:26:31+0900,C - Ants on a Circle,spica314,0,WA
+2017-04-15 22:26:29+0900,C - Ants on a Circle,reew2n,0,WA
+2017-04-15 22:26:24+0900,A - Sorted Arrays,takeyarise,0,WA
+2017-04-15 22:26:22+0900,B - Hamiltonish Path,IDoNotKnow,0,WA
+2017-04-15 22:26:19+0900,B - Hamiltonish Path,untan,0,WA
+2017-04-15 22:26:17+0900,A - Sorted Arrays,dwhdwh,0,WA
+2017-04-15 22:26:17+0900,A - Sorted Arrays,polko,0,RE
+2017-04-15 22:26:13+0900,B - Hamiltonish Path,c7c7,0,TLE
+2017-04-15 22:26:07+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:26:00+0900,C - Ants on a Circle,reew2n,0,WA
+2017-04-15 22:25:55+0900,B - Hamiltonish Path,tankblood,500,AC
+2017-04-15 22:25:52+0900,C - Ants on a Circle,tanzaku,0,RE
+2017-04-15 22:25:52+0900,C - Ants on a Circle,neander,700,AC
+2017-04-15 22:25:49+0900,C - Ants on a Circle,Ra16bit,0,WA
+2017-04-15 22:25:48+0900,C - Ants on a Circle,zepp,0,WA
+2017-04-15 22:25:46+0900,A - Sorted Arrays,sacheendra9044,0,WA
+2017-04-15 22:25:44+0900,C - Ants on a Circle,olphe,0,WA
+2017-04-15 22:25:38+0900,B - Hamiltonish Path,gamegame,500,AC
+2017-04-15 22:25:37+0900,A - Sorted Arrays,annzi,0,WA
+2017-04-15 22:25:35+0900,B - Hamiltonish Path,albicilla,0,WA
+2017-04-15 22:25:26+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 22:25:23+0900,A - Sorted Arrays,bilguunt,300,AC
+2017-04-15 22:25:18+0900,A - Sorted Arrays,sugarrr,300,AC
+2017-04-15 22:25:12+0900,C - Ants on a Circle,zerokugi,0,RE
+2017-04-15 22:25:12+0900,C - Ants on a Circle,sumoooru,0,WA
+2017-04-15 22:25:10+0900,C - Ants on a Circle,marshi,0,RE
+2017-04-15 22:25:07+0900,D - Piling Up,Andrei1998,900,AC
+2017-04-15 22:25:05+0900,A - Sorted Arrays,nmjiri,300,AC
+2017-04-15 22:25:02+0900,A - Sorted Arrays,asad_IT,0,WA
+2017-04-15 22:25:02+0900,B - Hamiltonish Path,tks,0,RE
+2017-04-15 22:25:00+0900,A - Sorted Arrays,isojin,0,WA
+2017-04-15 22:24:58+0900,B - Hamiltonish Path,lastpoet,0,TLE
+2017-04-15 22:24:57+0900,B - Hamiltonish Path,tankblood,0,WA
+2017-04-15 22:24:56+0900,B - Hamiltonish Path,tspcx,500,AC
+2017-04-15 22:24:54+0900,B - Hamiltonish Path,pashka,500,AC
+2017-04-15 22:24:52+0900,A - Sorted Arrays,levi,300,AC
+2017-04-15 22:24:50+0900,A - Sorted Arrays,ykri021,0,WA
+2017-04-15 22:24:47+0900,A - Sorted Arrays,chenxeney,0,WA
+2017-04-15 22:24:44+0900,B - Hamiltonish Path,jiazihankk,500,AC
+2017-04-15 22:24:40+0900,B - Hamiltonish Path,untan,0,WA
+2017-04-15 22:24:40+0900,C - Ants on a Circle,phidnight,700,AC
+2017-04-15 22:24:36+0900,C - Ants on a Circle,WA_TLE,0,RE
+2017-04-15 22:24:27+0900,C - Ants on a Circle,krijgertje,0,WA
+2017-04-15 22:24:24+0900,B - Hamiltonish Path,Ow1,500,AC
+2017-04-15 22:24:23+0900,C - Ants on a Circle,kosakkun,0,WA
+2017-04-15 22:24:21+0900,B - Hamiltonish Path,tanutarou,0,TLE
+2017-04-15 22:24:20+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:24:16+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:24:15+0900,B - Hamiltonish Path,miyagawa,0,TLE
+2017-04-15 22:24:15+0900,C - Ants on a Circle,Zharaskhan,700,AC
+2017-04-15 22:24:12+0900,B - Hamiltonish Path,tspcx,0,WA
+2017-04-15 22:24:07+0900,C - Ants on a Circle,WA_TLE,0,CE
+2017-04-15 22:24:04+0900,C - Ants on a Circle,sjj118,0,WA
+2017-04-15 22:24:04+0900,A - Sorted Arrays,bhza8987510,0,RE
+2017-04-15 22:24:00+0900,B - Hamiltonish Path,iloveeslam,0,WA
+2017-04-15 22:24:00+0900,C - Ants on a Circle,nobik,0,WA
+2017-04-15 22:23:56+0900,B - Hamiltonish Path,ujzwt4it,0,WA
+2017-04-15 22:23:56+0900,A - Sorted Arrays,hanssy,0,WA
+2017-04-15 22:23:48+0900,A - Sorted Arrays,ykri021,0,WA
+2017-04-15 22:23:46+0900,A - Sorted Arrays,sacheendra9044,0,WA
+2017-04-15 22:23:35+0900,C - Ants on a Circle,IvL,0,WA
+2017-04-15 22:23:35+0900,B - Hamiltonish Path,mondatto,500,AC
+2017-04-15 22:23:34+0900,A - Sorted Arrays,Skyler_,0,TLE
+2017-04-15 22:23:21+0900,B - Hamiltonish Path,xyz600,500,AC
+2017-04-15 22:23:21+0900,D - Piling Up,Andrei1998,0,MLE
+2017-04-15 22:23:11+0900,A - Sorted Arrays,isojin,0,CE
+2017-04-15 22:23:10+0900,B - Hamiltonish Path,toxzi,0,RE
+2017-04-15 22:23:07+0900,C - Ants on a Circle,hoimy,0,WA
+2017-04-15 22:23:06+0900,B - Hamiltonish Path,stni,0,WA
+2017-04-15 22:23:06+0900,B - Hamiltonish Path,gamegame,0,WA
+2017-04-15 22:23:01+0900,C - Ants on a Circle,NurlashKO,700,AC
+2017-04-15 22:23:01+0900,A - Sorted Arrays,qianqian,300,AC
+2017-04-15 22:22:58+0900,A - Sorted Arrays,int_tt,0,RE
+2017-04-15 22:22:56+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 22:22:49+0900,B - Hamiltonish Path,youki,0,RE
+2017-04-15 22:22:47+0900,B - Hamiltonish Path,Ow1,0,TLE
+2017-04-15 22:22:45+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:22:45+0900,A - Sorted Arrays,levi,0,WA
+2017-04-15 22:22:35+0900,C - Ants on a Circle,kurowassann,700,AC
+2017-04-15 22:22:34+0900,C - Ants on a Circle,marshi,0,RE
+2017-04-15 22:22:28+0900,C - Ants on a Circle,alf,0,WA
+2017-04-15 22:22:23+0900,C - Ants on a Circle,kawatea,0,WA
+2017-04-15 22:22:20+0900,C - Ants on a Circle,reew2n,0,WA
+2017-04-15 22:22:19+0900,A - Sorted Arrays,yupshion,0,WA
+2017-04-15 22:22:17+0900,A - Sorted Arrays,whileD,0,WA
+2017-04-15 22:22:16+0900,A - Sorted Arrays,nabehide,300,AC
+2017-04-15 22:22:10+0900,B - Hamiltonish Path,failed_coder,0,WA
+2017-04-15 22:22:08+0900,C - Ants on a Circle,akouryy,0,WA
+2017-04-15 22:22:06+0900,A - Sorted Arrays,Ahtsham,300,AC
+2017-04-15 22:22:05+0900,A - Sorted Arrays,annzi,0,WA
+2017-04-15 22:22:04+0900,A - Sorted Arrays,hsoccer,0,WA
+2017-04-15 22:22:04+0900,B - Hamiltonish Path,albicilla,0,RE
+2017-04-15 22:21:59+0900,B - Hamiltonish Path,polko,0,WA
+2017-04-15 22:21:55+0900,A - Sorted Arrays,polko,0,RE
+2017-04-15 22:21:54+0900,D - Piling Up,ilyakor,900,AC
+2017-04-15 22:21:51+0900,B - Hamiltonish Path,c7c7,0,TLE
+2017-04-15 22:21:45+0900,B - Hamiltonish Path,Ow1,0,TLE
+2017-04-15 22:21:41+0900,A - Sorted Arrays,sdub,0,WA
+2017-04-15 22:21:39+0900,A - Sorted Arrays,skyward,0,WA
+2017-04-15 22:21:38+0900,C - Ants on a Circle,behzad_nouri,700,AC
+2017-04-15 22:21:38+0900,C - Ants on a Circle,phidnight,0,RE
+2017-04-15 22:21:37+0900,B - Hamiltonish Path,Halksel,0,WA
+2017-04-15 22:21:35+0900,A - Sorted Arrays,sunweimin,300,AC
+2017-04-15 22:21:34+0900,C - Ants on a Circle,toma25,0,WA
+2017-04-15 22:21:30+0900,B - Hamiltonish Path,xyz600,0,WA
+2017-04-15 22:21:24+0900,C - Ants on a Circle,remin,0,RE
+2017-04-15 22:21:12+0900,B - Hamiltonish Path,lastpoet,0,TLE
+2017-04-15 22:21:07+0900,C - Ants on a Circle,takamoto,700,AC
+2017-04-15 22:21:05+0900,B - Hamiltonish Path,ishibashijun,0,WA
+2017-04-15 22:21:01+0900,B - Hamiltonish Path,Mahmoud,0,WA
+2017-04-15 22:21:01+0900,C - Ants on a Circle,pekempey,0,WA
+2017-04-15 22:20:59+0900,C - Ants on a Circle,toma25,0,WA
+2017-04-15 22:20:57+0900,B - Hamiltonish Path,Ow1,0,TLE
+2017-04-15 22:20:52+0900,C - Ants on a Circle,Speedster,700,AC
+2017-04-15 22:20:52+0900,B - Hamiltonish Path,scor,0,RE
+2017-04-15 22:20:50+0900,B - Hamiltonish Path,jtnydv25,0,WA
+2017-04-15 22:20:48+0900,A - Sorted Arrays,s1230006,0,WA
+2017-04-15 22:20:41+0900,B - Hamiltonish Path,nitumeta339,500,AC
+2017-04-15 22:20:23+0900,A - Sorted Arrays,bttb,0,WA
+2017-04-15 22:20:18+0900,A - Sorted Arrays,yupshion,0,WA
+2017-04-15 22:20:15+0900,B - Hamiltonish Path,ynymxiaolongbao,0,WA
+2017-04-15 22:20:05+0900,A - Sorted Arrays,kqp,300,AC
+2017-04-15 22:20:01+0900,A - Sorted Arrays,x0214sh7,300,AC
+2017-04-15 22:20:00+0900,C - Ants on a Circle,NurlashKO,0,WA
+2017-04-15 22:19:59+0900,A - Sorted Arrays,hsoccer,0,RE
+2017-04-15 22:19:56+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 22:19:55+0900,B - Hamiltonish Path,RunningTime,0,WA
+2017-04-15 22:19:48+0900,A - Sorted Arrays,wang563681252,300,AC
+2017-04-15 22:19:46+0900,B - Hamiltonish Path,c7c7,0,WA
+2017-04-15 22:19:43+0900,A - Sorted Arrays,hanssy,0,WA
+2017-04-15 22:19:39+0900,C - Ants on a Circle,nobik,0,RE
+2017-04-15 22:19:37+0900,B - Hamiltonish Path,merom686,0,WA
+2017-04-15 22:19:35+0900,B - Hamiltonish Path,tspcx,0,WA
+2017-04-15 22:19:30+0900,A - Sorted Arrays,kumaanba,0,WA
+2017-04-15 22:19:29+0900,B - Hamiltonish Path,satanic0258,500,AC
+2017-04-15 22:19:26+0900,B - Hamiltonish Path,hato_roll,0,WA
+2017-04-15 22:19:19+0900,B - Hamiltonish Path,matsu7874,0,TLE
+2017-04-15 22:19:10+0900,B - Hamiltonish Path,Halksel,0,WA
+2017-04-15 22:19:02+0900,B - Hamiltonish Path,albicilla,0,RE
+2017-04-15 22:18:53+0900,B - Hamiltonish Path,IDoNotKnow,0,WA
+2017-04-15 22:18:51+0900,A - Sorted Arrays,ykri021,0,WA
+2017-04-15 22:18:51+0900,C - Ants on a Circle,mHuman,0,WA
+2017-04-15 22:18:50+0900,A - Sorted Arrays,carbohydrate,0,WA
+2017-04-15 22:18:50+0900,B - Hamiltonish Path,tspcx,0,WA
+2017-04-15 22:18:48+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 22:18:34+0900,B - Hamiltonish Path,jtnydv25,0,WA
+2017-04-15 22:18:26+0900,C - Ants on a Circle,mtsd,0,WA
+2017-04-15 22:18:22+0900,C - Ants on a Circle,takamoto,0,WA
+2017-04-15 22:18:19+0900,A - Sorted Arrays,yupshion,0,WA
+2017-04-15 22:18:18+0900,A - Sorted Arrays,tekitouk,300,AC
+2017-04-15 22:18:17+0900,B - Hamiltonish Path,gtpan77,0,WA
+2017-04-15 22:18:17+0900,B - Hamiltonish Path,Gear,0,WA
+2017-04-15 22:18:16+0900,A - Sorted Arrays,p_8ty,300,AC
+2017-04-15 22:18:16+0900,C - Ants on a Circle,voidmax,0,WA
+2017-04-15 22:18:13+0900,B - Hamiltonish Path,ynymxiaolongbao,0,CE
+2017-04-15 22:18:09+0900,B - Hamiltonish Path,toxzi,0,RE
+2017-04-15 22:18:04+0900,A - Sorted Arrays,estelle0500,300,AC
+2017-04-15 22:18:04+0900,A - Sorted Arrays,hanssy,0,WA
+2017-04-15 22:18:03+0900,B - Hamiltonish Path,halll,0,WA
+2017-04-15 22:18:01+0900,B - Hamiltonish Path,IDoNotKnow,0,RE
+2017-04-15 22:17:53+0900,B - Hamiltonish Path,scor,0,RE
+2017-04-15 22:17:51+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:17:49+0900,B - Hamiltonish Path,kzyKT,0,WA
+2017-04-15 22:17:46+0900,A - Sorted Arrays,int_tt,0,TLE
+2017-04-15 22:17:38+0900,A - Sorted Arrays,La_teth,0,WA
+2017-04-15 22:17:35+0900,C - Ants on a Circle,IanWong,0,WA
+2017-04-15 22:17:32+0900,B - Hamiltonish Path,matsu7874,0,RE
+2017-04-15 22:17:31+0900,A - Sorted Arrays,japan4415,0,RE
+2017-04-15 22:17:22+0900,B - Hamiltonish Path,Rusu,500,AC
+2017-04-15 22:17:18+0900,B - Hamiltonish Path,chentong,0,WA
+2017-04-15 22:17:11+0900,C - Ants on a Circle,tossy,0,WA
+2017-04-15 22:17:07+0900,A - Sorted Arrays,JiangDingyuan,0,WA
+2017-04-15 22:17:06+0900,A - Sorted Arrays,misty1999,0,WA
+2017-04-15 22:17:06+0900,A - Sorted Arrays,misty1999,0,WA
+2017-04-15 22:17:06+0900,A - Sorted Arrays,JiangDingyuan,0,WA
+2017-04-15 22:17:05+0900,A - Sorted Arrays,JiangDingyuan,0,WA
+2017-04-15 22:17:04+0900,B - Hamiltonish Path,Mahmoud,0,WA
+2017-04-15 22:17:02+0900,A - Sorted Arrays,JiangDingyuan,0,WA
+2017-04-15 22:17:01+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 22:17:00+0900,A - Sorted Arrays,JiangDingyuan,0,WA
+2017-04-15 22:16:59+0900,B - Hamiltonish Path,tspcx,0,WA
+2017-04-15 22:16:55+0900,A - Sorted Arrays,bilguunt,0,WA
+2017-04-15 22:16:51+0900,B - Hamiltonish Path,chentong,0,CE
+2017-04-15 22:16:49+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 22:16:48+0900,C - Ants on a Circle,krijgertje,0,WA
+2017-04-15 22:16:46+0900,B - Hamiltonish Path,ACforgood,500,AC
+2017-04-15 22:16:45+0900,D - Piling Up,aid,900,AC
+2017-04-15 22:16:43+0900,C - Ants on a Circle,akouryy,0,WA
+2017-04-15 22:16:38+0900,C - Ants on a Circle,btk15049,0,WA
+2017-04-15 22:16:36+0900,C - Ants on a Circle,voidmax,0,WA
+2017-04-15 22:16:35+0900,B - Hamiltonish Path,lastpoet,0,TLE
+2017-04-15 22:16:33+0900,B - Hamiltonish Path,mondatto,0,WA
+2017-04-15 22:16:30+0900,B - Hamiltonish Path,jimmy,500,AC
+2017-04-15 22:16:26+0900,B - Hamiltonish Path,abisheka,0,WA
+2017-04-15 22:16:25+0900,C - Ants on a Circle,kqp,700,AC
+2017-04-15 22:16:25+0900,B - Hamiltonish Path,tettchan,0,RE
+2017-04-15 22:16:18+0900,B - Hamiltonish Path,toxzi,0,RE
+2017-04-15 22:16:07+0900,B - Hamiltonish Path,satanic0258,0,WA
+2017-04-15 22:16:07+0900,C - Ants on a Circle,reew2n,0,WA
+2017-04-15 22:16:05+0900,A - Sorted Arrays,ykri021,0,WA
+2017-04-15 22:16:05+0900,A - Sorted Arrays,sadtomato,300,AC
+2017-04-15 22:15:59+0900,B - Hamiltonish Path,acmaker,0,WA
+2017-04-15 22:15:56+0900,C - Ants on a Circle,Hec,0,WA
+2017-04-15 22:15:53+0900,B - Hamiltonish Path,mmxsrup,0,WA
+2017-04-15 22:15:51+0900,B - Hamiltonish Path,c7c7,0,TLE
+2017-04-15 22:15:49+0900,C - Ants on a Circle,kawatea,0,WA
+2017-04-15 22:15:47+0900,B - Hamiltonish Path,Charming_Chen,500,AC
+2017-04-15 22:15:44+0900,D - Piling Up,eiya,900,AC
+2017-04-15 22:15:44+0900,B - Hamiltonish Path,shiro46,0,TLE
+2017-04-15 22:15:42+0900,C - Ants on a Circle,neander,0,RE
+2017-04-15 22:15:35+0900,B - Hamiltonish Path,miyagawa,0,TLE
+2017-04-15 22:15:34+0900,A - Sorted Arrays,whileD,0,TLE
+2017-04-15 22:15:26+0900,B - Hamiltonish Path,Johniel,500,AC
+2017-04-15 22:15:24+0900,B - Hamiltonish Path,ACforgood,0,WA
+2017-04-15 22:15:22+0900,C - Ants on a Circle,Zharaskhan,0,WA
+2017-04-15 22:15:10+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:15:08+0900,B - Hamiltonish Path,mondatto,0,WA
+2017-04-15 22:15:05+0900,B - Hamiltonish Path,Charming_Chen,0,WA
+2017-04-15 22:14:57+0900,B - Hamiltonish Path,Ow1,0,WA
+2017-04-15 22:14:52+0900,C - Ants on a Circle,piroz95,700,AC
+2017-04-15 22:14:48+0900,C - Ants on a Circle,atatomir,0,WA
+2017-04-15 22:14:45+0900,B - Hamiltonish Path,IDoNotKnow,0,RE
+2017-04-15 22:14:43+0900,B - Hamiltonish Path,RunningTime,0,WA
+2017-04-15 22:14:36+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 22:14:35+0900,B - Hamiltonish Path,Victor_Lee,500,AC
+2017-04-15 22:14:32+0900,C - Ants on a Circle,marshi,0,TLE
+2017-04-15 22:14:29+0900,B - Hamiltonish Path,shi2chuan1,0,RE
+2017-04-15 22:14:21+0900,D - Piling Up,eiya,0,RE
+2017-04-15 22:14:10+0900,B - Hamiltonish Path,ujzwt4it,0,WA
+2017-04-15 22:14:09+0900,C - Ants on a Circle,kqp,0,RE
+2017-04-15 22:13:56+0900,C - Ants on a Circle,wtw,0,WA
+2017-04-15 22:13:55+0900,C - Ants on a Circle,IanWong,0,WA
+2017-04-15 22:13:46+0900,B - Hamiltonish Path,swm_sxt,500,AC
+2017-04-15 22:13:45+0900,A - Sorted Arrays,takeyarise,0,WA
+2017-04-15 22:13:45+0900,C - Ants on a Circle,WA_TLE,0,RE
+2017-04-15 22:13:37+0900,C - Ants on a Circle,takamoto,0,WA
+2017-04-15 22:13:36+0900,A - Sorted Arrays,jxust161zll,0,WA
+2017-04-15 22:13:36+0900,A - Sorted Arrays,Equator,0,WA
+2017-04-15 22:13:34+0900,C - Ants on a Circle,voidmax,0,WA
+2017-04-15 22:13:33+0900,C - Ants on a Circle,Golovanov399,700,AC
+2017-04-15 22:13:31+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:13:29+0900,A - Sorted Arrays,toshi0507,300,AC
+2017-04-15 22:13:17+0900,A - Sorted Arrays,dicenull,300,AC
+2017-04-15 22:13:08+0900,B - Hamiltonish Path,chentong,0,WA
+2017-04-15 22:13:04+0900,A - Sorted Arrays,chenxeney,0,WA
+2017-04-15 22:12:59+0900,C - Ants on a Circle,schwarzahl,0,TLE
+2017-04-15 22:12:59+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 22:12:54+0900,C - Ants on a Circle,tqyaaaaang,700,AC
+2017-04-15 22:12:53+0900,C - Ants on a Circle,kqp,0,RE
+2017-04-15 22:12:49+0900,C - Ants on a Circle,spica314,0,WA
+2017-04-15 22:12:41+0900,B - Hamiltonish Path,chentong,0,CE
+2017-04-15 22:12:36+0900,A - Sorted Arrays,jxust161zll,0,WA
+2017-04-15 22:12:34+0900,D - Piling Up,XraY,900,AC
+2017-04-15 22:12:33+0900,B - Hamiltonish Path,acmaker,0,WA
+2017-04-15 22:12:33+0900,B - Hamiltonish Path,Ow1,0,RE
+2017-04-15 22:12:29+0900,A - Sorted Arrays,peroon,300,AC
+2017-04-15 22:12:27+0900,B - Hamiltonish Path,fiord,0,WA
+2017-04-15 22:12:25+0900,B - Hamiltonish Path,shiro46,0,TLE
+2017-04-15 22:12:22+0900,C - Ants on a Circle,IanWong,0,WA
+2017-04-15 22:12:17+0900,A - Sorted Arrays,JiangDingyuan,0,WA
+2017-04-15 22:12:15+0900,A - Sorted Arrays,karakasa,0,WA
+2017-04-15 22:11:58+0900,B - Hamiltonish Path,Ow1,0,RE
+2017-04-15 22:11:57+0900,A - Sorted Arrays,jack0710,0,WA
+2017-04-15 22:11:56+0900,C - Ants on a Circle,tossy,0,WA
+2017-04-15 22:11:55+0900,C - Ants on a Circle,zemen,700,AC
+2017-04-15 22:11:52+0900,A - Sorted Arrays,takeyarise,0,WA
+2017-04-15 22:11:49+0900,B - Hamiltonish Path,obsproth,0,RE
+2017-04-15 22:11:47+0900,B - Hamiltonish Path,tiny_code,0,WA
+2017-04-15 22:11:40+0900,A - Sorted Arrays,chenxeney,0,WA
+2017-04-15 22:11:39+0900,A - Sorted Arrays,SmallSir,0,WA
+2017-04-15 22:11:38+0900,A - Sorted Arrays,yamagenii,0,WA
+2017-04-15 22:11:30+0900,A - Sorted Arrays,xiebanmeiqin,0,WA
+2017-04-15 22:11:23+0900,C - Ants on a Circle,pekempey,0,WA
+2017-04-15 22:11:21+0900,A - Sorted Arrays,JiangDingyuan,0,WA
+2017-04-15 22:11:20+0900,C - Ants on a Circle,IanWong,0,WA
+2017-04-15 22:11:18+0900,A - Sorted Arrays,Equator,0,WA
+2017-04-15 22:11:16+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:11:15+0900,B - Hamiltonish Path,Victor_Lee,0,WA
+2017-04-15 22:11:12+0900,A - Sorted Arrays,sunweimin,0,WA
+2017-04-15 22:11:11+0900,B - Hamiltonish Path,akarin55,0,TLE
+2017-04-15 22:11:06+0900,C - Ants on a Circle,voidmax,0,WA
+2017-04-15 22:11:02+0900,A - Sorted Arrays,karakasa,0,WA
+2017-04-15 22:11:00+0900,C - Ants on a Circle,utdotk,0,TLE
+2017-04-15 22:11:00+0900,B - Hamiltonish Path,yassin,500,AC
+2017-04-15 22:10:57+0900,A - Sorted Arrays,bttb,0,WA
+2017-04-15 22:10:56+0900,B - Hamiltonish Path,TakaakiUmedu,0,RE
+2017-04-15 22:10:50+0900,A - Sorted Arrays,jasamdobro,300,AC
+2017-04-15 22:10:50+0900,A - Sorted Arrays,kumaanba,0,WA
+2017-04-15 22:10:50+0900,A - Sorted Arrays,ei13333,300,AC
+2017-04-15 22:10:37+0900,B - Hamiltonish Path,phyllo,0,WA
+2017-04-15 22:10:35+0900,B - Hamiltonish Path,swm_sxt,0,WA
+2017-04-15 22:10:16+0900,C - Ants on a Circle,shink0120,0,RE
+2017-04-15 22:10:14+0900,B - Hamiltonish Path,jtnydv25,0,WA
+2017-04-15 22:10:12+0900,C - Ants on a Circle,hamayanhamayan,700,AC
+2017-04-15 22:10:04+0900,B - Hamiltonish Path,iloveeslam,0,WA
+2017-04-15 22:10:03+0900,B - Hamiltonish Path,Victor_Lee,0,WA
+2017-04-15 22:10:01+0900,A - Sorted Arrays,halll,0,WA
+2017-04-15 22:10:01+0900,B - Hamiltonish Path,t8m8,500,AC
+2017-04-15 22:09:58+0900,B - Hamiltonish Path,ravenclaws1,0,WA
+2017-04-15 22:09:46+0900,B - Hamiltonish Path,rubabredwan,500,AC
+2017-04-15 22:09:44+0900,C - Ants on a Circle,zemen,0,WA
+2017-04-15 22:09:38+0900,A - Sorted Arrays,mizutoki_,300,AC
+2017-04-15 22:09:37+0900,C - Ants on a Circle,tossy,0,WA
+2017-04-15 22:09:34+0900,B - Hamiltonish Path,gritukan,500,AC
+2017-04-15 22:09:34+0900,A - Sorted Arrays,birdway,0,RE
+2017-04-15 22:09:31+0900,C - Ants on a Circle,limitimil,0,WA
+2017-04-15 22:09:27+0900,B - Hamiltonish Path,shi2chuan1,0,RE
+2017-04-15 22:09:26+0900,C - Ants on a Circle,yutaka1999,700,AC
+2017-04-15 22:09:22+0900,B - Hamiltonish Path,hsiml1014,0,WA
+2017-04-15 22:09:21+0900,A - Sorted Arrays,roto_37,0,WA
+2017-04-15 22:09:19+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 22:09:18+0900,C - Ants on a Circle,piroz95,0,RE
+2017-04-15 22:09:17+0900,B - Hamiltonish Path,PIandS,500,AC
+2017-04-15 22:09:17+0900,A - Sorted Arrays,chari,300,AC
+2017-04-15 22:09:16+0900,C - Ants on a Circle,IvL,0,WA
+2017-04-15 22:09:11+0900,A - Sorted Arrays,p_8ty,0,WA
+2017-04-15 22:09:09+0900,C - Ants on a Circle,tossy,0,CE
+2017-04-15 22:09:02+0900,D - Piling Up,Petr,900,AC
+2017-04-15 22:08:58+0900,B - Hamiltonish Path,iica,500,AC
+2017-04-15 22:08:50+0900,B - Hamiltonish Path,Gealo,0,WA
+2017-04-15 22:08:43+0900,B - Hamiltonish Path,scor,0,RE
+2017-04-15 22:08:34+0900,A - Sorted Arrays,int_tt,0,WA
+2017-04-15 22:08:34+0900,B - Hamiltonish Path,Gear,0,WA
+2017-04-15 22:08:30+0900,B - Hamiltonish Path,Halksel,0,WA
+2017-04-15 22:08:30+0900,C - Ants on a Circle,duongthoi1999,0,WA
+2017-04-15 22:08:28+0900,B - Hamiltonish Path,tiny_code,0,WA
+2017-04-15 22:08:28+0900,B - Hamiltonish Path,a_kawashiro,500,AC
+2017-04-15 22:08:27+0900,C - Ants on a Circle,tqyaaaaang,0,WA
+2017-04-15 22:08:23+0900,A - Sorted Arrays,wang563681252,0,WA
+2017-04-15 22:08:23+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:08:22+0900,B - Hamiltonish Path,chentong,0,WA
+2017-04-15 22:08:20+0900,B - Hamiltonish Path,funcsr,500,AC
+2017-04-15 22:08:20+0900,B - Hamiltonish Path,c7c7,0,CE
+2017-04-15 22:08:08+0900,B - Hamiltonish Path,hato_roll,0,WA
+2017-04-15 22:08:06+0900,C - Ants on a Circle,takamoto,0,WA
+2017-04-15 22:08:05+0900,A - Sorted Arrays,chahan69,300,AC
+2017-04-15 22:07:52+0900,A - Sorted Arrays,kcvlex,0,WA
+2017-04-15 22:07:46+0900,C - Ants on a Circle,zemen,0,WA
+2017-04-15 22:07:45+0900,A - Sorted Arrays,Zoedexinzhuang,0,WA
+2017-04-15 22:07:43+0900,B - Hamiltonish Path,c7c7,0,CE
+2017-04-15 22:07:41+0900,A - Sorted Arrays,holeguma,0,WA
+2017-04-15 22:07:39+0900,C - Ants on a Circle,furuya1223,700,AC
+2017-04-15 22:07:37+0900,A - Sorted Arrays,aim_cpo,0,WA
+2017-04-15 22:07:30+0900,B - Hamiltonish Path,Victor_Lee,0,WA
+2017-04-15 22:07:28+0900,A - Sorted Arrays,SmallSir,0,WA
+2017-04-15 22:07:24+0900,B - Hamiltonish Path,cuber2460,0,WA
+2017-04-15 22:07:23+0900,B - Hamiltonish Path,tanutarou,0,RE
+2017-04-15 22:07:23+0900,B - Hamiltonish Path,Gear,0,WA
+2017-04-15 22:07:22+0900,B - Hamiltonish Path,funcsr,0,TLE
+2017-04-15 22:07:17+0900,B - Hamiltonish Path,emon,0,TLE
+2017-04-15 22:07:16+0900,C - Ants on a Circle,atatomir,0,WA
+2017-04-15 22:07:15+0900,B - Hamiltonish Path,chentong,0,WA
+2017-04-15 22:07:13+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:07:05+0900,A - Sorted Arrays,OccccccuPie,300,AC
+2017-04-15 22:07:04+0900,C - Ants on a Circle,voidmax,0,WA
+2017-04-15 22:06:52+0900,B - Hamiltonish Path,c7c7,0,RE
+2017-04-15 22:06:52+0900,B - Hamiltonish Path,akarin55,0,TLE
+2017-04-15 22:06:49+0900,B - Hamiltonish Path,PIandS,0,TLE
+2017-04-15 22:06:43+0900,C - Ants on a Circle,goodqt,0,WA
+2017-04-15 22:06:42+0900,A - Sorted Arrays,iica,300,AC
+2017-04-15 22:06:28+0900,B - Hamiltonish Path,masafumi,500,AC
+2017-04-15 22:06:24+0900,A - Sorted Arrays,birdway,0,RE
+2017-04-15 22:06:24+0900,B - Hamiltonish Path,qinghaili,500,AC
+2017-04-15 22:06:21+0900,A - Sorted Arrays,La_teth,0,WA
+2017-04-15 22:06:16+0900,B - Hamiltonish Path,jtnydv25,0,WA
+2017-04-15 22:06:10+0900,A - Sorted Arrays,dicenull,0,RE
+2017-04-15 22:06:05+0900,B - Hamiltonish Path,iica,0,WA
+2017-04-15 22:06:02+0900,A - Sorted Arrays,guroota,300,AC
+2017-04-15 22:06:01+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:06:01+0900,A - Sorted Arrays,daizu39,300,AC
+2017-04-15 22:06:00+0900,B - Hamiltonish Path,nebukuro09,0,WA
+2017-04-15 22:05:59+0900,C - Ants on a Circle,latte0119,700,AC
+2017-04-15 22:05:58+0900,C - Ants on a Circle,sjj118,0,WA
+2017-04-15 22:05:57+0900,A - Sorted Arrays,karakasa,0,WA
+2017-04-15 22:05:42+0900,A - Sorted Arrays,int_tt,0,WA
+2017-04-15 22:05:36+0900,B - Hamiltonish Path,qinghaili,0,WA
+2017-04-15 22:05:35+0900,B - Hamiltonish Path,phyllo,0,TLE
+2017-04-15 22:05:34+0900,B - Hamiltonish Path,nenuon,500,AC
+2017-04-15 22:05:29+0900,A - Sorted Arrays,tks,300,AC
+2017-04-15 22:05:24+0900,C - Ants on a Circle,qijew,0,TLE
+2017-04-15 22:05:23+0900,D - Piling Up,aid,0,WA
+2017-04-15 22:05:22+0900,B - Hamiltonish Path,gritukan,0,WA
+2017-04-15 22:05:14+0900,C - Ants on a Circle,mislav,0,WA
+2017-04-15 22:05:10+0900,C - Ants on a Circle,ajs97,700,AC
+2017-04-15 22:05:05+0900,B - Hamiltonish Path,hoxosh,0,WA
+2017-04-15 22:05:05+0900,B - Hamiltonish Path,Gear,0,WA
+2017-04-15 22:05:04+0900,A - Sorted Arrays,SmallSir,0,WA
+2017-04-15 22:04:58+0900,A - Sorted Arrays,chahan69,0,WA
+2017-04-15 22:04:55+0900,B - Hamiltonish Path,Ktya_59,500,AC
+2017-04-15 22:04:50+0900,B - Hamiltonish Path,tiny_code,0,WA
+2017-04-15 22:04:49+0900,B - Hamiltonish Path,freeloop,0,WA
+2017-04-15 22:04:49+0900,B - Hamiltonish Path,sakky711,500,AC
+2017-04-15 22:04:49+0900,C - Ants on a Circle,IvL,0,WA
+2017-04-15 22:04:45+0900,C - Ants on a Circle,pekempey,0,WA
+2017-04-15 22:04:44+0900,A - Sorted Arrays,agtiz,0,WA
+2017-04-15 22:04:40+0900,A - Sorted Arrays,chenxeney,0,WA
+2017-04-15 22:04:37+0900,A - Sorted Arrays,tsuburin,300,AC
+2017-04-15 22:04:34+0900,B - Hamiltonish Path,funcsr,0,TLE
+2017-04-15 22:04:33+0900,A - Sorted Arrays,Rusu,300,AC
+2017-04-15 22:04:33+0900,C - Ants on a Circle,reew2n,0,WA
+2017-04-15 22:04:32+0900,B - Hamiltonish Path,tankblood,0,WA
+2017-04-15 22:04:26+0900,A - Sorted Arrays,sadtomato,0,WA
+2017-04-15 22:04:24+0900,A - Sorted Arrays,yupshion,0,WA
+2017-04-15 22:04:22+0900,C - Ants on a Circle,tossy,0,WA
+2017-04-15 22:04:20+0900,A - Sorted Arrays,Zoedexinzhuang,0,WA
+2017-04-15 22:04:16+0900,C - Ants on a Circle,yosupo,700,AC
+2017-04-15 22:04:15+0900,A - Sorted Arrays,dicenull,0,RE
+2017-04-15 22:04:15+0900,B - Hamiltonish Path,Gear,0,WA
+2017-04-15 22:04:13+0900,C - Ants on a Circle,schwarzahl,0,TLE
+2017-04-15 22:04:09+0900,A - Sorted Arrays,qianqian,0,WA
+2017-04-15 22:04:08+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 22:04:06+0900,B - Hamiltonish Path,yamaimo,500,AC
+2017-04-15 22:03:56+0900,A - Sorted Arrays,wang563681252,0,WA
+2017-04-15 22:03:52+0900,A - Sorted Arrays,Mngshmok,0,RE
+2017-04-15 22:03:51+0900,B - Hamiltonish Path,youki,0,WA
+2017-04-15 22:03:40+0900,B - Hamiltonish Path,Ow1,0,TLE
+2017-04-15 22:03:38+0900,B - Hamiltonish Path,funcsr,0,TLE
+2017-04-15 22:03:28+0900,C - Ants on a Circle,hshota0530,0,TLE
+2017-04-15 22:03:27+0900,B - Hamiltonish Path,suigingin,500,AC
+2017-04-15 22:03:27+0900,B - Hamiltonish Path,obsproth,0,RE
+2017-04-15 22:03:25+0900,B - Hamiltonish Path,jtnydv25,0,WA
+2017-04-15 22:03:23+0900,A - Sorted Arrays,bttb,0,WA
+2017-04-15 22:03:22+0900,C - Ants on a Circle,furuya1223,0,WA
+2017-04-15 22:03:19+0900,B - Hamiltonish Path,Tatsuno,0,RE
+2017-04-15 22:03:19+0900,B - Hamiltonish Path,hoxosh,0,RE
+2017-04-15 22:03:13+0900,B - Hamiltonish Path,emon,0,WA
+2017-04-15 22:03:03+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 22:02:58+0900,B - Hamiltonish Path,kurumaebi,500,AC
+2017-04-15 22:02:54+0900,A - Sorted Arrays,mgr3512,0,WA
+2017-04-15 22:02:53+0900,B - Hamiltonish Path,acmaker,0,WA
+2017-04-15 22:02:48+0900,C - Ants on a Circle,zhongzihao,0,WA
+2017-04-15 22:02:40+0900,C - Ants on a Circle,reew2n,0,WA
+2017-04-15 22:02:36+0900,A - Sorted Arrays,nmjiri,0,WA
+2017-04-15 22:02:36+0900,B - Hamiltonish Path,matsu7874,0,TLE
+2017-04-15 22:02:30+0900,B - Hamiltonish Path,scor,0,RE
+2017-04-15 22:02:11+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 22:02:10+0900,A - Sorted Arrays,ShinjiSHIBATA,0,WA
+2017-04-15 22:02:09+0900,B - Hamiltonish Path,300iq,500,AC
+2017-04-15 22:02:08+0900,C - Ants on a Circle,IvL,0,WA
+2017-04-15 22:02:07+0900,B - Hamiltonish Path,jtnydv25,0,WA
+2017-04-15 22:02:07+0900,A - Sorted Arrays,ykri021,0,WA
+2017-04-15 22:02:04+0900,A - Sorted Arrays,jaus,300,AC
+2017-04-15 22:02:04+0900,B - Hamiltonish Path,btk15049,500,AC
+2017-04-15 22:01:59+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:01:57+0900,A - Sorted Arrays,XzzF,0,WA
+2017-04-15 22:01:52+0900,C - Ants on a Circle,btk15049,0,WA
+2017-04-15 22:01:50+0900,A - Sorted Arrays,shouta,300,AC
+2017-04-15 22:01:49+0900,C - Ants on a Circle,ei13333,700,AC
+2017-04-15 22:01:44+0900,A - Sorted Arrays,simanto,300,AC
+2017-04-15 22:01:38+0900,A - Sorted Arrays,halll,0,WA
+2017-04-15 22:01:38+0900,C - Ants on a Circle,tossy,0,WA
+2017-04-15 22:01:37+0900,A - Sorted Arrays,jack0710,0,WA
+2017-04-15 22:01:23+0900,A - Sorted Arrays,Saiyan_Warrior,300,AC
+2017-04-15 22:01:22+0900,C - Ants on a Circle,jonathanirvings,0,WA
+2017-04-15 22:01:22+0900,C - Ants on a Circle,mjy0724,0,WA
+2017-04-15 22:01:22+0900,A - Sorted Arrays,JiangDingyuan,0,WA
+2017-04-15 22:01:20+0900,C - Ants on a Circle,EgorLifar,0,WA
+2017-04-15 22:01:17+0900,A - Sorted Arrays,hanssy,0,WA
+2017-04-15 22:01:13+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 22:01:12+0900,B - Hamiltonish Path,mondatto,0,WA
+2017-04-15 22:01:11+0900,A - Sorted Arrays,sunweimin,0,WA
+2017-04-15 22:01:08+0900,A - Sorted Arrays,iaur64,0,WA
+2017-04-15 22:01:04+0900,E - Placing Squares,Reyna,1600,AC
+2017-04-15 22:01:01+0900,B - Hamiltonish Path,obsproth,0,RE
+2017-04-15 22:00:53+0900,C - Ants on a Circle,Swistakk,700,AC
+2017-04-15 22:00:51+0900,A - Sorted Arrays,p_8ty,0,TLE
+2017-04-15 22:00:50+0900,A - Sorted Arrays,Thistle,0,RE
+2017-04-15 22:00:46+0900,A - Sorted Arrays,lingxue,0,WA
+2017-04-15 22:00:42+0900,C - Ants on a Circle,cchao,0,WA
+2017-04-15 22:00:34+0900,A - Sorted Arrays,Lionking07,0,WA
+2017-04-15 22:00:30+0900,C - Ants on a Circle,Hec,0,WA
+2017-04-15 22:00:30+0900,B - Hamiltonish Path,user32,500,AC
+2017-04-15 22:00:18+0900,A - Sorted Arrays,xing,0,WA
+2017-04-15 22:00:17+0900,A - Sorted Arrays,Mngshmok,0,WA
+2017-04-15 22:00:15+0900,B - Hamiltonish Path,shi2chuan1,0,RE
+2017-04-15 22:00:12+0900,A - Sorted Arrays,Watake,0,WA
+2017-04-15 22:00:09+0900,A - Sorted Arrays,ant2357,0,WA
+2017-04-15 22:00:01+0900,A - Sorted Arrays,kcvlex,0,WA
+2017-04-15 21:59:58+0900,A - Sorted Arrays,La_teth,0,WA
+2017-04-15 21:59:55+0900,B - Hamiltonish Path,chuka231,500,AC
+2017-04-15 21:59:52+0900,B - Hamiltonish Path,mmxsrup,0,WA
+2017-04-15 21:59:40+0900,A - Sorted Arrays,jack0710,0,WA
+2017-04-15 21:59:40+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 21:59:33+0900,C - Ants on a Circle,yukim,0,WA
+2017-04-15 21:59:31+0900,A - Sorted Arrays,zerocool,0,TLE
+2017-04-15 21:59:27+0900,B - Hamiltonish Path,zaki_,500,AC
+2017-04-15 21:59:26+0900,D - Piling Up,pashka,900,AC
+2017-04-15 21:59:24+0900,C - Ants on a Circle,tossy,0,WA
+2017-04-15 21:59:23+0900,B - Hamiltonish Path,claw88,0,WA
+2017-04-15 21:59:22+0900,A - Sorted Arrays,reitetsu,300,AC
+2017-04-15 21:59:21+0900,B - Hamiltonish Path,akarin55,0,TLE
+2017-04-15 21:59:15+0900,B - Hamiltonish Path,maze1230,0,RE
+2017-04-15 21:59:02+0900,C - Ants on a Circle,hshota0530,0,TLE
+2017-04-15 21:59:02+0900,A - Sorted Arrays,mm14,300,AC
+2017-04-15 21:59:02+0900,C - Ants on a Circle,nyashiki,0,WA
+2017-04-15 21:58:54+0900,B - Hamiltonish Path,naoki2016,500,AC
+2017-04-15 21:58:53+0900,A - Sorted Arrays,King_George,300,AC
+2017-04-15 21:58:51+0900,B - Hamiltonish Path,miyajiro,500,AC
+2017-04-15 21:58:48+0900,C - Ants on a Circle,zemen,0,WA
+2017-04-15 21:58:47+0900,C - Ants on a Circle,AmSen,700,AC
+2017-04-15 21:58:43+0900,B - Hamiltonish Path,claw88,0,CE
+2017-04-15 21:58:39+0900,B - Hamiltonish Path,chuka231,0,WA
+2017-04-15 21:58:30+0900,A - Sorted Arrays,Equator,0,WA
+2017-04-15 21:58:30+0900,A - Sorted Arrays,frnfnts,300,AC
+2017-04-15 21:58:22+0900,A - Sorted Arrays,jack0710,0,WA
+2017-04-15 21:58:20+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 21:58:19+0900,B - Hamiltonish Path,tralalala,500,AC
+2017-04-15 21:58:18+0900,A - Sorted Arrays,wangxinliang,300,AC
+2017-04-15 21:58:17+0900,B - Hamiltonish Path,emon,0,TLE
+2017-04-15 21:58:11+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 21:58:09+0900,A - Sorted Arrays,chahan69,0,RE
+2017-04-15 21:58:06+0900,B - Hamiltonish Path,phyllo,0,TLE
+2017-04-15 21:57:57+0900,B - Hamiltonish Path,horcrux,500,AC
+2017-04-15 21:57:56+0900,A - Sorted Arrays,agw02010,300,AC
+2017-04-15 21:57:56+0900,A - Sorted Arrays,delta71,0,WA
+2017-04-15 21:57:55+0900,A - Sorted Arrays,jxust161zll,0,WA
+2017-04-15 21:57:55+0900,A - Sorted Arrays,chenxeney,0,WA
+2017-04-15 21:57:54+0900,B - Hamiltonish Path,mxzf0213,500,AC
+2017-04-15 21:57:50+0900,B - Hamiltonish Path,Lucida,500,AC
+2017-04-15 21:57:35+0900,B - Hamiltonish Path,bomac1,500,AC
+2017-04-15 21:57:19+0900,A - Sorted Arrays,tingmengyuan,0,RE
+2017-04-15 21:57:15+0900,C - Ants on a Circle,reew2n,0,WA
+2017-04-15 21:57:15+0900,B - Hamiltonish Path,matsu7874,0,TLE
+2017-04-15 21:57:13+0900,B - Hamiltonish Path,dened,500,AC
+2017-04-15 21:57:09+0900,B - Hamiltonish Path,ats5515,500,AC
+2017-04-15 21:57:08+0900,B - Hamiltonish Path,phyllo,0,WA
+2017-04-15 21:57:07+0900,C - Ants on a Circle,schwarzahl,0,TLE
+2017-04-15 21:56:52+0900,B - Hamiltonish Path,ion,500,AC
+2017-04-15 21:56:48+0900,A - Sorted Arrays,jj,300,AC
+2017-04-15 21:56:47+0900,C - Ants on a Circle,kosakkun,0,WA
+2017-04-15 21:56:41+0900,A - Sorted Arrays,ykri021,0,WA
+2017-04-15 21:56:36+0900,C - Ants on a Circle,tossy,0,WA
+2017-04-15 21:56:36+0900,B - Hamiltonish Path,M_Saito,500,AC
+2017-04-15 21:56:35+0900,B - Hamiltonish Path,naoki2016,0,WA
+2017-04-15 21:56:34+0900,A - Sorted Arrays,s496t,300,AC
+2017-04-15 21:56:34+0900,B - Hamiltonish Path,iica,0,CE
+2017-04-15 21:56:33+0900,B - Hamiltonish Path,Lucida,0,WA
+2017-04-15 21:56:28+0900,B - Hamiltonish Path,claw88,0,WA
+2017-04-15 21:56:25+0900,B - Hamiltonish Path,mondatto,0,WA
+2017-04-15 21:56:23+0900,B - Hamiltonish Path,mmxsrup,0,WA
+2017-04-15 21:56:19+0900,B - Hamiltonish Path,t8m8,0,WA
+2017-04-15 21:56:16+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 21:56:07+0900,B - Hamiltonish Path,pachicobue,0,WA
+2017-04-15 21:56:05+0900,B - Hamiltonish Path,kawabys,500,AC
+2017-04-15 21:55:59+0900,C - Ants on a Circle,jonathanirvings,0,WA
+2017-04-15 21:55:58+0900,B - Hamiltonish Path,tralalala,0,WA
+2017-04-15 21:55:52+0900,A - Sorted Arrays,hoimy,0,WA
+2017-04-15 21:55:49+0900,B - Hamiltonish Path,King_George,500,AC
+2017-04-15 21:55:49+0900,D - Piling Up,Whalanator,900,AC
+2017-04-15 21:55:40+0900,B - Hamiltonish Path,yxl,0,WA
+2017-04-15 21:55:38+0900,C - Ants on a Circle,yosupo,0,WA
+2017-04-15 21:55:29+0900,B - Hamiltonish Path,Ow1,0,TLE
+2017-04-15 21:55:29+0900,B - Hamiltonish Path,Light_Kiss,500,AC
+2017-04-15 21:55:23+0900,C - Ants on a Circle,takamoto,0,WA
+2017-04-15 21:55:20+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 21:55:17+0900,B - Hamiltonish Path,emon,0,TLE
+2017-04-15 21:55:17+0900,A - Sorted Arrays,tokumei_jp,0,WA
+2017-04-15 21:55:14+0900,B - Hamiltonish Path,ion,0,WA
+2017-04-15 21:55:10+0900,B - Hamiltonish Path,Ra16bit,500,AC
+2017-04-15 21:55:06+0900,B - Hamiltonish Path,facmlove,0,WA
+2017-04-15 21:55:04+0900,A - Sorted Arrays,StoneDot,300,AC
+2017-04-15 21:54:51+0900,B - Hamiltonish Path,M_Saito,0,WA
+2017-04-15 21:54:46+0900,C - Ants on a Circle,pashka,700,AC
+2017-04-15 21:54:40+0900,A - Sorted Arrays,k_ashiya,300,AC
+2017-04-15 21:54:40+0900,B - Hamiltonish Path,lzw4896s,500,AC
+2017-04-15 21:54:39+0900,C - Ants on a Circle,cchao,0,WA
+2017-04-15 21:54:30+0900,C - Ants on a Circle,yu3mars,0,WA
+2017-04-15 21:54:30+0900,C - Ants on a Circle,yukim,0,WA
+2017-04-15 21:54:25+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 21:54:19+0900,B - Hamiltonish Path,tiny_code,0,RE
+2017-04-15 21:54:17+0900,B - Hamiltonish Path,mohit22995,0,WA
+2017-04-15 21:54:14+0900,B - Hamiltonish Path,hahatianx,0,TLE
+2017-04-15 21:54:01+0900,C - Ants on a Circle,mHuman,0,WA
+2017-04-15 21:53:59+0900,A - Sorted Arrays,tsuneo,300,AC
+2017-04-15 21:53:56+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 21:53:56+0900,A - Sorted Arrays,sopurani885,300,AC
+2017-04-15 21:53:54+0900,B - Hamiltonish Path,t8m8,0,WA
+2017-04-15 21:53:53+0900,B - Hamiltonish Path,mcalancea,0,RE
+2017-04-15 21:53:52+0900,A - Sorted Arrays,xing,0,WA
+2017-04-15 21:53:49+0900,C - Ants on a Circle,zemen,0,WA
+2017-04-15 21:53:47+0900,A - Sorted Arrays,hoimy,0,WA
+2017-04-15 21:53:40+0900,B - Hamiltonish Path,Temirulan,500,AC
+2017-04-15 21:53:38+0900,A - Sorted Arrays,emon,0,RE
+2017-04-15 21:53:34+0900,C - Ants on a Circle,tqyaaaaang,0,WA
+2017-04-15 21:53:31+0900,B - Hamiltonish Path,mxzf0213,0,WA
+2017-04-15 21:53:29+0900,A - Sorted Arrays,kwkm0429,0,WA
+2017-04-15 21:53:26+0900,B - Hamiltonish Path,hahatianx,0,TLE
+2017-04-15 21:53:24+0900,B - Hamiltonish Path,phyllo,0,TLE
+2017-04-15 21:53:23+0900,B - Hamiltonish Path,suginamiku,500,AC
+2017-04-15 21:53:19+0900,A - Sorted Arrays,baitosenshi,300,AC
+2017-04-15 21:53:16+0900,B - Hamiltonish Path,facmlove,0,CE
+2017-04-15 21:52:59+0900,A - Sorted Arrays,tcg398,0,WA
+2017-04-15 21:52:58+0900,B - Hamiltonish Path,t8m8,0,WA
+2017-04-15 21:52:52+0900,B - Hamiltonish Path,emon,0,TLE
+2017-04-15 21:52:49+0900,B - Hamiltonish Path,toma25,500,AC
+2017-04-15 21:52:42+0900,A - Sorted Arrays,do2424,0,WA
+2017-04-15 21:52:40+0900,C - Ants on a Circle,jonathanirvings,0,WA
+2017-04-15 21:52:35+0900,A - Sorted Arrays,hanssy,0,WA
+2017-04-15 21:52:34+0900,B - Hamiltonish Path,yosupo,500,AC
+2017-04-15 21:52:33+0900,A - Sorted Arrays,PeterB,0,WA
+2017-04-15 21:52:28+0900,B - Hamiltonish Path,mmxsrup,0,RE
+2017-04-15 21:52:25+0900,B - Hamiltonish Path,jtnydv25,0,WA
+2017-04-15 21:52:23+0900,A - Sorted Arrays,La_teth,0,WA
+2017-04-15 21:52:23+0900,B - Hamiltonish Path,goto,500,AC
+2017-04-15 21:52:17+0900,A - Sorted Arrays,zerocool,0,TLE
+2017-04-15 21:52:15+0900,A - Sorted Arrays,kumaanba,0,WA
+2017-04-15 21:52:14+0900,A - Sorted Arrays,tuna_roll,300,AC
+2017-04-15 21:52:10+0900,C - Ants on a Circle,Stonefeang,700,AC
+2017-04-15 21:52:07+0900,C - Ants on a Circle,cchao,0,WA
+2017-04-15 21:52:06+0900,A - Sorted Arrays,holeguma,0,WA
+2017-04-15 21:52:06+0900,A - Sorted Arrays,ZxFkcjgN,300,AC
+2017-04-15 21:52:03+0900,B - Hamiltonish Path,cjqw,500,AC
+2017-04-15 21:51:47+0900,B - Hamiltonish Path,facmlove,0,CE
+2017-04-15 21:51:43+0900,A - Sorted Arrays,bakanaouji,300,AC
+2017-04-15 21:51:42+0900,A - Sorted Arrays,Saiyan_Warrior,0,WA
+2017-04-15 21:51:34+0900,A - Sorted Arrays,reitetsu,0,WA
+2017-04-15 21:51:33+0900,A - Sorted Arrays,hanssy,0,WA
+2017-04-15 21:51:32+0900,A - Sorted Arrays,tuna_roll,300,AC
+2017-04-15 21:51:23+0900,A - Sorted Arrays,tingmengyuan,0,RE
+2017-04-15 21:51:23+0900,A - Sorted Arrays,karakasa,0,WA
+2017-04-15 21:51:22+0900,B - Hamiltonish Path,cjquines,0,WA
+2017-04-15 21:51:15+0900,A - Sorted Arrays,tettchan,300,AC
+2017-04-15 21:51:11+0900,A - Sorted Arrays,Martial,300,AC
+2017-04-15 21:51:10+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 21:51:04+0900,B - Hamiltonish Path,Norrius,500,AC
+2017-04-15 21:51:03+0900,B - Hamiltonish Path,kawabys,0,WA
+2017-04-15 21:50:57+0900,A - Sorted Arrays,Zoedexinzhuang,0,WA
+2017-04-15 21:50:52+0900,D - Piling Up,geniucos,900,AC
+2017-04-15 21:50:51+0900,B - Hamiltonish Path,imulan,500,AC
+2017-04-15 21:50:51+0900,B - Hamiltonish Path,ZZZZone,0,WA
+2017-04-15 21:50:35+0900,A - Sorted Arrays,AFiFY,0,CE
+2017-04-15 21:50:33+0900,B - Hamiltonish Path,Lucida,0,WA
+2017-04-15 21:50:22+0900,C - Ants on a Circle,takamoto,0,WA
+2017-04-15 21:50:16+0900,B - Hamiltonish Path,naoki2016,0,WA
+2017-04-15 21:50:13+0900,A - Sorted Arrays,usernameson,300,AC
+2017-04-15 21:50:09+0900,B - Hamiltonish Path,reality,500,AC
+2017-04-15 21:50:06+0900,B - Hamiltonish Path,phyllo,0,WA
+2017-04-15 21:49:59+0900,B - Hamiltonish Path,AL2K,0,WA
+2017-04-15 21:49:59+0900,A - Sorted Arrays,birdway,0,RE
+2017-04-15 21:49:58+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 21:49:57+0900,C - Ants on a Circle,Timur_Sitdikov,700,AC
+2017-04-15 21:49:54+0900,B - Hamiltonish Path,cuber2460,0,WA
+2017-04-15 21:49:53+0900,B - Hamiltonish Path,shubhamgoyal__,0,WA
+2017-04-15 21:49:52+0900,A - Sorted Arrays,takeyarise,0,WA
+2017-04-15 21:49:47+0900,A - Sorted Arrays,jj,0,RE
+2017-04-15 21:49:46+0900,B - Hamiltonish Path,suigingin,0,WA
+2017-04-15 21:49:44+0900,B - Hamiltonish Path,cjqw,0,WA
+2017-04-15 21:49:42+0900,A - Sorted Arrays,cyblack,300,AC
+2017-04-15 21:49:40+0900,B - Hamiltonish Path,uenoku,500,AC
+2017-04-15 21:49:33+0900,C - Ants on a Circle,TeaPot,700,AC
+2017-04-15 21:49:18+0900,B - Hamiltonish Path,ion,0,RE
+2017-04-15 21:49:17+0900,B - Hamiltonish Path,gldfnch,500,AC
+2017-04-15 21:49:11+0900,B - Hamiltonish Path,dened,0,WA
+2017-04-15 21:49:11+0900,A - Sorted Arrays,jj,0,WA
+2017-04-15 21:49:09+0900,C - Ants on a Circle,rsalesc,700,AC
+2017-04-15 21:49:05+0900,B - Hamiltonish Path,ZZZZone,0,WA
+2017-04-15 21:48:57+0900,B - Hamiltonish Path,c7c7,0,RE
+2017-04-15 21:48:56+0900,B - Hamiltonish Path,NurlashKO,500,AC
+2017-04-15 21:48:56+0900,A - Sorted Arrays,jasamdobro,0,WA
+2017-04-15 21:48:45+0900,C - Ants on a Circle,yosupo,0,WA
+2017-04-15 21:48:44+0900,B - Hamiltonish Path,zazaboon,500,AC
+2017-04-15 21:48:37+0900,A - Sorted Arrays,jack0710,0,TLE
+2017-04-15 21:48:28+0900,C - Ants on a Circle,XraY,700,AC
+2017-04-15 21:48:27+0900,B - Hamiltonish Path,kawabys,0,WA
+2017-04-15 21:48:27+0900,B - Hamiltonish Path,petrpan,500,AC
+2017-04-15 21:48:20+0900,C - Ants on a Circle,leign,700,AC
+2017-04-15 21:48:14+0900,B - Hamiltonish Path,ats5515,0,WA
+2017-04-15 21:48:13+0900,B - Hamiltonish Path,kurumaebi,0,WA
+2017-04-15 21:48:10+0900,A - Sorted Arrays,Ahtsham,0,RE
+2017-04-15 21:48:10+0900,A - Sorted Arrays,wangxinliang,0,WA
+2017-04-15 21:48:05+0900,C - Ants on a Circle,cchao,0,WA
+2017-04-15 21:47:57+0900,B - Hamiltonish Path,suginamiku,0,RE
+2017-04-15 21:47:55+0900,C - Ants on a Circle,sd0061,700,AC
+2017-04-15 21:47:55+0900,A - Sorted Arrays,carbohydrate,0,WA
+2017-04-15 21:47:51+0900,A - Sorted Arrays,Agodoriru,0,RE
+2017-04-15 21:47:50+0900,B - Hamiltonish Path,xuanquang1999,500,AC
+2017-04-15 21:47:46+0900,C - Ants on a Circle,mislav,0,WA
+2017-04-15 21:47:46+0900,C - Ants on a Circle,kobae964,700,AC
+2017-04-15 21:47:45+0900,A - Sorted Arrays,lingxue,0,WA
+2017-04-15 21:47:44+0900,B - Hamiltonish Path,iica,0,CE
+2017-04-15 21:47:43+0900,B - Hamiltonish Path,AmSen,500,AC
+2017-04-15 21:47:43+0900,A - Sorted Arrays,Thistle,0,RE
+2017-04-15 21:47:41+0900,B - Hamiltonish Path,naiij,500,AC
+2017-04-15 21:47:34+0900,C - Ants on a Circle,Golovanov399,0,WA
+2017-04-15 21:47:31+0900,A - Sorted Arrays,v9fly,300,AC
+2017-04-15 21:47:30+0900,B - Hamiltonish Path,NurlashKO,0,WA
+2017-04-15 21:47:24+0900,C - Ants on a Circle,jonathanirvings,0,WA
+2017-04-15 21:47:21+0900,B - Hamiltonish Path,Fcdkbear,500,AC
+2017-04-15 21:47:21+0900,A - Sorted Arrays,tingmengyuan,0,WA
+2017-04-15 21:47:20+0900,B - Hamiltonish Path,cjqw,0,WA
+2017-04-15 21:47:17+0900,C - Ants on a Circle,mjy0724,0,WA
+2017-04-15 21:47:11+0900,A - Sorted Arrays,tokumini,300,AC
+2017-04-15 21:47:08+0900,C - Ants on a Circle,Andrei1998,700,AC
+2017-04-15 21:47:06+0900,B - Hamiltonish Path,RunningTime,0,WA
+2017-04-15 21:46:56+0900,A - Sorted Arrays,bttb,0,WA
+2017-04-15 21:46:55+0900,B - Hamiltonish Path,mkisic,0,WA
+2017-04-15 21:46:51+0900,A - Sorted Arrays,birdway,0,RE
+2017-04-15 21:46:51+0900,C - Ants on a Circle,sd0061,0,CE
+2017-04-15 21:46:50+0900,A - Sorted Arrays,ACforgood,300,AC
+2017-04-15 21:46:49+0900,B - Hamiltonish Path,xuanquang1999,0,WA
+2017-04-15 21:46:47+0900,A - Sorted Arrays,Lionking07,0,WA
+2017-04-15 21:46:45+0900,A - Sorted Arrays,tettchan,0,WA
+2017-04-15 21:46:44+0900,A - Sorted Arrays,ashubeckham,300,AC
+2017-04-15 21:46:41+0900,B - Hamiltonish Path,autumn_eel,0,WA
+2017-04-15 21:46:30+0900,B - Hamiltonish Path,tzhuan,500,AC
+2017-04-15 21:46:28+0900,A - Sorted Arrays,baitosenshi,0,WA
+2017-04-15 21:46:24+0900,A - Sorted Arrays,reitetsu,0,WA
+2017-04-15 21:46:23+0900,B - Hamiltonish Path,Filyan,500,AC
+2017-04-15 21:46:17+0900,A - Sorted Arrays,atkrym,0,WA
+2017-04-15 21:46:16+0900,A - Sorted Arrays,tsutaj,300,AC
+2017-04-15 21:46:11+0900,B - Hamiltonish Path,pranet,500,AC
+2017-04-15 21:46:11+0900,B - Hamiltonish Path,Axelius,500,AC
+2017-04-15 21:46:10+0900,C - Ants on a Circle,Andrei1998,0,RE
+2017-04-15 21:46:10+0900,B - Hamiltonish Path,ajs97,500,AC
+2017-04-15 21:46:06+0900,B - Hamiltonish Path,iica,0,CE
+2017-04-15 21:46:02+0900,B - Hamiltonish Path,la1la1la,500,AC
+2017-04-15 21:46:00+0900,B - Hamiltonish Path,hahatianx,0,WA
+2017-04-15 21:45:57+0900,B - Hamiltonish Path,fiord,0,WA
+2017-04-15 21:45:57+0900,B - Hamiltonish Path,cjqw,0,WA
+2017-04-15 21:45:57+0900,A - Sorted Arrays,tsunenarazu,0,WA
+2017-04-15 21:45:56+0900,B - Hamiltonish Path,NURx2,500,AC
+2017-04-15 21:45:55+0900,A - Sorted Arrays,ashubeckham,0,CE
+2017-04-15 21:45:54+0900,A - Sorted Arrays,mon10,300,AC
+2017-04-15 21:45:50+0900,B - Hamiltonish Path,Victor_Lee,0,WA
+2017-04-15 21:45:50+0900,B - Hamiltonish Path,zazaboon,0,WA
+2017-04-15 21:45:45+0900,B - Hamiltonish Path,cuber2460,0,WA
+2017-04-15 21:45:44+0900,A - Sorted Arrays,ZxFkcjgN,0,WA
+2017-04-15 21:45:43+0900,B - Hamiltonish Path,ukuku09,0,WA
+2017-04-15 21:45:37+0900,A - Sorted Arrays,sdub,0,WA
+2017-04-15 21:45:36+0900,B - Hamiltonish Path,lsmll,500,AC
+2017-04-15 21:45:34+0900,A - Sorted Arrays,Hirake,0,WA
+2017-04-15 21:45:33+0900,B - Hamiltonish Path,uenoku,0,WA
+2017-04-15 21:45:31+0900,A - Sorted Arrays,ACforgood,0,WA
+2017-04-15 21:45:28+0900,A - Sorted Arrays,mak4026,300,AC
+2017-04-15 21:45:27+0900,A - Sorted Arrays,tmochizuki,300,AC
+2017-04-15 21:45:20+0900,A - Sorted Arrays,birdway,0,RE
+2017-04-15 21:45:20+0900,C - Ants on a Circle,XraY,0,WA
+2017-04-15 21:45:14+0900,B - Hamiltonish Path,Lucida,0,WA
+2017-04-15 21:45:12+0900,B - Hamiltonish Path,rayhotate,0,WA
+2017-04-15 21:45:10+0900,A - Sorted Arrays,do2424,0,WA
+2017-04-15 21:45:09+0900,B - Hamiltonish Path,Gealo,0,WA
+2017-04-15 21:45:08+0900,A - Sorted Arrays,jj,0,WA
+2017-04-15 21:45:06+0900,B - Hamiltonish Path,ZZZZone,0,WA
+2017-04-15 21:45:00+0900,A - Sorted Arrays,tokabe333,300,AC
+2017-04-15 21:44:56+0900,A - Sorted Arrays,ndifix,0,WA
+2017-04-15 21:44:49+0900,B - Hamiltonish Path,rayhotate,0,CE
+2017-04-15 21:44:49+0900,B - Hamiltonish Path,Rho17,0,WA
+2017-04-15 21:44:43+0900,B - Hamiltonish Path,Gacho_0716,500,AC
+2017-04-15 21:44:42+0900,B - Hamiltonish Path,wenbao,0,WA
+2017-04-15 21:44:35+0900,A - Sorted Arrays,m0bec,300,AC
+2017-04-15 21:44:24+0900,A - Sorted Arrays,daizu39,0,WA
+2017-04-15 21:44:13+0900,A - Sorted Arrays,MichiElle066,300,AC
+2017-04-15 21:44:11+0900,A - Sorted Arrays,hanssy,0,WA
+2017-04-15 21:44:10+0900,C - Ants on a Circle,mjy0724,0,WA
+2017-04-15 21:44:09+0900,C - Ants on a Circle,fizzydavid,700,AC
+2017-04-15 21:44:06+0900,C - Ants on a Circle,sigma425,700,AC
+2017-04-15 21:44:05+0900,B - Hamiltonish Path,rehu,500,AC
+2017-04-15 21:44:05+0900,B - Hamiltonish Path,ravenclaws1,0,WA
+2017-04-15 21:44:04+0900,A - Sorted Arrays,sugarrr,0,WA
+2017-04-15 21:44:00+0900,B - Hamiltonish Path,kawabys,0,WA
+2017-04-15 21:44:00+0900,B - Hamiltonish Path,Gacho_0716,0,WA
+2017-04-15 21:43:59+0900,B - Hamiltonish Path,sidhant,500,AC
+2017-04-15 21:43:54+0900,A - Sorted Arrays,a_kawashiro,300,AC
+2017-04-15 21:43:54+0900,B - Hamiltonish Path,tankblood,0,WA
+2017-04-15 21:43:45+0900,B - Hamiltonish Path,Ow1,0,WA
+2017-04-15 21:43:44+0900,A - Sorted Arrays,p_8ty,0,WA
+2017-04-15 21:43:43+0900,A - Sorted Arrays,prashantkn94,300,AC
+2017-04-15 21:43:42+0900,A - Sorted Arrays,tanishi14,300,AC
+2017-04-15 21:43:41+0900,A - Sorted Arrays,kqp,0,WA
+2017-04-15 21:43:34+0900,A - Sorted Arrays,Hirake,0,WA
+2017-04-15 21:43:31+0900,C - Ants on a Circle,kmjp,700,AC
+2017-04-15 21:43:21+0900,B - Hamiltonish Path,quochuya,500,AC
+2017-04-15 21:43:15+0900,A - Sorted Arrays,hanssy,0,WA
+2017-04-15 21:43:12+0900,C - Ants on a Circle,mHuman,0,WA
+2017-04-15 21:43:11+0900,B - Hamiltonish Path,NurlashKO,0,WA
+2017-04-15 21:43:09+0900,B - Hamiltonish Path,yxl,0,WA
+2017-04-15 21:43:09+0900,B - Hamiltonish Path,pranet,0,WA
+2017-04-15 21:43:08+0900,D - Piling Up,King_George,900,AC
+2017-04-15 21:43:04+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 21:43:03+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 21:43:02+0900,B - Hamiltonish Path,TakaakiUmedu,0,RE
+2017-04-15 21:43:00+0900,B - Hamiltonish Path,tankblood,0,WA
+2017-04-15 21:42:55+0900,C - Ants on a Circle,unused,700,AC
+2017-04-15 21:42:45+0900,A - Sorted Arrays,do2424,0,WA
+2017-04-15 21:42:43+0900,B - Hamiltonish Path,satyaki3794,500,AC
+2017-04-15 21:42:43+0900,A - Sorted Arrays,Ahtsham,0,CE
+2017-04-15 21:42:41+0900,B - Hamiltonish Path,matsu7874,0,WA
+2017-04-15 21:42:38+0900,B - Hamiltonish Path,RunningTime,0,WA
+2017-04-15 21:42:33+0900,A - Sorted Arrays,sssbear,300,AC
+2017-04-15 21:42:30+0900,B - Hamiltonish Path,nwin,500,AC
+2017-04-15 21:42:29+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 21:42:27+0900,B - Hamiltonish Path,Rho17,0,WA
+2017-04-15 21:42:25+0900,A - Sorted Arrays,XzzF,0,WA
+2017-04-15 21:42:23+0900,A - Sorted Arrays,ninben,300,AC
+2017-04-15 21:42:20+0900,B - Hamiltonish Path,abisheka,0,WA
+2017-04-15 21:42:17+0900,A - Sorted Arrays,sugarrr,0,WA
+2017-04-15 21:42:12+0900,C - Ants on a Circle,imang,700,AC
+2017-04-15 21:42:08+0900,C - Ants on a Circle,pashka,0,WA
+2017-04-15 21:42:08+0900,C - Ants on a Circle,mHuman,0,WA
+2017-04-15 21:42:06+0900,A - Sorted Arrays,kojikojio,300,AC
+2017-04-15 21:41:59+0900,A - Sorted Arrays,SmallSir,0,WA
+2017-04-15 21:41:57+0900,A - Sorted Arrays,StoneDot,0,WA
+2017-04-15 21:41:56+0900,A - Sorted Arrays,mm14,0,WA
+2017-04-15 21:41:54+0900,B - Hamiltonish Path,yxl,0,WA
+2017-04-15 21:41:53+0900,A - Sorted Arrays,sopurani885,0,WA
+2017-04-15 21:41:51+0900,B - Hamiltonish Path,KeivanR,500,AC
+2017-04-15 21:41:41+0900,B - Hamiltonish Path,Zharaskhan,500,AC
+2017-04-15 21:41:36+0900,A - Sorted Arrays,Vosatorp,300,AC
+2017-04-15 21:41:34+0900,A - Sorted Arrays,tcg398,0,WA
+2017-04-15 21:41:34+0900,A - Sorted Arrays,ut00a,300,AC
+2017-04-15 21:41:34+0900,B - Hamiltonish Path,satyaki3794,0,WA
+2017-04-15 21:41:31+0900,B - Hamiltonish Path,swm_sxt,0,WA
+2017-04-15 21:41:28+0900,B - Hamiltonish Path,ChopsticksAN,500,AC
+2017-04-15 21:41:21+0900,B - Hamiltonish Path,suzume,500,AC
+2017-04-15 21:41:20+0900,A - Sorted Arrays,Vosatorp,0,CE
+2017-04-15 21:41:19+0900,B - Hamiltonish Path,lsmll,0,WA
+2017-04-15 21:41:18+0900,A - Sorted Arrays,prashantkn94,0,WA
+2017-04-15 21:41:17+0900,A - Sorted Arrays,holeguma,0,WA
+2017-04-15 21:41:17+0900,B - Hamiltonish Path,walkre,500,AC
+2017-04-15 21:41:13+0900,B - Hamiltonish Path,yosupo,0,WA
+2017-04-15 21:41:12+0900,B - Hamiltonish Path,ujzwt4it,0,WA
+2017-04-15 21:41:12+0900,B - Hamiltonish Path,suiyuan2009,500,AC
+2017-04-15 21:41:11+0900,A - Sorted Arrays,StoneDot,0,WA
+2017-04-15 21:41:09+0900,A - Sorted Arrays,mochi1123,300,AC
+2017-04-15 21:41:09+0900,A - Sorted Arrays,neetsdkasu,300,AC
+2017-04-15 21:41:08+0900,B - Hamiltonish Path,iscsi,0,WA
+2017-04-15 21:41:05+0900,B - Hamiltonish Path,kurgm,500,AC
+2017-04-15 21:41:04+0900,B - Hamiltonish Path,liangsheng,500,AC
+2017-04-15 21:41:03+0900,B - Hamiltonish Path,zaki_,0,WA
+2017-04-15 21:41:00+0900,A - Sorted Arrays,petrpan,0,RE
+2017-04-15 21:40:52+0900,A - Sorted Arrays,annzi,0,WA
+2017-04-15 21:40:50+0900,B - Hamiltonish Path,nwin,0,WA
+2017-04-15 21:40:48+0900,A - Sorted Arrays,sdub,0,WA
+2017-04-15 21:40:47+0900,B - Hamiltonish Path,knowl,500,AC
+2017-04-15 21:40:45+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 21:40:43+0900,B - Hamiltonish Path,outlimited,500,AC
+2017-04-15 21:40:37+0900,A - Sorted Arrays,ninben,0,WA
+2017-04-15 21:40:35+0900,D - Piling Up,dbradac,900,AC
+2017-04-15 21:40:35+0900,A - Sorted Arrays,inletsun1,0,RE
+2017-04-15 21:40:33+0900,B - Hamiltonish Path,NURx2,0,WA
+2017-04-15 21:40:27+0900,B - Hamiltonish Path,alexpetrescu,500,AC
+2017-04-15 21:40:25+0900,A - Sorted Arrays,holeguma,0,RE
+2017-04-15 21:40:20+0900,C - Ants on a Circle,gamegame,700,AC
+2017-04-15 21:40:18+0900,C - Ants on a Circle,zemen,0,WA
+2017-04-15 21:40:18+0900,A - Sorted Arrays,peroon,0,WA
+2017-04-15 21:40:11+0900,B - Hamiltonish Path,kzyKT,0,WA
+2017-04-15 21:40:11+0900,B - Hamiltonish Path,nwin,0,RE
+2017-04-15 21:40:03+0900,A - Sorted Arrays,EndlessSora,300,AC
+2017-04-15 21:40:03+0900,B - Hamiltonish Path,pranet,0,WA
+2017-04-15 21:39:59+0900,B - Hamiltonish Path,rehu,0,WA
+2017-04-15 21:39:43+0900,C - Ants on a Circle,sasa99,700,AC
+2017-04-15 21:39:43+0900,B - Hamiltonish Path,Lucida,0,WA
+2017-04-15 21:39:42+0900,B - Hamiltonish Path,naoki2016,0,TLE
+2017-04-15 21:39:39+0900,A - Sorted Arrays,dicenull,0,WA
+2017-04-15 21:39:37+0900,A - Sorted Arrays,Rho17,300,AC
+2017-04-15 21:39:37+0900,A - Sorted Arrays,c313827,300,AC
+2017-04-15 21:39:31+0900,B - Hamiltonish Path,zazaboon,0,WA
+2017-04-15 21:39:23+0900,A - Sorted Arrays,Tiger,300,AC
+2017-04-15 21:39:19+0900,A - Sorted Arrays,tshr,0,WA
+2017-04-15 21:39:16+0900,A - Sorted Arrays,wangxinliang,0,WA
+2017-04-15 21:39:12+0900,A - Sorted Arrays,tanishi14,0,RE
+2017-04-15 21:39:12+0900,A - Sorted Arrays,Starry_sky,300,AC
+2017-04-15 21:39:10+0900,B - Hamiltonish Path,mondatto,0,WA
+2017-04-15 21:39:09+0900,B - Hamiltonish Path,kusano,500,AC
+2017-04-15 21:39:08+0900,A - Sorted Arrays,fujiyama,300,AC
+2017-04-15 21:39:08+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 21:39:06+0900,A - Sorted Arrays,shiitake,300,AC
+2017-04-15 21:39:05+0900,B - Hamiltonish Path,konjo,500,AC
+2017-04-15 21:39:04+0900,B - Hamiltonish Path,sidhant,0,WA
+2017-04-15 21:39:03+0900,A - Sorted Arrays,DingChao,300,AC
+2017-04-15 21:39:02+0900,B - Hamiltonish Path,wxh010910,500,AC
+2017-04-15 21:39:00+0900,A - Sorted Arrays,yasuyuky,300,AC
+2017-04-15 21:38:59+0900,A - Sorted Arrays,newworld,0,RE
+2017-04-15 21:38:58+0900,B - Hamiltonish Path,walkre,0,WA
+2017-04-15 21:38:52+0900,A - Sorted Arrays,KingArthur,300,AC
+2017-04-15 21:38:46+0900,A - Sorted Arrays,la1la1la,300,AC
+2017-04-15 21:38:45+0900,C - Ants on a Circle,ilyakor,700,AC
+2017-04-15 21:38:45+0900,A - Sorted Arrays,trainstation,300,AC
+2017-04-15 21:38:42+0900,B - Hamiltonish Path,kzyKT,0,WA
+2017-04-15 21:38:33+0900,A - Sorted Arrays,p_8ty,0,WA
+2017-04-15 21:38:33+0900,B - Hamiltonish Path,cormoran,500,AC
+2017-04-15 21:38:32+0900,B - Hamiltonish Path,cjqw,0,WA
+2017-04-15 21:38:26+0900,A - Sorted Arrays,lofu_imgkr,0,WA
+2017-04-15 21:38:14+0900,A - Sorted Arrays,Rusu,0,WA
+2017-04-15 21:38:14+0900,A - Sorted Arrays,tokabe333,0,RE
+2017-04-15 21:38:08+0900,A - Sorted Arrays,birdway,0,RE
+2017-04-15 21:38:08+0900,B - Hamiltonish Path,c7c7,0,RE
+2017-04-15 21:38:08+0900,C - Ants on a Circle,schwarzahl,0,TLE
+2017-04-15 21:38:00+0900,A - Sorted Arrays,tatsuyuki,300,AC
+2017-04-15 21:37:59+0900,A - Sorted Arrays,cyblack,0,WA
+2017-04-15 21:37:56+0900,A - Sorted Arrays,xiaodidi,300,AC
+2017-04-15 21:37:55+0900,A - Sorted Arrays,idon,0,WA
+2017-04-15 21:37:53+0900,A - Sorted Arrays,plasmaeffect,300,AC
+2017-04-15 21:37:52+0900,B - Hamiltonish Path,AmSen,0,WA
+2017-04-15 21:37:49+0900,B - Hamiltonish Path,zkx06111,500,AC
+2017-04-15 21:37:49+0900,B - Hamiltonish Path,ixxa,500,AC
+2017-04-15 21:37:48+0900,A - Sorted Arrays,damekamo,300,AC
+2017-04-15 21:37:47+0900,A - Sorted Arrays,T1610,300,AC
+2017-04-15 21:37:44+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 21:37:44+0900,B - Hamiltonish Path,kawabys,0,WA
+2017-04-15 21:37:44+0900,B - Hamiltonish Path,haji,500,AC
+2017-04-15 21:37:44+0900,C - Ants on a Circle,kmjp,0,WA
+2017-04-15 21:37:40+0900,B - Hamiltonish Path,conf,500,AC
+2017-04-15 21:37:40+0900,A - Sorted Arrays,dhruvsrivastava,300,AC
+2017-04-15 21:37:37+0900,B - Hamiltonish Path,IDoNotKnow,0,WA
+2017-04-15 21:37:36+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 21:37:35+0900,C - Ants on a Circle,Golovanov399,0,RE
+2017-04-15 21:37:34+0900,B - Hamiltonish Path,youaremysky99,500,AC
+2017-04-15 21:37:33+0900,A - Sorted Arrays,wang563681252,0,WA
+2017-04-15 21:37:31+0900,B - Hamiltonish Path,c7c7,0,CE
+2017-04-15 21:37:28+0900,D - Piling Up,yosupo,900,AC
+2017-04-15 21:37:27+0900,A - Sorted Arrays,ykri021,0,TLE
+2017-04-15 21:37:26+0900,A - Sorted Arrays,nmjiri,0,RE
+2017-04-15 21:37:25+0900,A - Sorted Arrays,tome1201,300,AC
+2017-04-15 21:37:25+0900,A - Sorted Arrays,jimmy,300,AC
+2017-04-15 21:37:25+0900,A - Sorted Arrays,DingChao,0,RE
+2017-04-15 21:37:24+0900,A - Sorted Arrays,ntgo,300,AC
+2017-04-15 21:37:20+0900,A - Sorted Arrays,hidollara,300,AC
+2017-04-15 21:37:20+0900,A - Sorted Arrays,dameningen,300,AC
+2017-04-15 21:37:14+0900,B - Hamiltonish Path,ctyl,500,AC
+2017-04-15 21:37:14+0900,B - Hamiltonish Path,naoki2016,0,WA
+2017-04-15 21:37:12+0900,B - Hamiltonish Path,margaery,500,AC
+2017-04-15 21:37:10+0900,A - Sorted Arrays,DingChao,0,RE
+2017-04-15 21:37:10+0900,A - Sorted Arrays,sssbear,0,WA
+2017-04-15 21:37:07+0900,B - Hamiltonish Path,KeivanR,0,WA
+2017-04-15 21:37:07+0900,C - Ants on a Circle,fizzydavid,0,WA
+2017-04-15 21:37:05+0900,C - Ants on a Circle,aid,700,AC
+2017-04-15 21:37:05+0900,C - Ants on a Circle,LiTi,700,AC
+2017-04-15 21:37:02+0900,C - Ants on a Circle,Akbari,700,AC
+2017-04-15 21:37:00+0900,B - Hamiltonish Path,akshit_1996,0,WA
+2017-04-15 21:37:00+0900,B - Hamiltonish Path,Lucida,0,WA
+2017-04-15 21:37:00+0900,A - Sorted Arrays,kojikojio,0,RE
+2017-04-15 21:36:58+0900,C - Ants on a Circle,Andrei1998,0,WA
+2017-04-15 21:36:57+0900,B - Hamiltonish Path,petrpan,0,WA
+2017-04-15 21:36:56+0900,A - Sorted Arrays,holeguma,0,WA
+2017-04-15 21:36:56+0900,A - Sorted Arrays,La_teth,0,WA
+2017-04-15 21:36:52+0900,A - Sorted Arrays,otsutome,300,AC
+2017-04-15 21:36:49+0900,A - Sorted Arrays,naobird,300,AC
+2017-04-15 21:36:48+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 21:36:47+0900,B - Hamiltonish Path,mondatto,0,WA
+2017-04-15 21:36:46+0900,B - Hamiltonish Path,mohit22995,0,WA
+2017-04-15 21:36:42+0900,A - Sorted Arrays,LitMc,0,WA
+2017-04-15 21:36:38+0900,A - Sorted Arrays,quochuya,0,RE
+2017-04-15 21:36:35+0900,A - Sorted Arrays,laomi,0,WA
+2017-04-15 21:36:30+0900,A - Sorted Arrays,kmatcoder,300,AC
+2017-04-15 21:36:27+0900,A - Sorted Arrays,do2424,0,WA
+2017-04-15 21:36:25+0900,B - Hamiltonish Path,youaremysky99,0,RE
+2017-04-15 21:36:24+0900,B - Hamiltonish Path,logicmachine,500,AC
+2017-04-15 21:36:15+0900,A - Sorted Arrays,seaca,0,WA
+2017-04-15 21:36:14+0900,A - Sorted Arrays,ShinjiSHIBATA,0,WA
+2017-04-15 21:36:13+0900,A - Sorted Arrays,iaur64,0,WA
+2017-04-15 21:36:13+0900,B - Hamiltonish Path,m_buyoh,500,AC
+2017-04-15 21:36:10+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 21:36:07+0900,A - Sorted Arrays,sugarrr,0,WA
+2017-04-15 21:36:06+0900,A - Sorted Arrays,sugarrr,0,WA
+2017-04-15 21:36:04+0900,B - Hamiltonish Path,ixxa,0,WA
+2017-04-15 21:36:00+0900,A - Sorted Arrays,tanruidd,300,AC
+2017-04-15 21:35:59+0900,A - Sorted Arrays,mm14,0,WA
+2017-04-15 21:35:57+0900,A - Sorted Arrays,take1223xxx,300,AC
+2017-04-15 21:35:56+0900,C - Ants on a Circle,kmjp,0,WA
+2017-04-15 21:35:56+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 21:35:43+0900,A - Sorted Arrays,kiricreamcheese,0,WA
+2017-04-15 21:35:41+0900,A - Sorted Arrays,hotpepsi,300,AC
+2017-04-15 21:35:32+0900,A - Sorted Arrays,kwkm0429,0,WA
+2017-04-15 21:35:27+0900,B - Hamiltonish Path,AlexeyEnkov,500,AC
+2017-04-15 21:35:26+0900,B - Hamiltonish Path,TangentDay,500,AC
+2017-04-15 21:35:25+0900,B - Hamiltonish Path,ZhNV,500,AC
+2017-04-15 21:35:25+0900,B - Hamiltonish Path,merom686,0,WA
+2017-04-15 21:35:25+0900,B - Hamiltonish Path,pandrei,500,AC
+2017-04-15 21:35:17+0900,A - Sorted Arrays,ka24,300,AC
+2017-04-15 21:35:17+0900,A - Sorted Arrays,kmnernofkingdeep,0,RE
+2017-04-15 21:35:15+0900,A - Sorted Arrays,ikeha,300,AC
+2017-04-15 21:35:14+0900,A - Sorted Arrays,mohit22995,0,RE
+2017-04-15 21:35:08+0900,B - Hamiltonish Path,dohatsutsu,500,AC
+2017-04-15 21:35:04+0900,A - Sorted Arrays,mban,300,AC
+2017-04-15 21:35:02+0900,C - Ants on a Circle,yutaka1999,0,WA
+2017-04-15 21:34:59+0900,A - Sorted Arrays,ZxFkcjgN,0,WA
+2017-04-15 21:34:56+0900,B - Hamiltonish Path,ZhNV,0,CE
+2017-04-15 21:34:54+0900,B - Hamiltonish Path,mxzf0213,0,WA
+2017-04-15 21:34:53+0900,B - Hamiltonish Path,tasmeemreza,500,AC
+2017-04-15 21:34:51+0900,D - Piling Up,rajat1603,900,AC
+2017-04-15 21:34:45+0900,A - Sorted Arrays,dicenull,0,WA
+2017-04-15 21:34:44+0900,B - Hamiltonish Path,amylase,500,AC
+2017-04-15 21:34:40+0900,B - Hamiltonish Path,t8m8,0,WA
+2017-04-15 21:34:37+0900,C - Ants on a Circle,StanislavErshov,700,AC
+2017-04-15 21:34:35+0900,A - Sorted Arrays,DingChao,0,RE
+2017-04-15 21:34:35+0900,B - Hamiltonish Path,kusano,0,WA
+2017-04-15 21:34:33+0900,A - Sorted Arrays,msh610,0,WA
+2017-04-15 21:34:28+0900,A - Sorted Arrays,hidollara,0,WA
+2017-04-15 21:34:27+0900,A - Sorted Arrays,roto_37,0,WA
+2017-04-15 21:34:23+0900,B - Hamiltonish Path,cjqw,0,WA
+2017-04-15 21:34:22+0900,A - Sorted Arrays,stickman,300,AC
+2017-04-15 21:34:21+0900,A - Sorted Arrays,ykri021,0,TLE
+2017-04-15 21:34:21+0900,B - Hamiltonish Path,wenbao,0,WA
+2017-04-15 21:34:20+0900,B - Hamiltonish Path,rareone0602,500,AC
+2017-04-15 21:34:19+0900,C - Ants on a Circle,zemen,0,WA
+2017-04-15 21:34:18+0900,B - Hamiltonish Path,RunningTime,0,RE
+2017-04-15 21:34:16+0900,A - Sorted Arrays,Linus,300,AC
+2017-04-15 21:34:14+0900,B - Hamiltonish Path,haji,0,WA
+2017-04-15 21:34:11+0900,C - Ants on a Circle,maryanna2016,700,AC
+2017-04-15 21:34:11+0900,A - Sorted Arrays,kmnernofkingdeep,0,CE
+2017-04-15 21:34:08+0900,B - Hamiltonish Path,kakajapan31,500,AC
+2017-04-15 21:34:07+0900,B - Hamiltonish Path,TryMyEdge,500,AC
+2017-04-15 21:34:06+0900,A - Sorted Arrays,lotus0509,300,AC
+2017-04-15 21:34:06+0900,A - Sorted Arrays,andor,300,AC
+2017-04-15 21:34:06+0900,A - Sorted Arrays,youki,300,AC
+2017-04-15 21:33:58+0900,B - Hamiltonish Path,mcalancea,0,WA
+2017-04-15 21:33:52+0900,A - Sorted Arrays,choruru,300,AC
+2017-04-15 21:33:51+0900,B - Hamiltonish Path,NurlashKO,0,WA
+2017-04-15 21:33:48+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 21:33:44+0900,C - Ants on a Circle,AndreiNet,700,AC
+2017-04-15 21:33:43+0900,A - Sorted Arrays,Tiger,0,WA
+2017-04-15 21:33:43+0900,B - Hamiltonish Path,Alexa2001,500,AC
+2017-04-15 21:33:40+0900,B - Hamiltonish Path,hiromi_ayase,500,AC
+2017-04-15 21:33:37+0900,B - Hamiltonish Path,abisheka,0,WA
+2017-04-15 21:33:37+0900,A - Sorted Arrays,isshtt,300,AC
+2017-04-15 21:33:37+0900,B - Hamiltonish Path,rqgao2014,500,AC
+2017-04-15 21:33:33+0900,B - Hamiltonish Path,AmSen,0,WA
+2017-04-15 21:33:32+0900,B - Hamiltonish Path,liumh8,500,AC
+2017-04-15 21:33:28+0900,A - Sorted Arrays,kojikojio,0,RE
+2017-04-15 21:33:25+0900,B - Hamiltonish Path,alecsyde,500,AC
+2017-04-15 21:33:18+0900,A - Sorted Arrays,ipt2250,0,WA
+2017-04-15 21:33:17+0900,B - Hamiltonish Path,remin,500,AC
+2017-04-15 21:33:16+0900,B - Hamiltonish Path,m_buyoh,0,WA
+2017-04-15 21:33:10+0900,A - Sorted Arrays,choruru,0,CE
+2017-04-15 21:33:04+0900,A - Sorted Arrays,lilian_ciobanu,300,AC
+2017-04-15 21:33:04+0900,A - Sorted Arrays,sdub,0,WA
+2017-04-15 21:33:03+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 21:33:03+0900,A - Sorted Arrays,mak4026,0,WA
+2017-04-15 21:33:00+0900,A - Sorted Arrays,tomsawyer,300,AC
+2017-04-15 21:32:57+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 21:32:48+0900,C - Ants on a Circle,kmjp,0,WA
+2017-04-15 21:32:47+0900,B - Hamiltonish Path,SmallBoy,500,AC
+2017-04-15 21:32:45+0900,A - Sorted Arrays,fluture,0,WA
+2017-04-15 21:32:44+0900,C - Ants on a Circle,Andrei1998,0,WA
+2017-04-15 21:32:42+0900,A - Sorted Arrays,iaur64,0,WA
+2017-04-15 21:32:42+0900,B - Hamiltonish Path,ngkan146,500,AC
+2017-04-15 21:32:42+0900,B - Hamiltonish Path,pandrei,0,WA
+2017-04-15 21:32:38+0900,A - Sorted Arrays,tettchan,0,WA
+2017-04-15 21:32:37+0900,B - Hamiltonish Path,TakaakiUmedu,0,RE
+2017-04-15 21:32:37+0900,B - Hamiltonish Path,WA_TLE,500,AC
+2017-04-15 21:32:37+0900,B - Hamiltonish Path,alf,500,AC
+2017-04-15 21:32:36+0900,B - Hamiltonish Path,uke77hg4,500,AC
+2017-04-15 21:32:31+0900,A - Sorted Arrays,ssavi,300,AC
+2017-04-15 21:32:20+0900,A - Sorted Arrays,kamelong,300,AC
+2017-04-15 21:32:18+0900,A - Sorted Arrays,kmnernofkingdeep,0,WA
+2017-04-15 21:32:18+0900,A - Sorted Arrays,Temirulan,300,AC
+2017-04-15 21:32:04+0900,B - Hamiltonish Path,matsu7874,0,WA
+2017-04-15 21:32:04+0900,A - Sorted Arrays,rayhotate,300,AC
+2017-04-15 21:32:04+0900,C - Ants on a Circle,StanislavErshov,0,RE
+2017-04-15 21:32:00+0900,B - Hamiltonish Path,swm_sxt,0,WA
+2017-04-15 21:31:59+0900,A - Sorted Arrays,karakasa,0,WA
+2017-04-15 21:31:52+0900,C - Ants on a Circle,yutaka1999,0,WA
+2017-04-15 21:31:52+0900,B - Hamiltonish Path,kusano,0,WA
+2017-04-15 21:31:45+0900,B - Hamiltonish Path,RockyB,0,WA
+2017-04-15 21:31:45+0900,A - Sorted Arrays,lzw4896s,0,WA
+2017-04-15 21:31:38+0900,B - Hamiltonish Path,kzyKT,0,WA
+2017-04-15 21:31:33+0900,B - Hamiltonish Path,kurgm,0,RE
+2017-04-15 21:31:30+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 21:31:27+0900,B - Hamiltonish Path,ixxa,0,WA
+2017-04-15 21:31:25+0900,A - Sorted Arrays,hanssy,0,WA
+2017-04-15 21:31:22+0900,B - Hamiltonish Path,naiij,0,RE
+2017-04-15 21:31:21+0900,B - Hamiltonish Path,Akbari,500,AC
+2017-04-15 21:31:21+0900,B - Hamiltonish Path,pandrei,0,WA
+2017-04-15 21:31:20+0900,A - Sorted Arrays,yuki_,300,AC
+2017-04-15 21:31:17+0900,A - Sorted Arrays,yassin,300,AC
+2017-04-15 21:31:16+0900,A - Sorted Arrays,Saiyan_Warrior,0,WA
+2017-04-15 21:31:14+0900,A - Sorted Arrays,plasmaeffect,0,WA
+2017-04-15 21:31:11+0900,B - Hamiltonish Path,minus9d,500,AC
+2017-04-15 21:31:08+0900,A - Sorted Arrays,maxi,300,AC
+2017-04-15 21:30:57+0900,A - Sorted Arrays,AFiFY,0,WA
+2017-04-15 21:30:56+0900,B - Hamiltonish Path,kolancha,500,AC
+2017-04-15 21:30:52+0900,A - Sorted Arrays,redboltz,300,AC
+2017-04-15 21:30:50+0900,B - Hamiltonish Path,imathi,500,AC
+2017-04-15 21:30:48+0900,C - Ants on a Circle,uwi,700,AC
+2017-04-15 21:30:45+0900,A - Sorted Arrays,fluture,0,WA
+2017-04-15 21:30:40+0900,A - Sorted Arrays,polko,300,AC
+2017-04-15 21:30:38+0900,A - Sorted Arrays,dameningen,0,WA
+2017-04-15 21:30:37+0900,B - Hamiltonish Path,mtsd,500,AC
+2017-04-15 21:30:37+0900,A - Sorted Arrays,Zoedexinzhuang,0,WA
+2017-04-15 21:30:36+0900,A - Sorted Arrays,yangyuting1225,300,AC
+2017-04-15 21:30:36+0900,C - Ants on a Circle,LeBron,700,AC
+2017-04-15 21:30:33+0900,A - Sorted Arrays,kj1321,300,AC
+2017-04-15 21:30:33+0900,A - Sorted Arrays,nitumeta339,300,AC
+2017-04-15 21:30:31+0900,A - Sorted Arrays,a_kawashiro,0,WA
+2017-04-15 21:30:30+0900,B - Hamiltonish Path,Akbari,0,WA
+2017-04-15 21:30:27+0900,B - Hamiltonish Path,tasmeemreza,0,WA
+2017-04-15 21:30:26+0900,B - Hamiltonish Path,MikeZ,500,AC
+2017-04-15 21:30:23+0900,A - Sorted Arrays,plcherrim,300,AC
+2017-04-15 21:30:22+0900,A - Sorted Arrays,OIO2012F,300,AC
+2017-04-15 21:30:21+0900,A - Sorted Arrays,drone1973,0,WA
+2017-04-15 21:30:20+0900,A - Sorted Arrays,nadare881,300,AC
+2017-04-15 21:30:16+0900,A - Sorted Arrays,foldori,0,WA
+2017-04-15 21:30:16+0900,A - Sorted Arrays,MikeZ,0,RE
+2017-04-15 21:30:15+0900,A - Sorted Arrays,kawamura2001,300,AC
+2017-04-15 21:30:14+0900,A - Sorted Arrays,yuki2006,300,AC
+2017-04-15 21:30:12+0900,B - Hamiltonish Path,guangxuan,500,AC
+2017-04-15 21:30:05+0900,B - Hamiltonish Path,hank55663,500,AC
+2017-04-15 21:30:04+0900,A - Sorted Arrays,nwin,300,AC
+2017-04-15 21:29:59+0900,B - Hamiltonish Path,mohit22995,0,WA
+2017-04-15 21:29:54+0900,C - Ants on a Circle,fijixfiji,0,WA
+2017-04-15 21:29:51+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 21:29:50+0900,B - Hamiltonish Path,akshit_1996,0,WA
+2017-04-15 21:29:50+0900,A - Sorted Arrays,tetsuzuki1115,300,AC
+2017-04-15 21:29:49+0900,A - Sorted Arrays,tshr,0,WA
+2017-04-15 21:29:47+0900,B - Hamiltonish Path,voidmax,500,AC
+2017-04-15 21:29:45+0900,A - Sorted Arrays,yogurt,0,WA
+2017-04-15 21:29:44+0900,B - Hamiltonish Path,kotamanegi,500,AC
+2017-04-15 21:29:43+0900,A - Sorted Arrays,atm314,300,AC
+2017-04-15 21:29:41+0900,B - Hamiltonish Path,ctyl,0,WA
+2017-04-15 21:29:40+0900,A - Sorted Arrays,Linus,0,WA
+2017-04-15 21:29:32+0900,A - Sorted Arrays,pitviper,300,AC
+2017-04-15 21:29:30+0900,B - Hamiltonish Path,torus711,500,AC
+2017-04-15 21:29:28+0900,A - Sorted Arrays,Dazzler,0,WA
+2017-04-15 21:29:26+0900,A - Sorted Arrays,dicenull,0,WA
+2017-04-15 21:29:25+0900,A - Sorted Arrays,ikuyasan20,300,AC
+2017-04-15 21:29:24+0900,A - Sorted Arrays,iica,0,WA
+2017-04-15 21:29:22+0900,A - Sorted Arrays,peroon,0,WA
+2017-04-15 21:29:20+0900,B - Hamiltonish Path,guangxuan,0,WA
+2017-04-15 21:29:19+0900,A - Sorted Arrays,ipt2250,0,WA
+2017-04-15 21:29:18+0900,A - Sorted Arrays,seaca,0,WA
+2017-04-15 21:29:08+0900,B - Hamiltonish Path,swm_sxt,0,WA
+2017-04-15 21:29:06+0900,B - Hamiltonish Path,Tommyr7,500,AC
+2017-04-15 21:29:00+0900,B - Hamiltonish Path,liumh8,0,WA
+2017-04-15 21:28:58+0900,A - Sorted Arrays,ut00a,0,WA
+2017-04-15 21:28:56+0900,A - Sorted Arrays,nmjiri,0,RE
+2017-04-15 21:28:55+0900,B - Hamiltonish Path,Hiasat,500,AC
+2017-04-15 21:28:54+0900,A - Sorted Arrays,celicath,300,AC
+2017-04-15 21:28:51+0900,B - Hamiltonish Path,hank55663,0,WA
+2017-04-15 21:28:49+0900,A - Sorted Arrays,IDoNotKnow,300,AC
+2017-04-15 21:28:47+0900,A - Sorted Arrays,rayhotate,0,WA
+2017-04-15 21:28:40+0900,B - Hamiltonish Path,merom686,0,RE
+2017-04-15 21:28:33+0900,A - Sorted Arrays,novemura,300,AC
+2017-04-15 21:28:30+0900,A - Sorted Arrays,chahan69,0,WA
+2017-04-15 21:28:28+0900,A - Sorted Arrays,qinghaili,300,AC
+2017-04-15 21:28:28+0900,A - Sorted Arrays,DingChao,0,RE
+2017-04-15 21:28:24+0900,A - Sorted Arrays,kawamura2001,0,WA
+2017-04-15 21:28:22+0900,A - Sorted Arrays,kqp,0,WA
+2017-04-15 21:28:22+0900,A - Sorted Arrays,seaca,0,WA
+2017-04-15 21:28:21+0900,B - Hamiltonish Path,Zharaskhan,0,WA
+2017-04-15 21:28:18+0900,B - Hamiltonish Path,CrazyBBB,500,AC
+2017-04-15 21:28:18+0900,A - Sorted Arrays,trainstation,0,WA
+2017-04-15 21:28:18+0900,B - Hamiltonish Path,kazuma,500,AC
+2017-04-15 21:28:18+0900,B - Hamiltonish Path,t8m8,0,WA
+2017-04-15 21:28:17+0900,B - Hamiltonish Path,zhongzihao,500,AC
+2017-04-15 21:28:15+0900,A - Sorted Arrays,ut00a,0,WA
+2017-04-15 21:28:14+0900,A - Sorted Arrays,themoai34,0,WA
+2017-04-15 21:28:11+0900,C - Ants on a Circle,Arterm,700,AC
+2017-04-15 21:28:11+0900,A - Sorted Arrays,Tyler,300,AC
+2017-04-15 21:28:08+0900,B - Hamiltonish Path,fiord,0,WA
+2017-04-15 21:28:07+0900,A - Sorted Arrays,kmnernofkingdeep,0,RE
+2017-04-15 21:28:05+0900,A - Sorted Arrays,a_kawashiro,0,WA
+2017-04-15 21:28:02+0900,A - Sorted Arrays,university,300,AC
+2017-04-15 21:28:02+0900,A - Sorted Arrays,atmos,0,RE
+2017-04-15 21:28:00+0900,B - Hamiltonish Path,mxzf0213,0,WA
+2017-04-15 21:27:57+0900,A - Sorted Arrays,algon,300,AC
+2017-04-15 21:27:56+0900,A - Sorted Arrays,tshr,0,RE
+2017-04-15 21:27:55+0900,A - Sorted Arrays,anekawa,300,AC
+2017-04-15 21:27:52+0900,B - Hamiltonish Path,hamayanhamayan,500,AC
+2017-04-15 21:27:49+0900,A - Sorted Arrays,fushime2,300,AC
+2017-04-15 21:27:43+0900,A - Sorted Arrays,jxust161zll,0,WA
+2017-04-15 21:27:36+0900,B - Hamiltonish Path,sd0061,500,AC
+2017-04-15 21:27:34+0900,B - Hamiltonish Path,KeivanR,0,WA
+2017-04-15 21:27:34+0900,A - Sorted Arrays,seaca,0,RE
+2017-04-15 21:27:32+0900,A - Sorted Arrays,mmxsrup,300,AC
+2017-04-15 21:27:31+0900,A - Sorted Arrays,BSer,300,AC
+2017-04-15 21:27:31+0900,A - Sorted Arrays,themoai34,0,WA
+2017-04-15 21:27:25+0900,A - Sorted Arrays,tomsawyer,0,WA
+2017-04-15 21:27:20+0900,A - Sorted Arrays,jack,300,AC
+2017-04-15 21:27:19+0900,A - Sorted Arrays,qinkeqin,300,AC
+2017-04-15 21:27:15+0900,A - Sorted Arrays,knowl,300,AC
+2017-04-15 21:27:14+0900,A - Sorted Arrays,Zoedexinzhuang,0,WA
+2017-04-15 21:27:12+0900,A - Sorted Arrays,Saiyan_Warrior,0,WA
+2017-04-15 21:27:12+0900,A - Sorted Arrays,celicath,0,WA
+2017-04-15 21:27:08+0900,B - Hamiltonish Path,spica314,500,AC
+2017-04-15 21:27:08+0900,A - Sorted Arrays,tosho107,300,AC
+2017-04-15 21:27:03+0900,B - Hamiltonish Path,Akbari,0,WA
+2017-04-15 21:27:01+0900,A - Sorted Arrays,idon,0,WA
+2017-04-15 21:27:00+0900,A - Sorted Arrays,hshota0530,300,AC
+2017-04-15 21:26:59+0900,A - Sorted Arrays,hanoia,0,WA
+2017-04-15 21:26:57+0900,A - Sorted Arrays,Starry_sky,0,WA
+2017-04-15 21:26:56+0900,A - Sorted Arrays,ka24,0,WA
+2017-04-15 21:26:55+0900,A - Sorted Arrays,muramasa8191,300,AC
+2017-04-15 21:26:54+0900,B - Hamiltonish Path,Ibraheem_Tuffaha,500,AC
+2017-04-15 21:26:53+0900,B - Hamiltonish Path,pandrei,0,WA
+2017-04-15 21:26:52+0900,B - Hamiltonish Path,krzysiek27,500,AC
+2017-04-15 21:26:51+0900,B - Hamiltonish Path,mjy0724,500,AC
+2017-04-15 21:26:45+0900,A - Sorted Arrays,Rho17,0,WA
+2017-04-15 21:26:42+0900,A - Sorted Arrays,StoneDot,0,WA
+2017-04-15 21:26:40+0900,C - Ants on a Circle,reality,700,AC
+2017-04-15 21:26:40+0900,A - Sorted Arrays,aiyo,300,AC
+2017-04-15 21:26:35+0900,B - Hamiltonish Path,sasa99,500,AC
+2017-04-15 21:26:34+0900,B - Hamiltonish Path,hasi,500,AC
+2017-04-15 21:26:33+0900,A - Sorted Arrays,humble_loser,300,AC
+2017-04-15 21:26:30+0900,B - Hamiltonish Path,platypus,500,AC
+2017-04-15 21:26:30+0900,A - Sorted Arrays,xyz600,300,AC
+2017-04-15 21:26:30+0900,A - Sorted Arrays,vinaymdani,0,WA
+2017-04-15 21:26:29+0900,A - Sorted Arrays,ipt2250,0,WA
+2017-04-15 21:26:28+0900,A - Sorted Arrays,kwkm0429,0,WA
+2017-04-15 21:26:28+0900,A - Sorted Arrays,lastpoet,300,AC
+2017-04-15 21:26:26+0900,A - Sorted Arrays,EndlessSora,0,WA
+2017-04-15 21:26:24+0900,A - Sorted Arrays,Ktya_59,300,AC
+2017-04-15 21:26:22+0900,B - Hamiltonish Path,rareone0602,0,WA
+2017-04-15 21:26:21+0900,B - Hamiltonish Path,konjo,0,WA
+2017-04-15 21:26:21+0900,A - Sorted Arrays,kyawakyawa,300,AC
+2017-04-15 21:26:18+0900,B - Hamiltonish Path,MikeZ,0,WA
+2017-04-15 21:26:17+0900,B - Hamiltonish Path,imang,500,AC
+2017-04-15 21:26:16+0900,A - Sorted Arrays,zaki_,300,AC
+2017-04-15 21:26:14+0900,A - Sorted Arrays,algon,0,WA
+2017-04-15 21:26:13+0900,B - Hamiltonish Path,tianyichen,500,AC
+2017-04-15 21:26:07+0900,B - Hamiltonish Path,rsalesc,500,AC
+2017-04-15 21:26:06+0900,A - Sorted Arrays,novemura,0,WA
+2017-04-15 21:26:05+0900,A - Sorted Arrays,shink0120,300,AC
+2017-04-15 21:26:04+0900,A - Sorted Arrays,jimmy,0,WA
+2017-04-15 21:26:04+0900,B - Hamiltonish Path,hamayanhamayan,0,WA
+2017-04-15 21:26:00+0900,B - Hamiltonish Path,Motarack,500,AC
+2017-04-15 21:26:00+0900,A - Sorted Arrays,cyblack,0,WA
+2017-04-15 21:26:00+0900,A - Sorted Arrays,celicath,0,RE
+2017-04-15 21:25:58+0900,A - Sorted Arrays,lfforu,300,AC
+2017-04-15 21:25:56+0900,B - Hamiltonish Path,joisino,500,AC
+2017-04-15 21:25:54+0900,A - Sorted Arrays,adi001,300,AC
+2017-04-15 21:25:54+0900,B - Hamiltonish Path,pekempey,500,AC
+2017-04-15 21:25:54+0900,B - Hamiltonish Path,eddy1021,500,AC
+2017-04-15 21:25:52+0900,A - Sorted Arrays,hkr,300,AC
+2017-04-15 21:25:51+0900,A - Sorted Arrays,pandrei,0,RE
+2017-04-15 21:25:50+0900,A - Sorted Arrays,ikd,300,AC
+2017-04-15 21:25:47+0900,A - Sorted Arrays,jxust161zll,0,WA
+2017-04-15 21:25:39+0900,A - Sorted Arrays,FF256grhy,300,AC
+2017-04-15 21:25:37+0900,B - Hamiltonish Path,abisheka,0,WA
+2017-04-15 21:25:36+0900,C - Ants on a Circle,krismaz,700,AC
+2017-04-15 21:25:32+0900,B - Hamiltonish Path,TangentDay,0,WA
+2017-04-15 21:25:30+0900,A - Sorted Arrays,hanssy,0,WA
+2017-04-15 21:25:30+0900,A - Sorted Arrays,delta71,0,WA
+2017-04-15 21:25:29+0900,A - Sorted Arrays,kmnernofkingdeep,0,RE
+2017-04-15 21:25:29+0900,C - Ants on a Circle,Rafbill,0,WA
+2017-04-15 21:25:27+0900,A - Sorted Arrays,a_kawashiro,0,WA
+2017-04-15 21:25:22+0900,B - Hamiltonish Path,tloinuy,500,AC
+2017-04-15 21:25:22+0900,A - Sorted Arrays,jojojoe77,300,AC
+2017-04-15 21:25:18+0900,B - Hamiltonish Path,clatisus,500,AC
+2017-04-15 21:25:18+0900,A - Sorted Arrays,fine,300,AC
+2017-04-15 21:25:18+0900,A - Sorted Arrays,yuki2006,0,WA
+2017-04-15 21:25:16+0900,B - Hamiltonish Path,KingArthur,500,AC
+2017-04-15 21:25:16+0900,B - Hamiltonish Path,behzad_nouri,500,AC
+2017-04-15 21:25:10+0900,B - Hamiltonish Path,kawabys,0,WA
+2017-04-15 21:25:08+0900,B - Hamiltonish Path,eha,500,AC
+2017-04-15 21:25:06+0900,B - Hamiltonish Path,halin,500,AC
+2017-04-15 21:25:03+0900,A - Sorted Arrays,chinmay_sd,300,AC
+2017-04-15 21:25:03+0900,A - Sorted Arrays,andor,0,RE
+2017-04-15 21:24:59+0900,A - Sorted Arrays,miki,300,AC
+2017-04-15 21:24:59+0900,A - Sorted Arrays,ducktail,0,WA
+2017-04-15 21:24:55+0900,B - Hamiltonish Path,sumoooru,500,AC
+2017-04-15 21:24:53+0900,A - Sorted Arrays,unsre,300,AC
+2017-04-15 21:24:52+0900,A - Sorted Arrays,utdotk,300,AC
+2017-04-15 21:24:49+0900,A - Sorted Arrays,ssavi,0,WA
+2017-04-15 21:24:49+0900,B - Hamiltonish Path,st_nec,500,AC
+2017-04-15 21:24:48+0900,B - Hamiltonish Path,AmSen,0,WA
+2017-04-15 21:24:44+0900,A - Sorted Arrays,untan,300,AC
+2017-04-15 21:24:40+0900,A - Sorted Arrays,tatsuyuki,0,WA
+2017-04-15 21:24:40+0900,A - Sorted Arrays,ringoh72,300,AC
+2017-04-15 21:24:39+0900,A - Sorted Arrays,tome1201,0,WA
+2017-04-15 21:24:38+0900,A - Sorted Arrays,Ibraheem_Tuffaha,0,RE
+2017-04-15 21:24:37+0900,A - Sorted Arrays,TAB,300,AC
+2017-04-15 21:24:34+0900,A - Sorted Arrays,ut00a,0,WA
+2017-04-15 21:24:32+0900,A - Sorted Arrays,hanada3355,300,AC
+2017-04-15 21:24:31+0900,A - Sorted Arrays,ravenclaws1,300,AC
+2017-04-15 21:24:31+0900,B - Hamiltonish Path,hasi,0,WA
+2017-04-15 21:24:31+0900,A - Sorted Arrays,ShinjiSHIBATA,0,WA
+2017-04-15 21:24:30+0900,A - Sorted Arrays,moguta,300,AC
+2017-04-15 21:24:30+0900,A - Sorted Arrays,Gear,300,AC
+2017-04-15 21:24:29+0900,B - Hamiltonish Path,konjo,0,WA
+2017-04-15 21:24:28+0900,B - Hamiltonish Path,plasmaeffect,500,AC
+2017-04-15 21:24:27+0900,B - Hamiltonish Path,takamoto,500,AC
+2017-04-15 21:24:27+0900,B - Hamiltonish Path,Tan90909090,500,AC
+2017-04-15 21:24:25+0900,A - Sorted Arrays,peroon,0,WA
+2017-04-15 21:24:23+0900,B - Hamiltonish Path,Tommyr7,0,WA
+2017-04-15 21:24:23+0900,B - Hamiltonish Path,sieunhanbom04,500,AC
+2017-04-15 21:24:20+0900,B - Hamiltonish Path,bigINnnner,500,AC
+2017-04-15 21:24:17+0900,A - Sorted Arrays,iica,0,WA
+2017-04-15 21:24:17+0900,A - Sorted Arrays,sssbear,0,WA
+2017-04-15 21:24:11+0900,A - Sorted Arrays,usernameson,0,WA
+2017-04-15 21:24:11+0900,B - Hamiltonish Path,sumoooru,0,WA
+2017-04-15 21:24:11+0900,A - Sorted Arrays,ikd,0,WA
+2017-04-15 21:24:10+0900,B - Hamiltonish Path,rareone0602,0,WA
+2017-04-15 21:24:10+0900,B - Hamiltonish Path,minus3theta,500,AC
+2017-04-15 21:24:09+0900,B - Hamiltonish Path,kotamanegi,0,WA
+2017-04-15 21:24:09+0900,A - Sorted Arrays,Linus,0,WA
+2017-04-15 21:24:08+0900,A - Sorted Arrays,shiita0903,300,AC
+2017-04-15 21:24:07+0900,A - Sorted Arrays,atm314,0,WA
+2017-04-15 21:24:06+0900,B - Hamiltonish Path,Ajatar,500,AC
+2017-04-15 21:24:02+0900,A - Sorted Arrays,Starry_sky,0,WA
+2017-04-15 21:23:58+0900,A - Sorted Arrays,ut00a,0,WA
+2017-04-15 21:23:53+0900,B - Hamiltonish Path,reew2n,500,AC
+2017-04-15 21:23:51+0900,A - Sorted Arrays,shink0120,0,RE
+2017-04-15 21:23:50+0900,A - Sorted Arrays,cjquines,300,AC
+2017-04-15 21:23:49+0900,B - Hamiltonish Path,mxzf0213,0,WA
+2017-04-15 21:23:48+0900,A - Sorted Arrays,takkii,0,WA
+2017-04-15 21:23:45+0900,B - Hamiltonish Path,leign,500,AC
+2017-04-15 21:23:45+0900,A - Sorted Arrays,prashantkn94,0,WA
+2017-04-15 21:23:44+0900,C - Ants on a Circle,w4yneb0t,700,AC
+2017-04-15 21:23:43+0900,B - Hamiltonish Path,Motarack,0,WA
+2017-04-15 21:23:39+0900,A - Sorted Arrays,algon,0,WA
+2017-04-15 21:23:38+0900,A - Sorted Arrays,ajs97,300,AC
+2017-04-15 21:23:36+0900,A - Sorted Arrays,facmlove,300,AC
+2017-04-15 21:23:35+0900,A - Sorted Arrays,tokumini,0,WA
+2017-04-15 21:23:34+0900,A - Sorted Arrays,NURx2,300,AC
+2017-04-15 21:23:33+0900,A - Sorted Arrays,dicenull,0,WA
+2017-04-15 21:23:29+0900,B - Hamiltonish Path,tianyichen,0,WA
+2017-04-15 21:23:27+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 21:23:25+0900,A - Sorted Arrays,grumpygordon,300,AC
+2017-04-15 21:23:23+0900,A - Sorted Arrays,yuki_,0,WA
+2017-04-15 21:23:22+0900,A - Sorted Arrays,newworld,0,WA
+2017-04-15 21:23:22+0900,A - Sorted Arrays,Aikurce,300,AC
+2017-04-15 21:23:19+0900,A - Sorted Arrays,sako0384,300,AC
+2017-04-15 21:23:18+0900,A - Sorted Arrays,letranger,300,AC
+2017-04-15 21:23:14+0900,B - Hamiltonish Path,Victor_Lee,0,WA
+2017-04-15 21:23:12+0900,C - Ants on a Circle,molamola,700,AC
+2017-04-15 21:23:11+0900,B - Hamiltonish Path,Reyna,500,AC
+2017-04-15 21:23:08+0900,A - Sorted Arrays,piro77,0,WA
+2017-04-15 21:23:08+0900,A - Sorted Arrays,Naoki_M_,300,AC
+2017-04-15 21:23:06+0900,A - Sorted Arrays,Starry_sky,0,RE
+2017-04-15 21:23:04+0900,B - Hamiltonish Path,pekempey,0,WA
+2017-04-15 21:23:04+0900,A - Sorted Arrays,tnag,300,AC
+2017-04-15 21:23:04+0900,B - Hamiltonish Path,mtsd,0,WA
+2017-04-15 21:23:04+0900,C - Ants on a Circle,Ow1,700,AC
+2017-04-15 21:23:03+0900,A - Sorted Arrays,lazel,300,AC
+2017-04-15 21:22:57+0900,B - Hamiltonish Path,Tan90909090,0,WA
+2017-04-15 21:22:53+0900,B - Hamiltonish Path,amylase,0,WA
+2017-04-15 21:22:51+0900,A - Sorted Arrays,pip8369,300,AC
+2017-04-15 21:22:48+0900,A - Sorted Arrays,Veronica,300,AC
+2017-04-15 21:22:40+0900,A - Sorted Arrays,tokumini,0,WA
+2017-04-15 21:22:39+0900,A - Sorted Arrays,quochuya,300,AC
+2017-04-15 21:22:39+0900,A - Sorted Arrays,rollman,300,AC
+2017-04-15 21:22:36+0900,A - Sorted Arrays,commy,300,AC
+2017-04-15 21:22:34+0900,A - Sorted Arrays,ashwin9686,0,WA
+2017-04-15 21:22:34+0900,A - Sorted Arrays,nmjiri,0,WA
+2017-04-15 21:22:32+0900,A - Sorted Arrays,lay20114,300,AC
+2017-04-15 21:22:28+0900,B - Hamiltonish Path,mrMaster,500,AC
+2017-04-15 21:22:26+0900,A - Sorted Arrays,yupshion,0,RE
+2017-04-15 21:22:26+0900,A - Sorted Arrays,prashantkn94,0,WA
+2017-04-15 21:22:26+0900,A - Sorted Arrays,laomi,0,WA
+2017-04-15 21:22:25+0900,A - Sorted Arrays,ndifix,0,WA
+2017-04-15 21:22:24+0900,B - Hamiltonish Path,yukim,0,WA
+2017-04-15 21:22:22+0900,B - Hamiltonish Path,Victor_Lee,0,WA
+2017-04-15 21:22:21+0900,A - Sorted Arrays,daizu39,0,WA
+2017-04-15 21:22:20+0900,A - Sorted Arrays,ZZZZone,300,AC
+2017-04-15 21:22:20+0900,C - Ants on a Circle,Almost10percent,0,WA
+2017-04-15 21:22:19+0900,A - Sorted Arrays,hnust_lixingdong,300,AC
+2017-04-15 21:22:19+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 21:22:17+0900,A - Sorted Arrays,yoshi78,300,AC
+2017-04-15 21:22:16+0900,A - Sorted Arrays,yogurt,0,WA
+2017-04-15 21:22:13+0900,A - Sorted Arrays,chuka231,300,AC
+2017-04-15 21:22:08+0900,B - Hamiltonish Path,frank_c1,500,AC
+2017-04-15 21:22:07+0900,A - Sorted Arrays,tokabe333,0,RE
+2017-04-15 21:22:04+0900,A - Sorted Arrays,toma25,300,AC
+2017-04-15 21:22:03+0900,A - Sorted Arrays,Johniel,300,AC
+2017-04-15 21:22:02+0900,B - Hamiltonish Path,naoki2016,0,TLE
+2017-04-15 21:22:01+0900,A - Sorted Arrays,Mahmoud,300,AC
+2017-04-15 21:22:01+0900,C - Ants on a Circle,HellKitsune,700,AC
+2017-04-15 21:21:59+0900,B - Hamiltonish Path,Tan90909090,0,WA
+2017-04-15 21:21:57+0900,A - Sorted Arrays,Noimin,300,AC
+2017-04-15 21:21:56+0900,A - Sorted Arrays,walkre,300,AC
+2017-04-15 21:21:47+0900,A - Sorted Arrays,lotus0509,0,WA
+2017-04-15 21:21:45+0900,A - Sorted Arrays,marshi,300,AC
+2017-04-15 21:21:44+0900,A - Sorted Arrays,Shabdan,0,WA
+2017-04-15 21:21:42+0900,A - Sorted Arrays,niwatolli3,300,AC
+2017-04-15 21:21:39+0900,B - Hamiltonish Path,cchao,500,AC
+2017-04-15 21:21:38+0900,B - Hamiltonish Path,TryMyEdge,0,WA
+2017-04-15 21:21:38+0900,A - Sorted Arrays,ut00a,0,WA
+2017-04-15 21:21:31+0900,B - Hamiltonish Path,chintu,500,AC
+2017-04-15 21:21:29+0900,A - Sorted Arrays,toma25,0,WA
+2017-04-15 21:21:28+0900,A - Sorted Arrays,kqp,0,WA
+2017-04-15 21:21:27+0900,A - Sorted Arrays,peiyu,0,WA
+2017-04-15 21:21:26+0900,A - Sorted Arrays,ptt_kr,300,AC
+2017-04-15 21:21:25+0900,A - Sorted Arrays,Yoga,300,AC
+2017-04-15 21:21:24+0900,A - Sorted Arrays,G4t,300,AC
+2017-04-15 21:21:23+0900,B - Hamiltonish Path,flyrise,500,AC
+2017-04-15 21:21:23+0900,A - Sorted Arrays,tokumini,0,WA
+2017-04-15 21:21:22+0900,A - Sorted Arrays,lawfung,300,AC
+2017-04-15 21:21:21+0900,A - Sorted Arrays,sako0384,0,WA
+2017-04-15 21:21:21+0900,A - Sorted Arrays,levi,0,WA
+2017-04-15 21:21:18+0900,A - Sorted Arrays,T1610,0,WA
+2017-04-15 21:21:14+0900,A - Sorted Arrays,fushime2,0,WA
+2017-04-15 21:21:09+0900,A - Sorted Arrays,naughie,300,AC
+2017-04-15 21:21:08+0900,A - Sorted Arrays,marshi,0,RE
+2017-04-15 21:21:07+0900,A - Sorted Arrays,tkmst201,300,AC
+2017-04-15 21:21:06+0900,B - Hamiltonish Path,zhan8855,500,AC
+2017-04-15 21:21:06+0900,A - Sorted Arrays,gtpan77,300,AC
+2017-04-15 21:21:05+0900,A - Sorted Arrays,Nson,300,AC
+2017-04-15 21:21:03+0900,B - Hamiltonish Path,t1016d,500,AC
+2017-04-15 21:21:02+0900,B - Hamiltonish Path,radoslav11,500,AC
+2017-04-15 21:20:53+0900,A - Sorted Arrays,newworld,0,WA
+2017-04-15 21:20:53+0900,A - Sorted Arrays,prashantkn94,0,WA
+2017-04-15 21:20:52+0900,B - Hamiltonish Path,mHuman,500,AC
+2017-04-15 21:20:51+0900,A - Sorted Arrays,ZhNV,300,AC
+2017-04-15 21:20:51+0900,B - Hamiltonish Path,tamionv,500,AC
+2017-04-15 21:20:46+0900,B - Hamiltonish Path,okaduki,500,AC
+2017-04-15 21:20:46+0900,B - Hamiltonish Path,bigINnnner,0,WA
+2017-04-15 21:20:45+0900,A - Sorted Arrays,ZZZZZZ,300,AC
+2017-04-15 21:20:43+0900,A - Sorted Arrays,fetetriste,300,AC
+2017-04-15 21:20:43+0900,A - Sorted Arrays,Gealo,300,AC
+2017-04-15 21:20:42+0900,A - Sorted Arrays,atm314,0,WA
+2017-04-15 21:20:40+0900,A - Sorted Arrays,YJH143,300,AC
+2017-04-15 21:20:39+0900,A - Sorted Arrays,behzad_nouri,0,RE
+2017-04-15 21:20:35+0900,A - Sorted Arrays,Pulmn,300,AC
+2017-04-15 21:20:25+0900,B - Hamiltonish Path,pwypeanut,500,AC
+2017-04-15 21:20:20+0900,B - Hamiltonish Path,mondatto,0,WA
+2017-04-15 21:20:18+0900,A - Sorted Arrays,mencotton,0,RE
+2017-04-15 21:20:16+0900,B - Hamiltonish Path,wtw,500,AC
+2017-04-15 21:20:16+0900,B - Hamiltonish Path,geniucos,500,AC
+2017-04-15 21:20:16+0900,A - Sorted Arrays,JKJeong,300,AC
+2017-04-15 21:20:15+0900,B - Hamiltonish Path,Akbari,0,WA
+2017-04-15 21:20:14+0900,A - Sorted Arrays,ats5515,300,AC
+2017-04-15 21:20:13+0900,A - Sorted Arrays,miyagawa,300,AC
+2017-04-15 21:20:12+0900,A - Sorted Arrays,obsproth,300,AC
+2017-04-15 21:20:12+0900,B - Hamiltonish Path,leign,0,WA
+2017-04-15 21:20:05+0900,B - Hamiltonish Path,jiazihankk,0,WA
+2017-04-15 21:20:05+0900,A - Sorted Arrays,lilian_ciobanu,0,WA
+2017-04-15 21:20:03+0900,C - Ants on a Circle,eddy1021,700,AC
+2017-04-15 21:20:01+0900,A - Sorted Arrays,tzhuan,300,AC
+2017-04-15 21:20:00+0900,B - Hamiltonish Path,Zharaskhan,0,WA
+2017-04-15 21:19:59+0900,A - Sorted Arrays,tome1201,0,WA
+2017-04-15 21:19:59+0900,A - Sorted Arrays,utdotk,0,WA
+2017-04-15 21:19:58+0900,A - Sorted Arrays,ikd,0,WA
+2017-04-15 21:19:57+0900,A - Sorted Arrays,shink0120,0,WA
+2017-04-15 21:19:56+0900,B - Hamiltonish Path,KeivanR,0,WA
+2017-04-15 21:19:55+0900,C - Ants on a Circle,unused,0,WA
+2017-04-15 21:19:55+0900,B - Hamiltonish Path,Mikester,500,AC
+2017-04-15 21:19:55+0900,A - Sorted Arrays,margaery,300,AC
+2017-04-15 21:19:54+0900,A - Sorted Arrays,shubhamgoyal__,300,AC
+2017-04-15 21:19:52+0900,B - Hamiltonish Path,Akulen,500,AC
+2017-04-15 21:19:51+0900,A - Sorted Arrays,nenuon,300,AC
+2017-04-15 21:19:51+0900,B - Hamiltonish Path,boba5551,500,AC
+2017-04-15 21:19:47+0900,A - Sorted Arrays,miyajiro,300,AC
+2017-04-15 21:19:40+0900,B - Hamiltonish Path,tqyaaaaang,500,AC
+2017-04-15 21:19:38+0900,A - Sorted Arrays,Ktya_59,0,WA
+2017-04-15 21:19:38+0900,A - Sorted Arrays,sugarrr,0,WA
+2017-04-15 21:19:37+0900,B - Hamiltonish Path,tanzaku,500,AC
+2017-04-15 21:19:37+0900,A - Sorted Arrays,xchaos,300,AC
+2017-04-15 21:19:35+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 21:19:35+0900,B - Hamiltonish Path,yukim,0,WA
+2017-04-15 21:19:35+0900,A - Sorted Arrays,prashantkn94,0,CE
+2017-04-15 21:19:28+0900,B - Hamiltonish Path,piroz95,500,AC
+2017-04-15 21:19:25+0900,B - Hamiltonish Path,Mikester,0,WA
+2017-04-15 21:19:22+0900,A - Sorted Arrays,kusano,300,AC
+2017-04-15 21:19:21+0900,B - Hamiltonish Path,duongthoi1999,500,AC
+2017-04-15 21:19:20+0900,A - Sorted Arrays,shubhamgoyal__,0,WA
+2017-04-15 21:19:19+0900,A - Sorted Arrays,fgtohru,300,AC
+2017-04-15 21:19:16+0900,B - Hamiltonish Path,mio_h1917,0,WA
+2017-04-15 21:19:15+0900,A - Sorted Arrays,neander,300,AC
+2017-04-15 21:19:12+0900,A - Sorted Arrays,cjquines,0,RE
+2017-04-15 21:19:12+0900,B - Hamiltonish Path,goodqt,500,AC
+2017-04-15 21:19:10+0900,B - Hamiltonish Path,tqyaaaaang,0,RE
+2017-04-15 21:19:09+0900,A - Sorted Arrays,Power730,300,AC
+2017-04-15 21:19:08+0900,A - Sorted Arrays,Gear,0,WA
+2017-04-15 21:19:07+0900,B - Hamiltonish Path,Stonefeang,500,AC
+2017-04-15 21:19:04+0900,A - Sorted Arrays,grumpygordon,0,WA
+2017-04-15 21:19:01+0900,A - Sorted Arrays,zepp,300,AC
+2017-04-15 21:19:00+0900,B - Hamiltonish Path,Hec,500,AC
+2017-04-15 21:18:59+0900,B - Hamiltonish Path,fizzydavid,500,AC
+2017-04-15 21:18:58+0900,A - Sorted Arrays,vinaymdani,0,WA
+2017-04-15 21:18:58+0900,A - Sorted Arrays,horcrux,300,AC
+2017-04-15 21:18:58+0900,A - Sorted Arrays,niwatolli3,0,WA
+2017-04-15 21:18:57+0900,A - Sorted Arrays,ygorshenin,300,AC
+2017-04-15 21:18:54+0900,B - Hamiltonish Path,l__ZeRo_t,500,AC
+2017-04-15 21:18:54+0900,B - Hamiltonish Path,den,500,AC
+2017-04-15 21:18:53+0900,A - Sorted Arrays,supercomputerjoi,300,AC
+2017-04-15 21:18:53+0900,A - Sorted Arrays,nenuon,0,WA
+2017-04-15 21:18:52+0900,A - Sorted Arrays,tsuburin,0,WA
+2017-04-15 21:18:51+0900,A - Sorted Arrays,Gear,0,CE
+2017-04-15 21:18:51+0900,A - Sorted Arrays,tanutarou,300,AC
+2017-04-15 21:18:49+0900,A - Sorted Arrays,stni,300,AC
+2017-04-15 21:18:49+0900,A - Sorted Arrays,trainstation,0,WA
+2017-04-15 21:18:43+0900,A - Sorted Arrays,quochuya,0,WA
+2017-04-15 21:18:37+0900,B - Hamiltonish Path,Andrei1998,500,AC
+2017-04-15 21:18:37+0900,A - Sorted Arrays,yangshu,300,AC
+2017-04-15 21:18:34+0900,A - Sorted Arrays,tinumukiti631,300,AC
+2017-04-15 21:18:34+0900,A - Sorted Arrays,ion,300,AC
+2017-04-15 21:18:32+0900,B - Hamiltonish Path,youaremysky99,0,WA
+2017-04-15 21:18:31+0900,A - Sorted Arrays,zmf1997,300,AC
+2017-04-15 21:18:28+0900,A - Sorted Arrays,letranger,0,TLE
+2017-04-15 21:18:22+0900,A - Sorted Arrays,mmxsrup,0,WA
+2017-04-15 21:18:21+0900,A - Sorted Arrays,uwfdai,300,AC
+2017-04-15 21:18:19+0900,B - Hamiltonish Path,phidnight,500,AC
+2017-04-15 21:18:17+0900,A - Sorted Arrays,roiti,300,AC
+2017-04-15 21:18:17+0900,B - Hamiltonish Path,sjj118,500,AC
+2017-04-15 21:18:15+0900,A - Sorted Arrays,dened,300,AC
+2017-04-15 21:18:13+0900,A - Sorted Arrays,youaremysky99,0,RE
+2017-04-15 21:18:11+0900,B - Hamiltonish Path,TryMyEdge,0,WA
+2017-04-15 21:18:10+0900,B - Hamiltonish Path,ynq1242,500,AC
+2017-04-15 21:18:07+0900,B - Hamiltonish Path,Whalanator,500,AC
+2017-04-15 21:18:04+0900,A - Sorted Arrays,kotamanegi,300,AC
+2017-04-15 21:18:04+0900,A - Sorted Arrays,ut00a,0,WA
+2017-04-15 21:18:03+0900,A - Sorted Arrays,newworld,0,WA
+2017-04-15 21:18:02+0900,A - Sorted Arrays,laomi,0,WA
+2017-04-15 21:18:01+0900,A - Sorted Arrays,SriLankan,300,AC
+2017-04-15 21:17:58+0900,A - Sorted Arrays,hahatianx,300,AC
+2017-04-15 21:17:57+0900,A - Sorted Arrays,Naoki_M_,0,WA
+2017-04-15 21:17:57+0900,A - Sorted Arrays,sugarrr,0,WA
+2017-04-15 21:17:56+0900,A - Sorted Arrays,JKJeong,0,WA
+2017-04-15 21:17:55+0900,A - Sorted Arrays,roiti,0,RE
+2017-04-15 21:17:52+0900,A - Sorted Arrays,do2424,0,WA
+2017-04-15 21:17:52+0900,A - Sorted Arrays,grumpygordon,0,RE
+2017-04-15 21:17:49+0900,B - Hamiltonish Path,Andres_Unt,500,AC
+2017-04-15 21:17:49+0900,A - Sorted Arrays,ZZZZone,0,WA
+2017-04-15 21:17:49+0900,B - Hamiltonish Path,Zharaskhan,0,WA
+2017-04-15 21:17:47+0900,B - Hamiltonish Path,kmjp,500,AC
+2017-04-15 21:17:43+0900,B - Hamiltonish Path,Tatsuno,0,WA
+2017-04-15 21:17:41+0900,A - Sorted Arrays,commy,0,WA
+2017-04-15 21:17:40+0900,B - Hamiltonish Path,beet,500,AC
+2017-04-15 21:17:38+0900,A - Sorted Arrays,yangshu,0,RE
+2017-04-15 21:17:38+0900,B - Hamiltonish Path,mio_h1917,0,WA
+2017-04-15 21:17:38+0900,B - Hamiltonish Path,aid,500,AC
+2017-04-15 21:17:36+0900,A - Sorted Arrays,kpn64,300,AC
+2017-04-15 21:17:36+0900,A - Sorted Arrays,grncbg,300,AC
+2017-04-15 21:17:36+0900,A - Sorted Arrays,acmaker,300,AC
+2017-04-15 21:17:35+0900,B - Hamiltonish Path,mjhun,500,AC
+2017-04-15 21:17:30+0900,B - Hamiltonish Path,StanislavErshov,500,AC
+2017-04-15 21:17:29+0900,A - Sorted Arrays,hogeki,300,AC
+2017-04-15 21:17:28+0900,A - Sorted Arrays,tkmst201,0,WA
+2017-04-15 21:17:27+0900,C - Ants on a Circle,dbradac,700,AC
+2017-04-15 21:17:25+0900,A - Sorted Arrays,phyllo,300,AC
+2017-04-15 21:17:25+0900,A - Sorted Arrays,dicenull,0,WA
+2017-04-15 21:17:23+0900,B - Hamiltonish Path,IanWong,500,AC
+2017-04-15 21:17:22+0900,A - Sorted Arrays,mkan_0141,300,AC
+2017-04-15 21:17:19+0900,A - Sorted Arrays,lzw4896s,0,WA
+2017-04-15 21:17:15+0900,A - Sorted Arrays,Alexa2001,300,AC
+2017-04-15 21:17:15+0900,B - Hamiltonish Path,fanache99,500,AC
+2017-04-15 21:17:11+0900,A - Sorted Arrays,roto_37,0,WA
+2017-04-15 21:17:08+0900,A - Sorted Arrays,kwkm0429,0,WA
+2017-04-15 21:17:08+0900,A - Sorted Arrays,marshi,0,WA
+2017-04-15 21:17:08+0900,B - Hamiltonish Path,pavelsavchenkov,500,AC
+2017-04-15 21:17:07+0900,A - Sorted Arrays,ikd,0,WA
+2017-04-15 21:17:06+0900,A - Sorted Arrays,ChopsticksAN,300,AC
+2017-04-15 21:17:06+0900,A - Sorted Arrays,fluture,0,WA
+2017-04-15 21:17:06+0900,A - Sorted Arrays,anuj_shah,0,WA
+2017-04-15 21:17:05+0900,A - Sorted Arrays,newworld,0,WA
+2017-04-15 21:17:04+0900,B - Hamiltonish Path,rsalesc,0,WA
+2017-04-15 21:17:03+0900,A - Sorted Arrays,imang,300,AC
+2017-04-15 21:17:02+0900,A - Sorted Arrays,failed_coder,300,AC
+2017-04-15 21:17:02+0900,B - Hamiltonish Path,maryanna2016,500,AC
+2017-04-15 21:17:01+0900,A - Sorted Arrays,Mrsuyi,300,AC
+2017-04-15 21:17:01+0900,A - Sorted Arrays,youki,0,WA
+2017-04-15 21:17:01+0900,A - Sorted Arrays,rehu,300,AC
+2017-04-15 21:16:56+0900,B - Hamiltonish Path,kobae964,500,AC
+2017-04-15 21:16:56+0900,A - Sorted Arrays,Kampachi,300,AC
+2017-04-15 21:16:56+0900,A - Sorted Arrays,meg,300,AC
+2017-04-15 21:16:53+0900,A - Sorted Arrays,angel_p_57,300,AC
+2017-04-15 21:16:51+0900,A - Sorted Arrays,masakt,0,RE
+2017-04-15 21:16:50+0900,A - Sorted Arrays,popovicirobert,300,AC
+2017-04-15 21:16:48+0900,A - Sorted Arrays,newworld,0,WA
+2017-04-15 21:16:47+0900,B - Hamiltonish Path,tanzaku,0,WA
+2017-04-15 21:16:47+0900,A - Sorted Arrays,plcherrim,0,WA
+2017-04-15 21:16:43+0900,B - Hamiltonish Path,grumpygordon,500,AC
+2017-04-15 21:16:42+0900,A - Sorted Arrays,rishizek,300,AC
+2017-04-15 21:16:42+0900,A - Sorted Arrays,ravenclaws1,0,WA
+2017-04-15 21:16:40+0900,A - Sorted Arrays,c7c7,300,AC
+2017-04-15 21:16:39+0900,C - Ants on a Circle,dreamoon,700,AC
+2017-04-15 21:16:37+0900,A - Sorted Arrays,gazelle,300,AC
+2017-04-15 21:16:36+0900,A - Sorted Arrays,gamegame,0,WA
+2017-04-15 21:16:35+0900,A - Sorted Arrays,ProMAGFAT,300,AC
+2017-04-15 21:16:32+0900,B - Hamiltonish Path,zscoder,500,AC
+2017-04-15 21:16:30+0900,A - Sorted Arrays,ukuku09,300,AC
+2017-04-15 21:16:26+0900,A - Sorted Arrays,ut00a,0,WA
+2017-04-15 21:16:24+0900,B - Hamiltonish Path,sky58,500,AC
+2017-04-15 21:16:22+0900,A - Sorted Arrays,dogumusasi,300,AC
+2017-04-15 21:16:22+0900,A - Sorted Arrays,Thistle,300,AC
+2017-04-15 21:16:20+0900,A - Sorted Arrays,WA_TLE,300,AC
+2017-04-15 21:16:19+0900,A - Sorted Arrays,dened,0,WA
+2017-04-15 21:16:18+0900,A - Sorted Arrays,th90tk297,300,AC
+2017-04-15 21:16:15+0900,A - Sorted Arrays,vivekmufc,0,WA
+2017-04-15 21:16:15+0900,A - Sorted Arrays,lzw4896s,0,WA
+2017-04-15 21:16:15+0900,A - Sorted Arrays,roto_37,0,WA
+2017-04-15 21:16:14+0900,A - Sorted Arrays,shink0120,0,WA
+2017-04-15 21:16:09+0900,B - Hamiltonish Path,polingy,500,AC
+2017-04-15 21:16:08+0900,A - Sorted Arrays,kazunetakahashi,300,AC
+2017-04-15 21:16:07+0900,B - Hamiltonish Path,PaPa,500,AC
+2017-04-15 21:16:02+0900,A - Sorted Arrays,wenbao,300,AC
+2017-04-15 21:16:01+0900,B - Hamiltonish Path,XraY,500,AC
+2017-04-15 21:15:59+0900,A - Sorted Arrays,ikd,0,WA
+2017-04-15 21:15:58+0900,A - Sorted Arrays,Ice_in_juice,300,AC
+2017-04-15 21:15:57+0900,B - Hamiltonish Path,grumpygordon,0,RE
+2017-04-15 21:15:55+0900,B - Hamiltonish Path,Tabasz,500,AC
+2017-04-15 21:15:55+0900,A - Sorted Arrays,newworld,0,CE
+2017-04-15 21:15:53+0900,A - Sorted Arrays,shouta,0,WA
+2017-04-15 21:15:52+0900,A - Sorted Arrays,jun8d,0,RE
+2017-04-15 21:15:52+0900,A - Sorted Arrays,arukuka,300,AC
+2017-04-15 21:15:51+0900,B - Hamiltonish Path,LiTi,500,AC
+2017-04-15 21:15:51+0900,A - Sorted Arrays,MikeZ,300,AC
+2017-04-15 21:15:47+0900,B - Hamiltonish Path,zerokugi,500,AC
+2017-04-15 21:15:47+0900,A - Sorted Arrays,ukuku09,0,RE
+2017-04-15 21:15:47+0900,A - Sorted Arrays,Mahmoud,0,WA
+2017-04-15 21:15:45+0900,B - Hamiltonish Path,yukim,0,WA
+2017-04-15 21:15:44+0900,A - Sorted Arrays,a_kawashiro,0,WA
+2017-04-15 21:15:44+0900,A - Sorted Arrays,anekawa,0,WA
+2017-04-15 21:15:44+0900,A - Sorted Arrays,kronos,300,AC
+2017-04-15 21:15:44+0900,B - Hamiltonish Path,fwm94,500,AC
+2017-04-15 21:15:42+0900,A - Sorted Arrays,Axelius,300,AC
+2017-04-15 21:15:41+0900,A - Sorted Arrays,k_ashiya,0,WA
+2017-04-15 21:15:40+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 21:15:37+0900,A - Sorted Arrays,cosmos0906,300,AC
+2017-04-15 21:15:37+0900,A - Sorted Arrays,Rainin,0,WA
+2017-04-15 21:15:35+0900,B - Hamiltonish Path,Mikester,0,WA
+2017-04-15 21:15:33+0900,A - Sorted Arrays,tsniper1237,300,AC
+2017-04-15 21:15:32+0900,A - Sorted Arrays,g0rilla,300,AC
+2017-04-15 21:15:32+0900,B - Hamiltonish Path,sieunhanbom04,0,WA
+2017-04-15 21:15:31+0900,A - Sorted Arrays,abclzr,300,AC
+2017-04-15 21:15:27+0900,A - Sorted Arrays,uenoku,300,AC
+2017-04-15 21:15:27+0900,A - Sorted Arrays,stihahi,300,AC
+2017-04-15 21:15:25+0900,A - Sorted Arrays,novemura,0,WA
+2017-04-15 21:15:24+0900,C - Ants on a Circle,Deemo,700,AC
+2017-04-15 21:15:21+0900,A - Sorted Arrays,chm517,300,AC
+2017-04-15 21:15:17+0900,A - Sorted Arrays,muctera,300,AC
+2017-04-15 21:15:16+0900,A - Sorted Arrays,kusano,0,WA
+2017-04-15 21:15:15+0900,A - Sorted Arrays,smallcattom,300,AC
+2017-04-15 21:15:15+0900,A - Sorted Arrays,ravenclaws1,0,WA
+2017-04-15 21:15:11+0900,A - Sorted Arrays,fluture,0,WA
+2017-04-15 21:15:09+0900,B - Hamiltonish Path,kunyavskiy,500,AC
+2017-04-15 21:15:08+0900,A - Sorted Arrays,abyataro,300,AC
+2017-04-15 21:15:06+0900,A - Sorted Arrays,mcfx,300,AC
+2017-04-15 21:14:59+0900,A - Sorted Arrays,yuiop,300,AC
+2017-04-15 21:14:58+0900,A - Sorted Arrays,maxi,0,WA
+2017-04-15 21:14:55+0900,A - Sorted Arrays,hsiml1014,300,AC
+2017-04-15 21:14:54+0900,A - Sorted Arrays,emon,300,AC
+2017-04-15 21:14:51+0900,B - Hamiltonish Path,AndreiNet,500,AC
+2017-04-15 21:14:50+0900,C - Ants on a Circle,Petr,700,AC
+2017-04-15 21:14:49+0900,A - Sorted Arrays,nannany,300,AC
+2017-04-15 21:14:46+0900,B - Hamiltonish Path,Timur_Sitdikov,500,AC
+2017-04-15 21:14:45+0900,A - Sorted Arrays,laomi,0,WA
+2017-04-15 21:14:45+0900,A - Sorted Arrays,newworld,0,WA
+2017-04-15 21:14:44+0900,A - Sorted Arrays,ctyl,300,AC
+2017-04-15 21:14:42+0900,B - Hamiltonish Path,jklepec,500,AC
+2017-04-15 21:14:41+0900,A - Sorted Arrays,Gealo,0,WA
+2017-04-15 21:14:41+0900,A - Sorted Arrays,vinaymdani,0,WA
+2017-04-15 21:14:40+0900,A - Sorted Arrays,pikari0904,300,AC
+2017-04-15 21:14:40+0900,B - Hamiltonish Path,nobik,500,AC
+2017-04-15 21:14:39+0900,A - Sorted Arrays,mmxsrup,0,WA
+2017-04-15 21:14:38+0900,A - Sorted Arrays,petrouchka,0,WA
+2017-04-15 21:14:36+0900,B - Hamiltonish Path,Andres_Unt,0,WA
+2017-04-15 21:14:36+0900,A - Sorted Arrays,joisino,300,AC
+2017-04-15 21:14:34+0900,B - Hamiltonish Path,liympanda,500,AC
+2017-04-15 21:14:32+0900,A - Sorted Arrays,youki,0,WA
+2017-04-15 21:14:32+0900,A - Sorted Arrays,jklepec,0,RE
+2017-04-15 21:14:31+0900,A - Sorted Arrays,neander,0,RE
+2017-04-15 21:14:31+0900,A - Sorted Arrays,goto,300,AC
+2017-04-15 21:14:28+0900,A - Sorted Arrays,margaery,0,WA
+2017-04-15 21:14:27+0900,B - Hamiltonish Path,Kostroma,500,AC
+2017-04-15 21:14:26+0900,A - Sorted Arrays,ukuku09,0,RE
+2017-04-15 21:14:24+0900,A - Sorted Arrays,agis,300,AC
+2017-04-15 21:14:24+0900,A - Sorted Arrays,akshit_1996,300,AC
+2017-04-15 21:14:22+0900,A - Sorted Arrays,aim_cpo,0,WA
+2017-04-15 21:14:22+0900,A - Sorted Arrays,eukaryo,300,AC
+2017-04-15 21:14:19+0900,B - Hamiltonish Path,Andreikkaa,500,AC
+2017-04-15 21:14:18+0900,A - Sorted Arrays,tiny_code,300,AC
+2017-04-15 21:14:15+0900,A - Sorted Arrays,jun8d,0,RE
+2017-04-15 21:14:15+0900,A - Sorted Arrays,remin,300,AC
+2017-04-15 21:14:13+0900,B - Hamiltonish Path,USA,500,AC
+2017-04-15 21:14:12+0900,A - Sorted Arrays,suiyuan2009,300,AC
+2017-04-15 21:14:11+0900,B - Hamiltonish Path,yashkumar18,500,AC
+2017-04-15 21:14:07+0900,A - Sorted Arrays,themoai34,0,WA
+2017-04-15 21:14:03+0900,A - Sorted Arrays,Lionking07,0,WA
+2017-04-15 21:14:03+0900,B - Hamiltonish Path,LiTi,0,WA
+2017-04-15 21:14:02+0900,B - Hamiltonish Path,TeaPot,500,AC
+2017-04-15 21:13:54+0900,A - Sorted Arrays,masafumi,300,AC
+2017-04-15 21:13:53+0900,A - Sorted Arrays,ZZZZone,0,WA
+2017-04-15 21:13:52+0900,B - Hamiltonish Path,IanWong,0,WA
+2017-04-15 21:13:51+0900,A - Sorted Arrays,hoget157,300,AC
+2017-04-15 21:13:51+0900,A - Sorted Arrays,kurumaebi,300,AC
+2017-04-15 21:13:50+0900,A - Sorted Arrays,freeloop,300,AC
+2017-04-15 21:13:49+0900,B - Hamiltonish Path,kawabys,0,WA
+2017-04-15 21:13:49+0900,A - Sorted Arrays,kotamanegi,0,WA
+2017-04-15 21:13:48+0900,A - Sorted Arrays,shot,300,AC
+2017-04-15 21:13:48+0900,A - Sorted Arrays,take1223xxx,0,WA
+2017-04-15 21:13:48+0900,A - Sorted Arrays,drafear,300,AC
+2017-04-15 21:13:48+0900,A - Sorted Arrays,t1016d,300,AC
+2017-04-15 21:13:47+0900,A - Sorted Arrays,tkmst201,0,WA
+2017-04-15 21:13:47+0900,B - Hamiltonish Path,XraY,0,WA
+2017-04-15 21:13:45+0900,A - Sorted Arrays,fizzydavid,300,AC
+2017-04-15 21:13:43+0900,B - Hamiltonish Path,AndreiNet,0,TLE
+2017-04-15 21:13:43+0900,A - Sorted Arrays,mjy0724,300,AC
+2017-04-15 21:13:36+0900,B - Hamiltonish Path,jonathanirvings,500,AC
+2017-04-15 21:13:35+0900,B - Hamiltonish Path,molamola,500,AC
+2017-04-15 21:13:31+0900,A - Sorted Arrays,ten986,300,AC
+2017-04-15 21:13:30+0900,A - Sorted Arrays,abclzr,0,WA
+2017-04-15 21:13:29+0900,A - Sorted Arrays,tzhuan,0,WA
+2017-04-15 21:13:29+0900,A - Sorted Arrays,ujzwt4it,300,AC
+2017-04-15 21:13:27+0900,B - Hamiltonish Path,phidnight,0,WA
+2017-04-15 21:13:26+0900,A - Sorted Arrays,hato_roll,300,AC
+2017-04-15 21:13:25+0900,A - Sorted Arrays,Mrsuyi,0,WA
+2017-04-15 21:13:25+0900,A - Sorted Arrays,ixxa,300,AC
+2017-04-15 21:13:24+0900,A - Sorted Arrays,mohit22995,300,AC
+2017-04-15 21:13:24+0900,A - Sorted Arrays,iscsi,300,AC
+2017-04-15 21:13:23+0900,A - Sorted Arrays,tianyichen,300,AC
+2017-04-15 21:13:20+0900,A - Sorted Arrays,gtpan77,0,WA
+2017-04-15 21:13:18+0900,A - Sorted Arrays,noy72,300,AC
+2017-04-15 21:13:17+0900,A - Sorted Arrays,cormoran,300,AC
+2017-04-15 21:13:17+0900,A - Sorted Arrays,jimmy,0,WA
+2017-04-15 21:13:16+0900,A - Sorted Arrays,RockyB,300,AC
+2017-04-15 21:13:13+0900,A - Sorted Arrays,Tyler,0,WA
+2017-04-15 21:13:13+0900,A - Sorted Arrays,youki,0,WA
+2017-04-15 21:13:08+0900,A - Sorted Arrays,ikd,0,WA
+2017-04-15 21:13:05+0900,A - Sorted Arrays,clatisus,300,AC
+2017-04-15 21:13:03+0900,A - Sorted Arrays,NurlashKO,300,AC
+2017-04-15 21:13:02+0900,A - Sorted Arrays,Mahmoud,0,WA
+2017-04-15 21:13:00+0900,A - Sorted Arrays,lay20114,0,WA
+2017-04-15 21:12:57+0900,A - Sorted Arrays,zerocool,0,TLE
+2017-04-15 21:12:52+0900,A - Sorted Arrays,SomanshuSingla,300,AC
+2017-04-15 21:12:51+0900,A - Sorted Arrays,NURx2,0,WA
+2017-04-15 21:12:51+0900,B - Hamiltonish Path,HellKitsune,500,AC
+2017-04-15 21:12:50+0900,A - Sorted Arrays,deoxy,300,AC
+2017-04-15 21:12:49+0900,A - Sorted Arrays,chentong,300,AC
+2017-04-15 21:12:48+0900,A - Sorted Arrays,npz35,300,AC
+2017-04-15 21:12:46+0900,A - Sorted Arrays,Pulmn,0,WA
+2017-04-15 21:12:43+0900,A - Sorted Arrays,hahatianx,0,WA
+2017-04-15 21:12:43+0900,A - Sorted Arrays,kurgm,300,AC
+2017-04-15 21:12:38+0900,A - Sorted Arrays,torus711,300,AC
+2017-04-15 21:12:38+0900,A - Sorted Arrays,petrpan,300,AC
+2017-04-15 21:12:38+0900,A - Sorted Arrays,tkmst201,0,WA
+2017-04-15 21:12:37+0900,A - Sorted Arrays,Stonefeang,300,AC
+2017-04-15 21:12:35+0900,A - Sorted Arrays,tiny_code,0,WA
+2017-04-15 21:12:34+0900,A - Sorted Arrays,StoneDot,0,WA
+2017-04-15 21:12:33+0900,A - Sorted Arrays,MMNMM,300,AC
+2017-04-15 21:12:32+0900,B - Hamiltonish Path,uwi,500,AC
+2017-04-15 21:12:31+0900,A - Sorted Arrays,dohatsutsu,300,AC
+2017-04-15 21:12:26+0900,A - Sorted Arrays,ChopsticksAN,0,WA
+2017-04-15 21:12:24+0900,A - Sorted Arrays,c7c7,0,WA
+2017-04-15 21:12:16+0900,A - Sorted Arrays,chentong,0,WA
+2017-04-15 21:12:08+0900,A - Sorted Arrays,Woodpecker1123,300,AC
+2017-04-15 21:12:07+0900,A - Sorted Arrays,NurlashKO,0,WA
+2017-04-15 21:12:07+0900,A - Sorted Arrays,emon,0,WA
+2017-04-15 21:12:06+0900,A - Sorted Arrays,akarin55,300,AC
+2017-04-15 21:12:01+0900,A - Sorted Arrays,stni,0,WA
+2017-04-15 21:12:01+0900,A - Sorted Arrays,fiord,300,AC
+2017-04-15 21:12:00+0900,A - Sorted Arrays,youki,0,WA
+2017-04-15 21:11:59+0900,A - Sorted Arrays,sasa99,300,AC
+2017-04-15 21:11:58+0900,A - Sorted Arrays,newworld,0,WA
+2017-04-15 21:11:57+0900,A - Sorted Arrays,tzhuan,0,WA
+2017-04-15 21:11:56+0900,B - Hamiltonish Path,ilyakor,500,AC
+2017-04-15 21:11:55+0900,A - Sorted Arrays,ngkan146,300,AC
+2017-04-15 21:11:51+0900,A - Sorted Arrays,takeo1116,300,AC
+2017-04-15 21:11:50+0900,A - Sorted Arrays,tasmeemreza,300,AC
+2017-04-15 21:11:48+0900,A - Sorted Arrays,toxzi,300,AC
+2017-04-15 21:11:47+0900,A - Sorted Arrays,maze1230,300,AC
+2017-04-15 21:11:46+0900,A - Sorted Arrays,platypus,300,AC
+2017-04-15 21:11:45+0900,A - Sorted Arrays,kyawakyawa,0,WA
+2017-04-15 21:11:43+0900,A - Sorted Arrays,SmallBoy,300,AC
+2017-04-15 21:11:42+0900,A - Sorted Arrays,wanglichao1121,300,AC
+2017-04-15 21:11:39+0900,B - Hamiltonish Path,krismaz,500,AC
+2017-04-15 21:11:33+0900,A - Sorted Arrays,tuna_roll,0,WA
+2017-04-15 21:11:33+0900,B - Hamiltonish Path,Speedster,500,AC
+2017-04-15 21:11:32+0900,A - Sorted Arrays,fiftysevenTGGX,300,AC
+2017-04-15 21:11:29+0900,B - Hamiltonish Path,atatomir,500,AC
+2017-04-15 21:11:28+0900,A - Sorted Arrays,zhan8855,300,AC
+2017-04-15 21:11:28+0900,A - Sorted Arrays,ishibashijun,300,AC
+2017-04-15 21:11:27+0900,A - Sorted Arrays,tspcx,300,AC
+2017-04-15 21:11:25+0900,A - Sorted Arrays,Tan90909090,300,AC
+2017-04-15 21:11:23+0900,A - Sorted Arrays,Aikurce,0,WA
+2017-04-15 21:11:22+0900,A - Sorted Arrays,ravenclaws1,0,WA
+2017-04-15 21:11:21+0900,A - Sorted Arrays,imulan,300,AC
+2017-04-15 21:11:21+0900,A - Sorted Arrays,hahatianx,0,WA
+2017-04-15 21:11:18+0900,A - Sorted Arrays,Nson,0,WA
+2017-04-15 21:11:15+0900,A - Sorted Arrays,hato_roll,0,WA
+2017-04-15 21:11:15+0900,A - Sorted Arrays,kohei94,300,AC
+2017-04-15 21:11:14+0900,A - Sorted Arrays,inmir,0,RE
+2017-04-15 21:11:13+0900,A - Sorted Arrays,Akulen,300,AC
+2017-04-15 21:11:11+0900,B - Hamiltonish Path,EgorLifar,500,AC
+2017-04-15 21:11:06+0900,A - Sorted Arrays,Ra16bit,300,AC
+2017-04-15 21:11:05+0900,A - Sorted Arrays,ZhNV,0,WA
+2017-04-15 21:11:04+0900,B - Hamiltonish Path,mislav,500,AC
+2017-04-15 21:11:03+0900,A - Sorted Arrays,chinmay_sd,0,WA
+2017-04-15 21:11:03+0900,B - Hamiltonish Path,sigma425,500,AC
+2017-04-15 21:11:03+0900,B - Hamiltonish Path,Arterm,500,AC
+2017-04-15 21:11:03+0900,A - Sorted Arrays,shiro46,300,AC
+2017-04-15 21:11:03+0900,A - Sorted Arrays,pandrei,300,AC
+2017-04-15 21:11:03+0900,A - Sorted Arrays,y_kawano,300,AC
+2017-04-15 21:11:01+0900,A - Sorted Arrays,Rainin,0,WA
+2017-04-15 21:11:00+0900,A - Sorted Arrays,StanislavErshov,300,AC
+2017-04-15 21:10:57+0900,A - Sorted Arrays,plasmaeffect,0,WA
+2017-04-15 21:10:57+0900,A - Sorted Arrays,Gacho_0716,300,AC
+2017-04-15 21:10:57+0900,A - Sorted Arrays,StoneDot,0,WA
+2017-04-15 21:10:54+0900,A - Sorted Arrays,RunningTime,300,AC
+2017-04-15 21:10:53+0900,A - Sorted Arrays,Stonefeang,0,WA
+2017-04-15 21:10:52+0900,A - Sorted Arrays,untan,0,WA
+2017-04-15 21:10:49+0900,A - Sorted Arrays,levi,0,WA
+2017-04-15 21:10:48+0900,A - Sorted Arrays,300iq,300,AC
+2017-04-15 21:10:48+0900,A - Sorted Arrays,mechanicalpenciI,300,AC
+2017-04-15 21:10:47+0900,A - Sorted Arrays,roiti,0,WA
+2017-04-15 21:10:47+0900,A - Sorted Arrays,hylian,300,AC
+2017-04-15 21:10:47+0900,B - Hamiltonish Path,kawatea,500,AC
+2017-04-15 21:10:46+0900,A - Sorted Arrays,emon,0,RE
+2017-04-15 21:10:45+0900,B - Hamiltonish Path,IvL,500,AC
+2017-04-15 21:10:45+0900,A - Sorted Arrays,ashwin9686,0,WA
+2017-04-15 21:10:44+0900,B - Hamiltonish Path,aitch,500,AC
+2017-04-15 21:10:44+0900,A - Sorted Arrays,yuricat,300,AC
+2017-04-15 21:10:43+0900,B - Hamiltonish Path,zemen,500,AC
+2017-04-15 21:10:43+0900,A - Sorted Arrays,torus711,0,WA
+2017-04-15 21:10:40+0900,A - Sorted Arrays,sadtomato,0,WA
+2017-04-15 21:10:37+0900,B - Hamiltonish Path,Swistakk,500,AC
+2017-04-15 21:10:34+0900,A - Sorted Arrays,gldfnch,300,AC
+2017-04-15 21:10:34+0900,A - Sorted Arrays,themoai34,0,WA
+2017-04-15 21:10:34+0900,A - Sorted Arrays,marshi,0,TLE
+2017-04-15 21:10:32+0900,B - Hamiltonish Path,demon1999,500,AC
+2017-04-15 21:10:32+0900,A - Sorted Arrays,nanae,300,AC
+2017-04-15 21:10:32+0900,B - Hamiltonish Path,yutaka1999,500,AC
+2017-04-15 21:10:32+0900,A - Sorted Arrays,yxl,300,AC
+2017-04-15 21:10:32+0900,A - Sorted Arrays,zhongzihao,300,AC
+2017-04-15 21:10:31+0900,B - Hamiltonish Path,IanWong,0,WA
+2017-04-15 21:10:31+0900,A - Sorted Arrays,Light_Kiss,300,AC
+2017-04-15 21:10:30+0900,B - Hamiltonish Path,Akbari,0,WA
+2017-04-15 21:10:29+0900,A - Sorted Arrays,tamionv,300,AC
+2017-04-15 21:10:28+0900,A - Sorted Arrays,uke77hg4,300,AC
+2017-04-15 21:10:27+0900,A - Sorted Arrays,Tyler,0,WA
+2017-04-15 21:10:27+0900,A - Sorted Arrays,ynymxiaolongbao,300,AC
+2017-04-15 21:10:26+0900,A - Sorted Arrays,Kostroma,300,AC
+2017-04-15 21:10:26+0900,A - Sorted Arrays,suzume,300,AC
+2017-04-15 21:10:24+0900,A - Sorted Arrays,kyawakyawa,0,WA
+2017-04-15 21:10:24+0900,A - Sorted Arrays,zazaboon,300,AC
+2017-04-15 21:10:22+0900,A - Sorted Arrays,cjqw,300,AC
+2017-04-15 21:10:22+0900,A - Sorted Arrays,jiazihankk,300,AC
+2017-04-15 21:10:21+0900,A - Sorted Arrays,ion,0,WA
+2017-04-15 21:10:20+0900,A - Sorted Arrays,usernameson,0,WA
+2017-04-15 21:10:19+0900,A - Sorted Arrays,tkw_tech,300,AC
+2017-04-15 21:10:17+0900,A - Sorted Arrays,mkisic,300,AC
+2017-04-15 21:10:17+0900,A - Sorted Arrays,Halksel,300,AC
+2017-04-15 21:10:15+0900,A - Sorted Arrays,tzhuan,0,WA
+2017-04-15 21:10:14+0900,A - Sorted Arrays,kenkoooo,300,AC
+2017-04-15 21:10:11+0900,A - Sorted Arrays,xuanquang1999,300,AC
+2017-04-15 21:10:10+0900,A - Sorted Arrays,orisano,300,AC
+2017-04-15 21:10:10+0900,A - Sorted Arrays,claw88,300,AC
+2017-04-15 21:10:08+0900,A - Sorted Arrays,stni,0,WA
+2017-04-15 21:10:06+0900,A - Sorted Arrays,aid,300,AC
+2017-04-15 21:10:06+0900,A - Sorted Arrays,spica314,300,AC
+2017-04-15 21:10:04+0900,A - Sorted Arrays,liangsheng,300,AC
+2017-04-15 21:10:04+0900,A - Sorted Arrays,ukuku09,0,RE
+2017-04-15 21:10:03+0900,A - Sorted Arrays,cchao,300,AC
+2017-04-15 21:10:01+0900,A - Sorted Arrays,JKJeong,0,WA
+2017-04-15 21:09:58+0900,A - Sorted Arrays,tokumini,0,WA
+2017-04-15 21:09:57+0900,A - Sorted Arrays,Andrei1998,300,AC
+2017-04-15 21:09:56+0900,A - Sorted Arrays,Filyan,300,AC
+2017-04-15 21:09:55+0900,A - Sorted Arrays,sjj118,300,AC
+2017-04-15 21:09:55+0900,A - Sorted Arrays,st_nec,300,AC
+2017-04-15 21:09:55+0900,A - Sorted Arrays,sate3saku3,300,AC
+2017-04-15 21:09:55+0900,A - Sorted Arrays,L3Sota,300,AC
+2017-04-15 21:09:53+0900,A - Sorted Arrays,yassin,0,WA
+2017-04-15 21:09:50+0900,A - Sorted Arrays,krzysiek27,300,AC
+2017-04-15 21:09:49+0900,A - Sorted Arrays,300iq,0,WA
+2017-04-15 21:09:47+0900,A - Sorted Arrays,bomac1,300,AC
+2017-04-15 21:09:46+0900,A - Sorted Arrays,hoxosh,300,AC
+2017-04-15 21:09:44+0900,A - Sorted Arrays,KokiYmgch,300,AC
+2017-04-15 21:09:44+0900,A - Sorted Arrays,300iq,0,WA
+2017-04-15 21:09:43+0900,A - Sorted Arrays,AL2K,300,AC
+2017-04-15 21:09:43+0900,B - Hamiltonish Path,dreamoon,500,AC
+2017-04-15 21:09:42+0900,A - Sorted Arrays,etonagisa,300,AC
+2017-04-15 21:09:42+0900,B - Hamiltonish Path,w4yneb0t,500,AC
+2017-04-15 21:09:42+0900,A - Sorted Arrays,eager,300,AC
+2017-04-15 21:09:40+0900,A - Sorted Arrays,togatoga,300,AC
+2017-04-15 21:09:40+0900,B - Hamiltonish Path,aitch,0,CE
+2017-04-15 21:09:40+0900,A - Sorted Arrays,gbis36,300,AC
+2017-04-15 21:09:39+0900,A - Sorted Arrays,AKozlovsky,0,WA
+2017-04-15 21:09:38+0900,A - Sorted Arrays,npz35,0,WA
+2017-04-15 21:09:38+0900,A - Sorted Arrays,tatuyan,300,AC
+2017-04-15 21:09:37+0900,A - Sorted Arrays,radoslav11,300,AC
+2017-04-15 21:09:36+0900,A - Sorted Arrays,abc050,300,AC
+2017-04-15 21:09:35+0900,B - Hamiltonish Path,krijgertje,500,AC
+2017-04-15 21:09:35+0900,A - Sorted Arrays,amylase,300,AC
+2017-04-15 21:09:32+0900,A - Sorted Arrays,Ibraheem_Tuffaha,300,AC
+2017-04-15 21:09:31+0900,A - Sorted Arrays,Gobi,300,AC
+2017-04-15 21:09:30+0900,A - Sorted Arrays,sakky711,300,AC
+2017-04-15 21:09:28+0900,B - Hamiltonish Path,geniucos,0,WA
+2017-04-15 21:09:28+0900,B - Hamiltonish Path,atatomir,0,WA
+2017-04-15 21:09:28+0900,A - Sorted Arrays,hasi,300,AC
+2017-04-15 21:09:27+0900,A - Sorted Arrays,t8m8,300,AC
+2017-04-15 21:09:27+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 21:09:26+0900,A - Sorted Arrays,swm_sxt,300,AC
+2017-04-15 21:09:25+0900,A - Sorted Arrays,WA_TLE,0,WA
+2017-04-15 21:09:25+0900,A - Sorted Arrays,outlimited,300,AC
+2017-04-15 21:09:24+0900,A - Sorted Arrays,funcsr,300,AC
+2017-04-15 21:09:21+0900,A - Sorted Arrays,take1223xxx,0,WA
+2017-04-15 21:09:18+0900,A - Sorted Arrays,grumpygordon,0,RE
+2017-04-15 21:09:16+0900,A - Sorted Arrays,a2stnk,300,AC
+2017-04-15 21:09:14+0900,A - Sorted Arrays,sujin2010,300,AC
+2017-04-15 21:09:14+0900,A - Sorted Arrays,Zharaskhan,300,AC
+2017-04-15 21:09:12+0900,B - Hamiltonish Path,zscoder,0,WA
+2017-04-15 21:09:11+0900,A - Sorted Arrays,myanta,300,AC
+2017-04-15 21:09:11+0900,A - Sorted Arrays,albicilla,300,AC
+2017-04-15 21:09:09+0900,A - Sorted Arrays,yamad,300,AC
+2017-04-15 21:09:08+0900,A - Sorted Arrays,matsu7874,300,AC
+2017-04-15 21:09:05+0900,A - Sorted Arrays,sd0061,300,AC
+2017-04-15 21:09:04+0900,A - Sorted Arrays,chintu,300,AC
+2017-04-15 21:09:02+0900,A - Sorted Arrays,ion,0,WA
+2017-04-15 21:08:59+0900,A - Sorted Arrays,merom686,300,AC
+2017-04-15 21:08:58+0900,A - Sorted Arrays,schwarzahl,300,AC
+2017-04-15 21:08:58+0900,A - Sorted Arrays,RunningTime,0,WA
+2017-04-15 21:08:56+0900,A - Sorted Arrays,qijew,300,AC
+2017-04-15 21:08:55+0900,A - Sorted Arrays,tqyaaaaang,300,AC
+2017-04-15 21:08:55+0900,A - Sorted Arrays,yosupo,300,AC
+2017-04-15 21:08:53+0900,A - Sorted Arrays,flyrise,300,AC
+2017-04-15 21:08:52+0900,A - Sorted Arrays,pachicobue,300,AC
+2017-04-15 21:08:51+0900,B - Hamiltonish Path,LeBron,500,AC
+2017-04-15 21:08:49+0900,A - Sorted Arrays,scor,300,AC
+2017-04-15 21:08:49+0900,A - Sorted Arrays,abisheka,300,AC
+2017-04-15 21:08:48+0900,A - Sorted Arrays,startcpp,300,AC
+2017-04-15 21:08:45+0900,A - Sorted Arrays,alf,300,AC
+2017-04-15 21:08:45+0900,A - Sorted Arrays,drafear,0,WA
+2017-04-15 21:08:40+0900,B - Hamiltonish Path,dbradac,500,AC
+2017-04-15 21:08:38+0900,A - Sorted Arrays,Tommyr7,300,AC
+2017-04-15 21:08:37+0900,A - Sorted Arrays,mio_h1917,300,AC
+2017-04-15 21:08:36+0900,B - Hamiltonish Path,Deemo,500,AC
+2017-04-15 21:08:36+0900,A - Sorted Arrays,infer496,300,AC
+2017-04-15 21:08:34+0900,B - Hamiltonish Path,rajat1603,500,AC
+2017-04-15 21:08:31+0900,A - Sorted Arrays,yukim,300,AC
+2017-04-15 21:08:30+0900,A - Sorted Arrays,satanic0258,300,AC
+2017-04-15 21:08:28+0900,A - Sorted Arrays,mHuman,300,AC
+2017-04-15 21:08:26+0900,A - Sorted Arrays,Sokolov,300,AC
+2017-04-15 21:08:26+0900,A - Sorted Arrays,Abra_Stone,300,AC
+2017-04-15 21:08:25+0900,A - Sorted Arrays,maryanna2016,300,AC
+2017-04-15 21:08:25+0900,B - Hamiltonish Path,Rafbill,500,AC
+2017-04-15 21:08:24+0900,A - Sorted Arrays,minus3theta,300,AC
+2017-04-15 21:08:24+0900,A - Sorted Arrays,Jeremy1149,300,AC
+2017-04-15 21:08:22+0900,B - Hamiltonish Path,Petr,500,AC
+2017-04-15 21:08:21+0900,A - Sorted Arrays,toxzi,0,WA
+2017-04-15 21:08:20+0900,A - Sorted Arrays,reitetsu,0,WA
+2017-04-15 21:08:20+0900,A - Sorted Arrays,qianqian,0,WA
+2017-04-15 21:08:19+0900,A - Sorted Arrays,Ajatar,300,AC
+2017-04-15 21:08:19+0900,A - Sorted Arrays,kolancha,300,AC
+2017-04-15 21:08:19+0900,A - Sorted Arrays,miraxial,300,AC
+2017-04-15 21:08:19+0900,B - Hamiltonish Path,unused,500,AC
+2017-04-15 21:08:18+0900,A - Sorted Arrays,sieunhanbom04,300,AC
+2017-04-15 21:08:18+0900,A - Sorted Arrays,logicmachine,300,AC
+2017-04-15 21:08:18+0900,A - Sorted Arrays,deoxy,0,WA
+2017-04-15 21:08:17+0900,A - Sorted Arrays,Aikurce,0,WA
+2017-04-15 21:08:15+0900,A - Sorted Arrays,furuya1223,300,AC
+2017-04-15 21:08:11+0900,A - Sorted Arrays,ajs97,0,WA
+2017-04-15 21:08:11+0900,A - Sorted Arrays,tfg,300,AC
+2017-04-15 21:08:10+0900,A - Sorted Arrays,xuanquang1999,0,WA
+2017-04-15 21:08:09+0900,A - Sorted Arrays,sidhant,300,AC
+2017-04-15 21:08:08+0900,A - Sorted Arrays,dhruvsrivastava,0,WA
+2017-04-15 21:08:06+0900,A - Sorted Arrays,ashwin9686,0,WA
+2017-04-15 21:08:06+0900,A - Sorted Arrays,goodqt,300,AC
+2017-04-15 21:08:04+0900,A - Sorted Arrays,zhongzihao,0,WA
+2017-04-15 21:08:02+0900,B - Hamiltonish Path,EgorLifar,0,WA
+2017-04-15 21:08:01+0900,A - Sorted Arrays,ixxa,0,WA
+2017-04-15 21:08:01+0900,A - Sorted Arrays,newworld,0,WA
+2017-04-15 21:08:00+0900,A - Sorted Arrays,jtnydv25,300,AC
+2017-04-15 21:07:59+0900,A - Sorted Arrays,halin,300,AC
+2017-04-15 21:07:58+0900,A - Sorted Arrays,haji,300,AC
+2017-04-15 21:07:56+0900,A - Sorted Arrays,Kostroma,0,WA
+2017-04-15 21:07:54+0900,A - Sorted Arrays,mcalancea,300,AC
+2017-04-15 21:07:54+0900,A - Sorted Arrays,noconocolib,300,AC
+2017-04-15 21:07:53+0900,A - Sorted Arrays,Yoga,0,WA
+2017-04-15 21:07:52+0900,A - Sorted Arrays,tanutarou,0,WA
+2017-04-15 21:07:49+0900,A - Sorted Arrays,vinaymdani,0,WA
+2017-04-15 21:07:49+0900,A - Sorted Arrays,youaremysky99,300,AC
+2017-04-15 21:07:48+0900,A - Sorted Arrays,boba5551,300,AC
+2017-04-15 21:07:48+0900,A - Sorted Arrays,kurenaif,300,AC
+2017-04-15 21:07:44+0900,A - Sorted Arrays,conf,300,AC
+2017-04-15 21:07:42+0900,A - Sorted Arrays,behzad_nouri,300,AC
+2017-04-15 21:07:42+0900,A - Sorted Arrays,Whalanator,300,AC
+2017-04-15 21:07:40+0900,A - Sorted Arrays,alexpetrescu,300,AC
+2017-04-15 21:07:39+0900,A - Sorted Arrays,Charming_Chen,300,AC
+2017-04-15 21:07:38+0900,A - Sorted Arrays,USA,300,AC
+2017-04-15 21:07:38+0900,B - Hamiltonish Path,Golovanov399,500,AC
+2017-04-15 21:07:37+0900,A - Sorted Arrays,tankblood,300,AC
+2017-04-15 21:07:37+0900,A - Sorted Arrays,yamaimo,300,AC
+2017-04-15 21:07:37+0900,A - Sorted Arrays,tloinuy,300,AC
+2017-04-15 21:07:35+0900,A - Sorted Arrays,M_Saito,300,AC
+2017-04-15 21:07:32+0900,A - Sorted Arrays,latte0119,300,AC
+2017-04-15 21:07:30+0900,A - Sorted Arrays,Alexa2001,0,TLE
+2017-04-15 21:07:30+0900,A - Sorted Arrays,XraY,300,AC
+2017-04-15 21:07:29+0900,A - Sorted Arrays,pavelsavchenkov,300,AC
+2017-04-15 21:07:29+0900,A - Sorted Arrays,oyas,300,AC
+2017-04-15 21:07:28+0900,A - Sorted Arrays,kawabys,300,AC
+2017-04-15 21:07:28+0900,A - Sorted Arrays,StoneDot,0,WA
+2017-04-15 21:07:27+0900,A - Sorted Arrays,zkx06111,300,AC
+2017-04-15 21:07:27+0900,A - Sorted Arrays,den,300,AC
+2017-04-15 21:07:24+0900,A - Sorted Arrays,Andres_Unt,300,AC
+2017-04-15 21:07:23+0900,A - Sorted Arrays,tqyaaaaang,0,WA
+2017-04-15 21:07:23+0900,A - Sorted Arrays,k_ashiya,0,WA
+2017-04-15 21:07:22+0900,A - Sorted Arrays,hamayanhamayan,300,AC
+2017-04-15 21:07:21+0900,A - Sorted Arrays,shi2chuan1,300,AC
+2017-04-15 21:07:21+0900,A - Sorted Arrays,stni,0,WA
+2017-04-15 21:07:20+0900,A - Sorted Arrays,Hoi_koro,300,AC
+2017-04-15 21:07:20+0900,A - Sorted Arrays,Timur_Sitdikov,300,AC
+2017-04-15 21:07:20+0900,A - Sorted Arrays,somen03,300,AC
+2017-04-15 21:07:20+0900,A - Sorted Arrays,TarasChaika,300,AC
+2017-04-15 21:07:19+0900,A - Sorted Arrays,LiTi,300,AC
+2017-04-15 21:07:19+0900,A - Sorted Arrays,Ow1,300,AC
+2017-04-15 21:07:19+0900,A - Sorted Arrays,Tabasz,300,AC
+2017-04-15 21:07:18+0900,A - Sorted Arrays,sjj118,0,WA
+2017-04-15 21:07:16+0900,A - Sorted Arrays,iloveeslam,300,AC
+2017-04-15 21:07:15+0900,A - Sorted Arrays,okaduki,300,AC
+2017-04-15 21:07:13+0900,A - Sorted Arrays,Bwambocos,300,AC
+2017-04-15 21:07:13+0900,A - Sorted Arrays,wtw,300,AC
+2017-04-15 21:07:13+0900,A - Sorted Arrays,chintu,0,WA
+2017-04-15 21:07:13+0900,A - Sorted Arrays,yuinore,300,AC
+2017-04-15 21:07:12+0900,A - Sorted Arrays,lsmll,300,AC
+2017-04-15 21:07:09+0900,B - Hamiltonish Path,w4yneb0t,0,WA
+2017-04-15 21:07:08+0900,A - Sorted Arrays,ravenclaws1,0,WA
+2017-04-15 21:07:07+0900,A - Sorted Arrays,frank_c1,300,AC
+2017-04-15 21:07:06+0900,A - Sorted Arrays,rehu,0,WA
+2017-04-15 21:07:05+0900,A - Sorted Arrays,Reyna,300,AC
+2017-04-15 21:07:04+0900,A - Sorted Arrays,Stonefeang,0,WA
+2017-04-15 21:07:04+0900,A - Sorted Arrays,cormoran,0,WA
+2017-04-15 21:07:04+0900,A - Sorted Arrays,SmallBoy,0,WA
+2017-04-15 21:07:00+0900,A - Sorted Arrays,suigingin,300,AC
+2017-04-15 21:06:59+0900,A - Sorted Arrays,Tatsuno,300,AC
+2017-04-15 21:06:59+0900,A - Sorted Arrays,chm517,0,TLE
+2017-04-15 21:06:59+0900,A - Sorted Arrays,nyashiki,300,AC
+2017-04-15 21:06:59+0900,A - Sorted Arrays,chentong,0,WA
+2017-04-15 21:06:58+0900,A - Sorted Arrays,grumpygordon,0,RE
+2017-04-15 21:06:56+0900,A - Sorted Arrays,leign,300,AC
+2017-04-15 21:06:54+0900,A - Sorted Arrays,Andres_Unt,0,WA
+2017-04-15 21:06:54+0900,A - Sorted Arrays,kqp,0,WA
+2017-04-15 21:06:54+0900,A - Sorted Arrays,tiny_code,0,WA
+2017-04-15 21:06:50+0900,A - Sorted Arrays,eiya,300,AC
+2017-04-15 21:06:48+0900,A - Sorted Arrays,olphe,300,AC
+2017-04-15 21:06:47+0900,A - Sorted Arrays,mmxsrup,0,WA
+2017-04-15 21:06:47+0900,A - Sorted Arrays,Zharaskhan,0,WA
+2017-04-15 21:06:46+0900,A - Sorted Arrays,rsalesc,300,AC
+2017-04-15 21:06:45+0900,A - Sorted Arrays,PIandS,300,AC
+2017-04-15 21:06:44+0900,A - Sorted Arrays,Mikester,300,AC
+2017-04-15 21:06:42+0900,A - Sorted Arrays,fwm94,300,AC
+2017-04-15 21:06:40+0900,A - Sorted Arrays,mondatto,300,AC
+2017-04-15 21:06:40+0900,A - Sorted Arrays,EndlessSora,0,WA
+2017-04-15 21:06:40+0900,A - Sorted Arrays,kotamanegi,0,WA
+2017-04-15 21:06:40+0900,A - Sorted Arrays,reew2n,300,AC
+2017-04-15 21:06:39+0900,A - Sorted Arrays,mellotron,300,AC
+2017-04-15 21:06:38+0900,A - Sorted Arrays,kosakkun,0,WA
+2017-04-15 21:06:37+0900,A - Sorted Arrays,AlexeyEnkov,300,AC
+2017-04-15 21:06:37+0900,A - Sorted Arrays,chahan69,0,WA
+2017-04-15 21:06:36+0900,A - Sorted Arrays,alecsyde,300,AC
+2017-04-15 21:06:35+0900,A - Sorted Arrays,oigami,300,AC
+2017-04-15 21:06:35+0900,A - Sorted Arrays,Hiasat,300,AC
+2017-04-15 21:06:35+0900,A - Sorted Arrays,rubabredwan,300,AC
+2017-04-15 21:06:33+0900,A - Sorted Arrays,george_stelian,300,AC
+2017-04-15 21:06:31+0900,A - Sorted Arrays,kurenai3110,300,AC
+2017-04-15 21:06:31+0900,A - Sorted Arrays,mjy0724,0,WA
+2017-04-15 21:06:29+0900,A - Sorted Arrays,painfulness,300,AC
+2017-04-15 21:06:27+0900,A - Sorted Arrays,PaPa,300,AC
+2017-04-15 21:06:25+0900,A - Sorted Arrays,fei6409,300,AC
+2017-04-15 21:06:24+0900,A - Sorted Arrays,naiij,300,AC
+2017-04-15 21:06:24+0900,A - Sorted Arrays,Victor_Lee,300,AC
+2017-04-15 21:06:22+0900,A - Sorted Arrays,TryMyEdge,300,AC
+2017-04-15 21:06:22+0900,A - Sorted Arrays,xuanquang1999,0,TLE
+2017-04-15 21:06:22+0900,A - Sorted Arrays,takamoto,300,AC
+2017-04-15 21:06:21+0900,A - Sorted Arrays,chenjiaqi,300,AC
+2017-04-15 21:06:18+0900,A - Sorted Arrays,liympanda,300,AC
+2017-04-15 21:06:17+0900,A - Sorted Arrays,mxzf0213,300,AC
+2017-04-15 21:06:15+0900,A - Sorted Arrays,AndreiNet,300,AC
+2017-04-15 21:06:12+0900,A - Sorted Arrays,300iq,0,WA
+2017-04-15 21:06:12+0900,A - Sorted Arrays,clatisus,0,WA
+2017-04-15 21:06:12+0900,A - Sorted Arrays,liumh8,300,AC
+2017-04-15 21:06:11+0900,A - Sorted Arrays,tookunn,300,AC
+2017-04-15 21:06:11+0900,A - Sorted Arrays,mHuman,0,WA
+2017-04-15 21:06:11+0900,A - Sorted Arrays,Lucida,300,AC
+2017-04-15 21:06:10+0900,A - Sorted Arrays,take1223xxx,0,WA
+2017-04-15 21:06:09+0900,A - Sorted Arrays,piroz95,300,AC
+2017-04-15 21:06:08+0900,A - Sorted Arrays,pranet,300,AC
+2017-04-15 21:06:08+0900,A - Sorted Arrays,tralalala,300,AC
+2017-04-15 21:06:05+0900,A - Sorted Arrays,Stonefeang,0,WA
+2017-04-15 21:06:03+0900,A - Sorted Arrays,krismaz,300,AC
+2017-04-15 21:06:02+0900,A - Sorted Arrays,zemen,300,AC
+2017-04-15 21:06:01+0900,A - Sorted Arrays,IanWong,300,AC
+2017-04-15 21:06:01+0900,A - Sorted Arrays,suginamiku,300,AC
+2017-04-15 21:05:59+0900,A - Sorted Arrays,duongthoi1999,300,AC
+2017-04-15 21:05:55+0900,A - Sorted Arrays,akouryy,300,AC
+2017-04-15 21:05:55+0900,A - Sorted Arrays,AmSen,300,AC
+2017-04-15 21:05:52+0900,A - Sorted Arrays,hank55663,300,AC
+2017-04-15 21:05:50+0900,A - Sorted Arrays,satashun,0,WA
+2017-04-15 21:05:49+0900,A - Sorted Arrays,tianyichen,0,WA
+2017-04-15 21:05:47+0900,A - Sorted Arrays,cchao,0,WA
+2017-04-15 21:05:47+0900,A - Sorted Arrays,zerokugi,300,AC
+2017-04-15 21:05:46+0900,A - Sorted Arrays,kakajapan31,300,AC
+2017-04-15 21:05:46+0900,A - Sorted Arrays,ynymxiaolongbao,0,WA
+2017-04-15 21:05:45+0900,A - Sorted Arrays,balakrishnan_v,300,AC
+2017-04-15 21:05:43+0900,A - Sorted Arrays,rareone0602,300,AC
+2017-04-15 21:05:42+0900,A - Sorted Arrays,ninohiro,300,AC
+2017-04-15 21:05:39+0900,A - Sorted Arrays,zvb7yh,300,AC
+2017-04-15 21:05:38+0900,A - Sorted Arrays,alex99,300,AC
+2017-04-15 21:05:37+0900,A - Sorted Arrays,Kostroma,0,WA
+2017-04-15 21:05:36+0900,A - Sorted Arrays,gldfnch,0,WA
+2017-04-15 21:05:32+0900,A - Sorted Arrays,mtsd,300,AC
+2017-04-15 21:05:29+0900,A - Sorted Arrays,reality,300,AC
+2017-04-15 21:05:29+0900,A - Sorted Arrays,gritukan,300,AC
+2017-04-15 21:05:28+0900,A - Sorted Arrays,mkisic,0,WA
+2017-04-15 21:05:28+0900,A - Sorted Arrays,Archazey,300,AC
+2017-04-15 21:05:27+0900,A - Sorted Arrays,zhan8855,0,WA
+2017-04-15 21:05:26+0900,A - Sorted Arrays,mondatto,0,WA
+2017-04-15 21:05:25+0900,A - Sorted Arrays,flyrise,0,WA
+2017-04-15 21:05:22+0900,A - Sorted Arrays,kzyKT,300,AC
+2017-04-15 21:05:22+0900,A - Sorted Arrays,bakanaouji,0,WA
+2017-04-15 21:05:22+0900,A - Sorted Arrays,Akulen,0,WA
+2017-04-15 21:05:21+0900,A - Sorted Arrays,roiti,0,WA
+2017-04-15 21:05:20+0900,A - Sorted Arrays,Norrius,300,AC
+2017-04-15 21:05:20+0900,A - Sorted Arrays,300iq,0,WA
+2017-04-15 21:05:19+0900,A - Sorted Arrays,eha,300,AC
+2017-04-15 21:05:18+0900,A - Sorted Arrays,utdotk,0,WA
+2017-04-15 21:05:18+0900,A - Sorted Arrays,m_buyoh,300,AC
+2017-04-15 21:05:17+0900,A - Sorted Arrays,kazuma,300,AC
+2017-04-15 21:05:16+0900,A - Sorted Arrays,minus9d,300,AC
+2017-04-15 21:05:15+0900,A - Sorted Arrays,TakaakiUmedu,300,AC
+2017-04-15 21:05:15+0900,A - Sorted Arrays,tanzaku,300,AC
+2017-04-15 21:05:15+0900,A - Sorted Arrays,take1223xxx,0,WA
+2017-04-15 21:05:13+0900,A - Sorted Arrays,pkMZ75105,300,AC
+2017-04-15 21:05:12+0900,A - Sorted Arrays,yukim,0,WA
+2017-04-15 21:05:12+0900,A - Sorted Arrays,TeaPot,300,AC
+2017-04-15 21:05:10+0900,A - Sorted Arrays,sumoooru,300,AC
+2017-04-15 21:05:09+0900,A - Sorted Arrays,wxh010910,300,AC
+2017-04-15 21:05:07+0900,A - Sorted Arrays,Swistakk,300,AC
+2017-04-15 21:05:07+0900,A - Sorted Arrays,mjhun,300,AC
+2017-04-15 21:05:07+0900,A - Sorted Arrays,anekawa,0,WA
+2017-04-15 21:05:06+0900,A - Sorted Arrays,TangentDay,300,AC
+2017-04-15 21:05:06+0900,A - Sorted Arrays,maze1230,0,WA
+2017-04-15 21:05:05+0900,A - Sorted Arrays,tsutaj,0,WA
+2017-04-15 21:05:03+0900,A - Sorted Arrays,Akbari,300,AC
+2017-04-15 21:05:03+0900,A - Sorted Arrays,voidmax,300,AC
+2017-04-15 21:05:02+0900,A - Sorted Arrays,user32,300,AC
+2017-04-15 21:05:01+0900,A - Sorted Arrays,jklepec,300,AC
+2017-04-15 21:05:00+0900,A - Sorted Arrays,Mikester,0,WA
+2017-04-15 21:04:58+0900,A - Sorted Arrays,AndreiNet,0,WA
+2017-04-15 21:04:57+0900,A - Sorted Arrays,liympanda,0,WA
+2017-04-15 21:04:56+0900,A - Sorted Arrays,nobik,300,AC
+2017-04-15 21:04:56+0900,A - Sorted Arrays,Motarack,300,AC
+2017-04-15 21:04:55+0900,A - Sorted Arrays,sky58,300,AC
+2017-04-15 21:04:54+0900,A - Sorted Arrays,kobae964,300,AC
+2017-04-15 21:04:53+0900,A - Sorted Arrays,tloinuy,0,WA
+2017-04-15 21:04:53+0900,A - Sorted Arrays,mrMaster,300,AC
+2017-04-15 21:04:52+0900,A - Sorted Arrays,pekempey,300,AC
+2017-04-15 21:04:52+0900,A - Sorted Arrays,ninohiro,0,WA
+2017-04-15 21:04:52+0900,A - Sorted Arrays,frank_c1,0,WA
+2017-04-15 21:04:51+0900,A - Sorted Arrays,Arterm,300,AC
+2017-04-15 21:04:49+0900,A - Sorted Arrays,aitch,300,AC
+2017-04-15 21:04:49+0900,A - Sorted Arrays,yashkumar18,300,AC
+2017-04-15 21:04:49+0900,A - Sorted Arrays,bigINnnner,300,AC
+2017-04-15 21:04:48+0900,A - Sorted Arrays,naoki2016,300,AC
+2017-04-15 21:04:47+0900,A - Sorted Arrays,rsalesc,0,WA
+2017-04-15 21:04:46+0900,A - Sorted Arrays,capythm,300,AC
+2017-04-15 21:04:45+0900,A - Sorted Arrays,sd0061,0,WA
+2017-04-15 21:04:45+0900,A - Sorted Arrays,imathi,300,AC
+2017-04-15 21:04:44+0900,A - Sorted Arrays,KeivanR,300,AC
+2017-04-15 21:04:43+0900,A - Sorted Arrays,grumpygordon,0,RE
+2017-04-15 21:04:41+0900,A - Sorted Arrays,l__ZeRo_t,300,AC
+2017-04-15 21:04:40+0900,A - Sorted Arrays,fanache99,300,AC
+2017-04-15 21:04:38+0900,A - Sorted Arrays,jonathanirvings,300,AC
+2017-04-15 21:04:38+0900,A - Sorted Arrays,guangxuan,300,AC
+2017-04-15 21:04:36+0900,A - Sorted Arrays,rqgao2014,300,AC
+2017-04-15 21:04:36+0900,A - Sorted Arrays,Fcdkbear,300,AC
+2017-04-15 21:04:36+0900,A - Sorted Arrays,llll_,300,AC
+2017-04-15 21:04:36+0900,A - Sorted Arrays,Andreikkaa,300,AC
+2017-04-15 21:04:34+0900,A - Sorted Arrays,Rusu,0,WA
+2017-04-15 21:04:34+0900,A - Sorted Arrays,Ajatar,0,WA
+2017-04-15 21:04:33+0900,A - Sorted Arrays,Hec,300,AC
+2017-04-15 21:04:31+0900,A - Sorted Arrays,cchao,0,WA
+2017-04-15 21:04:30+0900,A - Sorted Arrays,yu3mars,300,AC
+2017-04-15 21:04:29+0900,A - Sorted Arrays,kunyavskiy,300,AC
+2017-04-15 21:04:29+0900,A - Sorted Arrays,CrazyBBB,300,AC
+2017-04-15 21:04:28+0900,A - Sorted Arrays,konjo,300,AC
+2017-04-15 21:04:26+0900,A - Sorted Arrays,hiromi_ayase,300,AC
+2017-04-15 21:04:26+0900,A - Sorted Arrays,demon1999,300,AC
+2017-04-15 21:04:25+0900,A - Sorted Arrays,cuber2460,300,AC
+2017-04-15 21:04:24+0900,A - Sorted Arrays,Reyna,0,WA
+2017-04-15 21:04:22+0900,A - Sorted Arrays,Andres_Unt,0,WA
+2017-04-15 21:04:14+0900,A - Sorted Arrays,sigma425,300,AC
+2017-04-15 21:04:12+0900,A - Sorted Arrays,Rafbill,300,AC
+2017-04-15 21:04:10+0900,A - Sorted Arrays,tossy,300,AC
+2017-04-15 21:04:09+0900,A - Sorted Arrays,TumoiYorozu,300,AC
+2017-04-15 21:04:08+0900,A - Sorted Arrays,BasselBakr,300,AC
+2017-04-15 21:04:07+0900,A - Sorted Arrays,pwypeanut,300,AC
+2017-04-15 21:04:05+0900,A - Sorted Arrays,IvL,300,AC
+2017-04-15 21:04:05+0900,A - Sorted Arrays,phidnight,300,AC
+2017-04-15 21:04:04+0900,A - Sorted Arrays,ferin_tech,300,AC
+2017-04-15 21:04:02+0900,A - Sorted Arrays,zemen,0,WA
+2017-04-15 21:04:02+0900,A - Sorted Arrays,kmjp,300,AC
+2017-04-15 21:04:01+0900,A - Sorted Arrays,satyaki3794,300,AC
+2017-04-15 21:03:56+0900,A - Sorted Arrays,YamiNoKirin,300,AC
+2017-04-15 21:03:54+0900,A - Sorted Arrays,Petr,300,AC
+2017-04-15 21:03:54+0900,A - Sorted Arrays,Tan90909090,0,WA
+2017-04-15 21:03:53+0900,A - Sorted Arrays,Deemo,300,AC
+2017-04-15 21:03:53+0900,A - Sorted Arrays,autumn_eel,300,AC
+2017-04-15 21:03:52+0900,A - Sorted Arrays,miraxial,0,WA
+2017-04-15 21:03:51+0900,A - Sorted Arrays,gamegame,300,AC
+2017-04-15 21:03:46+0900,A - Sorted Arrays,ilyakor,300,AC
+2017-04-15 21:03:44+0900,A - Sorted Arrays,nebukuro09,300,AC
+2017-04-15 21:03:42+0900,A - Sorted Arrays,molamola,300,AC
+2017-04-15 21:03:37+0900,A - Sorted Arrays,ZhNV,0,WA
+2017-04-15 21:03:36+0900,A - Sorted Arrays,ynq1242,300,AC
+2017-04-15 21:03:34+0900,A - Sorted Arrays,maze1230,0,WA
+2017-04-15 21:03:34+0900,A - Sorted Arrays,EgorLifar,300,AC
+2017-04-15 21:03:32+0900,A - Sorted Arrays,HellKitsune,300,AC
+2017-04-15 21:03:30+0900,A - Sorted Arrays,yutaka1999,300,AC
+2017-04-15 21:03:30+0900,A - Sorted Arrays,eddy1021,300,AC
+2017-04-15 21:03:30+0900,A - Sorted Arrays,Speedster,300,AC
+2017-04-15 21:03:29+0900,A - Sorted Arrays,mislav,300,AC
+2017-04-15 21:03:28+0900,A - Sorted Arrays,sazerterus25,300,AC
+2017-04-15 21:03:28+0900,A - Sorted Arrays,vivekmufc,0,WA
+2017-04-15 21:03:25+0900,A - Sorted Arrays,amylase,0,WA
+2017-04-15 21:03:20+0900,A - Sorted Arrays,dbradac,300,AC
+2017-04-15 21:03:18+0900,A - Sorted Arrays,dreamoon,300,AC
+2017-04-15 21:03:17+0900,A - Sorted Arrays,ryoissy,300,AC
+2017-04-15 21:03:15+0900,A - Sorted Arrays,rajat1603,300,AC
+2017-04-15 21:03:14+0900,A - Sorted Arrays,yassin,0,WA
+2017-04-15 21:03:14+0900,A - Sorted Arrays,polingy,300,AC
+2017-04-15 21:03:14+0900,A - Sorted Arrays,atatomir,300,AC
+2017-04-15 21:03:12+0900,A - Sorted Arrays,unused,300,AC
+2017-04-15 21:03:10+0900,A - Sorted Arrays,lsmll,0,WA
+2017-04-15 21:03:05+0900,A - Sorted Arrays,tanzaku,0,WA
+2017-04-15 21:03:05+0900,A - Sorted Arrays,zscoder,300,AC
+2017-04-15 21:03:02+0900,A - Sorted Arrays,LeBron,300,AC
+2017-04-15 21:02:58+0900,A - Sorted Arrays,beet,300,AC
+2017-04-15 21:02:53+0900,A - Sorted Arrays,bomac1,0,WA
+2017-04-15 21:02:42+0900,A - Sorted Arrays,uwi,300,AC
+2017-04-15 21:02:41+0900,A - Sorted Arrays,krijgertje,300,AC
+2017-04-15 21:02:30+0900,A - Sorted Arrays,yutaka1999,0,WA
+2017-04-15 21:02:30+0900,A - Sorted Arrays,olphe,0,WA
+2017-04-15 21:02:30+0900,A - Sorted Arrays,kawatea,300,AC
+2017-04-15 21:02:28+0900,A - Sorted Arrays,unused,0,WA
+2017-04-15 21:02:26+0900,A - Sorted Arrays,Golovanov399,300,AC
+2017-04-15 21:02:25+0900,A - Sorted Arrays,yashkumar18,0,WA
+2017-04-15 21:02:17+0900,A - Sorted Arrays,geniucos,300,AC
+2017-04-15 21:02:04+0900,A - Sorted Arrays,w4yneb0t,300,AC

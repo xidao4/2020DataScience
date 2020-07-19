@@ -1,0 +1,3070 @@
+submit_time,task,user,score,status
+2016-10-29 23:09:59+0900,E - Rotate 3x3,JTJL,1500,AC
+2016-10-29 23:09:58+0900,C - Rabbit Exercise,ptrs,0,WA
+2016-10-29 23:09:58+0900,C - Rabbit Exercise,Gacho_0716,0,WA
+2016-10-29 23:09:57+0900,B - Median Pyramid Easy,triplem5ds,400,AC
+2016-10-29 23:09:57+0900,B - Median Pyramid Easy,FF256grhy,0,WA
+2016-10-29 23:09:57+0900,B - Median Pyramid Easy,deraken,400,AC
+2016-10-29 23:09:56+0900,C - Rabbit Exercise,hoxosh,0,RE
+2016-10-29 23:09:56+0900,A - Prefix and Suffix,tencha,0,WA
+2016-10-29 23:09:55+0900,E - Rotate 3x3,shik,0,WA
+2016-10-29 23:09:55+0900,B - Median Pyramid Easy,sntea,0,WA
+2016-10-29 23:09:55+0900,A - Prefix and Suffix,piguchi,0,WA
+2016-10-29 23:09:53+0900,B - Median Pyramid Easy,ryuhei,0,CE
+2016-10-29 23:09:52+0900,C - Rabbit Exercise,walkre,0,CE
+2016-10-29 23:09:51+0900,E - Rotate 3x3,tos,1500,AC
+2016-10-29 23:09:50+0900,C - Rabbit Exercise,yosupo,0,WA
+2016-10-29 23:09:50+0900,C - Rabbit Exercise,koyumeishi,0,WA
+2016-10-29 23:09:47+0900,E - Rotate 3x3,JKJeong,0,WA
+2016-10-29 23:09:46+0900,C - Rabbit Exercise,CoDeRoK,0,WA
+2016-10-29 23:09:43+0900,C - Rabbit Exercise,ixmel_rd,0,WA
+2016-10-29 23:09:41+0900,F - Blackout,dreamoon,0,WA
+2016-10-29 23:09:41+0900,C - Rabbit Exercise,satashun,0,WA
+2016-10-29 23:09:37+0900,C - Rabbit Exercise,startcpp,0,TLE
+2016-10-29 23:09:36+0900,E - Rotate 3x3,shik,0,WA
+2016-10-29 23:09:36+0900,D - Median Pyramid Hard,nigus,0,CE
+2016-10-29 23:09:34+0900,C - Rabbit Exercise,zfz,0,WA
+2016-10-29 23:09:30+0900,F - Blackout,jcvb,0,CE
+2016-10-29 23:09:30+0900,E - Rotate 3x3,naipia,0,WA
+2016-10-29 23:09:29+0900,D - Median Pyramid Hard,LiChenKoh,0,WA
+2016-10-29 23:09:27+0900,B - Median Pyramid Easy,nectar,0,WA
+2016-10-29 23:09:19+0900,C - Rabbit Exercise,Ktya_59,0,WA
+2016-10-29 23:09:18+0900,C - Rabbit Exercise,sigma425,0,WA
+2016-10-29 23:09:15+0900,B - Median Pyramid Easy,oshiumi,0,WA
+2016-10-29 23:09:14+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 23:09:14+0900,F - Blackout,anta,0,WA
+2016-10-29 23:09:14+0900,E - Rotate 3x3,koosaga,0,WA
+2016-10-29 23:09:11+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 23:09:11+0900,C - Rabbit Exercise,sigma425,0,WA
+2016-10-29 23:09:07+0900,C - Rabbit Exercise,yosupo,0,RE
+2016-10-29 23:09:02+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 23:09:02+0900,B - Median Pyramid Easy,johnchen902,0,WA
+2016-10-29 23:08:59+0900,D - Median Pyramid Hard,hikkyprogramming,0,WA
+2016-10-29 23:08:58+0900,C - Rabbit Exercise,M_Saito,0,WA
+2016-10-29 23:08:55+0900,C - Rabbit Exercise,sigma425,0,CE
+2016-10-29 23:08:53+0900,D - Median Pyramid Hard,nwin,0,RE
+2016-10-29 23:08:53+0900,B - Median Pyramid Easy,FF256grhy,0,WA
+2016-10-29 23:08:52+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 23:08:49+0900,B - Median Pyramid Easy,tnag,0,WA
+2016-10-29 23:08:44+0900,B - Median Pyramid Easy,fmhr,0,WA
+2016-10-29 23:08:43+0900,D - Median Pyramid Hard,oyas,0,WA
+2016-10-29 23:08:42+0900,B - Median Pyramid Easy,Zako_G,0,WA
+2016-10-29 23:08:41+0900,B - Median Pyramid Easy,obsproth,400,AC
+2016-10-29 23:08:39+0900,B - Median Pyramid Easy,triplem5ds,0,WA
+2016-10-29 23:08:38+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 23:08:37+0900,F - Blackout,sd0061,0,WA
+2016-10-29 23:08:33+0900,D - Median Pyramid Hard,arukuka,0,WA
+2016-10-29 23:08:31+0900,D - Median Pyramid Hard,satanic0258,0,RE
+2016-10-29 23:08:29+0900,C - Rabbit Exercise,kubusgol,0,WA
+2016-10-29 23:08:28+0900,C - Rabbit Exercise,satashun,0,WA
+2016-10-29 23:08:27+0900,C - Rabbit Exercise,ixmel_rd,0,TLE
+2016-10-29 23:08:26+0900,D - Median Pyramid Hard,physics0523,0,WA
+2016-10-29 23:08:25+0900,C - Rabbit Exercise,ikatanic,0,TLE
+2016-10-29 23:08:25+0900,B - Median Pyramid Easy,seiyab,0,WA
+2016-10-29 23:08:24+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 23:08:23+0900,F - Blackout,iTakeshi,0,WA
+2016-10-29 23:08:22+0900,B - Median Pyramid Easy,motxx,0,WA
+2016-10-29 23:08:21+0900,D - Median Pyramid Hard,tokumini,0,WA
+2016-10-29 23:08:19+0900,B - Median Pyramid Easy,lolzano,0,RE
+2016-10-29 23:08:18+0900,C - Rabbit Exercise,ek_ss,0,TLE
+2016-10-29 23:08:18+0900,D - Median Pyramid Hard,spk,0,TLE
+2016-10-29 23:08:18+0900,B - Median Pyramid Easy,yasuyuky,400,AC
+2016-10-29 23:08:05+0900,C - Rabbit Exercise,moon_light,0,WA
+2016-10-29 23:08:04+0900,E - Rotate 3x3,nadchu,0,WA
+2016-10-29 23:08:04+0900,E - Rotate 3x3,gktni,0,WA
+2016-10-29 23:07:59+0900,B - Median Pyramid Easy,ACforgood,0,WA
+2016-10-29 23:07:56+0900,D - Median Pyramid Hard,komendart,0,WA
+2016-10-29 23:07:56+0900,B - Median Pyramid Easy,ACforgood,0,WA
+2016-10-29 23:07:55+0900,C - Rabbit Exercise,EvgeniSergeev,0,WA
+2016-10-29 23:07:54+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 23:07:50+0900,C - Rabbit Exercise,WuHongxun,800,AC
+2016-10-29 23:07:48+0900,C - Rabbit Exercise,ixmel_rd,0,WA
+2016-10-29 23:07:45+0900,C - Rabbit Exercise,okaduki,0,WA
+2016-10-29 23:07:43+0900,C - Rabbit Exercise,yosupo,0,RE
+2016-10-29 23:07:43+0900,D - Median Pyramid Hard,Paladin,0,WA
+2016-10-29 23:07:37+0900,A - Prefix and Suffix,Zako_G,0,RE
+2016-10-29 23:07:34+0900,B - Median Pyramid Easy,ao41,0,WA
+2016-10-29 23:07:33+0900,E - Rotate 3x3,JTJL,1500,AC
+2016-10-29 23:07:33+0900,A - Prefix and Suffix,ACforgood,0,WA
+2016-10-29 23:07:33+0900,E - Rotate 3x3,shik,0,WA
+2016-10-29 23:07:31+0900,E - Rotate 3x3,btk15049,0,WA
+2016-10-29 23:07:31+0900,D - Median Pyramid Hard,reality,0,WA
+2016-10-29 23:07:31+0900,D - Median Pyramid Hard,nigus,0,WA
+2016-10-29 23:07:29+0900,D - Median Pyramid Hard,hikkyprogramming,0,WA
+2016-10-29 23:07:28+0900,B - Median Pyramid Easy,tnag,0,CE
+2016-10-29 23:07:27+0900,A - Prefix and Suffix,Atomute,0,WA
+2016-10-29 23:07:26+0900,C - Rabbit Exercise,T1610,0,WA
+2016-10-29 23:07:17+0900,F - Blackout,Flowstatic,0,CE
+2016-10-29 23:07:17+0900,D - Median Pyramid Hard,pekempey,0,WA
+2016-10-29 23:07:17+0900,C - Rabbit Exercise,TonyMooori,0,WA
+2016-10-29 23:07:16+0900,D - Median Pyramid Hard,minaminao,0,WA
+2016-10-29 23:07:15+0900,D - Median Pyramid Hard,HnVahidi,0,WA
+2016-10-29 23:07:06+0900,D - Median Pyramid Hard,tashikani,0,WA
+2016-10-29 23:07:04+0900,B - Median Pyramid Easy,haji,0,RE
+2016-10-29 23:06:58+0900,E - Rotate 3x3,geniucos,0,WA
+2016-10-29 23:06:57+0900,D - Median Pyramid Hard,komendart,0,TLE
+2016-10-29 23:06:52+0900,E - Rotate 3x3,w4yneb0t,0,WA
+2016-10-29 23:06:52+0900,B - Median Pyramid Easy,ikeha,0,WA
+2016-10-29 23:06:51+0900,D - Median Pyramid Hard,LHiC,0,TLE
+2016-10-29 23:06:51+0900,C - Rabbit Exercise,WuHongxun,0,WA
+2016-10-29 23:06:50+0900,D - Median Pyramid Hard,Golovanov399,0,WA
+2016-10-29 23:06:48+0900,C - Rabbit Exercise,kotatsugame,0,WA
+2016-10-29 23:06:46+0900,B - Median Pyramid Easy,tapuinu,0,WA
+2016-10-29 23:06:43+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 23:06:36+0900,B - Median Pyramid Easy,tsukamasa,0,WA
+2016-10-29 23:06:35+0900,D - Median Pyramid Hard,satanic0258,0,TLE
+2016-10-29 23:06:34+0900,B - Median Pyramid Easy,sssbear,400,AC
+2016-10-29 23:06:32+0900,E - Rotate 3x3,dreamoon,1500,AC
+2016-10-29 23:06:31+0900,D - Median Pyramid Hard,USA,0,TLE
+2016-10-29 23:06:22+0900,D - Median Pyramid Hard,dened,0,TLE
+2016-10-29 23:06:22+0900,E - Rotate 3x3,kawatea,0,WA
+2016-10-29 23:06:14+0900,B - Median Pyramid Easy,nectar,0,WA
+2016-10-29 23:06:06+0900,D - Median Pyramid Hard,komendart,0,TLE
+2016-10-29 23:06:02+0900,F - Blackout,yutaka1999,0,WA
+2016-10-29 23:05:58+0900,C - Rabbit Exercise,koyumeishi,0,TLE
+2016-10-29 23:05:58+0900,D - Median Pyramid Hard,ei13333,0,WA
+2016-10-29 23:05:48+0900,D - Median Pyramid Hard,Golovanov399,0,WA
+2016-10-29 23:05:45+0900,C - Rabbit Exercise,ryogo108,0,TLE
+2016-10-29 23:05:42+0900,E - Rotate 3x3,eukaryo,0,WA
+2016-10-29 23:05:41+0900,E - Rotate 3x3,nadchu,0,WA
+2016-10-29 23:05:38+0900,B - Median Pyramid Easy,seiyab,0,WA
+2016-10-29 23:05:37+0900,D - Median Pyramid Hard,USA,0,TLE
+2016-10-29 23:05:37+0900,E - Rotate 3x3,MathCrusader,0,WA
+2016-10-29 23:05:36+0900,C - Rabbit Exercise,jiaqiyang,800,AC
+2016-10-29 23:05:34+0900,E - Rotate 3x3,eukaryo,0,WA
+2016-10-29 23:05:31+0900,B - Median Pyramid Easy,Zako_G,0,WA
+2016-10-29 23:05:24+0900,A - Prefix and Suffix,kimurasato4,0,WA
+2016-10-29 23:05:20+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 23:05:09+0900,E - Rotate 3x3,pwild,1500,AC
+2016-10-29 23:05:07+0900,C - Rabbit Exercise,kubusgol,0,WA
+2016-10-29 23:05:06+0900,B - Median Pyramid Easy,Twilight,400,AC
+2016-10-29 23:04:59+0900,B - Median Pyramid Easy,ikeha,0,WA
+2016-10-29 23:04:59+0900,C - Rabbit Exercise,roiti,0,TLE
+2016-10-29 23:04:58+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 23:04:45+0900,B - Median Pyramid Easy,conf,400,AC
+2016-10-29 23:04:44+0900,A - Prefix and Suffix,seiyab,0,RE
+2016-10-29 23:04:41+0900,B - Median Pyramid Easy,autumn_eel,400,AC
+2016-10-29 23:04:38+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 23:04:33+0900,C - Rabbit Exercise,AcrossTheSky,800,AC
+2016-10-29 23:04:30+0900,C - Rabbit Exercise,roiti,0,CE
+2016-10-29 23:04:29+0900,D - Median Pyramid Hard,hirokazu1020,0,WA
+2016-10-29 23:04:26+0900,E - Rotate 3x3,tos,1500,AC
+2016-10-29 23:04:24+0900,D - Median Pyramid Hard,LHiC,0,WA
+2016-10-29 23:04:19+0900,C - Rabbit Exercise,hoxosh,0,RE
+2016-10-29 23:04:19+0900,B - Median Pyramid Easy,triplem5ds,0,WA
+2016-10-29 23:04:17+0900,B - Median Pyramid Easy,conf,0,WA
+2016-10-29 23:04:13+0900,B - Median Pyramid Easy,deraken,0,WA
+2016-10-29 23:04:08+0900,C - Rabbit Exercise,jiaqiyang,0,WA
+2016-10-29 23:04:07+0900,B - Median Pyramid Easy,tarepan0622,0,WA
+2016-10-29 23:04:04+0900,A - Prefix and Suffix,kamo,0,WA
+2016-10-29 23:04:04+0900,E - Rotate 3x3,nadchu,0,CE
+2016-10-29 23:04:02+0900,D - Median Pyramid Hard,sim193s,0,TLE
+2016-10-29 23:04:01+0900,B - Median Pyramid Easy,haji,0,WA
+2016-10-29 23:03:51+0900,E - Rotate 3x3,btk15049,0,WA
+2016-10-29 23:03:49+0900,D - Median Pyramid Hard,Golovanov399,0,WA
+2016-10-29 23:03:49+0900,C - Rabbit Exercise,shiratty8,0,TLE
+2016-10-29 23:03:48+0900,D - Median Pyramid Hard,toxzi,0,WA
+2016-10-29 23:03:46+0900,B - Median Pyramid Easy,momotaro1303,0,WA
+2016-10-29 23:03:45+0900,D - Median Pyramid Hard,ryuhei,0,TLE
+2016-10-29 23:03:44+0900,E - Rotate 3x3,Kaban5,1500,AC
+2016-10-29 23:03:39+0900,B - Median Pyramid Easy,ikeha,0,WA
+2016-10-29 23:03:36+0900,A - Prefix and Suffix,nameh2so4,0,WA
+2016-10-29 23:03:33+0900,D - Median Pyramid Hard,USA,0,TLE
+2016-10-29 23:03:32+0900,B - Median Pyramid Easy,haji,0,WA
+2016-10-29 23:03:28+0900,E - Rotate 3x3,ainta,1500,AC
+2016-10-29 23:03:25+0900,B - Median Pyramid Easy,sssbear,400,AC
+2016-10-29 23:03:15+0900,F - Blackout,Flowstatic,0,CE
+2016-10-29 23:03:08+0900,A - Prefix and Suffix,ACforgood,0,WA
+2016-10-29 23:03:04+0900,D - Median Pyramid Hard,qazwsxedcrfvtg14,0,WA
+2016-10-29 23:03:03+0900,D - Median Pyramid Hard,satanic0258,0,TLE
+2016-10-29 23:03:01+0900,D - Median Pyramid Hard,komendart,0,TLE
+2016-10-29 23:03:00+0900,B - Median Pyramid Easy,untan,0,WA
+2016-10-29 23:02:54+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 23:02:49+0900,C - Rabbit Exercise,Hec,800,AC
+2016-10-29 23:02:40+0900,D - Median Pyramid Hard,yana87,0,WA
+2016-10-29 23:02:39+0900,D - Median Pyramid Hard,nokonoko,0,TLE
+2016-10-29 23:02:35+0900,E - Rotate 3x3,endagorion,1500,AC
+2016-10-29 23:02:35+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 23:02:28+0900,B - Median Pyramid Easy,yut071,0,TLE
+2016-10-29 23:02:27+0900,E - Rotate 3x3,btk15049,0,WA
+2016-10-29 23:02:25+0900,B - Median Pyramid Easy,L3Sota,0,WA
+2016-10-29 23:02:21+0900,B - Median Pyramid Easy,triplem5ds,0,WA
+2016-10-29 23:02:20+0900,B - Median Pyramid Easy,ikeha,0,WA
+2016-10-29 23:02:19+0900,B - Median Pyramid Easy,NSTomoS,0,WA
+2016-10-29 23:02:15+0900,C - Rabbit Exercise,chenmark,0,TLE
+2016-10-29 23:02:13+0900,D - Median Pyramid Hard,nes_in_it,0,TLE
+2016-10-29 23:02:13+0900,A - Prefix and Suffix,huushihi,200,AC
+2016-10-29 23:02:11+0900,C - Rabbit Exercise,selpo,800,AC
+2016-10-29 23:02:09+0900,B - Median Pyramid Easy,sssbear,0,WA
+2016-10-29 23:02:05+0900,C - Rabbit Exercise,startcpp,0,WA
+2016-10-29 23:02:05+0900,C - Rabbit Exercise,ixmel_rd,0,TLE
+2016-10-29 23:01:56+0900,D - Median Pyramid Hard,qazwsxedcrfvtg14,0,RE
+2016-10-29 23:01:55+0900,C - Rabbit Exercise,mio_h1917,0,WA
+2016-10-29 23:01:55+0900,B - Median Pyramid Easy,Zako_G,0,WA
+2016-10-29 23:01:52+0900,D - Median Pyramid Hard,satanic0258,0,TLE
+2016-10-29 23:01:51+0900,A - Prefix and Suffix,nameh2so4,0,WA
+2016-10-29 23:01:44+0900,D - Median Pyramid Hard,behzad_nouri,0,WA
+2016-10-29 23:01:43+0900,C - Rabbit Exercise,roiti,0,WA
+2016-10-29 23:01:43+0900,B - Median Pyramid Easy,pppiyo,0,WA
+2016-10-29 23:01:40+0900,D - Median Pyramid Hard,dened,0,TLE
+2016-10-29 23:01:38+0900,D - Median Pyramid Hard,tashikani,0,WA
+2016-10-29 23:01:15+0900,B - Median Pyramid Easy,NSTomoS,0,WA
+2016-10-29 23:01:13+0900,D - Median Pyramid Hard,Snickeen,0,WA
+2016-10-29 23:01:11+0900,E - Rotate 3x3,shik,0,TLE
+2016-10-29 23:01:04+0900,D - Median Pyramid Hard,perfectcamel,0,TLE
+2016-10-29 23:01:02+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 23:00:53+0900,C - Rabbit Exercise,phyllo,0,WA
+2016-10-29 23:00:51+0900,D - Median Pyramid Hard,minus9d,0,TLE
+2016-10-29 23:00:46+0900,D - Median Pyramid Hard,tokumini,0,WA
+2016-10-29 23:00:40+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 23:00:37+0900,B - Median Pyramid Easy,ikeha,0,WA
+2016-10-29 23:00:36+0900,D - Median Pyramid Hard,hhelibex,0,WA
+2016-10-29 23:00:24+0900,B - Median Pyramid Easy,namelessmonster,400,AC
+2016-10-29 23:00:22+0900,C - Rabbit Exercise,johnchen902,0,TLE
+2016-10-29 23:00:21+0900,C - Rabbit Exercise,Vax,0,WA
+2016-10-29 23:00:17+0900,D - Median Pyramid Hard,sshirayama,0,WA
+2016-10-29 23:00:16+0900,C - Rabbit Exercise,mscle11,0,WA
+2016-10-29 23:00:13+0900,A - Prefix and Suffix,tsukamasa,200,AC
+2016-10-29 23:00:13+0900,D - Median Pyramid Hard,Paladin,0,WA
+2016-10-29 23:00:11+0900,C - Rabbit Exercise,phyllo,0,WA
+2016-10-29 22:59:59+0900,A - Prefix and Suffix,snuke,200,AC
+2016-10-29 22:59:59+0900,A - Prefix and Suffix,tencha,0,WA
+2016-10-29 22:59:54+0900,D - Median Pyramid Hard,HORI1991,0,WA
+2016-10-29 22:59:45+0900,B - Median Pyramid Easy,snowfoxy,0,TLE
+2016-10-29 22:59:42+0900,C - Rabbit Exercise,jiaqiyang,0,WA
+2016-10-29 22:59:41+0900,B - Median Pyramid Easy,kbu1564,400,AC
+2016-10-29 22:59:36+0900,B - Median Pyramid Easy,Ka8,0,WA
+2016-10-29 22:59:32+0900,E - Rotate 3x3,Kaban5,0,WA
+2016-10-29 22:59:28+0900,C - Rabbit Exercise,ania,0,WA
+2016-10-29 22:59:25+0900,D - Median Pyramid Hard,arukuka,0,TLE
+2016-10-29 22:59:23+0900,D - Median Pyramid Hard,Golovanov399,0,WA
+2016-10-29 22:59:19+0900,E - Rotate 3x3,tos,0,WA
+2016-10-29 22:59:11+0900,B - Median Pyramid Easy,gantheory,400,AC
+2016-10-29 22:59:07+0900,D - Median Pyramid Hard,tokumini,0,CE
+2016-10-29 22:58:50+0900,D - Median Pyramid Hard,toxzi,0,WA
+2016-10-29 22:58:44+0900,E - Rotate 3x3,shik,0,WA
+2016-10-29 22:58:38+0900,B - Median Pyramid Easy,NSTomoS,0,WA
+2016-10-29 22:58:37+0900,D - Median Pyramid Hard,USA,0,TLE
+2016-10-29 22:58:35+0900,E - Rotate 3x3,jcvb,1500,AC
+2016-10-29 22:58:34+0900,E - Rotate 3x3,Arterm,1500,AC
+2016-10-29 22:58:32+0900,B - Median Pyramid Easy,urumeiwashi,0,WA
+2016-10-29 22:58:32+0900,D - Median Pyramid Hard,Paladin,0,WA
+2016-10-29 22:58:30+0900,B - Median Pyramid Easy,kbu1564,0,WA
+2016-10-29 22:58:27+0900,F - Blackout,yutaka1999,0,WA
+2016-10-29 22:58:12+0900,B - Median Pyramid Easy,conf,0,WA
+2016-10-29 22:58:09+0900,C - Rabbit Exercise,guangxuan,800,AC
+2016-10-29 22:58:05+0900,B - Median Pyramid Easy,tutinoko79,400,AC
+2016-10-29 22:58:04+0900,C - Rabbit Exercise,kuuso,0,TLE
+2016-10-29 22:58:02+0900,C - Rabbit Exercise,tomozow,0,TLE
+2016-10-29 22:58:01+0900,B - Median Pyramid Easy,urumeiwashi,0,CE
+2016-10-29 22:57:52+0900,C - Rabbit Exercise,TangentDay,0,TLE
+2016-10-29 22:57:52+0900,C - Rabbit Exercise,johnchen902,0,TLE
+2016-10-29 22:57:49+0900,D - Median Pyramid Hard,math,0,WA
+2016-10-29 22:57:44+0900,A - Prefix and Suffix,tencha,0,WA
+2016-10-29 22:57:42+0900,D - Median Pyramid Hard,komendart,0,WA
+2016-10-29 22:57:37+0900,A - Prefix and Suffix,hirokazukisaragi,0,WA
+2016-10-29 22:57:28+0900,C - Rabbit Exercise,roiti,0,WA
+2016-10-29 22:57:22+0900,B - Median Pyramid Easy,HnVahidi,400,AC
+2016-10-29 22:57:21+0900,B - Median Pyramid Easy,Mngshmok,0,WA
+2016-10-29 22:57:12+0900,B - Median Pyramid Easy,autumn_eel,0,WA
+2016-10-29 22:57:12+0900,C - Rabbit Exercise,tomabou,0,WA
+2016-10-29 22:57:02+0900,B - Median Pyramid Easy,haji,0,WA
+2016-10-29 22:57:01+0900,B - Median Pyramid Easy,triplem5ds,0,WA
+2016-10-29 22:57:00+0900,C - Rabbit Exercise,kubusgol,0,WA
+2016-10-29 22:56:59+0900,A - Prefix and Suffix,piro77,0,WA
+2016-10-29 22:56:56+0900,C - Rabbit Exercise,johnchen902,0,CE
+2016-10-29 22:56:54+0900,A - Prefix and Suffix,kamo,0,WA
+2016-10-29 22:56:53+0900,C - Rabbit Exercise,walkre,0,TLE
+2016-10-29 22:56:53+0900,B - Median Pyramid Easy,snowfoxy,0,TLE
+2016-10-29 22:56:48+0900,A - Prefix and Suffix,haji,0,WA
+2016-10-29 22:56:48+0900,E - Rotate 3x3,btk15049,0,WA
+2016-10-29 22:56:44+0900,A - Prefix and Suffix,triplem5ds,0,WA
+2016-10-29 22:56:37+0900,C - Rabbit Exercise,kenkoooo,0,TLE
+2016-10-29 22:56:33+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 22:56:31+0900,C - Rabbit Exercise,Mikester,0,WA
+2016-10-29 22:56:31+0900,C - Rabbit Exercise,mscle11,0,WA
+2016-10-29 22:56:29+0900,B - Median Pyramid Easy,urumeiwashi,0,WA
+2016-10-29 22:56:25+0900,C - Rabbit Exercise,guangxuan,0,WA
+2016-10-29 22:56:24+0900,D - Median Pyramid Hard,freeloop,0,WA
+2016-10-29 22:56:21+0900,E - Rotate 3x3,MathCrusader,0,WA
+2016-10-29 22:56:11+0900,C - Rabbit Exercise,kenkoooo,0,WA
+2016-10-29 22:56:07+0900,B - Median Pyramid Easy,triplem5ds,0,WA
+2016-10-29 22:56:07+0900,B - Median Pyramid Easy,p4869,400,AC
+2016-10-29 22:56:05+0900,D - Median Pyramid Hard,tashikani,0,WA
+2016-10-29 22:56:00+0900,B - Median Pyramid Easy,snowfoxy,0,WA
+2016-10-29 22:55:58+0900,B - Median Pyramid Easy,RAMBO_tejasv,400,AC
+2016-10-29 22:55:56+0900,D - Median Pyramid Hard,tankblood,0,WA
+2016-10-29 22:55:52+0900,A - Prefix and Suffix,tomabou,0,WA
+2016-10-29 22:55:50+0900,C - Rabbit Exercise,chenmark,0,WA
+2016-10-29 22:55:43+0900,C - Rabbit Exercise,One_touch_finish,0,TLE
+2016-10-29 22:55:38+0900,B - Median Pyramid Easy,gantheory,0,WA
+2016-10-29 22:55:35+0900,E - Rotate 3x3,asi1024,0,WA
+2016-10-29 22:55:35+0900,E - Rotate 3x3,btk15049,0,WA
+2016-10-29 22:55:32+0900,B - Median Pyramid Easy,prololo,0,WA
+2016-10-29 22:55:25+0900,C - Rabbit Exercise,mino,0,WA
+2016-10-29 22:55:24+0900,D - Median Pyramid Hard,apiad,1300,AC
+2016-10-29 22:55:19+0900,B - Median Pyramid Easy,baranov,0,WA
+2016-10-29 22:55:18+0900,B - Median Pyramid Easy,obsproth,0,RE
+2016-10-29 22:55:11+0900,D - Median Pyramid Hard,shdut,0,TLE
+2016-10-29 22:55:04+0900,B - Median Pyramid Easy,haji,0,WA
+2016-10-29 22:55:02+0900,D - Median Pyramid Hard,apolopt,0,CE
+2016-10-29 22:54:51+0900,B - Median Pyramid Easy,sssbear,0,WA
+2016-10-29 22:54:49+0900,B - Median Pyramid Easy,TAB,400,AC
+2016-10-29 22:54:47+0900,A - Prefix and Suffix,rishizek,200,AC
+2016-10-29 22:54:47+0900,D - Median Pyramid Hard,mkjiro,0,TLE
+2016-10-29 22:54:46+0900,C - Rabbit Exercise,startcpp,0,TLE
+2016-10-29 22:54:39+0900,C - Rabbit Exercise,T1610,0,WA
+2016-10-29 22:54:38+0900,D - Median Pyramid Hard,Snickeen,0,TLE
+2016-10-29 22:54:35+0900,D - Median Pyramid Hard,unexpected,0,WA
+2016-10-29 22:54:35+0900,D - Median Pyramid Hard,tankblood,0,WA
+2016-10-29 22:54:22+0900,C - Rabbit Exercise,roiti,0,WA
+2016-10-29 22:54:22+0900,B - Median Pyramid Easy,blesscyk,0,WA
+2016-10-29 22:54:14+0900,F - Blackout,makki,0,MLE
+2016-10-29 22:54:12+0900,C - Rabbit Exercise,johnchen902,0,RE
+2016-10-29 22:54:07+0900,D - Median Pyramid Hard,bidzilya,1300,AC
+2016-10-29 22:54:04+0900,B - Median Pyramid Easy,HnVahidi,0,WA
+2016-10-29 22:54:03+0900,E - Rotate 3x3,jcvb,0,WA
+2016-10-29 22:53:58+0900,C - Rabbit Exercise,kubusgol,0,WA
+2016-10-29 22:53:53+0900,C - Rabbit Exercise,moguta,0,TLE
+2016-10-29 22:53:52+0900,D - Median Pyramid Hard,zscoder,0,WA
+2016-10-29 22:53:45+0900,B - Median Pyramid Easy,ACforgood,0,WA
+2016-10-29 22:53:45+0900,B - Median Pyramid Easy,tapuinu,0,WA
+2016-10-29 22:53:45+0900,E - Rotate 3x3,btk15049,0,WA
+2016-10-29 22:53:39+0900,D - Median Pyramid Hard,nigus,0,WA
+2016-10-29 22:53:27+0900,B - Median Pyramid Easy,oos1111,0,WA
+2016-10-29 22:53:24+0900,C - Rabbit Exercise,tomabou,0,WA
+2016-10-29 22:53:23+0900,C - Rabbit Exercise,cocococoa,0,WA
+2016-10-29 22:53:22+0900,C - Rabbit Exercise,dohatsutsu,0,TLE
+2016-10-29 22:53:21+0900,B - Median Pyramid Easy,urumeiwashi,0,TLE
+2016-10-29 22:53:19+0900,D - Median Pyramid Hard,zscoder,0,WA
+2016-10-29 22:53:17+0900,C - Rabbit Exercise,h_noson,0,WA
+2016-10-29 22:53:16+0900,B - Median Pyramid Easy,seiyab,0,WA
+2016-10-29 22:53:15+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 22:53:11+0900,A - Prefix and Suffix,s5412039,200,AC
+2016-10-29 22:53:10+0900,C - Rabbit Exercise,T1610,0,WA
+2016-10-29 22:53:10+0900,C - Rabbit Exercise,ysakasin,0,WA
+2016-10-29 22:53:09+0900,A - Prefix and Suffix,piguchi,0,WA
+2016-10-29 22:53:05+0900,C - Rabbit Exercise,hiwang123,0,WA
+2016-10-29 22:53:03+0900,D - Median Pyramid Hard,zscoder,0,WA
+2016-10-29 22:53:03+0900,D - Median Pyramid Hard,Kostroma,0,WA
+2016-10-29 22:52:57+0900,C - Rabbit Exercise,roiti,0,WA
+2016-10-29 22:52:55+0900,E - Rotate 3x3,yosupo,1500,AC
+2016-10-29 22:52:55+0900,D - Median Pyramid Hard,yana87,0,TLE
+2016-10-29 22:52:50+0900,D - Median Pyramid Hard,USA,0,TLE
+2016-10-29 22:52:47+0900,C - Rabbit Exercise,walkre,0,TLE
+2016-10-29 22:52:45+0900,D - Median Pyramid Hard,pekempey,0,WA
+2016-10-29 22:52:43+0900,C - Rabbit Exercise,treeone,0,TLE
+2016-10-29 22:52:36+0900,D - Median Pyramid Hard,sd0061,1300,AC
+2016-10-29 22:52:24+0900,B - Median Pyramid Easy,sssbear,0,WA
+2016-10-29 22:52:23+0900,C - Rabbit Exercise,Hec,0,WA
+2016-10-29 22:52:17+0900,E - Rotate 3x3,Arterm,0,WA
+2016-10-29 22:52:12+0900,A - Prefix and Suffix,snuke,0,WA
+2016-10-29 22:52:06+0900,C - Rabbit Exercise,TangentDay,0,WA
+2016-10-29 22:52:05+0900,D - Median Pyramid Hard,mizutoki_,0,WA
+2016-10-29 22:52:02+0900,C - Rabbit Exercise,mino,0,WA
+2016-10-29 22:52:00+0900,E - Rotate 3x3,JKJeong,0,WA
+2016-10-29 22:51:55+0900,A - Prefix and Suffix,oemon,200,AC
+2016-10-29 22:51:54+0900,B - Median Pyramid Easy,L3Sota,0,CE
+2016-10-29 22:51:49+0900,E - Rotate 3x3,asi1024,0,WA
+2016-10-29 22:51:42+0900,C - Rabbit Exercise,shllhs,0,WA
+2016-10-29 22:51:33+0900,C - Rabbit Exercise,T1610,0,WA
+2016-10-29 22:51:32+0900,C - Rabbit Exercise,roiti,0,TLE
+2016-10-29 22:51:26+0900,B - Median Pyramid Easy,motxx,0,WA
+2016-10-29 22:51:19+0900,C - Rabbit Exercise,h_noson,0,WA
+2016-10-29 22:51:18+0900,C - Rabbit Exercise,abyssmall,800,AC
+2016-10-29 22:51:14+0900,C - Rabbit Exercise,ysakasin,0,WA
+2016-10-29 22:51:14+0900,C - Rabbit Exercise,SanSiroWaltz,800,AC
+2016-10-29 22:51:07+0900,B - Median Pyramid Easy,airis,400,AC
+2016-10-29 22:51:06+0900,B - Median Pyramid Easy,norma,0,TLE
+2016-10-29 22:51:04+0900,B - Median Pyramid Easy,toshi0507,0,WA
+2016-10-29 22:51:03+0900,A - Prefix and Suffix,Ka8,200,AC
+2016-10-29 22:51:01+0900,A - Prefix and Suffix,Twsc,200,AC
+2016-10-29 22:50:57+0900,F - Blackout,aaaaajack,1700,AC
+2016-10-29 22:50:44+0900,D - Median Pyramid Hard,LiChenKoh,0,WA
+2016-10-29 22:50:40+0900,B - Median Pyramid Easy,yunmagz,400,AC
+2016-10-29 22:50:32+0900,B - Median Pyramid Easy,namelessmonster,0,WA
+2016-10-29 22:50:31+0900,A - Prefix and Suffix,dplus1016,200,AC
+2016-10-29 22:50:26+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 22:50:25+0900,C - Rabbit Exercise,guangxuan,0,WA
+2016-10-29 22:50:23+0900,D - Median Pyramid Hard,hans6626,0,RE
+2016-10-29 22:50:21+0900,A - Prefix and Suffix,kamo,0,WA
+2016-10-29 22:50:18+0900,B - Median Pyramid Easy,Asuka_Tsukimi,400,AC
+2016-10-29 22:50:13+0900,B - Median Pyramid Easy,DEGwer,400,AC
+2016-10-29 22:50:12+0900,C - Rabbit Exercise,hiwang123,0,WA
+2016-10-29 22:50:11+0900,C - Rabbit Exercise,johnchen902,0,TLE
+2016-10-29 22:50:10+0900,C - Rabbit Exercise,elkurin,800,AC
+2016-10-29 22:50:09+0900,B - Median Pyramid Easy,TAB,0,WA
+2016-10-29 22:50:08+0900,C - Rabbit Exercise,SanSiroWaltz,0,WA
+2016-10-29 22:50:03+0900,E - Rotate 3x3,MathCrusader,0,WA
+2016-10-29 22:49:56+0900,B - Median Pyramid Easy,sssbear,0,WA
+2016-10-29 22:49:53+0900,C - Rabbit Exercise,yash_mittal,0,TLE
+2016-10-29 22:49:42+0900,C - Rabbit Exercise,yanagi3150,0,WA
+2016-10-29 22:49:37+0900,C - Rabbit Exercise,miraxial,0,WA
+2016-10-29 22:49:36+0900,B - Median Pyramid Easy,MichaelS,400,AC
+2016-10-29 22:49:35+0900,E - Rotate 3x3,asi1024,0,RE
+2016-10-29 22:49:33+0900,C - Rabbit Exercise,nes_in_it,0,WA
+2016-10-29 22:49:33+0900,A - Prefix and Suffix,hirokazukisaragi,0,WA
+2016-10-29 22:49:29+0900,C - Rabbit Exercise,octopuses,0,WA
+2016-10-29 22:49:26+0900,C - Rabbit Exercise,riadwaw,0,TLE
+2016-10-29 22:49:25+0900,B - Median Pyramid Easy,beet,400,AC
+2016-10-29 22:49:25+0900,B - Median Pyramid Easy,hiromi_ayase,400,AC
+2016-10-29 22:49:23+0900,A - Prefix and Suffix,piro77,0,WA
+2016-10-29 22:49:21+0900,D - Median Pyramid Hard,hirokazu1020,0,TLE
+2016-10-29 22:49:20+0900,D - Median Pyramid Hard,toxzi,0,WA
+2016-10-29 22:49:20+0900,D - Median Pyramid Hard,LiChenKoh,0,RE
+2016-10-29 22:49:18+0900,B - Median Pyramid Easy,oos1111,0,WA
+2016-10-29 22:49:15+0900,D - Median Pyramid Hard,uwi,1300,AC
+2016-10-29 22:49:14+0900,C - Rabbit Exercise,h_noson,0,WA
+2016-10-29 22:49:13+0900,B - Median Pyramid Easy,yut071,0,TLE
+2016-10-29 22:49:05+0900,B - Median Pyramid Easy,haji,0,WA
+2016-10-29 22:49:02+0900,A - Prefix and Suffix,jack,200,AC
+2016-10-29 22:48:56+0900,B - Median Pyramid Easy,kazu123,0,WA
+2016-10-29 22:48:56+0900,B - Median Pyramid Easy,Hec,400,AC
+2016-10-29 22:48:48+0900,D - Median Pyramid Hard,tashikani,0,TLE
+2016-10-29 22:48:48+0900,D - Median Pyramid Hard,mmaks,0,WA
+2016-10-29 22:48:39+0900,A - Prefix and Suffix,Hec,200,AC
+2016-10-29 22:48:34+0900,A - Prefix and Suffix,yash_mittal,0,WA
+2016-10-29 22:48:33+0900,C - Rabbit Exercise,bixind,800,AC
+2016-10-29 22:48:32+0900,C - Rabbit Exercise,Vax,0,WA
+2016-10-29 22:48:26+0900,B - Median Pyramid Easy,tankblood,0,WA
+2016-10-29 22:48:25+0900,D - Median Pyramid Hard,minus9d,0,TLE
+2016-10-29 22:48:14+0900,A - Prefix and Suffix,anidas,0,WA
+2016-10-29 22:48:12+0900,C - Rabbit Exercise,ysakasin,0,WA
+2016-10-29 22:48:11+0900,E - Rotate 3x3,JKJeong,0,WA
+2016-10-29 22:48:10+0900,C - Rabbit Exercise,angel_p_57,0,TLE
+2016-10-29 22:48:09+0900,B - Median Pyramid Easy,gantheory,0,RE
+2016-10-29 22:48:01+0900,E - Rotate 3x3,mmaxio,1500,AC
+2016-10-29 22:47:59+0900,B - Median Pyramid Easy,L3Sota,0,WA
+2016-10-29 22:47:58+0900,E - Rotate 3x3,asi1024,0,WA
+2016-10-29 22:47:56+0900,C - Rabbit Exercise,Hec,0,WA
+2016-10-29 22:47:56+0900,F - Blackout,dreamoon,0,WA
+2016-10-29 22:47:55+0900,C - Rabbit Exercise,ishowta,0,TLE
+2016-10-29 22:47:54+0900,D - Median Pyramid Hard,nueve,0,TLE
+2016-10-29 22:47:50+0900,C - Rabbit Exercise,ikatanic,0,RE
+2016-10-29 22:47:49+0900,C - Rabbit Exercise,sumoooru,0,TLE
+2016-10-29 22:47:48+0900,B - Median Pyramid Easy,urumeiwashi,0,TLE
+2016-10-29 22:47:45+0900,D - Median Pyramid Hard,reew2n,1300,AC
+2016-10-29 22:47:41+0900,A - Prefix and Suffix,zfz,0,WA
+2016-10-29 22:47:38+0900,C - Rabbit Exercise,tomabou,0,WA
+2016-10-29 22:47:26+0900,C - Rabbit Exercise,guangxuan,0,WA
+2016-10-29 22:47:23+0900,B - Median Pyramid Easy,frnfnts,400,AC
+2016-10-29 22:47:10+0900,B - Median Pyramid Easy,autumn_eel,0,TLE
+2016-10-29 22:47:10+0900,C - Rabbit Exercise,ek_ss,0,WA
+2016-10-29 22:47:08+0900,B - Median Pyramid Easy,plasmaeffect,400,AC
+2016-10-29 22:47:06+0900,C - Rabbit Exercise,h_noson,0,WA
+2016-10-29 22:46:52+0900,B - Median Pyramid Easy,motxx,0,WA
+2016-10-29 22:46:46+0900,D - Median Pyramid Hard,mmaks,0,WA
+2016-10-29 22:46:44+0900,D - Median Pyramid Hard,math,0,WA
+2016-10-29 22:46:43+0900,B - Median Pyramid Easy,Linus,400,AC
+2016-10-29 22:46:36+0900,D - Median Pyramid Hard,nitumeta339,0,TLE
+2016-10-29 22:46:34+0900,A - Prefix and Suffix,je6bmq,200,AC
+2016-10-29 22:46:33+0900,D - Median Pyramid Hard,suigingin,0,WA
+2016-10-29 22:46:29+0900,B - Median Pyramid Easy,arukuka,400,AC
+2016-10-29 22:46:21+0900,B - Median Pyramid Easy,oos1111,0,WA
+2016-10-29 22:46:18+0900,D - Median Pyramid Hard,math,0,TLE
+2016-10-29 22:46:14+0900,E - Rotate 3x3,snuke,1500,AC
+2016-10-29 22:46:12+0900,D - Median Pyramid Hard,mohamadkar,0,TLE
+2016-10-29 22:46:08+0900,B - Median Pyramid Easy,motxx,0,RE
+2016-10-29 22:46:07+0900,C - Rabbit Exercise,ikatanic,0,TLE
+2016-10-29 22:46:05+0900,C - Rabbit Exercise,majk,0,WA
+2016-10-29 22:46:02+0900,A - Prefix and Suffix,prololo,200,AC
+2016-10-29 22:45:59+0900,D - Median Pyramid Hard,mmaks,0,CE
+2016-10-29 22:45:57+0900,C - Rabbit Exercise,kotatsugame,0,WA
+2016-10-29 22:45:52+0900,A - Prefix and Suffix,anidas,0,WA
+2016-10-29 22:45:43+0900,C - Rabbit Exercise,tomabou,0,WA
+2016-10-29 22:45:39+0900,D - Median Pyramid Hard,Gobi,0,WA
+2016-10-29 22:45:36+0900,B - Median Pyramid Easy,QAQ,400,AC
+2016-10-29 22:45:32+0900,B - Median Pyramid Easy,scor,400,AC
+2016-10-29 22:45:25+0900,C - Rabbit Exercise,walkre,0,WA
+2016-10-29 22:45:23+0900,B - Median Pyramid Easy,feng,0,WA
+2016-10-29 22:45:17+0900,C - Rabbit Exercise,shllhs,0,MLE
+2016-10-29 22:45:11+0900,B - Median Pyramid Easy,urumeiwashi,0,TLE
+2016-10-29 22:45:08+0900,D - Median Pyramid Hard,King_George,0,WA
+2016-10-29 22:45:07+0900,B - Median Pyramid Easy,nokonoko,400,AC
+2016-10-29 22:45:06+0900,B - Median Pyramid Easy,haji,0,WA
+2016-10-29 22:45:04+0900,B - Median Pyramid Easy,arukuka,0,WA
+2016-10-29 22:45:01+0900,C - Rabbit Exercise,h_noson,0,WA
+2016-10-29 22:44:53+0900,A - Prefix and Suffix,Ninjo,200,AC
+2016-10-29 22:44:47+0900,A - Prefix and Suffix,croissant,200,AC
+2016-10-29 22:44:47+0900,A - Prefix and Suffix,finalchoice,200,AC
+2016-10-29 22:44:41+0900,D - Median Pyramid Hard,apolopt,0,TLE
+2016-10-29 22:44:41+0900,C - Rabbit Exercise,yash_mittal,0,TLE
+2016-10-29 22:44:40+0900,C - Rabbit Exercise,junioragd,0,WA
+2016-10-29 22:44:35+0900,C - Rabbit Exercise,tomabou,0,TLE
+2016-10-29 22:44:35+0900,B - Median Pyramid Easy,MMNMM,400,AC
+2016-10-29 22:44:34+0900,A - Prefix and Suffix,fox0430,0,WA
+2016-10-29 22:44:33+0900,B - Median Pyramid Easy,arukuka,0,WA
+2016-10-29 22:44:32+0900,A - Prefix and Suffix,nokonoko,0,RE
+2016-10-29 22:44:31+0900,B - Median Pyramid Easy,triplem5ds,0,WA
+2016-10-29 22:44:29+0900,B - Median Pyramid Easy,QAQ,0,WA
+2016-10-29 22:44:28+0900,C - Rabbit Exercise,chaemon,800,AC
+2016-10-29 22:44:19+0900,B - Median Pyramid Easy,raven38,400,AC
+2016-10-29 22:44:14+0900,B - Median Pyramid Easy,ikeha,0,WA
+2016-10-29 22:44:14+0900,D - Median Pyramid Hard,mmaks,0,WA
+2016-10-29 22:44:12+0900,B - Median Pyramid Easy,narit,400,AC
+2016-10-29 22:44:11+0900,C - Rabbit Exercise,TangentDay,0,WA
+2016-10-29 22:44:11+0900,D - Median Pyramid Hard,roto_37,0,TLE
+2016-10-29 22:44:01+0900,D - Median Pyramid Hard,Kostroma,0,TLE
+2016-10-29 22:43:56+0900,F - Blackout,dreamoon,0,WA
+2016-10-29 22:43:51+0900,A - Prefix and Suffix,hirokazukisaragi,0,WA
+2016-10-29 22:43:40+0900,B - Median Pyramid Easy,Twilight,0,WA
+2016-10-29 22:43:38+0900,B - Median Pyramid Easy,perfectcamel,400,AC
+2016-10-29 22:43:38+0900,D - Median Pyramid Hard,eukaryo,1300,AC
+2016-10-29 22:43:36+0900,B - Median Pyramid Easy,namelessmonster,0,WA
+2016-10-29 22:43:34+0900,A - Prefix and Suffix,vih3BP,0,WA
+2016-10-29 22:43:31+0900,A - Prefix and Suffix,blesscyk,200,AC
+2016-10-29 22:43:30+0900,E - Rotate 3x3,Pulmn,0,WA
+2016-10-29 22:43:28+0900,E - Rotate 3x3,btk15049,0,WA
+2016-10-29 22:43:26+0900,C - Rabbit Exercise,elkurin,0,WA
+2016-10-29 22:43:20+0900,B - Median Pyramid Easy,ACforgood,0,WA
+2016-10-29 22:43:18+0900,B - Median Pyramid Easy,Twilight,0,CE
+2016-10-29 22:43:16+0900,A - Prefix and Suffix,apiad,200,AC
+2016-10-29 22:43:16+0900,B - Median Pyramid Easy,Zako_G,0,TLE
+2016-10-29 22:43:14+0900,A - Prefix and Suffix,harry_potter_28,0,WA
+2016-10-29 22:43:12+0900,D - Median Pyramid Hard,Lepton,1300,AC
+2016-10-29 22:43:10+0900,E - Rotate 3x3,zscoder,0,WA
+2016-10-29 22:43:10+0900,B - Median Pyramid Easy,TAB,0,WA
+2016-10-29 22:43:09+0900,B - Median Pyramid Easy,kazu123,0,WA
+2016-10-29 22:43:08+0900,D - Median Pyramid Hard,wubincen,0,TLE
+2016-10-29 22:43:07+0900,B - Median Pyramid Easy,ikeha,0,WA
+2016-10-29 22:43:03+0900,C - Rabbit Exercise,shiratty8,0,TLE
+2016-10-29 22:42:58+0900,C - Rabbit Exercise,hamadu,0,TLE
+2016-10-29 22:42:55+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 22:42:53+0900,B - Median Pyramid Easy,gantheory,0,WA
+2016-10-29 22:42:46+0900,C - Rabbit Exercise,yash_mittal,0,WA
+2016-10-29 22:42:45+0900,D - Median Pyramid Hard,sshirayama,0,TLE
+2016-10-29 22:42:43+0900,E - Rotate 3x3,hirosegolf,1500,AC
+2016-10-29 22:42:41+0900,B - Median Pyramid Easy,motxx,0,WA
+2016-10-29 22:42:41+0900,C - Rabbit Exercise,assy,0,WA
+2016-10-29 22:42:32+0900,A - Prefix and Suffix,yash_mittal,0,WA
+2016-10-29 22:42:32+0900,B - Median Pyramid Easy,tokumini,400,AC
+2016-10-29 22:42:27+0900,A - Prefix and Suffix,apiad,0,WA
+2016-10-29 22:42:25+0900,C - Rabbit Exercise,dohatsutsu,0,TLE
+2016-10-29 22:42:24+0900,B - Median Pyramid Easy,ikeha,0,WA
+2016-10-29 22:42:23+0900,B - Median Pyramid Easy,NSTomoS,0,WA
+2016-10-29 22:42:20+0900,F - Blackout,dreamoon,0,WA
+2016-10-29 22:42:13+0900,B - Median Pyramid Easy,tankblood,0,WA
+2016-10-29 22:42:10+0900,C - Rabbit Exercise,rickytheta,0,TLE
+2016-10-29 22:41:56+0900,C - Rabbit Exercise,LeBron,0,MLE
+2016-10-29 22:41:55+0900,C - Rabbit Exercise,tos,800,AC
+2016-10-29 22:41:41+0900,B - Median Pyramid Easy,Zako_G,0,WA
+2016-10-29 22:41:33+0900,B - Median Pyramid Easy,nitumeta339,0,WA
+2016-10-29 22:41:33+0900,C - Rabbit Exercise,kaz49bz,0,TLE
+2016-10-29 22:41:30+0900,C - Rabbit Exercise,riadwaw,0,TLE
+2016-10-29 22:41:28+0900,A - Prefix and Suffix,bigname,0,WA
+2016-10-29 22:41:28+0900,E - Rotate 3x3,Reyna,1500,AC
+2016-10-29 22:41:27+0900,D - Median Pyramid Hard,alex_bucevschi,0,WA
+2016-10-29 22:41:27+0900,C - Rabbit Exercise,claw88,0,TLE
+2016-10-29 22:41:26+0900,A - Prefix and Suffix,fox0430,0,WA
+2016-10-29 22:41:25+0900,B - Median Pyramid Easy,binom,0,WA
+2016-10-29 22:41:19+0900,B - Median Pyramid Easy,tankblood,0,WA
+2016-10-29 22:41:17+0900,D - Median Pyramid Hard,midare1046,0,TLE
+2016-10-29 22:41:13+0900,C - Rabbit Exercise,ikatanic,0,RE
+2016-10-29 22:41:11+0900,C - Rabbit Exercise,jiaqiyang,0,WA
+2016-10-29 22:41:11+0900,B - Median Pyramid Easy,Twilight,0,TLE
+2016-10-29 22:41:11+0900,B - Median Pyramid Easy,Asuka_Tsukimi,0,WA
+2016-10-29 22:41:09+0900,B - Median Pyramid Easy,TAB,0,WA
+2016-10-29 22:41:04+0900,C - Rabbit Exercise,junioragd,0,WA
+2016-10-29 22:41:03+0900,B - Median Pyramid Easy,takepan,400,AC
+2016-10-29 22:40:58+0900,B - Median Pyramid Easy,oigami,400,AC
+2016-10-29 22:40:56+0900,D - Median Pyramid Hard,komendart,0,TLE
+2016-10-29 22:40:55+0900,D - Median Pyramid Hard,creatnx,0,TLE
+2016-10-29 22:40:49+0900,C - Rabbit Exercise,h_noson,0,WA
+2016-10-29 22:40:47+0900,D - Median Pyramid Hard,midare1046,0,CE
+2016-10-29 22:40:44+0900,E - Rotate 3x3,remin,0,WA
+2016-10-29 22:40:43+0900,B - Median Pyramid Easy,MichaelS,0,TLE
+2016-10-29 22:40:43+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 22:40:43+0900,C - Rabbit Exercise,Vax,0,TLE
+2016-10-29 22:40:34+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 22:40:33+0900,B - Median Pyramid Easy,hiyokko2,400,AC
+2016-10-29 22:40:30+0900,F - Blackout,Huziwara,1700,AC
+2016-10-29 22:40:26+0900,B - Median Pyramid Easy,cocococoa,400,AC
+2016-10-29 22:40:24+0900,E - Rotate 3x3,catupper,1500,AC
+2016-10-29 22:40:21+0900,C - Rabbit Exercise,ikatanic,0,RE
+2016-10-29 22:40:18+0900,B - Median Pyramid Easy,raven38,0,WA
+2016-10-29 22:40:14+0900,A - Prefix and Suffix,pandey11,200,AC
+2016-10-29 22:40:07+0900,D - Median Pyramid Hard,kasimatatomoya,0,TLE
+2016-10-29 22:40:02+0900,E - Rotate 3x3,MathCrusader,0,WA
+2016-10-29 22:40:00+0900,C - Rabbit Exercise,apiad,800,AC
+2016-10-29 22:39:55+0900,B - Median Pyramid Easy,NSTomoS,0,WA
+2016-10-29 22:39:51+0900,A - Prefix and Suffix,nameh2so4,0,WA
+2016-10-29 22:39:44+0900,B - Median Pyramid Easy,perfectcamel,0,WA
+2016-10-29 22:39:40+0900,D - Median Pyramid Hard,cxr1242,0,TLE
+2016-10-29 22:39:36+0900,C - Rabbit Exercise,ishowta,0,TLE
+2016-10-29 22:39:34+0900,C - Rabbit Exercise,claw88,0,TLE
+2016-10-29 22:39:24+0900,D - Median Pyramid Hard,eukaryo,0,WA
+2016-10-29 22:39:20+0900,B - Median Pyramid Easy,tnag,0,WA
+2016-10-29 22:39:19+0900,B - Median Pyramid Easy,oigami,0,WA
+2016-10-29 22:39:17+0900,B - Median Pyramid Easy,xml9shiki,0,WA
+2016-10-29 22:39:13+0900,D - Median Pyramid Hard,tokabe333,0,WA
+2016-10-29 22:39:08+0900,B - Median Pyramid Easy,darjeeling,0,WA
+2016-10-29 22:39:08+0900,B - Median Pyramid Easy,hiyokko2,0,WA
+2016-10-29 22:39:05+0900,A - Prefix and Suffix,university,0,WA
+2016-10-29 22:39:03+0900,C - Rabbit Exercise,satashun,0,WA
+2016-10-29 22:38:59+0900,C - Rabbit Exercise,ek_ss,0,WA
+2016-10-29 22:38:57+0900,B - Median Pyramid Easy,urumeiwashi,0,WA
+2016-10-29 22:38:54+0900,C - Rabbit Exercise,ikatanic,0,WA
+2016-10-29 22:38:41+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 22:38:41+0900,B - Median Pyramid Easy,qq1771203081,400,AC
+2016-10-29 22:38:40+0900,A - Prefix and Suffix,anidas,0,WA
+2016-10-29 22:38:35+0900,B - Median Pyramid Easy,sim193s,400,AC
+2016-10-29 22:38:31+0900,C - Rabbit Exercise,angel_p_57,0,WA
+2016-10-29 22:38:29+0900,B - Median Pyramid Easy,satashun,400,AC
+2016-10-29 22:38:21+0900,C - Rabbit Exercise,moguta,0,WA
+2016-10-29 22:38:20+0900,C - Rabbit Exercise,sd0061,800,AC
+2016-10-29 22:38:19+0900,C - Rabbit Exercise,kenkoooo,0,TLE
+2016-10-29 22:38:07+0900,B - Median Pyramid Easy,takepan,0,WA
+2016-10-29 22:37:59+0900,C - Rabbit Exercise,kobae964,800,AC
+2016-10-29 22:37:56+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 22:37:55+0900,B - Median Pyramid Easy,raven38,0,WA
+2016-10-29 22:37:54+0900,B - Median Pyramid Easy,TAB,0,WA
+2016-10-29 22:37:51+0900,C - Rabbit Exercise,chaemon,0,WA
+2016-10-29 22:37:50+0900,C - Rabbit Exercise,walkre,0,MLE
+2016-10-29 22:37:48+0900,B - Median Pyramid Easy,dsytk7,400,AC
+2016-10-29 22:37:46+0900,D - Median Pyramid Hard,TakiAugust,0,TLE
+2016-10-29 22:37:46+0900,C - Rabbit Exercise,zfz,0,WA
+2016-10-29 22:37:44+0900,D - Median Pyramid Hard,Lepton,0,WA
+2016-10-29 22:37:43+0900,B - Median Pyramid Easy,ixmel_rd,400,AC
+2016-10-29 22:37:43+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 22:37:40+0900,C - Rabbit Exercise,mohamadkar,0,WA
+2016-10-29 22:37:39+0900,C - Rabbit Exercise,miraxial,0,WA
+2016-10-29 22:37:39+0900,C - Rabbit Exercise,ikatanic,0,RE
+2016-10-29 22:37:33+0900,C - Rabbit Exercise,kenkoooo,0,TLE
+2016-10-29 22:37:29+0900,A - Prefix and Suffix,jack,0,WA
+2016-10-29 22:37:20+0900,F - Blackout,aitch,1700,AC
+2016-10-29 22:37:14+0900,B - Median Pyramid Easy,tokumini,0,WA
+2016-10-29 22:37:13+0900,C - Rabbit Exercise,mohamadkar,0,TLE
+2016-10-29 22:37:08+0900,D - Median Pyramid Hard,eukaryo,0,WA
+2016-10-29 22:37:07+0900,B - Median Pyramid Easy,takepan,0,WA
+2016-10-29 22:37:05+0900,C - Rabbit Exercise,poyodr,0,WA
+2016-10-29 22:37:01+0900,C - Rabbit Exercise,hoxosh,0,RE
+2016-10-29 22:36:58+0900,B - Median Pyramid Easy,motxx,0,WA
+2016-10-29 22:36:57+0900,B - Median Pyramid Easy,L3Sota,0,WA
+2016-10-29 22:36:56+0900,D - Median Pyramid Hard,Nekomimimi,0,TLE
+2016-10-29 22:36:53+0900,E - Rotate 3x3,MathCrusader,0,WA
+2016-10-29 22:36:53+0900,B - Median Pyramid Easy,oigami,0,WA
+2016-10-29 22:36:50+0900,D - Median Pyramid Hard,k_ashiya,0,TLE
+2016-10-29 22:36:38+0900,E - Rotate 3x3,snuke,0,WA
+2016-10-29 22:36:37+0900,C - Rabbit Exercise,startcpp,0,TLE
+2016-10-29 22:36:35+0900,C - Rabbit Exercise,kobae964,0,WA
+2016-10-29 22:36:33+0900,C - Rabbit Exercise,claw88,0,TLE
+2016-10-29 22:36:30+0900,B - Median Pyramid Easy,npz35,0,WA
+2016-10-29 22:36:28+0900,B - Median Pyramid Easy,TonyMooori,400,AC
+2016-10-29 22:36:26+0900,C - Rabbit Exercise,Elshiko,0,TLE
+2016-10-29 22:36:19+0900,B - Median Pyramid Easy,tapuinu,0,WA
+2016-10-29 22:36:19+0900,C - Rabbit Exercise,sumoooru,0,TLE
+2016-10-29 22:36:13+0900,D - Median Pyramid Hard,komendart,0,TLE
+2016-10-29 22:36:07+0900,C - Rabbit Exercise,ysakasin,0,TLE
+2016-10-29 22:36:04+0900,F - Blackout,aitch,0,WA
+2016-10-29 22:36:01+0900,C - Rabbit Exercise,abyssmall,0,WA
+2016-10-29 22:35:59+0900,B - Median Pyramid Easy,tokumini,0,WA
+2016-10-29 22:35:58+0900,C - Rabbit Exercise,nes_in_it,0,WA
+2016-10-29 22:35:53+0900,C - Rabbit Exercise,assy,0,WA
+2016-10-29 22:35:44+0900,C - Rabbit Exercise,tos,0,MLE
+2016-10-29 22:35:42+0900,C - Rabbit Exercise,junioragd,0,WA
+2016-10-29 22:35:37+0900,A - Prefix and Suffix,Twsc,0,WA
+2016-10-29 22:35:35+0900,A - Prefix and Suffix,mohamadkar,0,WA
+2016-10-29 22:35:34+0900,B - Median Pyramid Easy,clogos,400,AC
+2016-10-29 22:35:27+0900,B - Median Pyramid Easy,LiChenKoh,400,AC
+2016-10-29 22:35:18+0900,D - Median Pyramid Hard,astro_lion,0,WA
+2016-10-29 22:35:14+0900,D - Median Pyramid Hard,Lepton,0,WA
+2016-10-29 22:35:12+0900,B - Median Pyramid Easy,motxx,0,RE
+2016-10-29 22:35:11+0900,C - Rabbit Exercise,walkre,0,WA
+2016-10-29 22:35:07+0900,B - Median Pyramid Easy,commy,400,AC
+2016-10-29 22:35:05+0900,B - Median Pyramid Easy,feng,0,WA
+2016-10-29 22:34:59+0900,C - Rabbit Exercise,shdut,0,WA
+2016-10-29 22:34:56+0900,D - Median Pyramid Hard,shik,1300,AC
+2016-10-29 22:34:45+0900,B - Median Pyramid Easy,feng,0,WA
+2016-10-29 22:34:44+0900,B - Median Pyramid Easy,kasimatatomoya,400,AC
+2016-10-29 22:34:43+0900,D - Median Pyramid Hard,komendart,0,TLE
+2016-10-29 22:34:31+0900,D - Median Pyramid Hard,uwi,0,TLE
+2016-10-29 22:34:30+0900,B - Median Pyramid Easy,eha,400,AC
+2016-10-29 22:34:30+0900,A - Prefix and Suffix,rishizek,200,AC
+2016-10-29 22:34:29+0900,D - Median Pyramid Hard,math,0,WA
+2016-10-29 22:34:23+0900,B - Median Pyramid Easy,darjeeling,0,WA
+2016-10-29 22:34:22+0900,A - Prefix and Suffix,jack,0,WA
+2016-10-29 22:34:11+0900,B - Median Pyramid Easy,hiromi_ayase,0,WA
+2016-10-29 22:34:08+0900,C - Rabbit Exercise,junioragd,0,WA
+2016-10-29 22:34:00+0900,D - Median Pyramid Hard,suigingin,0,WA
+2016-10-29 22:33:58+0900,D - Median Pyramid Hard,damekamo,0,WA
+2016-10-29 22:33:56+0900,B - Median Pyramid Easy,arukuka,0,WA
+2016-10-29 22:33:51+0900,B - Median Pyramid Easy,pwild,400,AC
+2016-10-29 22:33:50+0900,B - Median Pyramid Easy,shio,0,WA
+2016-10-29 22:33:50+0900,C - Rabbit Exercise,assy,0,WA
+2016-10-29 22:33:39+0900,A - Prefix and Suffix,shadervio,0,WA
+2016-10-29 22:33:38+0900,C - Rabbit Exercise,adamant,0,WA
+2016-10-29 22:33:30+0900,D - Median Pyramid Hard,ania,0,WA
+2016-10-29 22:33:23+0900,A - Prefix and Suffix,semaPhoretic,0,WA
+2016-10-29 22:33:15+0900,D - Median Pyramid Hard,koosaga,1300,AC
+2016-10-29 22:33:14+0900,B - Median Pyramid Easy,ixmel_rd,0,WA
+2016-10-29 22:33:13+0900,B - Median Pyramid Easy,balakrishnan_v,400,AC
+2016-10-29 22:33:11+0900,B - Median Pyramid Easy,qq1771203081,0,WA
+2016-10-29 22:33:02+0900,A - Prefix and Suffix,Atomute,0,WA
+2016-10-29 22:32:59+0900,A - Prefix and Suffix,fox0430,0,WA
+2016-10-29 22:32:49+0900,D - Median Pyramid Hard,Flowstatic,0,TLE
+2016-10-29 22:32:42+0900,C - Rabbit Exercise,nes_in_it,0,WA
+2016-10-29 22:32:40+0900,B - Median Pyramid Easy,wildjuno,0,WA
+2016-10-29 22:32:34+0900,B - Median Pyramid Easy,TonyMooori,0,WA
+2016-10-29 22:32:32+0900,C - Rabbit Exercise,johnchen902,0,WA
+2016-10-29 22:32:30+0900,B - Median Pyramid Easy,icchyr,400,AC
+2016-10-29 22:32:26+0900,B - Median Pyramid Easy,motxx,0,WA
+2016-10-29 22:32:26+0900,B - Median Pyramid Easy,kazu123,0,WA
+2016-10-29 22:32:18+0900,A - Prefix and Suffix,yveh,200,AC
+2016-10-29 22:32:12+0900,D - Median Pyramid Hard,jcvb,1300,AC
+2016-10-29 22:32:10+0900,C - Rabbit Exercise,claw88,0,RE
+2016-10-29 22:32:09+0900,B - Median Pyramid Easy,kasimatatomoya,0,WA
+2016-10-29 22:32:09+0900,B - Median Pyramid Easy,hiyokko2,0,WA
+2016-10-29 22:32:06+0900,C - Rabbit Exercise,tos,0,MLE
+2016-10-29 22:32:05+0900,B - Median Pyramid Easy,davidkek,400,AC
+2016-10-29 22:32:05+0900,A - Prefix and Suffix,blesscyk,0,WA
+2016-10-29 22:31:59+0900,A - Prefix and Suffix,mormimo0126,0,WA
+2016-10-29 22:31:59+0900,A - Prefix and Suffix,DEGwer,200,AC
+2016-10-29 22:31:56+0900,D - Median Pyramid Hard,nueve,0,TLE
+2016-10-29 22:31:53+0900,B - Median Pyramid Easy,yanagi3150,400,AC
+2016-10-29 22:31:53+0900,C - Rabbit Exercise,adamant,0,WA
+2016-10-29 22:31:52+0900,A - Prefix and Suffix,kamo,0,WA
+2016-10-29 22:31:50+0900,A - Prefix and Suffix,university,0,WA
+2016-10-29 22:31:50+0900,B - Median Pyramid Easy,apiad,400,AC
+2016-10-29 22:31:45+0900,B - Median Pyramid Easy,kbu1564,0,WA
+2016-10-29 22:31:42+0900,F - Blackout,tzhuan,0,TLE
+2016-10-29 22:31:38+0900,B - Median Pyramid Easy,selpo,400,AC
+2016-10-29 22:31:37+0900,C - Rabbit Exercise,abyssmall,0,WA
+2016-10-29 22:31:37+0900,C - Rabbit Exercise,kenkoooo,0,TLE
+2016-10-29 22:31:36+0900,D - Median Pyramid Hard,melnyk,0,TLE
+2016-10-29 22:31:35+0900,A - Prefix and Suffix,OhMyGodNG,200,AC
+2016-10-29 22:31:34+0900,B - Median Pyramid Easy,ZxFkcjgN,0,WA
+2016-10-29 22:31:28+0900,B - Median Pyramid Easy,conf,0,WA
+2016-10-29 22:31:18+0900,B - Median Pyramid Easy,kazu123,0,WA
+2016-10-29 22:31:12+0900,B - Median Pyramid Easy,conf,0,WA
+2016-10-29 22:31:10+0900,B - Median Pyramid Easy,toshi0507,0,WA
+2016-10-29 22:31:06+0900,C - Rabbit Exercise,nokoTaro,0,WA
+2016-10-29 22:31:06+0900,E - Rotate 3x3,kosakkun,0,WA
+2016-10-29 22:31:05+0900,B - Median Pyramid Easy,yanagi3150,0,CE
+2016-10-29 22:31:04+0900,A - Prefix and Suffix,anidas,0,WA
+2016-10-29 22:30:47+0900,B - Median Pyramid Easy,rika0384,400,AC
+2016-10-29 22:30:44+0900,B - Median Pyramid Easy,minaminao,400,AC
+2016-10-29 22:30:43+0900,B - Median Pyramid Easy,M_Saito,400,AC
+2016-10-29 22:30:41+0900,A - Prefix and Suffix,darjeeling,200,AC
+2016-10-29 22:30:41+0900,C - Rabbit Exercise,bigelephant29,0,TLE
+2016-10-29 22:30:38+0900,C - Rabbit Exercise,LeBron,0,TLE
+2016-10-29 22:30:26+0900,D - Median Pyramid Hard,nebukuro09,0,WA
+2016-10-29 22:30:20+0900,A - Prefix and Suffix,tencha,0,WA
+2016-10-29 22:30:13+0900,B - Median Pyramid Easy,suzukim0702,0,TLE
+2016-10-29 22:30:10+0900,A - Prefix and Suffix,homesentinel,200,AC
+2016-10-29 22:30:05+0900,C - Rabbit Exercise,Morass,0,WA
+2016-10-29 22:29:57+0900,D - Median Pyramid Hard,unsre,0,WA
+2016-10-29 22:29:56+0900,D - Median Pyramid Hard,melnyk,0,RE
+2016-10-29 22:29:55+0900,C - Rabbit Exercise,junioragd,0,WA
+2016-10-29 22:29:53+0900,D - Median Pyramid Hard,damekamo,0,WA
+2016-10-29 22:29:52+0900,A - Prefix and Suffix,ant2357,0,WA
+2016-10-29 22:29:47+0900,B - Median Pyramid Easy,ale3otik,400,AC
+2016-10-29 22:29:44+0900,C - Rabbit Exercise,kenkoooo,0,TLE
+2016-10-29 22:29:44+0900,D - Median Pyramid Hard,kawatea,0,TLE
+2016-10-29 22:29:40+0900,B - Median Pyramid Easy,Stresshoover,0,WA
+2016-10-29 22:29:37+0900,B - Median Pyramid Easy,LiChenKoh,0,WA
+2016-10-29 22:29:32+0900,B - Median Pyramid Easy,flag,400,AC
+2016-10-29 22:29:31+0900,B - Median Pyramid Easy,lrmystp,400,AC
+2016-10-29 22:29:28+0900,D - Median Pyramid Hard,sanoyatsu,0,WA
+2016-10-29 22:29:23+0900,B - Median Pyramid Easy,Zako_G,0,TLE
+2016-10-29 22:29:15+0900,C - Rabbit Exercise,osoken,0,TLE
+2016-10-29 22:29:11+0900,B - Median Pyramid Easy,motxx,0,WA
+2016-10-29 22:29:05+0900,D - Median Pyramid Hard,yasuyuky,0,TLE
+2016-10-29 22:29:02+0900,B - Median Pyramid Easy,p4869,0,WA
+2016-10-29 22:29:01+0900,B - Median Pyramid Easy,yukidaruma6,0,WA
+2016-10-29 22:29:01+0900,A - Prefix and Suffix,anidas,0,WA
+2016-10-29 22:29:00+0900,A - Prefix and Suffix,osoken,200,AC
+2016-10-29 22:28:58+0900,E - Rotate 3x3,Rafbill,1500,AC
+2016-10-29 22:28:47+0900,B - Median Pyramid Easy,MichaelS,0,TLE
+2016-10-29 22:28:47+0900,B - Median Pyramid Easy,oos1111,0,WA
+2016-10-29 22:28:46+0900,B - Median Pyramid Easy,hikkyprogramming,0,WA
+2016-10-29 22:28:42+0900,B - Median Pyramid Easy,minaminao,0,WA
+2016-10-29 22:28:36+0900,B - Median Pyramid Easy,dsytk7,400,AC
+2016-10-29 22:28:36+0900,D - Median Pyramid Hard,harmokey,0,TLE
+2016-10-29 22:28:30+0900,D - Median Pyramid Hard,Flowstatic,0,RE
+2016-10-29 22:28:28+0900,B - Median Pyramid Easy,jingtian777,400,AC
+2016-10-29 22:28:18+0900,C - Rabbit Exercise,kenkoooo,0,TLE
+2016-10-29 22:28:15+0900,D - Median Pyramid Hard,TangentDay,0,WA
+2016-10-29 22:28:15+0900,D - Median Pyramid Hard,DEGwer,1300,AC
+2016-10-29 22:28:08+0900,E - Rotate 3x3,FF256grhy,1500,AC
+2016-10-29 22:28:02+0900,F - Blackout,hiuchida,0,WA
+2016-10-29 22:27:53+0900,A - Prefix and Suffix,university,0,WA
+2016-10-29 22:27:51+0900,C - Rabbit Exercise,shllhs,0,WA
+2016-10-29 22:27:49+0900,B - Median Pyramid Easy,yanagi3150,0,WA
+2016-10-29 22:27:43+0900,B - Median Pyramid Easy,xml9shiki,0,WA
+2016-10-29 22:27:36+0900,C - Rabbit Exercise,Morass,0,WA
+2016-10-29 22:27:35+0900,B - Median Pyramid Easy,motxx,0,WA
+2016-10-29 22:27:35+0900,A - Prefix and Suffix,Kan_0021,200,AC
+2016-10-29 22:27:34+0900,B - Median Pyramid Easy,material,0,WA
+2016-10-29 22:27:33+0900,B - Median Pyramid Easy,dsytk7,0,WA
+2016-10-29 22:27:31+0900,D - Median Pyramid Hard,komendart,0,TLE
+2016-10-29 22:27:26+0900,A - Prefix and Suffix,blesscyk,0,WA
+2016-10-29 22:27:25+0900,B - Median Pyramid Easy,creatorstree,0,WA
+2016-10-29 22:27:22+0900,C - Rabbit Exercise,walkre,0,TLE
+2016-10-29 22:27:15+0900,B - Median Pyramid Easy,ZxFkcjgN,0,WA
+2016-10-29 22:27:14+0900,E - Rotate 3x3,oyoot,0,WA
+2016-10-29 22:27:05+0900,D - Median Pyramid Hard,k_ashiya,0,TLE
+2016-10-29 22:27:05+0900,B - Median Pyramid Easy,Gobi,400,AC
+2016-10-29 22:27:02+0900,A - Prefix and Suffix,harry_potter_28,0,WA
+2016-10-29 22:26:58+0900,D - Median Pyramid Hard,uwi,0,MLE
+2016-10-29 22:26:56+0900,A - Prefix and Suffix,osoken,0,WA
+2016-10-29 22:26:54+0900,B - Median Pyramid Easy,hikkyprogramming,0,WA
+2016-10-29 22:26:45+0900,C - Rabbit Exercise,femto16,0,WA
+2016-10-29 22:26:45+0900,A - Prefix and Suffix,ZxFkcjgN,0,RE
+2016-10-29 22:26:39+0900,D - Median Pyramid Hard,tokabe333,0,TLE
+2016-10-29 22:26:39+0900,A - Prefix and Suffix,hirokazukisaragi,0,WA
+2016-10-29 22:26:37+0900,A - Prefix and Suffix,bigname,0,WA
+2016-10-29 22:26:36+0900,E - Rotate 3x3,snuke,0,WA
+2016-10-29 22:26:35+0900,A - Prefix and Suffix,rishizek,0,CE
+2016-10-29 22:26:33+0900,C - Rabbit Exercise,ek_ss,0,WA
+2016-10-29 22:26:18+0900,B - Median Pyramid Easy,suzume,400,AC
+2016-10-29 22:26:17+0900,A - Prefix and Suffix,bigname,0,WA
+2016-10-29 22:26:15+0900,C - Rabbit Exercise,femto16,0,WA
+2016-10-29 22:26:14+0900,B - Median Pyramid Easy,boxisgreat,0,WA
+2016-10-29 22:26:11+0900,B - Median Pyramid Easy,urumeiwashi,0,WA
+2016-10-29 22:26:09+0900,C - Rabbit Exercise,bidzilya,0,RE
+2016-10-29 22:26:06+0900,C - Rabbit Exercise,satashun,0,CE
+2016-10-29 22:26:05+0900,B - Median Pyramid Easy,raven38,0,WA
+2016-10-29 22:26:04+0900,B - Median Pyramid Easy,TonyMooori,0,WA
+2016-10-29 22:26:04+0900,C - Rabbit Exercise,MMNMM,0,TLE
+2016-10-29 22:26:01+0900,F - Blackout,yosupo,1700,AC
+2016-10-29 22:25:59+0900,D - Median Pyramid Hard,x20,0,WA
+2016-10-29 22:25:55+0900,B - Median Pyramid Easy,triplem5ds,0,WA
+2016-10-29 22:25:53+0900,B - Median Pyramid Easy,nigus,400,AC
+2016-10-29 22:25:51+0900,B - Median Pyramid Easy,tomabou,400,AC
+2016-10-29 22:25:44+0900,B - Median Pyramid Easy,ZxFkcjgN,0,WA
+2016-10-29 22:25:41+0900,C - Rabbit Exercise,walkre,0,WA
+2016-10-29 22:25:32+0900,C - Rabbit Exercise,shdut,0,WA
+2016-10-29 22:25:31+0900,A - Prefix and Suffix,icchyr,200,AC
+2016-10-29 22:25:31+0900,A - Prefix and Suffix,mute1997,200,AC
+2016-10-29 22:25:26+0900,A - Prefix and Suffix,anidas,0,WA
+2016-10-29 22:25:13+0900,C - Rabbit Exercise,bigelephant29,0,TLE
+2016-10-29 22:25:13+0900,C - Rabbit Exercise,Fcdkbear,0,WA
+2016-10-29 22:25:05+0900,C - Rabbit Exercise,phyllo,0,WA
+2016-10-29 22:25:00+0900,B - Median Pyramid Easy,physics0523,400,AC
+2016-10-29 22:24:59+0900,E - Rotate 3x3,yutaka1999,1500,AC
+2016-10-29 22:24:54+0900,B - Median Pyramid Easy,rika0384,0,WA
+2016-10-29 22:24:50+0900,A - Prefix and Suffix,shadervio,0,WA
+2016-10-29 22:24:44+0900,B - Median Pyramid Easy,autumn_eel,0,WA
+2016-10-29 22:24:37+0900,B - Median Pyramid Easy,ZxFkcjgN,0,WA
+2016-10-29 22:24:36+0900,B - Median Pyramid Easy,oos1111,0,WA
+2016-10-29 22:24:32+0900,B - Median Pyramid Easy,nadchu,400,AC
+2016-10-29 22:24:30+0900,C - Rabbit Exercise,kenkoooo,0,TLE
+2016-10-29 22:24:25+0900,B - Median Pyramid Easy,cstdlib,400,AC
+2016-10-29 22:24:23+0900,A - Prefix and Suffix,blesscyk,0,WA
+2016-10-29 22:24:23+0900,B - Median Pyramid Easy,yu3mars,0,WA
+2016-10-29 22:24:22+0900,B - Median Pyramid Easy,tomabou,0,WA
+2016-10-29 22:24:19+0900,A - Prefix and Suffix,anidas,0,WA
+2016-10-29 22:24:18+0900,A - Prefix and Suffix,cstdlib,0,WA
+2016-10-29 22:24:17+0900,A - Prefix and Suffix,hirokazukisaragi,0,WA
+2016-10-29 22:24:15+0900,A - Prefix and Suffix,oos1111,0,WA
+2016-10-29 22:24:13+0900,B - Median Pyramid Easy,frnfnts,0,WA
+2016-10-29 22:24:08+0900,A - Prefix and Suffix,tomabou,0,WA
+2016-10-29 22:24:07+0900,D - Median Pyramid Hard,kawabys,0,WA
+2016-10-29 22:24:01+0900,B - Median Pyramid Easy,harshit_27,400,AC
+2016-10-29 22:24:00+0900,B - Median Pyramid Easy,Zako_G,0,TLE
+2016-10-29 22:23:58+0900,C - Rabbit Exercise,bdgaqh1889,0,RE
+2016-10-29 22:23:57+0900,C - Rabbit Exercise,Asuka_Tsukimi,800,AC
+2016-10-29 22:23:47+0900,E - Rotate 3x3,Rafbill,0,WA
+2016-10-29 22:23:28+0900,A - Prefix and Suffix,Zako_G,0,RE
+2016-10-29 22:23:28+0900,B - Median Pyramid Easy,muctera,400,AC
+2016-10-29 22:23:25+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 22:23:25+0900,A - Prefix and Suffix,binom,200,AC
+2016-10-29 22:23:23+0900,A - Prefix and Suffix,harry_potter_28,0,WA
+2016-10-29 22:23:23+0900,E - Rotate 3x3,Lepton,1500,AC
+2016-10-29 22:23:19+0900,B - Median Pyramid Easy,garnacha,400,AC
+2016-10-29 22:23:11+0900,B - Median Pyramid Easy,haji,0,WA
+2016-10-29 22:23:10+0900,B - Median Pyramid Easy,gigime,400,AC
+2016-10-29 22:23:10+0900,D - Median Pyramid Hard,PSMao,0,TLE
+2016-10-29 22:23:08+0900,A - Prefix and Suffix,piyohook,0,WA
+2016-10-29 22:23:03+0900,C - Rabbit Exercise,junioragd,0,WA
+2016-10-29 22:22:58+0900,B - Median Pyramid Easy,yu3mars,0,WA
+2016-10-29 22:22:55+0900,C - Rabbit Exercise,kotatsugame,0,WA
+2016-10-29 22:22:55+0900,B - Median Pyramid Easy,reitetsu,0,WA
+2016-10-29 22:22:54+0900,C - Rabbit Exercise,hasi,0,TLE
+2016-10-29 22:22:54+0900,B - Median Pyramid Easy,yuting,0,TLE
+2016-10-29 22:22:46+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 22:22:45+0900,D - Median Pyramid Hard,sugarrr,0,RE
+2016-10-29 22:22:38+0900,B - Median Pyramid Easy,lolzano,0,WA
+2016-10-29 22:22:37+0900,B - Median Pyramid Easy,amano,400,AC
+2016-10-29 22:22:20+0900,B - Median Pyramid Easy,yu3mars,0,CE
+2016-10-29 22:22:14+0900,B - Median Pyramid Easy,ACforgood,0,WA
+2016-10-29 22:22:05+0900,B - Median Pyramid Easy,arukuka,0,WA
+2016-10-29 22:21:47+0900,B - Median Pyramid Easy,Zako_G,0,TLE
+2016-10-29 22:21:43+0900,B - Median Pyramid Easy,SuprDewd,400,AC
+2016-10-29 22:21:41+0900,B - Median Pyramid Easy,nigus,0,WA
+2016-10-29 22:21:38+0900,A - Prefix and Suffix,kamo,0,WA
+2016-10-29 22:21:31+0900,B - Median Pyramid Easy,MichaelS,0,WA
+2016-10-29 22:21:22+0900,B - Median Pyramid Easy,momotaro1303,0,WA
+2016-10-29 22:21:16+0900,B - Median Pyramid Easy,frnfnts,0,WA
+2016-10-29 22:21:08+0900,B - Median Pyramid Easy,tomabou,0,WA
+2016-10-29 22:21:07+0900,C - Rabbit Exercise,femto16,0,TLE
+2016-10-29 22:21:06+0900,B - Median Pyramid Easy,sekiya9311,400,AC
+2016-10-29 22:21:04+0900,C - Rabbit Exercise,mHuman,0,WA
+2016-10-29 22:21:02+0900,B - Median Pyramid Easy,gantheory,0,RE
+2016-10-29 22:20:51+0900,B - Median Pyramid Easy,amano,0,WA
+2016-10-29 22:20:48+0900,C - Rabbit Exercise,bidzilya,0,RE
+2016-10-29 22:20:45+0900,C - Rabbit Exercise,junioragd,0,WA
+2016-10-29 22:20:36+0900,B - Median Pyramid Easy,ale3otik,0,WA
+2016-10-29 22:20:35+0900,B - Median Pyramid Easy,arukuka,0,WA
+2016-10-29 22:20:30+0900,B - Median Pyramid Easy,Zako_G,0,TLE
+2016-10-29 22:20:28+0900,A - Prefix and Suffix,toshi0507,200,AC
+2016-10-29 22:20:26+0900,D - Median Pyramid Hard,sugarrr,0,RE
+2016-10-29 22:20:22+0900,E - Rotate 3x3,Rafbill,0,WA
+2016-10-29 22:20:17+0900,B - Median Pyramid Easy,frnfnts,0,WA
+2016-10-29 22:20:11+0900,B - Median Pyramid Easy,autumn_eel,0,WA
+2016-10-29 22:20:10+0900,A - Prefix and Suffix,bigname,0,WA
+2016-10-29 22:20:10+0900,C - Rabbit Exercise,Nurbakhyt,0,TLE
+2016-10-29 22:20:08+0900,B - Median Pyramid Easy,ixmel_rd,0,WA
+2016-10-29 22:20:08+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 22:20:07+0900,A - Prefix and Suffix,s5412039,0,WA
+2016-10-29 22:20:07+0900,A - Prefix and Suffix,anidas,0,WA
+2016-10-29 22:20:07+0900,B - Median Pyramid Easy,M_Saito,0,TLE
+2016-10-29 22:20:01+0900,A - Prefix and Suffix,gacktomo,200,AC
+2016-10-29 22:20:00+0900,D - Median Pyramid Hard,komendart,0,WA
+2016-10-29 22:19:59+0900,C - Rabbit Exercise,sumoooru,0,WA
+2016-10-29 22:19:58+0900,B - Median Pyramid Easy,tokumini,0,WA
+2016-10-29 22:19:51+0900,C - Rabbit Exercise,phyllo,0,WA
+2016-10-29 22:19:51+0900,B - Median Pyramid Easy,Paladin,400,AC
+2016-10-29 22:19:48+0900,A - Prefix and Suffix,Mngshmok,200,AC
+2016-10-29 22:19:45+0900,C - Rabbit Exercise,mHuman,0,WA
+2016-10-29 22:19:45+0900,C - Rabbit Exercise,shi2chuan1,0,TLE
+2016-10-29 22:19:42+0900,B - Median Pyramid Easy,nigus,0,WA
+2016-10-29 22:19:36+0900,A - Prefix and Suffix,jack,0,WA
+2016-10-29 22:19:31+0900,C - Rabbit Exercise,treeone,0,WA
+2016-10-29 22:19:31+0900,D - Median Pyramid Hard,TryMyEdge,0,WA
+2016-10-29 22:19:29+0900,B - Median Pyramid Easy,shirokumight,0,WA
+2016-10-29 22:19:25+0900,E - Rotate 3x3,sigma425,1500,AC
+2016-10-29 22:19:24+0900,B - Median Pyramid Easy,tossy,400,AC
+2016-10-29 22:19:23+0900,A - Prefix and Suffix,semaPhoretic,0,WA
+2016-10-29 22:19:19+0900,C - Rabbit Exercise,bidzilya,0,RE
+2016-10-29 22:19:17+0900,B - Median Pyramid Easy,ZxFkcjgN,0,WA
+2016-10-29 22:19:17+0900,B - Median Pyramid Easy,apolopt,400,AC
+2016-10-29 22:19:02+0900,B - Median Pyramid Easy,ZxFkcjgN,0,CE
+2016-10-29 22:19:01+0900,D - Median Pyramid Hard,math,0,WA
+2016-10-29 22:18:59+0900,D - Median Pyramid Hard,Huziwara,1300,AC
+2016-10-29 22:18:58+0900,B - Median Pyramid Easy,suzume,0,WA
+2016-10-29 22:18:49+0900,C - Rabbit Exercise,Sumeet_Varma,0,TLE
+2016-10-29 22:18:47+0900,C - Rabbit Exercise,seiyab,0,WA
+2016-10-29 22:18:45+0900,D - Median Pyramid Hard,unsre,0,TLE
+2016-10-29 22:18:43+0900,B - Median Pyramid Easy,ixmel_rd,0,WA
+2016-10-29 22:18:39+0900,B - Median Pyramid Easy,angel_p_57,400,AC
+2016-10-29 22:18:34+0900,B - Median Pyramid Easy,sekiya9311,0,WA
+2016-10-29 22:18:33+0900,A - Prefix and Suffix,Sumeet_Varma,0,RE
+2016-10-29 22:18:32+0900,D - Median Pyramid Hard,anta,1300,AC
+2016-10-29 22:18:28+0900,B - Median Pyramid Easy,ixmel_rd,0,WA
+2016-10-29 22:18:22+0900,B - Median Pyramid Easy,arukuka,0,WA
+2016-10-29 22:18:22+0900,B - Median Pyramid Easy,kurenai3110,400,AC
+2016-10-29 22:18:07+0900,A - Prefix and Suffix,jojojoe77,200,AC
+2016-10-29 22:17:56+0900,D - Median Pyramid Hard,liuweiming1997,0,WA
+2016-10-29 22:17:55+0900,C - Rabbit Exercise,yash_mittal,0,WA
+2016-10-29 22:17:53+0900,A - Prefix and Suffix,gacktomo,0,WA
+2016-10-29 22:17:47+0900,E - Rotate 3x3,Rafbill,0,WA
+2016-10-29 22:17:45+0900,B - Median Pyramid Easy,ixmel_rd,0,WA
+2016-10-29 22:17:43+0900,D - Median Pyramid Hard,zscoder,0,WA
+2016-10-29 22:17:41+0900,B - Median Pyramid Easy,Zako_G,0,TLE
+2016-10-29 22:17:37+0900,B - Median Pyramid Easy,npz35,0,WA
+2016-10-29 22:17:32+0900,B - Median Pyramid Easy,ZxFkcjgN,0,WA
+2016-10-29 22:17:32+0900,A - Prefix and Suffix,antr0x,0,WA
+2016-10-29 22:17:32+0900,B - Median Pyramid Easy,chintu,400,AC
+2016-10-29 22:17:31+0900,E - Rotate 3x3,JKJeong,0,WA
+2016-10-29 22:17:26+0900,B - Median Pyramid Easy,cstdlib,0,WA
+2016-10-29 22:17:26+0900,E - Rotate 3x3,apiad,1500,AC
+2016-10-29 22:17:24+0900,A - Prefix and Suffix,Zako_G,0,RE
+2016-10-29 22:17:23+0900,B - Median Pyramid Easy,yukidaruma6,0,WA
+2016-10-29 22:17:19+0900,B - Median Pyramid Easy,tokumini,0,WA
+2016-10-29 22:17:17+0900,A - Prefix and Suffix,yash_mittal,0,WA
+2016-10-29 22:17:13+0900,B - Median Pyramid Easy,fmhr,0,WA
+2016-10-29 22:17:13+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 22:17:10+0900,B - Median Pyramid Easy,icchyr,0,WA
+2016-10-29 22:17:01+0900,C - Rabbit Exercise,ixmel_rd,0,WA
+2016-10-29 22:17:00+0900,B - Median Pyramid Easy,oos1111,0,WA
+2016-10-29 22:16:59+0900,A - Prefix and Suffix,isshtt,200,AC
+2016-10-29 22:16:36+0900,C - Rabbit Exercise,kmjp,800,AC
+2016-10-29 22:16:35+0900,B - Median Pyramid Easy,misty1999,400,AC
+2016-10-29 22:16:23+0900,A - Prefix and Suffix,mormimo0126,0,WA
+2016-10-29 22:16:22+0900,A - Prefix and Suffix,Zako_G,0,RE
+2016-10-29 22:16:18+0900,A - Prefix and Suffix,perfectcamel,200,AC
+2016-10-29 22:16:13+0900,B - Median Pyramid Easy,ACforgood,0,WA
+2016-10-29 22:16:08+0900,D - Median Pyramid Hard,ducktail,0,TLE
+2016-10-29 22:16:07+0900,C - Rabbit Exercise,ania,0,WA
+2016-10-29 22:16:05+0900,B - Median Pyramid Easy,tokumini,0,WA
+2016-10-29 22:16:02+0900,F - Blackout,atetubou,0,WA
+2016-10-29 22:16:01+0900,B - Median Pyramid Easy,t1234,0,WA
+2016-10-29 22:15:56+0900,B - Median Pyramid Easy,harshit_27,0,WA
+2016-10-29 22:15:53+0900,C - Rabbit Exercise,hamadu,0,WA
+2016-10-29 22:15:51+0900,D - Median Pyramid Hard,k_ashiya,0,WA
+2016-10-29 22:15:50+0900,B - Median Pyramid Easy,nitumeta339,0,WA
+2016-10-29 22:15:49+0900,C - Rabbit Exercise,ikatanic,0,TLE
+2016-10-29 22:15:45+0900,B - Median Pyramid Easy,alex_bucevschi,0,WA
+2016-10-29 22:15:41+0900,D - Median Pyramid Hard,tomiscript,0,TLE
+2016-10-29 22:15:39+0900,B - Median Pyramid Easy,lovemma,0,WA
+2016-10-29 22:15:28+0900,B - Median Pyramid Easy,Gobi,0,WA
+2016-10-29 22:15:24+0900,B - Median Pyramid Easy,oos1111,0,WA
+2016-10-29 22:15:23+0900,B - Median Pyramid Easy,cstdlib,0,WA
+2016-10-29 22:15:17+0900,A - Prefix and Suffix,harry_potter_28,0,WA
+2016-10-29 22:15:17+0900,B - Median Pyramid Easy,alex_bucevschi,0,RE
+2016-10-29 22:15:08+0900,B - Median Pyramid Easy,npz35,0,WA
+2016-10-29 22:15:04+0900,A - Prefix and Suffix,cstdlib,0,WA
+2016-10-29 22:15:03+0900,A - Prefix and Suffix,je6bmq,0,WA
+2016-10-29 22:14:59+0900,D - Median Pyramid Hard,TakiAugust,0,TLE
+2016-10-29 22:14:59+0900,D - Median Pyramid Hard,dreamoon,1300,AC
+2016-10-29 22:14:56+0900,B - Median Pyramid Easy,nigus,0,WA
+2016-10-29 22:14:48+0900,B - Median Pyramid Easy,icchyr,0,WA
+2016-10-29 22:14:42+0900,B - Median Pyramid Easy,hoxosh,400,AC
+2016-10-29 22:14:42+0900,B - Median Pyramid Easy,p4869,0,WA
+2016-10-29 22:14:13+0900,B - Median Pyramid Easy,yukidaruma6,0,WA
+2016-10-29 22:14:11+0900,B - Median Pyramid Easy,tokumini,0,CE
+2016-10-29 22:14:08+0900,D - Median Pyramid Hard,roto_37,0,TLE
+2016-10-29 22:14:00+0900,D - Median Pyramid Hard,kuuso,0,TLE
+2016-10-29 22:13:46+0900,D - Median Pyramid Hard,eukaryo,0,TLE
+2016-10-29 22:13:28+0900,A - Prefix and Suffix,kamo,0,WA
+2016-10-29 22:13:28+0900,B - Median Pyramid Easy,grandmaster208,0,WA
+2016-10-29 22:13:28+0900,A - Prefix and Suffix,Linus,200,AC
+2016-10-29 22:13:22+0900,B - Median Pyramid Easy,hhelibex,0,WA
+2016-10-29 22:13:18+0900,B - Median Pyramid Easy,tankblood,0,WA
+2016-10-29 22:13:15+0900,C - Rabbit Exercise,kenkoooo,0,WA
+2016-10-29 22:13:11+0900,D - Median Pyramid Hard,sugarrr,0,RE
+2016-10-29 22:13:11+0900,A - Prefix and Suffix,material,200,AC
+2016-10-29 22:13:10+0900,B - Median Pyramid Easy,conf,0,WA
+2016-10-29 22:13:10+0900,A - Prefix and Suffix,TakiAugust,0,WA
+2016-10-29 22:13:06+0900,B - Median Pyramid Easy,natsuki_subaru,400,AC
+2016-10-29 22:13:04+0900,B - Median Pyramid Easy,gantheory,0,WA
+2016-10-29 22:13:01+0900,B - Median Pyramid Easy,Zako_G,0,WA
+2016-10-29 22:12:58+0900,B - Median Pyramid Easy,minaminao,0,WA
+2016-10-29 22:12:56+0900,D - Median Pyramid Hard,a2stnk,0,TLE
+2016-10-29 22:12:55+0900,B - Median Pyramid Easy,codeador,400,AC
+2016-10-29 22:12:31+0900,B - Median Pyramid Easy,tankblood,0,CE
+2016-10-29 22:12:27+0900,D - Median Pyramid Hard,riadwaw,1300,AC
+2016-10-29 22:12:26+0900,B - Median Pyramid Easy,reitetsu,0,WA
+2016-10-29 22:12:21+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 22:12:21+0900,B - Median Pyramid Easy,peradfn1126,400,AC
+2016-10-29 22:12:20+0900,A - Prefix and Suffix,je6bmq,0,WA
+2016-10-29 22:12:20+0900,E - Rotate 3x3,yutaka1999,0,WA
+2016-10-29 22:12:18+0900,B - Median Pyramid Easy,triplem5ds,0,WA
+2016-10-29 22:12:18+0900,B - Median Pyramid Easy,arukuka,0,WA
+2016-10-29 22:12:17+0900,C - Rabbit Exercise,yanagi3150,0,WA
+2016-10-29 22:12:13+0900,B - Median Pyramid Easy,QianDonglin,0,WA
+2016-10-29 22:12:10+0900,B - Median Pyramid Easy,suzume,0,WA
+2016-10-29 22:12:08+0900,A - Prefix and Suffix,Linus,0,WA
+2016-10-29 22:12:08+0900,B - Median Pyramid Easy,ZxFkcjgN,0,WA
+2016-10-29 22:12:02+0900,B - Median Pyramid Easy,minaminao,0,WA
+2016-10-29 22:11:52+0900,B - Median Pyramid Easy,astro_lion,400,AC
+2016-10-29 22:11:43+0900,B - Median Pyramid Easy,ACforgood,0,WA
+2016-10-29 22:11:41+0900,B - Median Pyramid Easy,cherry7kurai24,400,AC
+2016-10-29 22:11:40+0900,B - Median Pyramid Easy,raven38,0,WA
+2016-10-29 22:11:39+0900,A - Prefix and Suffix,shadervio,0,WA
+2016-10-29 22:11:38+0900,B - Median Pyramid Easy,tankblood,0,WA
+2016-10-29 22:11:37+0900,B - Median Pyramid Easy,NSTomoS,0,WA
+2016-10-29 22:11:37+0900,C - Rabbit Exercise,melnyk,0,WA
+2016-10-29 22:11:35+0900,C - Rabbit Exercise,sumoooru,0,TLE
+2016-10-29 22:11:34+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 22:11:32+0900,B - Median Pyramid Easy,spk,400,AC
+2016-10-29 22:11:29+0900,C - Rabbit Exercise,kotatsugame,0,WA
+2016-10-29 22:11:26+0900,E - Rotate 3x3,abyssmall,1500,AC
+2016-10-29 22:11:23+0900,D - Median Pyramid Hard,mmaxio,1300,AC
+2016-10-29 22:11:22+0900,B - Median Pyramid Easy,mohamadkar,400,AC
+2016-10-29 22:11:19+0900,A - Prefix and Suffix,fripSide,200,AC
+2016-10-29 22:11:17+0900,B - Median Pyramid Easy,kotamanegi,400,AC
+2016-10-29 22:11:12+0900,C - Rabbit Exercise,kenkoooo,0,WA
+2016-10-29 22:11:12+0900,B - Median Pyramid Easy,tata,0,WA
+2016-10-29 22:11:11+0900,C - Rabbit Exercise,bdgaqh1889,0,RE
+2016-10-29 22:11:10+0900,C - Rabbit Exercise,jcvb,800,AC
+2016-10-29 22:11:06+0900,C - Rabbit Exercise,ek_ss,0,TLE
+2016-10-29 22:10:58+0900,A - Prefix and Suffix,nishitsume,200,AC
+2016-10-29 22:10:57+0900,E - Rotate 3x3,gktni,0,WA
+2016-10-29 22:10:51+0900,B - Median Pyramid Easy,hikkyprogramming,0,WA
+2016-10-29 22:10:45+0900,B - Median Pyramid Easy,overnite81,400,AC
+2016-10-29 22:10:36+0900,B - Median Pyramid Easy,lolzano,0,WA
+2016-10-29 22:10:31+0900,B - Median Pyramid Easy,Sryo7809,0,WA
+2016-10-29 22:10:30+0900,C - Rabbit Exercise,CoDeRoK,0,WA
+2016-10-29 22:10:19+0900,B - Median Pyramid Easy,yu3mars,0,WA
+2016-10-29 22:10:11+0900,C - Rabbit Exercise,bidzilya,0,TLE
+2016-10-29 22:10:07+0900,C - Rabbit Exercise,Sumeet_Varma,0,WA
+2016-10-29 22:10:02+0900,A - Prefix and Suffix,Toosimple,200,AC
+2016-10-29 22:10:00+0900,B - Median Pyramid Easy,namelessmonster,0,WA
+2016-10-29 22:09:59+0900,B - Median Pyramid Easy,MichaelS,0,TLE
+2016-10-29 22:09:56+0900,A - Prefix and Suffix,slowrunner,0,WA
+2016-10-29 22:09:56+0900,B - Median Pyramid Easy,L3Sota,0,WA
+2016-10-29 22:09:55+0900,A - Prefix and Suffix,moin_goveri,200,AC
+2016-10-29 22:09:55+0900,C - Rabbit Exercise,shdut,0,WA
+2016-10-29 22:09:53+0900,B - Median Pyramid Easy,astro_lion,0,WA
+2016-10-29 22:09:49+0900,C - Rabbit Exercise,uwi,800,AC
+2016-10-29 22:09:48+0900,C - Rabbit Exercise,pwild,800,AC
+2016-10-29 22:09:47+0900,B - Median Pyramid Easy,peradfn1126,0,WA
+2016-10-29 22:09:44+0900,A - Prefix and Suffix,shadervio,0,WA
+2016-10-29 22:09:42+0900,B - Median Pyramid Easy,tokumini,0,WA
+2016-10-29 22:09:40+0900,B - Median Pyramid Easy,yuting,0,TLE
+2016-10-29 22:09:32+0900,C - Rabbit Exercise,Robin_Jadoul,0,TLE
+2016-10-29 22:09:31+0900,C - Rabbit Exercise,ikatanic,0,TLE
+2016-10-29 22:09:19+0900,B - Median Pyramid Easy,AreTrash,400,AC
+2016-10-29 22:09:18+0900,A - Prefix and Suffix,moin_goveri,0,CE
+2016-10-29 22:09:18+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 22:09:17+0900,B - Median Pyramid Easy,Pulmn,400,AC
+2016-10-29 22:09:17+0900,D - Median Pyramid Hard,sandeepveethu,0,WA
+2016-10-29 22:09:14+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 22:09:06+0900,A - Prefix and Suffix,KY_shi_o,200,AC
+2016-10-29 22:08:57+0900,D - Median Pyramid Hard,dream_tenda,0,TLE
+2016-10-29 22:08:56+0900,B - Median Pyramid Easy,walkre,400,AC
+2016-10-29 22:08:55+0900,D - Median Pyramid Hard,sugarrr,0,RE
+2016-10-29 22:08:53+0900,C - Rabbit Exercise,Elshiko,0,WA
+2016-10-29 22:08:52+0900,B - Median Pyramid Easy,grandmaster208,0,WA
+2016-10-29 22:08:48+0900,B - Median Pyramid Easy,AndreiNet,400,AC
+2016-10-29 22:08:33+0900,B - Median Pyramid Easy,toxzi,400,AC
+2016-10-29 22:08:32+0900,B - Median Pyramid Easy,spk,0,WA
+2016-10-29 22:08:26+0900,B - Median Pyramid Easy,lrmystp,0,WA
+2016-10-29 22:08:23+0900,A - Prefix and Suffix,woodcoding,200,AC
+2016-10-29 22:08:22+0900,B - Median Pyramid Easy,tankblood,0,WA
+2016-10-29 22:08:18+0900,B - Median Pyramid Easy,nokonoko,0,WA
+2016-10-29 22:08:15+0900,D - Median Pyramid Hard,AcrossTheSky,1300,AC
+2016-10-29 22:08:14+0900,B - Median Pyramid Easy,gantheory,0,WA
+2016-10-29 22:08:06+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 22:08:02+0900,A - Prefix and Suffix,kamo,0,WA
+2016-10-29 22:07:45+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 22:07:44+0900,B - Median Pyramid Easy,tata,0,WA
+2016-10-29 22:07:42+0900,B - Median Pyramid Easy,suzume,0,WA
+2016-10-29 22:07:21+0900,C - Rabbit Exercise,harmokey,0,WA
+2016-10-29 22:07:19+0900,B - Median Pyramid Easy,commy,0,WA
+2016-10-29 22:07:19+0900,C - Rabbit Exercise,junioragd,0,WA
+2016-10-29 22:07:17+0900,B - Median Pyramid Easy,yu3mars,0,WA
+2016-10-29 22:07:17+0900,B - Median Pyramid Easy,ishowta,400,AC
+2016-10-29 22:07:14+0900,A - Prefix and Suffix,kotobuki,200,AC
+2016-10-29 22:07:03+0900,B - Median Pyramid Easy,Pulmn,0,WA
+2016-10-29 22:07:00+0900,A - Prefix and Suffix,kay,0,WA
+2016-10-29 22:06:56+0900,B - Median Pyramid Easy,minaminao,0,WA
+2016-10-29 22:06:55+0900,B - Median Pyramid Easy,cstdlib,0,WA
+2016-10-29 22:06:53+0900,C - Rabbit Exercise,treeone,0,WA
+2016-10-29 22:06:53+0900,A - Prefix and Suffix,chintu,0,WA
+2016-10-29 22:06:41+0900,B - Median Pyramid Easy,sujin2010,400,AC
+2016-10-29 22:06:37+0900,A - Prefix and Suffix,hecatier,0,WA
+2016-10-29 22:06:32+0900,A - Prefix and Suffix,satashun,200,AC
+2016-10-29 22:06:26+0900,A - Prefix and Suffix,hans6626,200,AC
+2016-10-29 22:06:17+0900,C - Rabbit Exercise,harmokey,0,CE
+2016-10-29 22:06:15+0900,B - Median Pyramid Easy,kubusgol,400,AC
+2016-10-29 22:06:13+0900,A - Prefix and Suffix,slowrunner,0,WA
+2016-10-29 22:06:12+0900,C - Rabbit Exercise,uwi,0,WA
+2016-10-29 22:06:10+0900,B - Median Pyramid Easy,lucky3977,0,WA
+2016-10-29 22:06:08+0900,B - Median Pyramid Easy,yashkumar18,400,AC
+2016-10-29 22:06:06+0900,D - Median Pyramid Hard,WuHongxun,1300,AC
+2016-10-29 22:06:04+0900,B - Median Pyramid Easy,sandeepveethu,400,AC
+2016-10-29 22:06:03+0900,B - Median Pyramid Easy,mkjiro,400,AC
+2016-10-29 22:06:03+0900,D - Median Pyramid Hard,k_ashiya,0,TLE
+2016-10-29 22:06:01+0900,B - Median Pyramid Easy,conf,0,WA
+2016-10-29 22:06:00+0900,B - Median Pyramid Easy,toxzi,0,WA
+2016-10-29 22:06:00+0900,B - Median Pyramid Easy,cherry7kurai24,0,WA
+2016-10-29 22:05:57+0900,B - Median Pyramid Easy,damekamo,0,WA
+2016-10-29 22:05:53+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 22:05:49+0900,C - Rabbit Exercise,Robin_Jadoul,0,RE
+2016-10-29 22:05:41+0900,B - Median Pyramid Easy,alex_world,400,AC
+2016-10-29 22:05:40+0900,C - Rabbit Exercise,kaz49bz,0,RE
+2016-10-29 22:05:28+0900,A - Prefix and Suffix,peiyu,200,AC
+2016-10-29 22:05:22+0900,B - Median Pyramid Easy,reality,400,AC
+2016-10-29 22:05:18+0900,B - Median Pyramid Easy,Nurbakhyt,400,AC
+2016-10-29 22:05:18+0900,B - Median Pyramid Easy,liuweiming1997,400,AC
+2016-10-29 22:05:15+0900,A - Prefix and Suffix,blue9,200,AC
+2016-10-29 22:05:14+0900,B - Median Pyramid Easy,ion,400,AC
+2016-10-29 22:05:08+0900,D - Median Pyramid Hard,tokabe333,0,TLE
+2016-10-29 22:05:04+0900,B - Median Pyramid Easy,suiyuan2009,400,AC
+2016-10-29 22:05:04+0900,C - Rabbit Exercise,bigelephant29,0,TLE
+2016-10-29 22:05:01+0900,C - Rabbit Exercise,SYury,0,WA
+2016-10-29 22:05:00+0900,B - Median Pyramid Easy,alex_bucevschi,0,WA
+2016-10-29 22:04:57+0900,B - Median Pyramid Easy,nueve,0,WA
+2016-10-29 22:04:52+0900,B - Median Pyramid Easy,abcdef6199,400,AC
+2016-10-29 22:04:51+0900,C - Rabbit Exercise,ikatanic,0,TLE
+2016-10-29 22:04:49+0900,A - Prefix and Suffix,nutorbit,0,WA
+2016-10-29 22:04:46+0900,A - Prefix and Suffix,tencha,0,WA
+2016-10-29 22:04:43+0900,B - Median Pyramid Easy,peradfn1126,0,WA
+2016-10-29 22:04:39+0900,C - Rabbit Exercise,eha,800,AC
+2016-10-29 22:04:38+0900,B - Median Pyramid Easy,kbu1564,0,WA
+2016-10-29 22:04:37+0900,B - Median Pyramid Easy,sandeepveethu,0,RE
+2016-10-29 22:04:34+0900,E - Rotate 3x3,aitch,1500,AC
+2016-10-29 22:04:33+0900,D - Median Pyramid Hard,WuHongxun,0,WA
+2016-10-29 22:04:32+0900,C - Rabbit Exercise,melnyk,0,TLE
+2016-10-29 22:04:31+0900,B - Median Pyramid Easy,yashkumar18,0,RE
+2016-10-29 22:04:26+0900,B - Median Pyramid Easy,alex_bucevschi,0,RE
+2016-10-29 22:04:24+0900,B - Median Pyramid Easy,tankblood,0,WA
+2016-10-29 22:04:10+0900,B - Median Pyramid Easy,amano,0,WA
+2016-10-29 22:04:09+0900,B - Median Pyramid Easy,kurenaif,400,AC
+2016-10-29 22:04:05+0900,D - Median Pyramid Hard,froghramar,0,WA
+2016-10-29 22:04:03+0900,A - Prefix and Suffix,alex_bucevschi,0,RE
+2016-10-29 22:04:02+0900,D - Median Pyramid Hard,satashun,1300,AC
+2016-10-29 22:03:58+0900,B - Median Pyramid Easy,shio,0,WA
+2016-10-29 22:03:50+0900,B - Median Pyramid Easy,ehot_rascal,0,WA
+2016-10-29 22:03:50+0900,B - Median Pyramid Easy,suzume,0,CE
+2016-10-29 22:03:44+0900,A - Prefix and Suffix,zonoise,200,AC
+2016-10-29 22:03:42+0900,B - Median Pyramid Easy,suiyuan2009,0,RE
+2016-10-29 22:03:39+0900,B - Median Pyramid Easy,nasa,400,AC
+2016-10-29 22:03:38+0900,B - Median Pyramid Easy,conf,0,WA
+2016-10-29 22:03:34+0900,B - Median Pyramid Easy,gigime,0,WA
+2016-10-29 22:03:26+0900,D - Median Pyramid Hard,roto_37,0,WA
+2016-10-29 22:03:23+0900,A - Prefix and Suffix,dAi00,200,AC
+2016-10-29 22:03:18+0900,B - Median Pyramid Easy,Pulmn,0,WA
+2016-10-29 22:03:18+0900,C - Rabbit Exercise,treeone,0,RE
+2016-10-29 22:03:17+0900,B - Median Pyramid Easy,tsuzu,400,AC
+2016-10-29 22:03:16+0900,B - Median Pyramid Easy,Yamatan,400,AC
+2016-10-29 22:03:16+0900,B - Median Pyramid Easy,ytsmiling,400,AC
+2016-10-29 22:03:12+0900,C - Rabbit Exercise,eha,0,WA
+2016-10-29 22:03:07+0900,B - Median Pyramid Easy,rucm,0,WA
+2016-10-29 22:03:02+0900,B - Median Pyramid Easy,kurenaif,0,WA
+2016-10-29 22:03:01+0900,C - Rabbit Exercise,ahmed1ossama13,0,WA
+2016-10-29 22:02:53+0900,B - Median Pyramid Easy,cocococoa,0,WA
+2016-10-29 22:02:53+0900,B - Median Pyramid Easy,Gobi,0,WA
+2016-10-29 22:02:51+0900,B - Median Pyramid Easy,lrmystp,0,WA
+2016-10-29 22:02:48+0900,B - Median Pyramid Easy,tarepan0622,0,WA
+2016-10-29 22:02:47+0900,C - Rabbit Exercise,johnchen902,0,WA
+2016-10-29 22:02:46+0900,B - Median Pyramid Easy,jbyxm,0,WA
+2016-10-29 22:02:44+0900,C - Rabbit Exercise,adamant,0,WA
+2016-10-29 22:02:43+0900,B - Median Pyramid Easy,mkjiro,0,WA
+2016-10-29 22:02:35+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 22:02:34+0900,B - Median Pyramid Easy,kawabys,400,AC
+2016-10-29 22:02:32+0900,B - Median Pyramid Easy,sitiya,0,WA
+2016-10-29 22:02:31+0900,A - Prefix and Suffix,tmtm_nanana,0,WA
+2016-10-29 22:02:29+0900,B - Median Pyramid Easy,roiti,400,AC
+2016-10-29 22:02:22+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 22:02:17+0900,A - Prefix and Suffix,histeria,200,AC
+2016-10-29 22:02:15+0900,B - Median Pyramid Easy,nasa,0,WA
+2016-10-29 22:02:11+0900,B - Median Pyramid Easy,yukidaruma6,0,WA
+2016-10-29 22:02:10+0900,B - Median Pyramid Easy,shio,0,WA
+2016-10-29 22:02:09+0900,E - Rotate 3x3,Lepton,0,WA
+2016-10-29 22:02:08+0900,B - Median Pyramid Easy,mgr0204,400,AC
+2016-10-29 22:02:04+0900,A - Prefix and Suffix,untan,200,AC
+2016-10-29 22:02:04+0900,C - Rabbit Exercise,ahmed1ossama13,0,CE
+2016-10-29 22:02:01+0900,B - Median Pyramid Easy,suigingin,400,AC
+2016-10-29 22:01:54+0900,A - Prefix and Suffix,noryy,200,AC
+2016-10-29 22:01:46+0900,B - Median Pyramid Easy,tashikani,400,AC
+2016-10-29 22:01:45+0900,D - Median Pyramid Hard,jiaqiyang,1300,AC
+2016-10-29 22:01:44+0900,C - Rabbit Exercise,geniucos,0,TLE
+2016-10-29 22:01:43+0900,C - Rabbit Exercise,sslotin,0,WA
+2016-10-29 22:01:43+0900,B - Median Pyramid Easy,sitiya,0,CE
+2016-10-29 22:01:40+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 22:01:34+0900,B - Median Pyramid Easy,alex_bucevschi,0,WA
+2016-10-29 22:01:34+0900,B - Median Pyramid Easy,lovemma,0,WA
+2016-10-29 22:01:34+0900,D - Median Pyramid Hard,endagorion,1300,AC
+2016-10-29 22:01:28+0900,C - Rabbit Exercise,yanagi3150,0,WA
+2016-10-29 22:01:21+0900,F - Blackout,hirosegolf,1700,AC
+2016-10-29 22:01:17+0900,A - Prefix and Suffix,fox0430,0,WA
+2016-10-29 22:01:11+0900,B - Median Pyramid Easy,grandmaster208,0,WA
+2016-10-29 22:01:09+0900,B - Median Pyramid Easy,cherry7kurai24,0,WA
+2016-10-29 22:00:58+0900,A - Prefix and Suffix,untan,0,WA
+2016-10-29 22:00:58+0900,B - Median Pyramid Easy,kubusgol,0,WA
+2016-10-29 22:00:53+0900,D - Median Pyramid Hard,tatt61880,0,WA
+2016-10-29 22:00:52+0900,B - Median Pyramid Easy,kawabys,0,WA
+2016-10-29 22:00:50+0900,B - Median Pyramid Easy,Naoki_M_,400,AC
+2016-10-29 22:00:45+0900,A - Prefix and Suffix,zonoise,0,WA
+2016-10-29 22:00:42+0900,B - Median Pyramid Easy,amano,0,WA
+2016-10-29 22:00:42+0900,A - Prefix and Suffix,alex_bucevschi,0,RE
+2016-10-29 22:00:41+0900,A - Prefix and Suffix,jack,0,WA
+2016-10-29 22:00:41+0900,B - Median Pyramid Easy,nasa,0,WA
+2016-10-29 22:00:40+0900,A - Prefix and Suffix,grandmaster208,0,WA
+2016-10-29 22:00:38+0900,A - Prefix and Suffix,hyx_mxr,200,AC
+2016-10-29 22:00:38+0900,B - Median Pyramid Easy,natsuki_subaru,0,WA
+2016-10-29 22:00:33+0900,B - Median Pyramid Easy,creatnx,400,AC
+2016-10-29 22:00:33+0900,C - Rabbit Exercise,adamant,0,WA
+2016-10-29 22:00:24+0900,B - Median Pyramid Easy,rapurasu,400,AC
+2016-10-29 22:00:19+0900,B - Median Pyramid Easy,LiChenKoh,0,WA
+2016-10-29 22:00:19+0900,D - Median Pyramid Hard,plasmaeffect,0,TLE
+2016-10-29 22:00:17+0900,B - Median Pyramid Easy,garnacha,0,WA
+2016-10-29 22:00:14+0900,B - Median Pyramid Easy,rucm,0,WA
+2016-10-29 22:00:14+0900,F - Blackout,yosupo,0,WA
+2016-10-29 22:00:02+0900,B - Median Pyramid Easy,hiyokko2,0,WA
+2016-10-29 22:00:01+0900,B - Median Pyramid Easy,tbhuu,400,AC
+2016-10-29 22:00:00+0900,A - Prefix and Suffix,zonoise,0,WA
+2016-10-29 21:59:58+0900,B - Median Pyramid Easy,yashkumar18,0,WA
+2016-10-29 21:59:54+0900,B - Median Pyramid Easy,palpal,0,WA
+2016-10-29 21:59:54+0900,B - Median Pyramid Easy,toxzi,0,WA
+2016-10-29 21:59:51+0900,B - Median Pyramid Easy,arukuka,0,WA
+2016-10-29 21:59:49+0900,B - Median Pyramid Easy,yut071,0,WA
+2016-10-29 21:59:42+0900,B - Median Pyramid Easy,M_Saito,0,WA
+2016-10-29 21:59:41+0900,B - Median Pyramid Easy,flag,0,WA
+2016-10-29 21:59:39+0900,B - Median Pyramid Easy,sujin2010,0,WA
+2016-10-29 21:59:37+0900,B - Median Pyramid Easy,Nekomimimi,400,AC
+2016-10-29 21:59:35+0900,E - Rotate 3x3,snuke,0,WA
+2016-10-29 21:59:31+0900,B - Median Pyramid Easy,ishowta,0,WA
+2016-10-29 21:59:25+0900,B - Median Pyramid Easy,poyodr,400,AC
+2016-10-29 21:59:24+0900,A - Prefix and Suffix,matsuneko22,0,WA
+2016-10-29 21:59:20+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 21:59:16+0900,B - Median Pyramid Easy,freeloop,400,AC
+2016-10-29 21:59:16+0900,C - Rabbit Exercise,zemen,0,WA
+2016-10-29 21:59:15+0900,B - Median Pyramid Easy,mino,400,AC
+2016-10-29 21:59:13+0900,B - Median Pyramid Easy,gantheory,0,WA
+2016-10-29 21:59:10+0900,D - Median Pyramid Hard,Arterm,1300,AC
+2016-10-29 21:59:09+0900,A - Prefix and Suffix,M_Saito,0,RE
+2016-10-29 21:59:02+0900,B - Median Pyramid Easy,QianDonglin,0,WA
+2016-10-29 21:59:02+0900,B - Median Pyramid Easy,angel_p_57,0,RE
+2016-10-29 21:58:59+0900,B - Median Pyramid Easy,plat,400,AC
+2016-10-29 21:58:58+0900,B - Median Pyramid Easy,cocococoa,0,WA
+2016-10-29 21:58:55+0900,A - Prefix and Suffix,ant2357,0,WA
+2016-10-29 21:58:55+0900,A - Prefix and Suffix,isshtt,0,RE
+2016-10-29 21:58:51+0900,B - Median Pyramid Easy,hirokazu1020,400,AC
+2016-10-29 21:58:49+0900,A - Prefix and Suffix,pandey11,0,WA
+2016-10-29 21:58:48+0900,A - Prefix and Suffix,noteton,200,AC
+2016-10-29 21:58:45+0900,B - Median Pyramid Easy,mscle11,400,AC
+2016-10-29 21:58:44+0900,A - Prefix and Suffix,material,0,WA
+2016-10-29 21:58:41+0900,A - Prefix and Suffix,fham,0,WA
+2016-10-29 21:58:40+0900,A - Prefix and Suffix,mormimo0126,0,WA
+2016-10-29 21:58:39+0900,B - Median Pyramid Easy,plat,0,WA
+2016-10-29 21:58:34+0900,B - Median Pyramid Easy,qq1771203081,0,WA
+2016-10-29 21:58:31+0900,B - Median Pyramid Easy,threepipes_s,400,AC
+2016-10-29 21:58:29+0900,B - Median Pyramid Easy,startcpp,400,AC
+2016-10-29 21:58:17+0900,B - Median Pyramid Easy,sshirayama,0,WA
+2016-10-29 21:58:15+0900,A - Prefix and Suffix,konataku,200,AC
+2016-10-29 21:58:14+0900,B - Median Pyramid Easy,suigingin,0,WA
+2016-10-29 21:58:09+0900,B - Median Pyramid Easy,garnacha,0,WA
+2016-10-29 21:58:06+0900,B - Median Pyramid Easy,tochukaso,0,WA
+2016-10-29 21:57:54+0900,B - Median Pyramid Easy,Zako_G,0,WA
+2016-10-29 21:57:53+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 21:57:53+0900,B - Median Pyramid Easy,p_km,400,AC
+2016-10-29 21:57:50+0900,B - Median Pyramid Easy,natsuki_subaru,0,WA
+2016-10-29 21:57:47+0900,B - Median Pyramid Easy,kubusgol,0,WA
+2016-10-29 21:57:45+0900,B - Median Pyramid Easy,ishowta,0,WA
+2016-10-29 21:57:44+0900,B - Median Pyramid Easy,nwin,400,AC
+2016-10-29 21:57:44+0900,B - Median Pyramid Easy,dened,400,AC
+2016-10-29 21:57:41+0900,C - Rabbit Exercise,cchao,0,WA
+2016-10-29 21:57:41+0900,B - Median Pyramid Easy,plat,0,WA
+2016-10-29 21:57:39+0900,A - Prefix and Suffix,kay,0,WA
+2016-10-29 21:57:22+0900,A - Prefix and Suffix,fp563,200,AC
+2016-10-29 21:57:20+0900,B - Median Pyramid Easy,lovemma,0,WA
+2016-10-29 21:57:20+0900,B - Median Pyramid Easy,liuweiming1997,0,WA
+2016-10-29 21:57:19+0900,D - Median Pyramid Hard,riadwaw,0,WA
+2016-10-29 21:57:16+0900,A - Prefix and Suffix,Sryo7809,200,AC
+2016-10-29 21:57:14+0900,A - Prefix and Suffix,jbyxm,200,AC
+2016-10-29 21:57:14+0900,B - Median Pyramid Easy,tashikani,0,WA
+2016-10-29 21:57:11+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 21:57:10+0900,B - Median Pyramid Easy,sujin2010,0,WA
+2016-10-29 21:57:08+0900,D - Median Pyramid Hard,ysakasin,0,WA
+2016-10-29 21:57:02+0900,B - Median Pyramid Easy,kurenaif,0,WA
+2016-10-29 21:56:58+0900,C - Rabbit Exercise,melnyk,0,WA
+2016-10-29 21:56:57+0900,B - Median Pyramid Easy,hirokazu1020,0,RE
+2016-10-29 21:56:53+0900,A - Prefix and Suffix,yasuyuky,200,AC
+2016-10-29 21:56:44+0900,D - Median Pyramid Hard,SriLankan,0,TLE
+2016-10-29 21:56:42+0900,A - Prefix and Suffix,kay,0,WA
+2016-10-29 21:56:41+0900,B - Median Pyramid Easy,motxx,0,WA
+2016-10-29 21:56:38+0900,B - Median Pyramid Easy,tbhuu,0,WA
+2016-10-29 21:56:38+0900,B - Median Pyramid Easy,QianDonglin,0,WA
+2016-10-29 21:56:37+0900,B - Median Pyramid Easy,mkjiro,0,WA
+2016-10-29 21:56:37+0900,A - Prefix and Suffix,yoda03,0,WA
+2016-10-29 21:56:36+0900,B - Median Pyramid Easy,dsytk7,0,WA
+2016-10-29 21:56:36+0900,B - Median Pyramid Easy,JKJeong,400,AC
+2016-10-29 21:56:32+0900,B - Median Pyramid Easy,startcpp,0,TLE
+2016-10-29 21:56:29+0900,B - Median Pyramid Easy,devilsanek1,0,WA
+2016-10-29 21:56:25+0900,B - Median Pyramid Easy,freestyler,400,AC
+2016-10-29 21:56:22+0900,F - Blackout,suzukim0702,0,TLE
+2016-10-29 21:56:19+0900,C - Rabbit Exercise,hamadu,0,WA
+2016-10-29 21:56:19+0900,B - Median Pyramid Easy,plat,0,WA
+2016-10-29 21:56:19+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 21:56:16+0900,B - Median Pyramid Easy,grandmaster208,0,WA
+2016-10-29 21:56:16+0900,B - Median Pyramid Easy,yukidaruma6,0,WA
+2016-10-29 21:56:16+0900,D - Median Pyramid Hard,koosaga,0,WA
+2016-10-29 21:56:13+0900,A - Prefix and Suffix,tencha,0,WA
+2016-10-29 21:56:12+0900,B - Median Pyramid Easy,kuuso,400,AC
+2016-10-29 21:56:09+0900,D - Median Pyramid Hard,mmxsrup,0,WA
+2016-10-29 21:56:07+0900,B - Median Pyramid Easy,ixmel_rd,0,WA
+2016-10-29 21:56:03+0900,B - Median Pyramid Easy,Akim,400,AC
+2016-10-29 21:55:59+0900,B - Median Pyramid Easy,xuanquang1999,400,AC
+2016-10-29 21:55:53+0900,B - Median Pyramid Easy,ZxFkcjgN,0,WA
+2016-10-29 21:55:53+0900,B - Median Pyramid Easy,jtnydv25,400,AC
+2016-10-29 21:55:47+0900,B - Median Pyramid Easy,IDrandom,400,AC
+2016-10-29 21:55:46+0900,B - Median Pyramid Easy,cocococoa,0,WA
+2016-10-29 21:55:45+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 21:55:32+0900,B - Median Pyramid Easy,barun511,0,WA
+2016-10-29 21:55:24+0900,B - Median Pyramid Easy,nigus,0,WA
+2016-10-29 21:55:23+0900,C - Rabbit Exercise,Vax,0,TLE
+2016-10-29 21:55:19+0900,C - Rabbit Exercise,kenkoooo,0,WA
+2016-10-29 21:55:18+0900,B - Median Pyramid Easy,grandmaster208,0,CE
+2016-10-29 21:55:15+0900,C - Rabbit Exercise,angel_p_57,0,TLE
+2016-10-29 21:55:13+0900,B - Median Pyramid Easy,cider,0,WA
+2016-10-29 21:55:11+0900,B - Median Pyramid Easy,ejq,400,AC
+2016-10-29 21:55:09+0900,B - Median Pyramid Easy,sean617,400,AC
+2016-10-29 21:55:01+0900,B - Median Pyramid Easy,kosakkun,400,AC
+2016-10-29 21:54:58+0900,B - Median Pyramid Easy,ei13333,400,AC
+2016-10-29 21:54:57+0900,A - Prefix and Suffix,jack,0,WA
+2016-10-29 21:54:50+0900,A - Prefix and Suffix,flamee,200,AC
+2016-10-29 21:54:50+0900,B - Median Pyramid Easy,JKJeong,0,WA
+2016-10-29 21:54:50+0900,B - Median Pyramid Easy,dhruvsrivastava,0,WA
+2016-10-29 21:54:48+0900,B - Median Pyramid Easy,tokumini,0,WA
+2016-10-29 21:54:47+0900,C - Rabbit Exercise,ikatanic,0,TLE
+2016-10-29 21:54:46+0900,B - Median Pyramid Easy,ikbal,400,AC
+2016-10-29 21:54:45+0900,B - Median Pyramid Easy,exqt,400,AC
+2016-10-29 21:54:45+0900,B - Median Pyramid Easy,abeker,400,AC
+2016-10-29 21:54:42+0900,B - Median Pyramid Easy,Kampachi,400,AC
+2016-10-29 21:54:38+0900,B - Median Pyramid Easy,sorao,400,AC
+2016-10-29 21:54:33+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 21:54:32+0900,B - Median Pyramid Easy,xuanquang1999,0,WA
+2016-10-29 21:54:32+0900,D - Median Pyramid Hard,hiuchida,0,TLE
+2016-10-29 21:54:30+0900,B - Median Pyramid Easy,hey,400,AC
+2016-10-29 21:54:30+0900,A - Prefix and Suffix,croissant,0,WA
+2016-10-29 21:54:30+0900,B - Median Pyramid Easy,QianDonglin,0,WA
+2016-10-29 21:54:29+0900,D - Median Pyramid Hard,coffeeapple,0,TLE
+2016-10-29 21:54:21+0900,A - Prefix and Suffix,Teppay,200,AC
+2016-10-29 21:54:20+0900,E - Rotate 3x3,aitch,0,WA
+2016-10-29 21:54:19+0900,B - Median Pyramid Easy,torus711,400,AC
+2016-10-29 21:54:18+0900,A - Prefix and Suffix,baranov,200,AC
+2016-10-29 21:54:13+0900,B - Median Pyramid Easy,kawabys,0,WA
+2016-10-29 21:54:12+0900,B - Median Pyramid Easy,asi1024,400,AC
+2016-10-29 21:54:09+0900,A - Prefix and Suffix,pppiyo,200,AC
+2016-10-29 21:54:07+0900,C - Rabbit Exercise,kenkoooo,0,TLE
+2016-10-29 21:54:06+0900,B - Median Pyramid Easy,abcdef6199,0,WA
+2016-10-29 21:53:59+0900,B - Median Pyramid Easy,nigus,0,WA
+2016-10-29 21:53:59+0900,B - Median Pyramid Easy,roiti,0,WA
+2016-10-29 21:53:55+0900,D - Median Pyramid Hard,SanSiroWaltz,1300,AC
+2016-10-29 21:53:54+0900,B - Median Pyramid Easy,devilsanek1,0,WA
+2016-10-29 21:53:51+0900,B - Median Pyramid Easy,Akim,0,WA
+2016-10-29 21:53:47+0900,B - Median Pyramid Easy,snowfoxy,0,WA
+2016-10-29 21:53:47+0900,C - Rabbit Exercise,anta,800,AC
+2016-10-29 21:53:46+0900,B - Median Pyramid Easy,cider,0,CE
+2016-10-29 21:53:40+0900,B - Median Pyramid Easy,JKJeong,0,RE
+2016-10-29 21:53:36+0900,A - Prefix and Suffix,feng,0,WA
+2016-10-29 21:53:34+0900,C - Rabbit Exercise,melnyk,0,WA
+2016-10-29 21:53:32+0900,B - Median Pyramid Easy,kawabys,0,WA
+2016-10-29 21:53:31+0900,B - Median Pyramid Easy,piyohook,0,WA
+2016-10-29 21:53:26+0900,A - Prefix and Suffix,tencha,0,WA
+2016-10-29 21:53:26+0900,B - Median Pyramid Easy,ryogo108,400,AC
+2016-10-29 21:53:26+0900,B - Median Pyramid Easy,koolboy,400,AC
+2016-10-29 21:53:24+0900,B - Median Pyramid Easy,satanic0258,400,AC
+2016-10-29 21:53:21+0900,B - Median Pyramid Easy,torus711,0,WA
+2016-10-29 21:53:18+0900,B - Median Pyramid Easy,ikbal,0,WA
+2016-10-29 21:53:15+0900,B - Median Pyramid Easy,kosakkun,0,WA
+2016-10-29 21:53:15+0900,E - Rotate 3x3,Lepton,0,WA
+2016-10-29 21:53:14+0900,C - Rabbit Exercise,Kaban5,800,AC
+2016-10-29 21:53:09+0900,A - Prefix and Suffix,tsukamasa,0,WA
+2016-10-29 21:53:08+0900,B - Median Pyramid Easy,deoxy,400,AC
+2016-10-29 21:53:06+0900,B - Median Pyramid Easy,cherry7kurai24,0,WA
+2016-10-29 21:53:04+0900,A - Prefix and Suffix,dhruvsrivastava,0,RE
+2016-10-29 21:52:59+0900,B - Median Pyramid Easy,anuraganand,400,AC
+2016-10-29 21:52:57+0900,B - Median Pyramid Easy,sorao,0,WA
+2016-10-29 21:52:50+0900,C - Rabbit Exercise,kenkoooo,0,WA
+2016-10-29 21:52:50+0900,C - Rabbit Exercise,LiChenKoh,0,TLE
+2016-10-29 21:52:49+0900,B - Median Pyramid Easy,xuanquang1999,0,WA
+2016-10-29 21:52:48+0900,D - Median Pyramid Hard,maroonrk,1300,AC
+2016-10-29 21:52:47+0900,B - Median Pyramid Easy,x20,400,AC
+2016-10-29 21:52:45+0900,D - Median Pyramid Hard,satashun,0,WA
+2016-10-29 21:52:41+0900,B - Median Pyramid Easy,chaemon,400,AC
+2016-10-29 21:52:38+0900,C - Rabbit Exercise,narit,0,TLE
+2016-10-29 21:52:32+0900,B - Median Pyramid Easy,ania,400,AC
+2016-10-29 21:52:28+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 21:52:28+0900,B - Median Pyramid Easy,hanada3355,0,WA
+2016-10-29 21:52:27+0900,C - Rabbit Exercise,mao,0,WA
+2016-10-29 21:52:24+0900,B - Median Pyramid Easy,AreTrash,400,AC
+2016-10-29 21:52:18+0900,B - Median Pyramid Easy,yukidaruma6,0,WA
+2016-10-29 21:52:18+0900,B - Median Pyramid Easy,p4869,0,WA
+2016-10-29 21:52:13+0900,D - Median Pyramid Hard,tomiscript,0,TLE
+2016-10-29 21:52:12+0900,B - Median Pyramid Easy,conf,0,WA
+2016-10-29 21:52:02+0900,A - Prefix and Suffix,semaPhoretic,0,WA
+2016-10-29 21:52:01+0900,B - Median Pyramid Easy,barun511,0,WA
+2016-10-29 21:51:56+0900,B - Median Pyramid Easy,Kampachi,0,TLE
+2016-10-29 21:51:56+0900,D - Median Pyramid Hard,SanSiroWaltz,0,RE
+2016-10-29 21:51:56+0900,F - Blackout,yosupo,0,WA
+2016-10-29 21:51:51+0900,B - Median Pyramid Easy,Zako_G,0,WA
+2016-10-29 21:51:51+0900,D - Median Pyramid Hard,koosaga,0,WA
+2016-10-29 21:51:48+0900,A - Prefix and Suffix,material,0,WA
+2016-10-29 21:51:42+0900,B - Median Pyramid Easy,arukuka,0,WA
+2016-10-29 21:51:42+0900,B - Median Pyramid Easy,natsuki_subaru,0,WA
+2016-10-29 21:51:40+0900,B - Median Pyramid Easy,yu3mars,0,WA
+2016-10-29 21:51:38+0900,B - Median Pyramid Easy,cocococoa,0,WA
+2016-10-29 21:51:33+0900,B - Median Pyramid Easy,gigime,0,WA
+2016-10-29 21:51:32+0900,B - Median Pyramid Easy,noy72,0,WA
+2016-10-29 21:51:32+0900,B - Median Pyramid Easy,sujin2010,0,WA
+2016-10-29 21:51:31+0900,A - Prefix and Suffix,flamee,0,WA
+2016-10-29 21:51:31+0900,D - Median Pyramid Hard,riadwaw,0,WA
+2016-10-29 21:51:29+0900,B - Median Pyramid Easy,exqt,0,WA
+2016-10-29 21:51:26+0900,A - Prefix and Suffix,oos1111,200,AC
+2016-10-29 21:51:25+0900,D - Median Pyramid Hard,izac55555333,0,WA
+2016-10-29 21:51:22+0900,B - Median Pyramid Easy,mmaks,400,AC
+2016-10-29 21:51:17+0900,A - Prefix and Suffix,finalchoice,0,TLE
+2016-10-29 21:51:14+0900,A - Prefix and Suffix,suakii,200,AC
+2016-10-29 21:51:12+0900,B - Median Pyramid Easy,obsproth,0,WA
+2016-10-29 21:51:11+0900,B - Median Pyramid Easy,ZxFkcjgN,0,WA
+2016-10-29 21:51:11+0900,C - Rabbit Exercise,zemen,0,WA
+2016-10-29 21:51:09+0900,D - Median Pyramid Hard,toe42vbnys,0,WA
+2016-10-29 21:51:05+0900,B - Median Pyramid Easy,mkjiro,0,WA
+2016-10-29 21:50:59+0900,A - Prefix and Suffix,koosaga,200,AC
+2016-10-29 21:50:56+0900,B - Median Pyramid Easy,yutaka1999,400,AC
+2016-10-29 21:50:56+0900,B - Median Pyramid Easy,kurenaif,0,WA
+2016-10-29 21:50:54+0900,B - Median Pyramid Easy,pekoong,400,AC
+2016-10-29 21:50:48+0900,B - Median Pyramid Easy,yamad,400,AC
+2016-10-29 21:50:46+0900,B - Median Pyramid Easy,nigus,0,WA
+2016-10-29 21:50:46+0900,D - Median Pyramid Hard,orisano,0,WA
+2016-10-29 21:50:43+0900,B - Median Pyramid Easy,femto16,400,AC
+2016-10-29 21:50:37+0900,D - Median Pyramid Hard,gktni,0,WA
+2016-10-29 21:50:32+0900,B - Median Pyramid Easy,kubusgol,0,WA
+2016-10-29 21:50:31+0900,A - Prefix and Suffix,sshirayama,200,AC
+2016-10-29 21:50:22+0900,B - Median Pyramid Easy,nasa,0,WA
+2016-10-29 21:50:21+0900,B - Median Pyramid Easy,plat,0,WA
+2016-10-29 21:50:21+0900,B - Median Pyramid Easy,abhishek_saini,400,AC
+2016-10-29 21:50:20+0900,B - Median Pyramid Easy,threepipes_s,0,WA
+2016-10-29 21:50:17+0900,B - Median Pyramid Easy,unexpected,0,WA
+2016-10-29 21:50:14+0900,A - Prefix and Suffix,pekoong,0,WA
+2016-10-29 21:50:14+0900,B - Median Pyramid Easy,rapurasu,0,WA
+2016-10-29 21:50:10+0900,C - Rabbit Exercise,USA,800,AC
+2016-10-29 21:50:08+0900,B - Median Pyramid Easy,hey,0,WA
+2016-10-29 21:50:04+0900,B - Median Pyramid Easy,sanoyatsu,0,WA
+2016-10-29 21:50:02+0900,C - Rabbit Exercise,adamant,0,RE
+2016-10-29 21:49:55+0900,B - Median Pyramid Easy,zln139,400,AC
+2016-10-29 21:49:53+0900,C - Rabbit Exercise,mugenen,0,TLE
+2016-10-29 21:49:52+0900,A - Prefix and Suffix,tencha,0,WA
+2016-10-29 21:49:48+0900,B - Median Pyramid Easy,softgoorm,400,AC
+2016-10-29 21:49:48+0900,B - Median Pyramid Easy,tashikani,0,WA
+2016-10-29 21:49:46+0900,B - Median Pyramid Easy,yut071,0,WA
+2016-10-29 21:49:45+0900,A - Prefix and Suffix,tyuiko,0,WA
+2016-10-29 21:49:42+0900,A - Prefix and Suffix,fham,0,WA
+2016-10-29 21:49:31+0900,B - Median Pyramid Easy,kurenaif,0,WA
+2016-10-29 21:49:30+0900,A - Prefix and Suffix,chaemon,0,WA
+2016-10-29 21:49:29+0900,C - Rabbit Exercise,zscoder,800,AC
+2016-10-29 21:49:27+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 21:49:19+0900,B - Median Pyramid Easy,t8m8,400,AC
+2016-10-29 21:49:18+0900,B - Median Pyramid Easy,kobae964,400,AC
+2016-10-29 21:49:12+0900,A - Prefix and Suffix,naro143,0,WA
+2016-10-29 21:49:12+0900,B - Median Pyramid Easy,ukuku09,0,WA
+2016-10-29 21:49:10+0900,A - Prefix and Suffix,ageru,200,AC
+2016-10-29 21:49:08+0900,B - Median Pyramid Easy,chenmark,400,AC
+2016-10-29 21:49:07+0900,B - Median Pyramid Easy,I3MNIX,400,AC
+2016-10-29 21:49:06+0900,B - Median Pyramid Easy,AreTrash,0,TLE
+2016-10-29 21:49:06+0900,A - Prefix and Suffix,mute1997,0,CE
+2016-10-29 21:49:03+0900,A - Prefix and Suffix,fmhr,200,AC
+2016-10-29 21:48:56+0900,A - Prefix and Suffix,abcdef6199,200,AC
+2016-10-29 21:48:53+0900,B - Median Pyramid Easy,deoxy,0,WA
+2016-10-29 21:48:49+0900,B - Median Pyramid Easy,alex_world,0,WA
+2016-10-29 21:48:45+0900,A - Prefix and Suffix,k_ashiya,200,AC
+2016-10-29 21:48:41+0900,B - Median Pyramid Easy,cider,0,CE
+2016-10-29 21:48:39+0900,A - Prefix and Suffix,slowrunner,0,WA
+2016-10-29 21:48:39+0900,A - Prefix and Suffix,jack,0,WA
+2016-10-29 21:48:38+0900,C - Rabbit Exercise,Vax,0,WA
+2016-10-29 21:48:34+0900,B - Median Pyramid Easy,sssbear,0,WA
+2016-10-29 21:48:27+0900,B - Median Pyramid Easy,h_noson,400,AC
+2016-10-29 21:48:16+0900,A - Prefix and Suffix,yoda03,0,WA
+2016-10-29 21:48:15+0900,B - Median Pyramid Easy,kaz49bz,400,AC
+2016-10-29 21:48:13+0900,B - Median Pyramid Easy,kenimo,400,AC
+2016-10-29 21:48:11+0900,B - Median Pyramid Easy,yu3mars,0,WA
+2016-10-29 21:48:10+0900,C - Rabbit Exercise,Huziwara,800,AC
+2016-10-29 21:48:07+0900,B - Median Pyramid Easy,sitiya,0,WA
+2016-10-29 21:48:05+0900,B - Median Pyramid Easy,minaminao,0,WA
+2016-10-29 21:48:04+0900,C - Rabbit Exercise,melnyk,0,WA
+2016-10-29 21:48:00+0900,A - Prefix and Suffix,matsuneko22,0,WA
+2016-10-29 21:47:57+0900,B - Median Pyramid Easy,tossy,0,WA
+2016-10-29 21:47:43+0900,B - Median Pyramid Easy,passcut2000,400,AC
+2016-10-29 21:47:43+0900,A - Prefix and Suffix,suakii,0,RE
+2016-10-29 21:47:39+0900,B - Median Pyramid Easy,mmxsrup,400,AC
+2016-10-29 21:47:39+0900,A - Prefix and Suffix,semaPhoretic,0,WA
+2016-10-29 21:47:38+0900,B - Median Pyramid Easy,Aslan168,400,AC
+2016-10-29 21:47:36+0900,B - Median Pyramid Easy,cxr1242,0,WA
+2016-10-29 21:47:35+0900,B - Median Pyramid Easy,shiratty8,400,AC
+2016-10-29 21:47:34+0900,B - Median Pyramid Easy,alex_world,0,WA
+2016-10-29 21:47:32+0900,B - Median Pyramid Easy,j_gui0121,400,AC
+2016-10-29 21:47:28+0900,B - Median Pyramid Easy,mio_h1917,400,AC
+2016-10-29 21:47:27+0900,B - Median Pyramid Easy,algon,0,WA
+2016-10-29 21:47:24+0900,B - Median Pyramid Easy,nigus,0,WA
+2016-10-29 21:47:21+0900,B - Median Pyramid Easy,tanphatls987,400,AC
+2016-10-29 21:47:21+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 21:47:16+0900,B - Median Pyramid Easy,kurenaif,0,WA
+2016-10-29 21:47:15+0900,A - Prefix and Suffix,cxr1242,0,RE
+2016-10-29 21:47:13+0900,A - Prefix and Suffix,u_chi_ha_ra_,0,WA
+2016-10-29 21:47:09+0900,A - Prefix and Suffix,lolzano,200,AC
+2016-10-29 21:47:06+0900,B - Median Pyramid Easy,kenimo,0,WA
+2016-10-29 21:47:00+0900,A - Prefix and Suffix,mormimo0126,0,WA
+2016-10-29 21:46:51+0900,A - Prefix and Suffix,naoyk1212,200,AC
+2016-10-29 21:46:48+0900,B - Median Pyramid Easy,conf,0,WA
+2016-10-29 21:46:48+0900,B - Median Pyramid Easy,minaminao,0,WA
+2016-10-29 21:46:46+0900,A - Prefix and Suffix,noryy,0,WA
+2016-10-29 21:46:46+0900,B - Median Pyramid Easy,suzume,0,WA
+2016-10-29 21:46:45+0900,D - Median Pyramid Hard,koosaga,0,WA
+2016-10-29 21:46:45+0900,A - Prefix and Suffix,AtThatTime,200,AC
+2016-10-29 21:46:41+0900,B - Median Pyramid Easy,cocococoa,0,WA
+2016-10-29 21:46:40+0900,A - Prefix and Suffix,KY_shi_o,0,WA
+2016-10-29 21:46:33+0900,B - Median Pyramid Easy,nes_in_it,400,AC
+2016-10-29 21:46:32+0900,C - Rabbit Exercise,mugenen,0,TLE
+2016-10-29 21:46:31+0900,A - Prefix and Suffix,lewin,200,AC
+2016-10-29 21:46:29+0900,D - Median Pyramid Hard,koosaga,0,RE
+2016-10-29 21:46:28+0900,A - Prefix and Suffix,suakii,0,CE
+2016-10-29 21:46:26+0900,B - Median Pyramid Easy,spk,0,WA
+2016-10-29 21:46:26+0900,B - Median Pyramid Easy,dened,0,WA
+2016-10-29 21:46:23+0900,B - Median Pyramid Easy,tossy,0,WA
+2016-10-29 21:46:15+0900,B - Median Pyramid Easy,chenmark,0,RE
+2016-10-29 21:46:12+0900,B - Median Pyramid Easy,abeker,0,WA
+2016-10-29 21:46:08+0900,C - Rabbit Exercise,tomabou,0,TLE
+2016-10-29 21:46:07+0900,B - Median Pyramid Easy,h_noson,0,WA
+2016-10-29 21:46:06+0900,B - Median Pyramid Easy,imang,400,AC
+2016-10-29 21:46:03+0900,B - Median Pyramid Easy,pkMZ75105,400,AC
+2016-10-29 21:46:01+0900,B - Median Pyramid Easy,tanphatls987,0,WA
+2016-10-29 21:45:59+0900,B - Median Pyramid Easy,barun511,0,WA
+2016-10-29 21:45:56+0900,A - Prefix and Suffix,jack,0,WA
+2016-10-29 21:45:54+0900,B - Median Pyramid Easy,kobae964,0,WA
+2016-10-29 21:45:54+0900,B - Median Pyramid Easy,minus9d,400,AC
+2016-10-29 21:45:51+0900,B - Median Pyramid Easy,RAMBO_tejasv,0,WA
+2016-10-29 21:45:48+0900,B - Median Pyramid Easy,lab104_yifan,400,AC
+2016-10-29 21:45:46+0900,B - Median Pyramid Easy,fushime2,0,WA
+2016-10-29 21:45:41+0900,B - Median Pyramid Easy,froghramar,400,AC
+2016-10-29 21:45:40+0900,A - Prefix and Suffix,tencha,0,WA
+2016-10-29 21:45:33+0900,A - Prefix and Suffix,misty1999,200,AC
+2016-10-29 21:45:31+0900,B - Median Pyramid Easy,piyohook,0,WA
+2016-10-29 21:45:29+0900,C - Rabbit Exercise,melnyk,0,WA
+2016-10-29 21:45:29+0900,A - Prefix and Suffix,histeria,0,WA
+2016-10-29 21:45:28+0900,B - Median Pyramid Easy,nikutto,400,AC
+2016-10-29 21:45:23+0900,B - Median Pyramid Easy,cxr1242,0,WA
+2016-10-29 21:45:22+0900,B - Median Pyramid Easy,mohamadkar,0,WA
+2016-10-29 21:45:21+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 21:45:14+0900,C - Rabbit Exercise,Huziwara,0,WA
+2016-10-29 21:45:14+0900,B - Median Pyramid Easy,kbu1564,0,WA
+2016-10-29 21:45:08+0900,B - Median Pyramid Easy,noy72,0,WA
+2016-10-29 21:45:07+0900,C - Rabbit Exercise,mao,0,TLE
+2016-10-29 21:45:04+0900,A - Prefix and Suffix,rishizek,200,AC
+2016-10-29 21:45:03+0900,B - Median Pyramid Easy,lab104_yifan,400,AC
+2016-10-29 21:45:01+0900,B - Median Pyramid Easy,Aslan168,0,WA
+2016-10-29 21:45:00+0900,B - Median Pyramid Easy,mHuman,400,AC
+2016-10-29 21:44:58+0900,B - Median Pyramid Easy,patcoderp,400,AC
+2016-10-29 21:44:47+0900,B - Median Pyramid Easy,gantheory,0,WA
+2016-10-29 21:44:45+0900,A - Prefix and Suffix,polyomino,200,AC
+2016-10-29 21:44:39+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 21:44:39+0900,B - Median Pyramid Easy,kurenai3110,0,WA
+2016-10-29 21:44:34+0900,B - Median Pyramid Easy,kobae964,0,WA
+2016-10-29 21:44:31+0900,B - Median Pyramid Easy,h_noson,0,WA
+2016-10-29 21:44:30+0900,B - Median Pyramid Easy,ec24,400,AC
+2016-10-29 21:44:29+0900,A - Prefix and Suffix,matsuneko22,0,WA
+2016-10-29 21:44:27+0900,B - Median Pyramid Easy,ion,0,WA
+2016-10-29 21:44:27+0900,B - Median Pyramid Easy,rapurasu,0,WA
+2016-10-29 21:44:21+0900,B - Median Pyramid Easy,QianDonglin,0,WA
+2016-10-29 21:44:21+0900,B - Median Pyramid Easy,tochukaso,0,WA
+2016-10-29 21:44:21+0900,C - Rabbit Exercise,octopuses,0,TLE
+2016-10-29 21:44:20+0900,B - Median Pyramid Easy,fushime2,0,WA
+2016-10-29 21:44:18+0900,B - Median Pyramid Easy,sitiya,0,WA
+2016-10-29 21:44:17+0900,B - Median Pyramid Easy,alishafiee,0,WA
+2016-10-29 21:44:16+0900,B - Median Pyramid Easy,damekamo,0,WA
+2016-10-29 21:44:15+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 21:44:14+0900,B - Median Pyramid Easy,RAMBO_tejasv,0,WA
+2016-10-29 21:44:13+0900,B - Median Pyramid Easy,bixind,0,WA
+2016-10-29 21:44:12+0900,B - Median Pyramid Easy,masha_encount,0,WA
+2016-10-29 21:44:11+0900,A - Prefix and Suffix,huas_wutanrong,200,AC
+2016-10-29 21:44:10+0900,B - Median Pyramid Easy,mohamadkar,0,WA
+2016-10-29 21:44:03+0900,B - Median Pyramid Easy,tankblood,0,WA
+2016-10-29 21:44:02+0900,C - Rabbit Exercise,mugenen,0,TLE
+2016-10-29 21:44:01+0900,A - Prefix and Suffix,untan,0,WA
+2016-10-29 21:44:01+0900,B - Median Pyramid Easy,barun511,0,WA
+2016-10-29 21:43:59+0900,B - Median Pyramid Easy,algon,0,WA
+2016-10-29 21:43:59+0900,D - Median Pyramid Hard,tzhuan,0,TLE
+2016-10-29 21:43:59+0900,B - Median Pyramid Easy,ysakasin,400,AC
+2016-10-29 21:43:59+0900,A - Prefix and Suffix,Twilight,200,AC
+2016-10-29 21:43:58+0900,B - Median Pyramid Easy,lab104_yifan,0,WA
+2016-10-29 21:43:54+0900,D - Median Pyramid Hard,Reyna,1300,AC
+2016-10-29 21:43:52+0900,B - Median Pyramid Easy,paruki,400,AC
+2016-10-29 21:43:47+0900,A - Prefix and Suffix,jbyxm,0,WA
+2016-10-29 21:43:44+0900,A - Prefix and Suffix,Gale,0,WA
+2016-10-29 21:43:44+0900,B - Median Pyramid Easy,ondrah,400,AC
+2016-10-29 21:43:39+0900,C - Rabbit Exercise,mmaxio,800,AC
+2016-10-29 21:43:37+0900,B - Median Pyramid Easy,kaz49bz,0,WA
+2016-10-29 21:43:36+0900,B - Median Pyramid Easy,tatt61880,400,AC
+2016-10-29 21:43:32+0900,B - Median Pyramid Easy,kawabys,0,WA
+2016-10-29 21:43:30+0900,A - Prefix and Suffix,tanny,200,AC
+2016-10-29 21:43:29+0900,B - Median Pyramid Easy,Fcdkbear,400,AC
+2016-10-29 21:43:28+0900,C - Rabbit Exercise,sd0061,0,TLE
+2016-10-29 21:43:28+0900,C - Rabbit Exercise,mmaxio,800,AC
+2016-10-29 21:43:28+0900,A - Prefix and Suffix,matsuneko22,0,WA
+2016-10-29 21:43:23+0900,C - Rabbit Exercise,harmokey,0,WA
+2016-10-29 21:43:23+0900,B - Median Pyramid Easy,satanic0258,0,WA
+2016-10-29 21:43:23+0900,A - Prefix and Suffix,Aslan168,0,WA
+2016-10-29 21:43:21+0900,B - Median Pyramid Easy,Gacho_0716,400,AC
+2016-10-29 21:43:18+0900,B - Median Pyramid Easy,IDrandom,0,WA
+2016-10-29 21:43:17+0900,A - Prefix and Suffix,ec24,0,WA
+2016-10-29 21:43:11+0900,B - Median Pyramid Easy,qq1771203081,0,WA
+2016-10-29 21:43:10+0900,A - Prefix and Suffix,mormimo0126,0,WA
+2016-10-29 21:43:08+0900,B - Median Pyramid Easy,cxr1242,0,WA
+2016-10-29 21:43:08+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 21:43:07+0900,B - Median Pyramid Easy,eitaho,400,AC
+2016-10-29 21:43:02+0900,B - Median Pyramid Easy,nigus,0,WA
+2016-10-29 21:43:01+0900,B - Median Pyramid Easy,algon,0,WA
+2016-10-29 21:43:00+0900,B - Median Pyramid Easy,Ktya_59,400,AC
+2016-10-29 21:42:58+0900,B - Median Pyramid Easy,noy72,0,WA
+2016-10-29 21:42:58+0900,C - Rabbit Exercise,Rafbill,800,AC
+2016-10-29 21:42:51+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 21:42:49+0900,A - Prefix and Suffix,mkan_0141,0,WA
+2016-10-29 21:42:47+0900,B - Median Pyramid Easy,tashikani,0,WA
+2016-10-29 21:42:45+0900,A - Prefix and Suffix,Yassansan,0,WA
+2016-10-29 21:42:42+0900,B - Median Pyramid Easy,yasuyuky,0,WA
+2016-10-29 21:42:40+0900,B - Median Pyramid Easy,clogos,0,WA
+2016-10-29 21:42:38+0900,B - Median Pyramid Easy,roto_37,400,AC
+2016-10-29 21:42:27+0900,B - Median Pyramid Easy,Aslan168,0,WA
+2016-10-29 21:42:25+0900,B - Median Pyramid Easy,lovemma,0,WA
+2016-10-29 21:42:24+0900,B - Median Pyramid Easy,Mogby,400,AC
+2016-10-29 21:42:23+0900,D - Median Pyramid Hard,ao41,0,WA
+2016-10-29 21:42:17+0900,B - Median Pyramid Easy,kawabys,0,WA
+2016-10-29 21:42:10+0900,A - Prefix and Suffix,Gale,0,RE
+2016-10-29 21:42:10+0900,A - Prefix and Suffix,k_ashiya,0,WA
+2016-10-29 21:42:09+0900,B - Median Pyramid Easy,minaminao,0,WA
+2016-10-29 21:42:09+0900,B - Median Pyramid Easy,tloinuy,400,AC
+2016-10-29 21:42:09+0900,B - Median Pyramid Easy,shiratty8,0,WA
+2016-10-29 21:42:07+0900,B - Median Pyramid Easy,kuuso,0,WA
+2016-10-29 21:42:05+0900,B - Median Pyramid Easy,ptrs,400,AC
+2016-10-29 21:42:04+0900,B - Median Pyramid Easy,RAMBO_tejasv,0,WA
+2016-10-29 21:42:03+0900,A - Prefix and Suffix,vda96,0,WA
+2016-10-29 21:41:59+0900,B - Median Pyramid Easy,yoseisan,400,AC
+2016-10-29 21:41:58+0900,A - Prefix and Suffix,harry_potter_28,0,WA
+2016-10-29 21:41:58+0900,A - Prefix and Suffix,matsuneko22,0,WA
+2016-10-29 21:41:57+0900,B - Median Pyramid Easy,qq1771203081,0,WA
+2016-10-29 21:41:55+0900,A - Prefix and Suffix,university,0,WA
+2016-10-29 21:41:53+0900,B - Median Pyramid Easy,devilsanek1,0,WA
+2016-10-29 21:41:53+0900,A - Prefix and Suffix,tekitouk,200,AC
+2016-10-29 21:41:52+0900,A - Prefix and Suffix,creatorstree,200,AC
+2016-10-29 21:41:40+0900,B - Median Pyramid Easy,nokoTaro,400,AC
+2016-10-29 21:41:39+0900,A - Prefix and Suffix,hans6626,0,WA
+2016-10-29 21:41:38+0900,A - Prefix and Suffix,pakhandi,200,AC
+2016-10-29 21:41:38+0900,B - Median Pyramid Easy,tankblood,0,WA
+2016-10-29 21:41:31+0900,A - Prefix and Suffix,u_chi_ha_ra_,0,WA
+2016-10-29 21:41:30+0900,B - Median Pyramid Easy,yana87,0,WA
+2016-10-29 21:41:30+0900,C - Rabbit Exercise,Rafbill,0,WA
+2016-10-29 21:41:27+0900,D - Median Pyramid Hard,yutaka1999,1300,AC
+2016-10-29 21:41:27+0900,A - Prefix and Suffix,RAMBO_tejasv,0,RE
+2016-10-29 21:41:26+0900,B - Median Pyramid Easy,ninja7,400,AC
+2016-10-29 21:41:25+0900,C - Rabbit Exercise,LeBron,0,WA
+2016-10-29 21:41:24+0900,A - Prefix and Suffix,tst_tsq,0,WA
+2016-10-29 21:41:24+0900,A - Prefix and Suffix,gktni,200,AC
+2016-10-29 21:41:23+0900,A - Prefix and Suffix,neverbefore351,200,AC
+2016-10-29 21:41:19+0900,B - Median Pyramid Easy,clogos,0,WA
+2016-10-29 21:41:18+0900,B - Median Pyramid Easy,Johniel,400,AC
+2016-10-29 21:41:15+0900,B - Median Pyramid Easy,LitMc,0,WA
+2016-10-29 21:41:12+0900,B - Median Pyramid Easy,dsytk7,0,WA
+2016-10-29 21:41:11+0900,B - Median Pyramid Easy,tashikani,0,WA
+2016-10-29 21:41:09+0900,A - Prefix and Suffix,hoxosh,200,AC
+2016-10-29 21:41:03+0900,B - Median Pyramid Easy,angel_p_57,0,WA
+2016-10-29 21:41:03+0900,B - Median Pyramid Easy,gahou,0,WA
+2016-10-29 21:40:55+0900,A - Prefix and Suffix,Gale,0,RE
+2016-10-29 21:40:53+0900,B - Median Pyramid Easy,cocococoa,0,WA
+2016-10-29 21:40:52+0900,B - Median Pyramid Easy,rucm,0,WA
+2016-10-29 21:40:41+0900,B - Median Pyramid Easy,obsproth,0,WA
+2016-10-29 21:40:40+0900,A - Prefix and Suffix,feng,0,WA
+2016-10-29 21:40:34+0900,B - Median Pyramid Easy,softgoorm,0,WA
+2016-10-29 21:40:34+0900,B - Median Pyramid Easy,noy72,0,WA
+2016-10-29 21:40:33+0900,A - Prefix and Suffix,roudo56,0,RE
+2016-10-29 21:40:31+0900,B - Median Pyramid Easy,AcrossTheSky,400,AC
+2016-10-29 21:40:30+0900,A - Prefix and Suffix,hecatier,0,WA
+2016-10-29 21:40:29+0900,B - Median Pyramid Easy,Morass,400,AC
+2016-10-29 21:40:24+0900,A - Prefix and Suffix,naro143,0,WA
+2016-10-29 21:40:20+0900,C - Rabbit Exercise,mugenen,0,TLE
+2016-10-29 21:40:20+0900,A - Prefix and Suffix,Gale,0,RE
+2016-10-29 21:40:19+0900,B - Median Pyramid Easy,platypus,400,AC
+2016-10-29 21:40:16+0900,B - Median Pyramid Easy,damekamo,0,WA
+2016-10-29 21:40:14+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 21:40:07+0900,B - Median Pyramid Easy,latte0119,400,AC
+2016-10-29 21:40:05+0900,B - Median Pyramid Easy,reew2n,400,AC
+2016-10-29 21:40:03+0900,A - Prefix and Suffix,ouoz1V,200,AC
+2016-10-29 21:40:01+0900,B - Median Pyramid Easy,gigime,0,WA
+2016-10-29 21:39:59+0900,B - Median Pyramid Easy,rantd,400,AC
+2016-10-29 21:39:50+0900,B - Median Pyramid Easy,softgoorm,0,WA
+2016-10-29 21:39:47+0900,C - Rabbit Exercise,moguta,0,TLE
+2016-10-29 21:39:44+0900,B - Median Pyramid Easy,wubincen,400,AC
+2016-10-29 21:39:42+0900,A - Prefix and Suffix,hhelibex,200,AC
+2016-10-29 21:39:39+0900,B - Median Pyramid Easy,catupper,400,AC
+2016-10-29 21:39:33+0900,A - Prefix and Suffix,untan,0,WA
+2016-10-29 21:39:26+0900,B - Median Pyramid Easy,sntea,0,WA
+2016-10-29 21:39:25+0900,B - Median Pyramid Easy,oyas,400,AC
+2016-10-29 21:39:23+0900,B - Median Pyramid Easy,platypus,0,WA
+2016-10-29 21:39:18+0900,B - Median Pyramid Easy,WuHongxun,400,AC
+2016-10-29 21:39:12+0900,A - Prefix and Suffix,polyomino,0,WA
+2016-10-29 21:39:09+0900,B - Median Pyramid Easy,spencer,400,AC
+2016-10-29 21:39:09+0900,B - Median Pyramid Easy,CoDeRoK,400,AC
+2016-10-29 21:39:08+0900,B - Median Pyramid Easy,phyllo,400,AC
+2016-10-29 21:39:08+0900,B - Median Pyramid Easy,lyoz,400,AC
+2016-10-29 21:39:06+0900,A - Prefix and Suffix,mkan_0141,0,WA
+2016-10-29 21:39:06+0900,A - Prefix and Suffix,nutorbit,0,WA
+2016-10-29 21:39:05+0900,A - Prefix and Suffix,angel_p_57,200,AC
+2016-10-29 21:39:00+0900,A - Prefix and Suffix,Gale,0,RE
+2016-10-29 21:38:58+0900,B - Median Pyramid Easy,konjo,400,AC
+2016-10-29 21:38:58+0900,B - Median Pyramid Easy,Archazey,400,AC
+2016-10-29 21:38:55+0900,B - Median Pyramid Easy,lajiniunai,0,WA
+2016-10-29 21:38:54+0900,B - Median Pyramid Easy,AlexeyEnkov,400,AC
+2016-10-29 21:38:53+0900,B - Median Pyramid Easy,superk69,0,WA
+2016-10-29 21:38:51+0900,B - Median Pyramid Easy,WuHongxun,0,WA
+2016-10-29 21:38:49+0900,B - Median Pyramid Easy,Sumeet_Varma,400,AC
+2016-10-29 21:38:48+0900,B - Median Pyramid Easy,jiwon0522,400,AC
+2016-10-29 21:38:43+0900,B - Median Pyramid Easy,okaduki,400,AC
+2016-10-29 21:38:42+0900,A - Prefix and Suffix,Nakamonsieur,200,AC
+2016-10-29 21:38:38+0900,B - Median Pyramid Easy,sumoooru,400,AC
+2016-10-29 21:38:36+0900,B - Median Pyramid Easy,hanada3355,0,WA
+2016-10-29 21:38:32+0900,B - Median Pyramid Easy,dened,0,WA
+2016-10-29 21:38:30+0900,B - Median Pyramid Easy,nebukuro09,400,AC
+2016-10-29 21:38:24+0900,A - Prefix and Suffix,untan,0,WA
+2016-10-29 21:38:23+0900,B - Median Pyramid Easy,ikeha,0,WA
+2016-10-29 21:38:16+0900,A - Prefix and Suffix,keisei803,0,CE
+2016-10-29 21:38:14+0900,B - Median Pyramid Easy,eitaho,0,WA
+2016-10-29 21:38:11+0900,B - Median Pyramid Easy,mscle11,0,WA
+2016-10-29 21:38:08+0900,B - Median Pyramid Easy,ptt_kr,0,WA
+2016-10-29 21:38:07+0900,B - Median Pyramid Easy,blue_jam,400,AC
+2016-10-29 21:38:05+0900,B - Median Pyramid Easy,jiwon0522,0,RE
+2016-10-29 21:37:57+0900,A - Prefix and Suffix,harry_potter_28,0,WA
+2016-10-29 21:37:55+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 21:37:52+0900,B - Median Pyramid Easy,kasimatatomoya,0,WA
+2016-10-29 21:37:48+0900,B - Median Pyramid Easy,sfiction,400,AC
+2016-10-29 21:37:47+0900,B - Median Pyramid Easy,noconocolib,0,WA
+2016-10-29 21:37:44+0900,B - Median Pyramid Easy,Kostroma,400,AC
+2016-10-29 21:37:44+0900,A - Prefix and Suffix,roudo56,0,RE
+2016-10-29 21:37:42+0900,B - Median Pyramid Easy,abisheka,400,AC
+2016-10-29 21:37:40+0900,B - Median Pyramid Easy,cojna,400,AC
+2016-10-29 21:37:39+0900,B - Median Pyramid Easy,tashikani,0,WA
+2016-10-29 21:37:33+0900,A - Prefix and Suffix,nobunobunobu,200,AC
+2016-10-29 21:37:27+0900,B - Median Pyramid Easy,deoxy,0,WA
+2016-10-29 21:37:25+0900,B - Median Pyramid Easy,phyllo,0,WA
+2016-10-29 21:37:23+0900,B - Median Pyramid Easy,Archazey,0,WA
+2016-10-29 21:37:22+0900,B - Median Pyramid Easy,nebukuro09,0,WA
+2016-10-29 21:37:20+0900,B - Median Pyramid Easy,rucm,0,WA
+2016-10-29 21:37:15+0900,A - Prefix and Suffix,Ka8,0,WA
+2016-10-29 21:37:12+0900,B - Median Pyramid Easy,hamadu,400,AC
+2016-10-29 21:37:12+0900,A - Prefix and Suffix,tatsuyuki,200,AC
+2016-10-29 21:37:04+0900,B - Median Pyramid Easy,tosaka2,400,AC
+2016-10-29 21:37:02+0900,A - Prefix and Suffix,yoda03,0,WA
+2016-10-29 21:36:52+0900,B - Median Pyramid Easy,a2stnk,400,AC
+2016-10-29 21:36:52+0900,A - Prefix and Suffix,Archazey,0,RE
+2016-10-29 21:36:48+0900,B - Median Pyramid Easy,okaduki,0,WA
+2016-10-29 21:36:47+0900,A - Prefix and Suffix,k_ashiya,0,WA
+2016-10-29 21:36:45+0900,A - Prefix and Suffix,cider,200,AC
+2016-10-29 21:36:44+0900,B - Median Pyramid Easy,Elshiko,400,AC
+2016-10-29 21:36:41+0900,B - Median Pyramid Easy,pekempey,400,AC
+2016-10-29 21:36:38+0900,B - Median Pyramid Easy,Ryui,0,WA
+2016-10-29 21:36:34+0900,B - Median Pyramid Easy,WuHongxun,0,WA
+2016-10-29 21:36:34+0900,A - Prefix and Suffix,Tagl,200,AC
+2016-10-29 21:36:34+0900,B - Median Pyramid Easy,HORI1991,400,AC
+2016-10-29 21:36:33+0900,B - Median Pyramid Easy,lucky3977,0,WA
+2016-10-29 21:36:31+0900,B - Median Pyramid Easy,AlexeyEnkov,0,WA
+2016-10-29 21:36:30+0900,A - Prefix and Suffix,nobunobunobu,0,RE
+2016-10-29 21:36:27+0900,B - Median Pyramid Easy,TangentDay,400,AC
+2016-10-29 21:36:26+0900,B - Median Pyramid Easy,gotto,400,AC
+2016-10-29 21:36:26+0900,B - Median Pyramid Easy,poyodr,0,WA
+2016-10-29 21:36:25+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 21:36:22+0900,B - Median Pyramid Easy,imulan,400,AC
+2016-10-29 21:36:21+0900,A - Prefix and Suffix,pakhandi,0,WA
+2016-10-29 21:36:08+0900,A - Prefix and Suffix,hoxosh,0,WA
+2016-10-29 21:36:04+0900,E - Rotate 3x3,lewin,0,WA
+2016-10-29 21:36:03+0900,A - Prefix and Suffix,nobunobunobu,0,CE
+2016-10-29 21:36:02+0900,B - Median Pyramid Easy,noy72,0,WA
+2016-10-29 21:36:00+0900,B - Median Pyramid Easy,unsre,400,AC
+2016-10-29 21:35:59+0900,B - Median Pyramid Easy,phyllo,0,WA
+2016-10-29 21:35:58+0900,B - Median Pyramid Easy,kusano,400,AC
+2016-10-29 21:35:57+0900,B - Median Pyramid Easy,CoDeRoK,0,WA
+2016-10-29 21:35:53+0900,B - Median Pyramid Easy,reew2n,0,WA
+2016-10-29 21:35:52+0900,B - Median Pyramid Easy,CoDeRoK,0,WA
+2016-10-29 21:35:52+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 21:35:42+0900,A - Prefix and Suffix,Tagl,0,WA
+2016-10-29 21:35:36+0900,B - Median Pyramid Easy,Pulmn,0,WA
+2016-10-29 21:35:34+0900,B - Median Pyramid Easy,ninja7,0,WA
+2016-10-29 21:35:34+0900,B - Median Pyramid Easy,WuHongxun,0,WA
+2016-10-29 21:35:24+0900,A - Prefix and Suffix,blue9,0,WA
+2016-10-29 21:35:23+0900,D - Median Pyramid Hard,baranov,0,TLE
+2016-10-29 21:35:22+0900,A - Prefix and Suffix,tapuinu,200,AC
+2016-10-29 21:35:20+0900,A - Prefix and Suffix,mohamadkar,200,AC
+2016-10-29 21:35:14+0900,D - Median Pyramid Hard,w4yneb0t,1300,AC
+2016-10-29 21:35:13+0900,A - Prefix and Suffix,skeleton0103,0,WA
+2016-10-29 21:35:11+0900,B - Median Pyramid Easy,ahmed1ossama13,400,AC
+2016-10-29 21:35:10+0900,A - Prefix and Suffix,hyx_mxr,0,WA
+2016-10-29 21:35:09+0900,B - Median Pyramid Easy,overnite81,0,WA
+2016-10-29 21:35:06+0900,B - Median Pyramid Easy,adamant,400,AC
+2016-10-29 21:35:02+0900,B - Median Pyramid Easy,superk69,0,WA
+2016-10-29 21:34:58+0900,A - Prefix and Suffix,adamant,0,WA
+2016-10-29 21:34:56+0900,A - Prefix and Suffix,omtojo,200,AC
+2016-10-29 21:34:56+0900,A - Prefix and Suffix,caoyu01,200,AC
+2016-10-29 21:34:51+0900,A - Prefix and Suffix,vda96,0,WA
+2016-10-29 21:34:46+0900,B - Median Pyramid Easy,mmaks,0,WA
+2016-10-29 21:34:44+0900,B - Median Pyramid Easy,m_buyoh,400,AC
+2016-10-29 21:34:38+0900,B - Median Pyramid Easy,yashkumar18,0,WA
+2016-10-29 21:34:37+0900,A - Prefix and Suffix,hikkyprogramming,200,AC
+2016-10-29 21:34:36+0900,B - Median Pyramid Easy,CrazyBBB,400,AC
+2016-10-29 21:34:21+0900,B - Median Pyramid Easy,palpal,0,WA
+2016-10-29 21:34:20+0900,B - Median Pyramid Easy,gotto,0,WA
+2016-10-29 21:34:18+0900,B - Median Pyramid Easy,gigime,0,WA
+2016-10-29 21:34:14+0900,B - Median Pyramid Easy,bixind,0,WA
+2016-10-29 21:34:14+0900,B - Median Pyramid Easy,koyumeishi,400,AC
+2016-10-29 21:34:12+0900,B - Median Pyramid Easy,poyodr,0,WA
+2016-10-29 21:34:10+0900,B - Median Pyramid Easy,mcginn,400,AC
+2016-10-29 21:34:10+0900,B - Median Pyramid Easy,wubincen,0,WA
+2016-10-29 21:34:09+0900,B - Median Pyramid Easy,MathCrusader,400,AC
+2016-10-29 21:34:04+0900,A - Prefix and Suffix,yoda03,0,WA
+2016-10-29 21:34:02+0900,B - Median Pyramid Easy,L3Sota,0,WA
+2016-10-29 21:33:55+0900,A - Prefix and Suffix,gktni,0,WA
+2016-10-29 21:33:55+0900,B - Median Pyramid Easy,Allen,0,WA
+2016-10-29 21:33:54+0900,B - Median Pyramid Easy,angel_p_57,0,RE
+2016-10-29 21:33:54+0900,B - Median Pyramid Easy,adamant,0,WA
+2016-10-29 21:33:53+0900,A - Prefix and Suffix,barun511,200,AC
+2016-10-29 21:33:47+0900,B - Median Pyramid Easy,alecsyde,0,WA
+2016-10-29 21:33:45+0900,A - Prefix and Suffix,yuting,200,AC
+2016-10-29 21:33:44+0900,B - Median Pyramid Easy,WuHongxun,0,WA
+2016-10-29 21:33:39+0900,A - Prefix and Suffix,shi2chuan1,200,AC
+2016-10-29 21:33:36+0900,A - Prefix and Suffix,naoyk1212,0,WA
+2016-10-29 21:33:36+0900,A - Prefix and Suffix,tanny,0,WA
+2016-10-29 21:33:35+0900,A - Prefix and Suffix,skeleton0103,0,WA
+2016-10-29 21:33:33+0900,A - Prefix and Suffix,fushigu,200,AC
+2016-10-29 21:33:33+0900,B - Median Pyramid Easy,platypus,0,WA
+2016-10-29 21:33:24+0900,A - Prefix and Suffix,yoda03,0,WA
+2016-10-29 21:33:21+0900,B - Median Pyramid Easy,TryMyEdge,400,AC
+2016-10-29 21:33:20+0900,A - Prefix and Suffix,tsukamasa,0,WA
+2016-10-29 21:33:13+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 21:33:13+0900,A - Prefix and Suffix,sanoyatsu,200,AC
+2016-10-29 21:33:12+0900,B - Median Pyramid Easy,makeecat,400,AC
+2016-10-29 21:33:09+0900,B - Median Pyramid Easy,TryMyEdge,400,AC
+2016-10-29 21:33:08+0900,A - Prefix and Suffix,noryy,0,WA
+2016-10-29 21:33:08+0900,B - Median Pyramid Easy,adamant,0,RE
+2016-10-29 21:33:07+0900,A - Prefix and Suffix,histeria,0,WA
+2016-10-29 21:33:03+0900,B - Median Pyramid Easy,kzyKT,400,AC
+2016-10-29 21:33:03+0900,A - Prefix and Suffix,cloxe365,200,AC
+2016-10-29 21:33:01+0900,B - Median Pyramid Easy,a551100kk,400,AC
+2016-10-29 21:33:01+0900,B - Median Pyramid Easy,noy72,0,WA
+2016-10-29 21:32:56+0900,B - Median Pyramid Easy,namelessmonster,0,WA
+2016-10-29 21:32:55+0900,B - Median Pyramid Easy,pekoong,0,WA
+2016-10-29 21:32:53+0900,A - Prefix and Suffix,kasimatatomoya,200,AC
+2016-10-29 21:32:52+0900,B - Median Pyramid Easy,roiti,0,WA
+2016-10-29 21:32:49+0900,A - Prefix and Suffix,sugarrr,200,AC
+2016-10-29 21:32:48+0900,A - Prefix and Suffix,u_chi_ha_ra_,0,WA
+2016-10-29 21:32:45+0900,B - Median Pyramid Easy,satanic0258,0,WA
+2016-10-29 21:32:45+0900,B - Median Pyramid Easy,T1610,400,AC
+2016-10-29 21:32:45+0900,A - Prefix and Suffix,blue9,0,WA
+2016-10-29 21:32:43+0900,A - Prefix and Suffix,norma,200,AC
+2016-10-29 21:32:43+0900,A - Prefix and Suffix,MMNMM,200,AC
+2016-10-29 21:32:39+0900,A - Prefix and Suffix,pppiyo,0,WA
+2016-10-29 21:32:38+0900,B - Median Pyramid Easy,tarepan0622,0,WA
+2016-10-29 21:32:37+0900,B - Median Pyramid Easy,lab104_yifan,0,WA
+2016-10-29 21:32:36+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 21:32:36+0900,B - Median Pyramid Easy,JTJL,400,AC
+2016-10-29 21:32:36+0900,A - Prefix and Suffix,darjeeling,0,WA
+2016-10-29 21:32:34+0900,B - Median Pyramid Easy,Kaban5,400,AC
+2016-10-29 21:32:33+0900,B - Median Pyramid Easy,Snickeen,400,AC
+2016-10-29 21:32:29+0900,B - Median Pyramid Easy,Gobi,0,WA
+2016-10-29 21:32:28+0900,A - Prefix and Suffix,tarepan0622,0,RE
+2016-10-29 21:32:20+0900,B - Median Pyramid Easy,WuHongxun,0,WA
+2016-10-29 21:32:16+0900,B - Median Pyramid Easy,natsuki_subaru,0,WA
+2016-10-29 21:32:16+0900,A - Prefix and Suffix,adamant,0,WA
+2016-10-29 21:32:13+0900,A - Prefix and Suffix,Yassansan,0,WA
+2016-10-29 21:32:11+0900,B - Median Pyramid Easy,shdut,400,AC
+2016-10-29 21:32:08+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 21:32:05+0900,B - Median Pyramid Easy,a551100kk,0,RE
+2016-10-29 21:32:03+0900,B - Median Pyramid Easy,ixmel_rd,0,WA
+2016-10-29 21:32:00+0900,B - Median Pyramid Easy,kenkoooo,400,AC
+2016-10-29 21:31:56+0900,B - Median Pyramid Easy,AcrossTheSky,0,WA
+2016-10-29 21:31:53+0900,A - Prefix and Suffix,WuHongxun,0,WA
+2016-10-29 21:31:50+0900,A - Prefix and Suffix,moon_light,200,AC
+2016-10-29 21:31:47+0900,D - Median Pyramid Hard,ryuhei,0,TLE
+2016-10-29 21:31:45+0900,A - Prefix and Suffix,tutinoko79,200,AC
+2016-10-29 21:31:45+0900,B - Median Pyramid Easy,jiaqiyang,400,AC
+2016-10-29 21:31:42+0900,B - Median Pyramid Easy,tarepan0622,0,RE
+2016-10-29 21:31:39+0900,B - Median Pyramid Easy,devilsanek1,0,WA
+2016-10-29 21:31:39+0900,B - Median Pyramid Easy,Y_UME,400,AC
+2016-10-29 21:31:38+0900,B - Median Pyramid Easy,Yamatan,0,WA
+2016-10-29 21:31:38+0900,C - Rabbit Exercise,riadwaw,0,WA
+2016-10-29 21:31:37+0900,B - Median Pyramid Easy,konjo,0,WA
+2016-10-29 21:31:36+0900,B - Median Pyramid Easy,AlexeyEnkov,0,TLE
+2016-10-29 21:31:28+0900,B - Median Pyramid Easy,Vax,400,AC
+2016-10-29 21:31:27+0900,B - Median Pyramid Easy,roto_37,0,WA
+2016-10-29 21:31:27+0900,B - Median Pyramid Easy,ptt_kr,0,WA
+2016-10-29 21:31:25+0900,B - Median Pyramid Easy,sumoooru,0,WA
+2016-10-29 21:31:24+0900,A - Prefix and Suffix,J0riridk0,0,WA
+2016-10-29 21:31:16+0900,A - Prefix and Suffix,AtThatTime,0,WA
+2016-10-29 21:31:16+0900,B - Median Pyramid Easy,Deemo,400,AC
+2016-10-29 21:31:15+0900,B - Median Pyramid Easy,octopuses,400,AC
+2016-10-29 21:31:14+0900,A - Prefix and Suffix,reitetsu,200,AC
+2016-10-29 21:31:13+0900,B - Median Pyramid Easy,Kaban5,0,WA
+2016-10-29 21:31:13+0900,A - Prefix and Suffix,yukidaruma6,200,AC
+2016-10-29 21:31:13+0900,A - Prefix and Suffix,cloxe365,0,WA
+2016-10-29 21:31:13+0900,B - Median Pyramid Easy,m_buyoh,0,WA
+2016-10-29 21:31:11+0900,A - Prefix and Suffix,tarunama,0,WA
+2016-10-29 21:31:10+0900,B - Median Pyramid Easy,tos,400,AC
+2016-10-29 21:31:01+0900,B - Median Pyramid Easy,beet,0,WA
+2016-10-29 21:30:58+0900,A - Prefix and Suffix,Power730,200,AC
+2016-10-29 21:30:58+0900,B - Median Pyramid Easy,cojna,0,WA
+2016-10-29 21:30:56+0900,B - Median Pyramid Easy,EvgeniSergeev,400,AC
+2016-10-29 21:30:56+0900,B - Median Pyramid Easy,Arterm,400,AC
+2016-10-29 21:30:53+0900,B - Median Pyramid Easy,LeBron,400,AC
+2016-10-29 21:30:52+0900,B - Median Pyramid Easy,aitch,400,AC
+2016-10-29 21:30:52+0900,B - Median Pyramid Easy,nokoTaro,0,WA
+2016-10-29 21:30:50+0900,A - Prefix and Suffix,coffeeapple,200,AC
+2016-10-29 21:30:46+0900,B - Median Pyramid Easy,HnVahidi,0,WA
+2016-10-29 21:30:46+0900,B - Median Pyramid Easy,Johniel,0,WA
+2016-10-29 21:30:43+0900,B - Median Pyramid Easy,Pulmn,0,WA
+2016-10-29 21:30:43+0900,B - Median Pyramid Easy,ehot_rascal,0,WA
+2016-10-29 21:30:41+0900,B - Median Pyramid Easy,rsk0315,0,WA
+2016-10-29 21:30:38+0900,A - Prefix and Suffix,izac55555333,0,WA
+2016-10-29 21:30:37+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 21:30:37+0900,A - Prefix and Suffix,happy_code,200,AC
+2016-10-29 21:30:36+0900,A - Prefix and Suffix,ao41,200,AC
+2016-10-29 21:30:33+0900,B - Median Pyramid Easy,ahmed1ossama13,0,TLE
+2016-10-29 21:30:33+0900,A - Prefix and Suffix,chiwakii,200,AC
+2016-10-29 21:30:33+0900,A - Prefix and Suffix,chiwakii,200,AC
+2016-10-29 21:30:26+0900,B - Median Pyramid Easy,jiaqiyang,0,WA
+2016-10-29 21:30:25+0900,B - Median Pyramid Easy,Yamatan,0,WA
+2016-10-29 21:30:25+0900,B - Median Pyramid Easy,ichyo,400,AC
+2016-10-29 21:30:24+0900,B - Median Pyramid Easy,tata,0,WA
+2016-10-29 21:30:23+0900,B - Median Pyramid Easy,One_touch_finish,400,AC
+2016-10-29 21:30:23+0900,B - Median Pyramid Easy,ptrs,0,WA
+2016-10-29 21:30:22+0900,B - Median Pyramid Easy,dragonic,400,AC
+2016-10-29 21:30:21+0900,B - Median Pyramid Easy,guangxuan,400,AC
+2016-10-29 21:30:21+0900,A - Prefix and Suffix,toe42vbnys,200,AC
+2016-10-29 21:30:07+0900,C - Rabbit Exercise,endagorion,800,AC
+2016-10-29 21:30:04+0900,B - Median Pyramid Easy,pakhandi,400,AC
+2016-10-29 21:30:03+0900,B - Median Pyramid Easy,abyssmall,400,AC
+2016-10-29 21:29:59+0900,B - Median Pyramid Easy,fushime2,0,WA
+2016-10-29 21:29:58+0900,A - Prefix and Suffix,dplus1016,0,WA
+2016-10-29 21:29:57+0900,A - Prefix and Suffix,cxr1242,200,AC
+2016-10-29 21:29:56+0900,A - Prefix and Suffix,tomozow,200,AC
+2016-10-29 21:29:56+0900,B - Median Pyramid Easy,darjeeling,0,WA
+2016-10-29 21:29:51+0900,B - Median Pyramid Easy,Mikester,400,AC
+2016-10-29 21:29:50+0900,B - Median Pyramid Easy,ysakasin,0,WA
+2016-10-29 21:29:48+0900,B - Median Pyramid Easy,cojna,0,WA
+2016-10-29 21:29:46+0900,C - Rabbit Exercise,yutaka1999,800,AC
+2016-10-29 21:29:44+0900,A - Prefix and Suffix,caoyu01,0,WA
+2016-10-29 21:29:42+0900,B - Median Pyramid Easy,devilsanek1,0,WA
+2016-10-29 21:29:41+0900,A - Prefix and Suffix,xcy,200,AC
+2016-10-29 21:29:31+0900,A - Prefix and Suffix,tokabe333,200,AC
+2016-10-29 21:29:29+0900,B - Median Pyramid Easy,Lepton,400,AC
+2016-10-29 21:29:27+0900,B - Median Pyramid Easy,fushime2,0,CE
+2016-10-29 21:29:27+0900,B - Median Pyramid Easy,rantd,0,WA
+2016-10-29 21:29:24+0900,B - Median Pyramid Easy,tatt61880,0,WA
+2016-10-29 21:29:18+0900,B - Median Pyramid Easy,MathCrusader,0,WA
+2016-10-29 21:29:17+0900,B - Median Pyramid Easy,chaemon,0,WA
+2016-10-29 21:29:13+0900,A - Prefix and Suffix,clogos,200,AC
+2016-10-29 21:29:11+0900,A - Prefix and Suffix,ikd,200,AC
+2016-10-29 21:29:08+0900,B - Median Pyramid Easy,natsuki_subaru,0,WA
+2016-10-29 21:29:07+0900,B - Median Pyramid Easy,ek_ss,400,AC
+2016-10-29 21:29:03+0900,A - Prefix and Suffix,niwaton,200,AC
+2016-10-29 21:29:02+0900,A - Prefix and Suffix,Naoki_M_,200,AC
+2016-10-29 21:29:00+0900,B - Median Pyramid Easy,Golovanov399,400,AC
+2016-10-29 21:29:00+0900,A - Prefix and Suffix,jbyxm,0,WA
+2016-10-29 21:28:59+0900,B - Median Pyramid Easy,pakhandi,0,WA
+2016-10-29 21:28:52+0900,C - Rabbit Exercise,yutaka1999,0,TLE
+2016-10-29 21:28:51+0900,A - Prefix and Suffix,oshiumi,200,AC
+2016-10-29 21:28:47+0900,B - Median Pyramid Easy,w4yneb0t,400,AC
+2016-10-29 21:28:46+0900,B - Median Pyramid Easy,shio,0,WA
+2016-10-29 21:28:44+0900,B - Median Pyramid Easy,guangxuan,0,WA
+2016-10-29 21:28:43+0900,B - Median Pyramid Easy,nmnmnmnmnmnmnm,400,AC
+2016-10-29 21:28:37+0900,A - Prefix and Suffix,mio_yokohama,200,AC
+2016-10-29 21:28:31+0900,B - Median Pyramid Easy,nebukuro09,0,WA
+2016-10-29 21:28:31+0900,B - Median Pyramid Easy,satanic0258,0,WA
+2016-10-29 21:28:30+0900,A - Prefix and Suffix,feng,0,WA
+2016-10-29 21:28:29+0900,A - Prefix and Suffix,shi2chuan1,0,WA
+2016-10-29 21:28:29+0900,A - Prefix and Suffix,L3Sota,200,AC
+2016-10-29 21:28:29+0900,A - Prefix and Suffix,caoyu01,0,WA
+2016-10-29 21:28:26+0900,B - Median Pyramid Easy,Huziwara,400,AC
+2016-10-29 21:28:25+0900,B - Median Pyramid Easy,okaduki,0,WA
+2016-10-29 21:28:24+0900,B - Median Pyramid Easy,zscoder,400,AC
+2016-10-29 21:28:22+0900,A - Prefix and Suffix,tousupo140yen,200,AC
+2016-10-29 21:28:22+0900,A - Prefix and Suffix,nwin,200,AC
+2016-10-29 21:28:16+0900,B - Median Pyramid Easy,RAMBO_tejasv,0,WA
+2016-10-29 21:28:08+0900,A - Prefix and Suffix,MRI729041652,200,AC
+2016-10-29 21:28:07+0900,B - Median Pyramid Easy,muctera,0,WA
+2016-10-29 21:28:06+0900,B - Median Pyramid Easy,aaaaajack,400,AC
+2016-10-29 21:28:03+0900,B - Median Pyramid Easy,Paladin,0,WA
+2016-10-29 21:28:01+0900,B - Median Pyramid Easy,amano,0,WA
+2016-10-29 21:27:58+0900,B - Median Pyramid Easy,ctyl,400,AC
+2016-10-29 21:27:56+0900,A - Prefix and Suffix,fujiyama,200,AC
+2016-10-29 21:27:56+0900,B - Median Pyramid Easy,chentong,400,AC
+2016-10-29 21:27:55+0900,B - Median Pyramid Easy,rantd,0,WA
+2016-10-29 21:27:51+0900,B - Median Pyramid Easy,Reyna,400,AC
+2016-10-29 21:27:49+0900,B - Median Pyramid Easy,Sumeet_Varma,0,WA
+2016-10-29 21:27:49+0900,B - Median Pyramid Easy,Laakeri,400,AC
+2016-10-29 21:27:47+0900,B - Median Pyramid Easy,kotatsugame,400,AC
+2016-10-29 21:27:40+0900,A - Prefix and Suffix,naipia,200,AC
+2016-10-29 21:27:39+0900,B - Median Pyramid Easy,hiwang123,400,AC
+2016-10-29 21:27:37+0900,B - Median Pyramid Easy,yamad,0,WA
+2016-10-29 21:27:36+0900,B - Median Pyramid Easy,Gobi,0,WA
+2016-10-29 21:27:34+0900,B - Median Pyramid Easy,praran26,400,AC
+2016-10-29 21:27:34+0900,B - Median Pyramid Easy,shio,0,WA
+2016-10-29 21:27:33+0900,A - Prefix and Suffix,xml9shiki,200,AC
+2016-10-29 21:27:32+0900,B - Median Pyramid Easy,hamukichi,400,AC
+2016-10-29 21:27:22+0900,B - Median Pyramid Easy,jcvb,400,AC
+2016-10-29 21:27:18+0900,B - Median Pyramid Easy,treeone,400,AC
+2016-10-29 21:27:17+0900,A - Prefix and Suffix,suzukim0702,200,AC
+2016-10-29 21:27:15+0900,B - Median Pyramid Easy,Yamatan,0,WA
+2016-10-29 21:27:13+0900,D - Median Pyramid Hard,SYury,0,WA
+2016-10-29 21:27:11+0900,A - Prefix and Suffix,slowrunner,0,WA
+2016-10-29 21:27:09+0900,B - Median Pyramid Easy,elkurin,400,AC
+2016-10-29 21:27:08+0900,B - Median Pyramid Easy,alecsyde,0,WA
+2016-10-29 21:27:06+0900,B - Median Pyramid Easy,suzume,0,WA
+2016-10-29 21:27:04+0900,A - Prefix and Suffix,harshit_27,200,AC
+2016-10-29 21:27:02+0900,B - Median Pyramid Easy,Muco,400,AC
+2016-10-29 21:26:59+0900,B - Median Pyramid Easy,yuiop,400,AC
+2016-10-29 21:26:58+0900,B - Median Pyramid Easy,namelessmonster,0,WA
+2016-10-29 21:26:51+0900,B - Median Pyramid Easy,mrphat,0,WA
+2016-10-29 21:26:50+0900,B - Median Pyramid Easy,Deemo,0,WA
+2016-10-29 21:26:49+0900,A - Prefix and Suffix,shirokumight,200,AC
+2016-10-29 21:26:47+0900,A - Prefix and Suffix,Bwambocos,0,WA
+2016-10-29 21:26:44+0900,A - Prefix and Suffix,tatsuyuki,0,WA
+2016-10-29 21:26:42+0900,B - Median Pyramid Easy,L3Sota,0,WA
+2016-10-29 21:26:41+0900,A - Prefix and Suffix,catupper,200,AC
+2016-10-29 21:26:38+0900,B - Median Pyramid Easy,rucm,0,WA
+2016-10-29 21:26:34+0900,B - Median Pyramid Easy,Lepton,0,WA
+2016-10-29 21:26:32+0900,A - Prefix and Suffix,umashika,200,AC
+2016-10-29 21:26:31+0900,A - Prefix and Suffix,oshiumi,0,WA
+2016-10-29 21:26:21+0900,A - Prefix and Suffix,namelessmonster,0,WA
+2016-10-29 21:26:21+0900,A - Prefix and Suffix,tbhuu,200,AC
+2016-10-29 21:26:20+0900,B - Median Pyramid Easy,conf,0,WA
+2016-10-29 21:26:18+0900,B - Median Pyramid Easy,Arterm,0,WA
+2016-10-29 21:26:18+0900,B - Median Pyramid Easy,SuprDewd,0,WA
+2016-10-29 21:26:17+0900,B - Median Pyramid Easy,adamant,0,WA
+2016-10-29 21:26:15+0900,A - Prefix and Suffix,izac55555333,0,WA
+2016-10-29 21:26:13+0900,A - Prefix and Suffix,tanny,0,WA
+2016-10-29 21:26:12+0900,A - Prefix and Suffix,fushigu,0,WA
+2016-10-29 21:26:06+0900,B - Median Pyramid Easy,noconocolib,0,WA
+2016-10-29 21:26:06+0900,B - Median Pyramid Easy,platypus,0,WA
+2016-10-29 21:25:59+0900,A - Prefix and Suffix,Slman,200,AC
+2016-10-29 21:25:58+0900,A - Prefix and Suffix,tsukamasa,0,WA
+2016-10-29 21:25:53+0900,B - Median Pyramid Easy,polyomino,400,AC
+2016-10-29 21:25:53+0900,B - Median Pyramid Easy,Yamatan,0,WA
+2016-10-29 21:25:52+0900,F - Blackout,apiad,1700,AC
+2016-10-29 21:25:44+0900,A - Prefix and Suffix,MichaelS,200,AC
+2016-10-29 21:25:44+0900,B - Median Pyramid Easy,x20,0,WA
+2016-10-29 21:25:43+0900,B - Median Pyramid Easy,ifsmirnov,400,AC
+2016-10-29 21:25:41+0900,A - Prefix and Suffix,ebicochineal,200,AC
+2016-10-29 21:25:40+0900,B - Median Pyramid Easy,adamant,0,WA
+2016-10-29 21:25:40+0900,B - Median Pyramid Easy,ytsmiling,0,WA
+2016-10-29 21:25:37+0900,A - Prefix and Suffix,boxisgreat,200,AC
+2016-10-29 21:25:34+0900,A - Prefix and Suffix,snowfoxy,200,AC
+2016-10-29 21:25:33+0900,A - Prefix and Suffix,obsproth,200,AC
+2016-10-29 21:25:32+0900,B - Median Pyramid Easy,assy,400,AC
+2016-10-29 21:25:32+0900,A - Prefix and Suffix,newnnewer,200,AC
+2016-10-29 21:25:28+0900,B - Median Pyramid Easy,dohatsutsu,400,AC
+2016-10-29 21:25:25+0900,B - Median Pyramid Easy,startcpp,0,WA
+2016-10-29 21:25:24+0900,B - Median Pyramid Easy,SanSiroWaltz,400,AC
+2016-10-29 21:25:24+0900,A - Prefix and Suffix,nitumeta339,200,AC
+2016-10-29 21:25:23+0900,B - Median Pyramid Easy,mondatto,0,WA
+2016-10-29 21:25:17+0900,B - Median Pyramid Easy,haji,0,RE
+2016-10-29 21:25:16+0900,B - Median Pyramid Easy,anta,400,AC
+2016-10-29 21:25:16+0900,B - Median Pyramid Easy,tata,0,WA
+2016-10-29 21:25:15+0900,A - Prefix and Suffix,histeria,0,WA
+2016-10-29 21:25:13+0900,B - Median Pyramid Easy,atetubou,400,AC
+2016-10-29 21:25:12+0900,B - Median Pyramid Easy,Laakeri,0,WA
+2016-10-29 21:25:11+0900,B - Median Pyramid Easy,Sumeet_Varma,0,WA
+2016-10-29 21:25:11+0900,A - Prefix and Suffix,hyx_mxr,0,WA
+2016-10-29 21:25:03+0900,B - Median Pyramid Easy,MathCrusader,0,WA
+2016-10-29 21:25:00+0900,B - Median Pyramid Easy,melnyk,400,AC
+2016-10-29 21:24:58+0900,B - Median Pyramid Easy,kotatsugame,0,WA
+2016-10-29 21:24:58+0900,B - Median Pyramid Easy,Golovanov399,0,WA
+2016-10-29 21:24:57+0900,B - Median Pyramid Easy,eukaryo,400,AC
+2016-10-29 21:24:56+0900,B - Median Pyramid Easy,sigma425,400,AC
+2016-10-29 21:24:52+0900,B - Median Pyramid Easy,Sumeet_Varma,0,CE
+2016-10-29 21:24:39+0900,B - Median Pyramid Easy,mmxsrup,0,WA
+2016-10-29 21:24:35+0900,A - Prefix and Suffix,caoyu01,0,WA
+2016-10-29 21:24:34+0900,A - Prefix and Suffix,barun511,0,WA
+2016-10-29 21:24:33+0900,B - Median Pyramid Easy,davidkek,0,WA
+2016-10-29 21:24:33+0900,B - Median Pyramid Easy,Kaban5,0,WA
+2016-10-29 21:24:30+0900,A - Prefix and Suffix,liuweiming1997,200,AC
+2016-10-29 21:24:24+0900,B - Median Pyramid Easy,EvgeniSergeev,0,WA
+2016-10-29 21:24:23+0900,A - Prefix and Suffix,mirac1e,200,AC
+2016-10-29 21:24:22+0900,B - Median Pyramid Easy,triplem5ds,0,WA
+2016-10-29 21:24:21+0900,B - Median Pyramid Easy,Hoi_koro,400,AC
+2016-10-29 21:24:19+0900,B - Median Pyramid Easy,mmaxio,400,AC
+2016-10-29 21:24:18+0900,B - Median Pyramid Easy,rapurasu,0,WA
+2016-10-29 21:24:17+0900,A - Prefix and Suffix,skeleton0103,0,WA
+2016-10-29 21:24:15+0900,B - Median Pyramid Easy,Mikester,0,WA
+2016-10-29 21:24:14+0900,B - Median Pyramid Easy,sigma425,0,RE
+2016-10-29 21:24:14+0900,B - Median Pyramid Easy,ytsmiling,0,WA
+2016-10-29 21:24:13+0900,B - Median Pyramid Easy,Deemo,0,WA
+2016-10-29 21:24:11+0900,A - Prefix and Suffix,lucky3977,200,AC
+2016-10-29 21:24:10+0900,A - Prefix and Suffix,raven38,200,AC
+2016-10-29 21:24:09+0900,B - Median Pyramid Easy,kenimo,0,WA
+2016-10-29 21:24:08+0900,A - Prefix and Suffix,caoyu01,0,WA
+2016-10-29 21:24:07+0900,B - Median Pyramid Easy,atetubou,0,RE
+2016-10-29 21:24:02+0900,B - Median Pyramid Easy,ikatanic,400,AC
+2016-10-29 21:24:02+0900,B - Median Pyramid Easy,ei13333,0,WA
+2016-10-29 21:24:01+0900,A - Prefix and Suffix,naro143,0,WA
+2016-10-29 21:24:00+0900,A - Prefix and Suffix,codeador,200,AC
+2016-10-29 21:24:00+0900,B - Median Pyramid Easy,Kostroma,0,WA
+2016-10-29 21:23:58+0900,A - Prefix and Suffix,yoda03,0,RE
+2016-10-29 21:23:55+0900,A - Prefix and Suffix,bdgaqh1889,200,AC
+2016-10-29 21:23:53+0900,B - Median Pyramid Easy,eukaryo,0,WA
+2016-10-29 21:23:50+0900,B - Median Pyramid Easy,sasa99,400,AC
+2016-10-29 21:23:48+0900,B - Median Pyramid Easy,plat,0,WA
+2016-10-29 21:23:46+0900,B - Median Pyramid Easy,yuiop,0,WA
+2016-10-29 21:23:46+0900,B - Median Pyramid Easy,hasi,400,AC
+2016-10-29 21:23:44+0900,A - Prefix and Suffix,Twsc,0,WA
+2016-10-29 21:23:40+0900,B - Median Pyramid Easy,NSTomoS,0,WA
+2016-10-29 21:23:40+0900,A - Prefix and Suffix,fmhr,0,WA
+2016-10-29 21:23:39+0900,A - Prefix and Suffix,Slman,0,RE
+2016-10-29 21:23:38+0900,A - Prefix and Suffix,miraxial,200,AC
+2016-10-29 21:23:37+0900,B - Median Pyramid Easy,hanada3355,0,WA
+2016-10-29 21:23:37+0900,B - Median Pyramid Easy,yash_mittal,400,AC
+2016-10-29 21:23:33+0900,B - Median Pyramid Easy,arukuka,0,WA
+2016-10-29 21:23:31+0900,A - Prefix and Suffix,abitbai,200,AC
+2016-10-29 21:23:26+0900,B - Median Pyramid Easy,ikatanic,0,CE
+2016-10-29 21:23:24+0900,B - Median Pyramid Easy,mmxsrup,0,WA
+2016-10-29 21:23:23+0900,B - Median Pyramid Easy,ei13333,0,WA
+2016-10-29 21:23:23+0900,A - Prefix and Suffix,KY_shi_o,0,WA
+2016-10-29 21:23:20+0900,A - Prefix and Suffix,isshtt,0,WA
+2016-10-29 21:23:19+0900,A - Prefix and Suffix,LitMc,200,AC
+2016-10-29 21:23:17+0900,B - Median Pyramid Easy,atm314,0,WA
+2016-10-29 21:23:14+0900,A - Prefix and Suffix,ab1192296,0,WA
+2016-10-29 21:23:13+0900,A - Prefix and Suffix,cxr1242,0,WA
+2016-10-29 21:23:12+0900,A - Prefix and Suffix,norma,0,WA
+2016-10-29 21:23:09+0900,B - Median Pyramid Easy,sssbear,0,WA
+2016-10-29 21:23:08+0900,A - Prefix and Suffix,algon,200,AC
+2016-10-29 21:23:07+0900,B - Median Pyramid Easy,mondatto,0,WA
+2016-10-29 21:23:06+0900,B - Median Pyramid Easy,logicmachine,400,AC
+2016-10-29 21:23:01+0900,A - Prefix and Suffix,oshiumi,0,WA
+2016-10-29 21:23:00+0900,B - Median Pyramid Easy,devilsanek1,0,WA
+2016-10-29 21:22:59+0900,A - Prefix and Suffix,MMNMM,0,WA
+2016-10-29 21:22:57+0900,B - Median Pyramid Easy,bidzilya,400,AC
+2016-10-29 21:22:56+0900,A - Prefix and Suffix,asagi0909,200,AC
+2016-10-29 21:22:54+0900,A - Prefix and Suffix,dsytk7,200,AC
+2016-10-29 21:22:54+0900,B - Median Pyramid Easy,dprpavlin,400,AC
+2016-10-29 21:22:53+0900,A - Prefix and Suffix,kay,200,AC
+2016-10-29 21:22:51+0900,B - Median Pyramid Easy,endagorion,400,AC
+2016-10-29 21:22:47+0900,A - Prefix and Suffix,wildjuno,200,AC
+2016-10-29 21:22:45+0900,D - Median Pyramid Hard,p_km,0,TLE
+2016-10-29 21:22:37+0900,A - Prefix and Suffix,motxx,200,AC
+2016-10-29 21:22:34+0900,B - Median Pyramid Easy,CoDeRoK,0,WA
+2016-10-29 21:22:34+0900,A - Prefix and Suffix,QianDonglin,200,AC
+2016-10-29 21:22:33+0900,A - Prefix and Suffix,mkjiro,200,AC
+2016-10-29 21:22:33+0900,A - Prefix and Suffix,barun511,0,WA
+2016-10-29 21:22:32+0900,A - Prefix and Suffix,soto800,200,AC
+2016-10-29 21:22:32+0900,C - Rabbit Exercise,catupper,800,AC
+2016-10-29 21:22:32+0900,B - Median Pyramid Easy,hiratai,0,WA
+2016-10-29 21:22:30+0900,B - Median Pyramid Easy,natsuki_subaru,0,WA
+2016-10-29 21:22:29+0900,B - Median Pyramid Easy,toxzi,0,WA
+2016-10-29 21:22:26+0900,B - Median Pyramid Easy,toe42vbnys,0,WA
+2016-10-29 21:22:25+0900,A - Prefix and Suffix,octopuses,200,AC
+2016-10-29 21:22:22+0900,B - Median Pyramid Easy,torus711,0,WA
+2016-10-29 21:22:22+0900,A - Prefix and Suffix,takepan,200,AC
+2016-10-29 21:22:19+0900,B - Median Pyramid Easy,piroz95,400,AC
+2016-10-29 21:22:18+0900,B - Median Pyramid Easy,mamekin,400,AC
+2016-10-29 21:22:14+0900,A - Prefix and Suffix,moxtsuan,200,AC
+2016-10-29 21:22:14+0900,B - Median Pyramid Easy,abyssmall,0,WA
+2016-10-29 21:22:13+0900,B - Median Pyramid Easy,yamad,0,WA
+2016-10-29 21:22:13+0900,A - Prefix and Suffix,newnnewer,0,WA
+2016-10-29 21:22:10+0900,A - Prefix and Suffix,hiuchida,200,AC
+2016-10-29 21:22:10+0900,B - Median Pyramid Easy,anta,0,WA
+2016-10-29 21:21:54+0900,A - Prefix and Suffix,unrar,200,AC
+2016-10-29 21:21:50+0900,A - Prefix and Suffix,unexpected,200,AC
+2016-10-29 21:21:49+0900,A - Prefix and Suffix,airis,200,AC
+2016-10-29 21:21:42+0900,B - Median Pyramid Easy,komendart,400,AC
+2016-10-29 21:21:41+0900,B - Median Pyramid Easy,kotamanegi,0,WA
+2016-10-29 21:21:40+0900,A - Prefix and Suffix,class,200,AC
+2016-10-29 21:21:36+0900,B - Median Pyramid Easy,suigingin,0,WA
+2016-10-29 21:21:35+0900,A - Prefix and Suffix,pettan0818,200,AC
+2016-10-29 21:21:34+0900,A - Prefix and Suffix,astro_lion,200,AC
+2016-10-29 21:21:33+0900,A - Prefix and Suffix,Qfktm,0,TLE
+2016-10-29 21:21:32+0900,A - Prefix and Suffix,shirokumight,0,WA
+2016-10-29 21:21:32+0900,A - Prefix and Suffix,code_astra,200,AC
+2016-10-29 21:21:30+0900,B - Median Pyramid Easy,yanagi3150,0,WA
+2016-10-29 21:21:29+0900,A - Prefix and Suffix,lovemma,200,AC
+2016-10-29 21:21:28+0900,B - Median Pyramid Easy,tos,0,WA
+2016-10-29 21:21:18+0900,A - Prefix and Suffix,L3Sota,0,WA
+2016-10-29 21:21:18+0900,B - Median Pyramid Easy,natsuki_subaru,0,WA
+2016-10-29 21:21:15+0900,B - Median Pyramid Easy,hanada3355,0,WA
+2016-10-29 21:21:14+0900,B - Median Pyramid Easy,Rafbill,400,AC
+2016-10-29 21:21:11+0900,B - Median Pyramid Easy,King_George,400,AC
+2016-10-29 21:21:09+0900,B - Median Pyramid Easy,fahim,0,WA
+2016-10-29 21:21:08+0900,A - Prefix and Suffix,ainta,200,AC
+2016-10-29 21:21:08+0900,A - Prefix and Suffix,MichaelS,0,WA
+2016-10-29 21:21:07+0900,A - Prefix and Suffix,physics0523,200,AC
+2016-10-29 21:21:06+0900,A - Prefix and Suffix,wannkotonyannko,200,AC
+2016-10-29 21:21:01+0900,A - Prefix and Suffix,ray45422,200,AC
+2016-10-29 21:21:00+0900,B - Median Pyramid Easy,yash_mittal,0,WA
+2016-10-29 21:21:00+0900,A - Prefix and Suffix,Bwambocos,0,WA
+2016-10-29 21:20:59+0900,B - Median Pyramid Easy,ec24,0,WA
+2016-10-29 21:20:58+0900,A - Prefix and Suffix,Nurbakhyt,200,AC
+2016-10-29 21:20:56+0900,B - Median Pyramid Easy,aid,400,AC
+2016-10-29 21:20:56+0900,A - Prefix and Suffix,untan,0,WA
+2016-10-29 21:20:55+0900,A - Prefix and Suffix,urumeiwashi,200,AC
+2016-10-29 21:20:53+0900,B - Median Pyramid Easy,gantheory,0,WA
+2016-10-29 21:20:53+0900,B - Median Pyramid Easy,cryptomanic,0,WA
+2016-10-29 21:20:50+0900,B - Median Pyramid Easy,I3MNIX,0,WA
+2016-10-29 21:20:49+0900,A - Prefix and Suffix,LitMc,0,WA
+2016-10-29 21:20:49+0900,A - Prefix and Suffix,tapuinu,0,WA
+2016-10-29 21:20:43+0900,A - Prefix and Suffix,cider,0,WA
+2016-10-29 21:20:43+0900,B - Median Pyramid Easy,behzad_nouri,400,AC
+2016-10-29 21:20:41+0900,B - Median Pyramid Easy,hirokazu1020,0,WA
+2016-10-29 21:20:40+0900,B - Median Pyramid Easy,dhruvsrivastava,0,WA
+2016-10-29 21:20:31+0900,B - Median Pyramid Easy,qazwsxedcrfvtg14,400,AC
+2016-10-29 21:20:30+0900,A - Prefix and Suffix,claw88,200,AC
+2016-10-29 21:20:25+0900,B - Median Pyramid Easy,oyas,0,WA
+2016-10-29 21:20:23+0900,A - Prefix and Suffix,soto800,0,WA
+2016-10-29 21:20:19+0900,B - Median Pyramid Easy,maroonrk,400,AC
+2016-10-29 21:20:17+0900,B - Median Pyramid Easy,ainta,400,AC
+2016-10-29 21:20:13+0900,B - Median Pyramid Easy,gktni,0,WA
+2016-10-29 21:20:12+0900,A - Prefix and Suffix,shi2chuan1,0,WA
+2016-10-29 21:20:07+0900,B - Median Pyramid Easy,ysakasin,0,WA
+2016-10-29 21:20:00+0900,B - Median Pyramid Easy,zemen,400,AC
+2016-10-29 21:19:58+0900,A - Prefix and Suffix,ShawnJi,200,AC
+2016-10-29 21:19:56+0900,B - Median Pyramid Easy,ifsmirnov,0,WA
+2016-10-29 21:19:56+0900,A - Prefix and Suffix,chintu,200,AC
+2016-10-29 21:19:56+0900,B - Median Pyramid Easy,sandeepveethu,0,WA
+2016-10-29 21:19:56+0900,B - Median Pyramid Easy,aid,0,RE
+2016-10-29 21:19:54+0900,A - Prefix and Suffix,hecatier,0,WA
+2016-10-29 21:19:54+0900,B - Median Pyramid Easy,ainta,0,WA
+2016-10-29 21:19:50+0900,B - Median Pyramid Easy,dreamoon,400,AC
+2016-10-29 21:19:43+0900,A - Prefix and Suffix,TakiAugust,200,AC
+2016-10-29 21:19:42+0900,A - Prefix and Suffix,nadchu,200,AC
+2016-10-29 21:19:40+0900,A - Prefix and Suffix,midare1046,200,AC
+2016-10-29 21:19:37+0900,A - Prefix and Suffix,stni,200,AC
+2016-10-29 21:19:33+0900,A - Prefix and Suffix,Ryui,200,AC
+2016-10-29 21:19:31+0900,A - Prefix and Suffix,ab1192296,0,WA
+2016-10-29 21:19:29+0900,A - Prefix and Suffix,chintu,0,CE
+2016-10-29 21:19:28+0900,A - Prefix and Suffix,skeleton0103,0,WA
+2016-10-29 21:19:28+0900,B - Median Pyramid Easy,maroonrk,0,WA
+2016-10-29 21:19:27+0900,B - Median Pyramid Easy,ruaruarua,0,WA
+2016-10-29 21:19:22+0900,A - Prefix and Suffix,dream_tenda,200,AC
+2016-10-29 21:19:22+0900,B - Median Pyramid Easy,cojna,0,WA
+2016-10-29 21:19:22+0900,B - Median Pyramid Easy,yosupo,400,AC
+2016-10-29 21:19:20+0900,B - Median Pyramid Easy,keitoff314,0,WA
+2016-10-29 21:19:20+0900,B - Median Pyramid Easy,riadwaw,400,AC
+2016-10-29 21:19:19+0900,B - Median Pyramid Easy,bigINnnner,400,AC
+2016-10-29 21:19:16+0900,B - Median Pyramid Easy,USA,400,AC
+2016-10-29 21:19:12+0900,A - Prefix and Suffix,fnf,200,AC
+2016-10-29 21:19:07+0900,B - Median Pyramid Easy,LHiC,400,AC
+2016-10-29 21:19:06+0900,B - Median Pyramid Easy,haji,0,WA
+2016-10-29 21:19:06+0900,A - Prefix and Suffix,unexpected,0,WA
+2016-10-29 21:19:05+0900,A - Prefix and Suffix,moon_light,0,WA
+2016-10-29 21:19:00+0900,A - Prefix and Suffix,Pulmn,200,AC
+2016-10-29 21:18:59+0900,A - Prefix and Suffix,JKJeong,200,AC
+2016-10-29 21:18:58+0900,A - Prefix and Suffix,Gale,0,WA
+2016-10-29 21:18:58+0900,A - Prefix and Suffix,osoken,200,AC
+2016-10-29 21:18:56+0900,B - Median Pyramid Easy,mHuman,0,WA
+2016-10-29 21:18:56+0900,A - Prefix and Suffix,ruaruarua,0,RE
+2016-10-29 21:18:45+0900,A - Prefix and Suffix,noy72,200,AC
+2016-10-29 21:18:39+0900,A - Prefix and Suffix,yoyoyousei,200,AC
+2016-10-29 21:18:39+0900,A - Prefix and Suffix,histeria,0,WA
+2016-10-29 21:18:36+0900,A - Prefix and Suffix,tatsuyuki,0,WA
+2016-10-29 21:18:35+0900,B - Median Pyramid Easy,maroonrk,0,WA
+2016-10-29 21:18:34+0900,B - Median Pyramid Easy,sandeepveethu,0,WA
+2016-10-29 21:18:32+0900,B - Median Pyramid Easy,QAQ,0,WA
+2016-10-29 21:18:30+0900,A - Prefix and Suffix,Bwambocos,0,WA
+2016-10-29 21:18:28+0900,B - Median Pyramid Easy,yamad,0,WA
+2016-10-29 21:18:27+0900,B - Median Pyramid Easy,USA,0,WA
+2016-10-29 21:18:24+0900,A - Prefix and Suffix,Aslan168,200,AC
+2016-10-29 21:18:23+0900,A - Prefix and Suffix,pkMZ75105,200,AC
+2016-10-29 21:18:20+0900,A - Prefix and Suffix,coffeeapple,0,WA
+2016-10-29 21:18:20+0900,A - Prefix and Suffix,p4869,200,AC
+2016-10-29 21:18:19+0900,B - Median Pyramid Easy,startcpp,0,WA
+2016-10-29 21:18:18+0900,A - Prefix and Suffix,cxr1242,0,WA
+2016-10-29 21:18:18+0900,B - Median Pyramid Easy,dened,0,WA
+2016-10-29 21:18:17+0900,B - Median Pyramid Easy,ruaruarua,0,RE
+2016-10-29 21:18:15+0900,B - Median Pyramid Easy,Sumeet_Varma,0,WA
+2016-10-29 21:18:14+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 21:18:13+0900,B - Median Pyramid Easy,L3Sota,0,WA
+2016-10-29 21:18:12+0900,A - Prefix and Suffix,whileD,200,AC
+2016-10-29 21:18:10+0900,A - Prefix and Suffix,Flowstatic,200,AC
+2016-10-29 21:18:08+0900,A - Prefix and Suffix,histeria,0,CE
+2016-10-29 21:18:07+0900,A - Prefix and Suffix,Gobi,200,AC
+2016-10-29 21:18:05+0900,A - Prefix and Suffix,whileD,0,CE
+2016-10-29 21:18:04+0900,A - Prefix and Suffix,piyohook,0,WA
+2016-10-29 21:18:03+0900,A - Prefix and Suffix,freestyler,200,AC
+2016-10-29 21:18:01+0900,B - Median Pyramid Easy,haji,0,WA
+2016-10-29 21:18:01+0900,A - Prefix and Suffix,beet,200,AC
+2016-10-29 21:18:01+0900,A - Prefix and Suffix,ltomic,200,AC
+2016-10-29 21:18:00+0900,A - Prefix and Suffix,momotaro1303,200,AC
+2016-10-29 21:17:59+0900,B - Median Pyramid Easy,tashikani,0,WA
+2016-10-29 21:17:58+0900,A - Prefix and Suffix,Nekomimimi,200,AC
+2016-10-29 21:17:51+0900,A - Prefix and Suffix,hecatier,0,WA
+2016-10-29 21:17:51+0900,B - Median Pyramid Easy,dprpavlin,0,WA
+2016-10-29 21:17:49+0900,A - Prefix and Suffix,ruaruarua,0,RE
+2016-10-29 21:17:47+0900,A - Prefix and Suffix,autumn_eel,200,AC
+2016-10-29 21:17:46+0900,B - Median Pyramid Easy,maroonrk,0,WA
+2016-10-29 21:17:45+0900,B - Median Pyramid Easy,bigINnnner,0,RE
+2016-10-29 21:17:44+0900,A - Prefix and Suffix,patcoderp,200,AC
+2016-10-29 21:17:44+0900,A - Prefix and Suffix,reew2n,200,AC
+2016-10-29 21:17:41+0900,A - Prefix and Suffix,kasimatatomoya,0,WA
+2016-10-29 21:17:39+0900,B - Median Pyramid Easy,ei13333,0,WA
+2016-10-29 21:17:37+0900,A - Prefix and Suffix,muctera,200,AC
+2016-10-29 21:17:35+0900,A - Prefix and Suffix,Zako_G,200,AC
+2016-10-29 21:17:35+0900,A - Prefix and Suffix,fox0430,0,WA
+2016-10-29 21:17:35+0900,B - Median Pyramid Easy,plat,0,WA
+2016-10-29 21:17:35+0900,A - Prefix and Suffix,yukidaruma6,0,WA
+2016-10-29 21:17:33+0900,A - Prefix and Suffix,histeria,0,CE
+2016-10-29 21:17:33+0900,A - Prefix and Suffix,pwild,200,AC
+2016-10-29 21:17:30+0900,A - Prefix and Suffix,kurokoji,200,AC
+2016-10-29 21:17:28+0900,A - Prefix and Suffix,noy72,0,WA
+2016-10-29 21:17:28+0900,A - Prefix and Suffix,ptt_kr,200,AC
+2016-10-29 21:17:21+0900,A - Prefix and Suffix,MichaelS,0,WA
+2016-10-29 21:17:13+0900,A - Prefix and Suffix,nueve,200,AC
+2016-10-29 21:17:10+0900,A - Prefix and Suffix,frnfnts,200,AC
+2016-10-29 21:17:09+0900,A - Prefix and Suffix,peradfn1126,200,AC
+2016-10-29 21:17:09+0900,B - Median Pyramid Easy,kawatea,400,AC
+2016-10-29 21:17:08+0900,A - Prefix and Suffix,remin,200,AC
+2016-10-29 21:17:07+0900,A - Prefix and Suffix,ruaruarua,200,AC
+2016-10-29 21:17:05+0900,A - Prefix and Suffix,ikeha,200,AC
+2016-10-29 21:17:04+0900,A - Prefix and Suffix,skeleton0103,0,WA
+2016-10-29 21:17:01+0900,A - Prefix and Suffix,HnVahidi,200,AC
+2016-10-29 21:17:01+0900,B - Median Pyramid Easy,mio_h1917,0,WA
+2016-10-29 21:16:57+0900,B - Median Pyramid Easy,shiratty8,0,WA
+2016-10-29 21:16:56+0900,B - Median Pyramid Easy,pekempey,0,WA
+2016-10-29 21:16:53+0900,A - Prefix and Suffix,superk69,200,AC
+2016-10-29 21:16:52+0900,B - Median Pyramid Easy,haji,0,WA
+2016-10-29 21:16:47+0900,A - Prefix and Suffix,chintu,0,WA
+2016-10-29 21:16:45+0900,A - Prefix and Suffix,unexpected,0,WA
+2016-10-29 21:16:42+0900,B - Median Pyramid Easy,Kostroma,0,WA
+2016-10-29 21:16:42+0900,A - Prefix and Suffix,deraken,200,AC
+2016-10-29 21:16:38+0900,B - Median Pyramid Easy,ruaruarua,0,RE
+2016-10-29 21:16:36+0900,B - Median Pyramid Easy,SYury,400,AC
+2016-10-29 21:16:35+0900,A - Prefix and Suffix,ducktail,200,AC
+2016-10-29 21:16:33+0900,A - Prefix and Suffix,class,0,RE
+2016-10-29 21:16:28+0900,A - Prefix and Suffix,noconocolib,200,AC
+2016-10-29 21:16:28+0900,A - Prefix and Suffix,frnfnts,0,WA
+2016-10-29 21:16:26+0900,A - Prefix and Suffix,TryMyEdge,200,AC
+2016-10-29 21:16:22+0900,A - Prefix and Suffix,pwild,0,RE
+2016-10-29 21:16:21+0900,B - Median Pyramid Easy,sumoooru,0,WA
+2016-10-29 21:16:20+0900,A - Prefix and Suffix,ruaruarua,0,RE
+2016-10-29 21:16:18+0900,B - Median Pyramid Easy,CoDeRoK,0,WA
+2016-10-29 21:16:17+0900,B - Median Pyramid Easy,chenmark,0,WA
+2016-10-29 21:16:15+0900,A - Prefix and Suffix,Sryo7809,0,WA
+2016-10-29 21:16:13+0900,A - Prefix and Suffix,ebicochineal,0,WA
+2016-10-29 21:16:12+0900,B - Median Pyramid Easy,Ra16bit,400,AC
+2016-10-29 21:16:09+0900,B - Median Pyramid Easy,octopuses,0,WA
+2016-10-29 21:16:05+0900,A - Prefix and Suffix,rain528,200,AC
+2016-10-29 21:16:05+0900,A - Prefix and Suffix,qq1771203081,200,AC
+2016-10-29 21:16:03+0900,A - Prefix and Suffix,ehot_rascal,200,AC
+2016-10-29 21:15:56+0900,B - Median Pyramid Easy,npz35,0,WA
+2016-10-29 21:15:49+0900,A - Prefix and Suffix,ZxFkcjgN,200,AC
+2016-10-29 21:15:49+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 21:15:48+0900,A - Prefix and Suffix,AndreiNet,0,WA
+2016-10-29 21:15:46+0900,A - Prefix and Suffix,piyohook,0,WA
+2016-10-29 21:15:42+0900,C - Rabbit Exercise,Arterm,800,AC
+2016-10-29 21:15:40+0900,A - Prefix and Suffix,midare1046,0,RE
+2016-10-29 21:15:35+0900,A - Prefix and Suffix,dplus1016,0,WA
+2016-10-29 21:15:35+0900,A - Prefix and Suffix,Titanium_Owner,0,WA
+2016-10-29 21:15:34+0900,A - Prefix and Suffix,p4869,0,WA
+2016-10-29 21:15:34+0900,A - Prefix and Suffix,rollman,200,AC
+2016-10-29 21:15:32+0900,A - Prefix and Suffix,minaminao,200,AC
+2016-10-29 21:15:32+0900,B - Median Pyramid Easy,riadwaw,0,WA
+2016-10-29 21:15:30+0900,A - Prefix and Suffix,yut071,200,AC
+2016-10-29 21:15:23+0900,B - Median Pyramid Easy,kmjp,400,AC
+2016-10-29 21:15:22+0900,A - Prefix and Suffix,Abra_Stone,200,AC
+2016-10-29 21:15:22+0900,B - Median Pyramid Easy,SanSiroWaltz,0,WA
+2016-10-29 21:15:20+0900,F - Blackout,apiad,0,WA
+2016-10-29 21:15:20+0900,B - Median Pyramid Easy,koosaga,400,AC
+2016-10-29 21:15:15+0900,A - Prefix and Suffix,fushime2,200,AC
+2016-10-29 21:15:13+0900,A - Prefix and Suffix,kzyKT,200,AC
+2016-10-29 21:15:11+0900,A - Prefix and Suffix,histeria,0,CE
+2016-10-29 21:15:11+0900,B - Median Pyramid Easy,plat,0,WA
+2016-10-29 21:15:09+0900,A - Prefix and Suffix,oyoot,200,AC
+2016-10-29 21:15:09+0900,B - Median Pyramid Easy,sd0061,400,AC
+2016-10-29 21:15:08+0900,A - Prefix and Suffix,kurenai3110,200,AC
+2016-10-29 21:15:06+0900,B - Median Pyramid Easy,hashiryo,0,WA
+2016-10-29 21:15:05+0900,B - Median Pyramid Easy,uwi,400,AC
+2016-10-29 21:15:03+0900,A - Prefix and Suffix,umashika,0,WA
+2016-10-29 21:15:01+0900,A - Prefix and Suffix,apolopt,200,AC
+2016-10-29 21:14:56+0900,A - Prefix and Suffix,makki,0,CE
+2016-10-29 21:14:55+0900,A - Prefix and Suffix,yuki2006,200,AC
+2016-10-29 21:14:54+0900,B - Median Pyramid Easy,aitch,0,WA
+2016-10-29 21:14:54+0900,B - Median Pyramid Easy,rickytheta,400,AC
+2016-10-29 21:14:53+0900,A - Prefix and Suffix,abitbai,0,WA
+2016-10-29 21:14:52+0900,B - Median Pyramid Easy,bigelephant29,400,AC
+2016-10-29 21:14:52+0900,A - Prefix and Suffix,hecatier,0,WA
+2016-10-29 21:14:49+0900,A - Prefix and Suffix,airis,0,WA
+2016-10-29 21:14:45+0900,A - Prefix and Suffix,ka24,200,AC
+2016-10-29 21:14:45+0900,A - Prefix and Suffix,fox0430,0,WA
+2016-10-29 21:14:44+0900,A - Prefix and Suffix,tapuinu,0,WA
+2016-10-29 21:14:42+0900,A - Prefix and Suffix,wtnk0812,200,AC
+2016-10-29 21:14:41+0900,A - Prefix and Suffix,m_buyoh,200,AC
+2016-10-29 21:14:40+0900,A - Prefix and Suffix,sumoooru,200,AC
+2016-10-29 21:14:39+0900,A - Prefix and Suffix,mizutoki_,200,AC
+2016-10-29 21:14:39+0900,A - Prefix and Suffix,rika0384,200,AC
+2016-10-29 21:14:38+0900,B - Median Pyramid Easy,koosaga,0,RE
+2016-10-29 21:14:38+0900,B - Median Pyramid Easy,garnacha,0,WA
+2016-10-29 21:14:36+0900,B - Median Pyramid Easy,Robin_Jadoul,0,WA
+2016-10-29 21:14:34+0900,B - Median Pyramid Easy,npz35,0,WA
+2016-10-29 21:14:32+0900,A - Prefix and Suffix,chintu,0,WA
+2016-10-29 21:14:30+0900,A - Prefix and Suffix,asagi0909,0,RE
+2016-10-29 21:14:27+0900,A - Prefix and Suffix,hiyokko2,200,AC
+2016-10-29 21:14:23+0900,A - Prefix and Suffix,drone4888,200,AC
+2016-10-29 21:14:19+0900,A - Prefix and Suffix,ifsmirnov,200,AC
+2016-10-29 21:14:19+0900,A - Prefix and Suffix,rucm,200,AC
+2016-10-29 21:14:16+0900,A - Prefix and Suffix,dragon2fly,200,AC
+2016-10-29 21:14:15+0900,A - Prefix and Suffix,m_buyoh,0,WA
+2016-10-29 21:14:14+0900,B - Median Pyramid Easy,koosaga,0,WA
+2016-10-29 21:14:14+0900,B - Median Pyramid Easy,tatuyan,0,WA
+2016-10-29 21:14:10+0900,A - Prefix and Suffix,tossy,200,AC
+2016-10-29 21:14:10+0900,A - Prefix and Suffix,ptt_kr,0,WA
+2016-10-29 21:14:10+0900,A - Prefix and Suffix,shio,200,AC
+2016-10-29 21:14:08+0900,A - Prefix and Suffix,Pulmn,0,WA
+2016-10-29 21:14:07+0900,B - Median Pyramid Easy,oyas,0,WA
+2016-10-29 21:13:59+0900,B - Median Pyramid Easy,t8m8,0,WA
+2016-10-29 21:13:58+0900,A - Prefix and Suffix,TAB,200,AC
+2016-10-29 21:13:57+0900,B - Median Pyramid Easy,majk,400,AC
+2016-10-29 21:13:57+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 21:13:55+0900,A - Prefix and Suffix,mino,200,AC
+2016-10-29 21:13:55+0900,A - Prefix and Suffix,ytsmiling,200,AC
+2016-10-29 21:13:53+0900,A - Prefix and Suffix,ACforgood,200,AC
+2016-10-29 21:13:53+0900,A - Prefix and Suffix,icchyr,0,WA
+2016-10-29 21:13:52+0900,A - Prefix and Suffix,ebicochineal,0,WA
+2016-10-29 21:13:51+0900,A - Prefix and Suffix,HORI1991,200,AC
+2016-10-29 21:13:50+0900,A - Prefix and Suffix,nmmlitswe,200,AC
+2016-10-29 21:13:50+0900,A - Prefix and Suffix,TonyMooori,200,AC
+2016-10-29 21:13:50+0900,B - Median Pyramid Easy,markysha,0,WA
+2016-10-29 21:13:49+0900,B - Median Pyramid Easy,kotamanegi,0,WA
+2016-10-29 21:13:47+0900,A - Prefix and Suffix,yana87,200,AC
+2016-10-29 21:13:45+0900,A - Prefix and Suffix,tomiscript,200,AC
+2016-10-29 21:13:45+0900,A - Prefix and Suffix,rollman,0,WA
+2016-10-29 21:13:43+0900,B - Median Pyramid Easy,Archazey,0,WA
+2016-10-29 21:13:40+0900,B - Median Pyramid Easy,tsutaj,0,WA
+2016-10-29 21:13:40+0900,A - Prefix and Suffix,IDrandom,200,AC
+2016-10-29 21:13:40+0900,A - Prefix and Suffix,ryogo108,200,AC
+2016-10-29 21:13:38+0900,A - Prefix and Suffix,hey,0,WA
+2016-10-29 21:13:36+0900,A - Prefix and Suffix,ka24,0,RE
+2016-10-29 21:13:35+0900,B - Median Pyramid Easy,shik,400,AC
+2016-10-29 21:13:32+0900,A - Prefix and Suffix,howudoin,200,AC
+2016-10-29 21:13:27+0900,A - Prefix and Suffix,nes_in_it,200,AC
+2016-10-29 21:13:26+0900,A - Prefix and Suffix,class,0,TLE
+2016-10-29 21:13:26+0900,A - Prefix and Suffix,oshiumi,0,WA
+2016-10-29 21:13:26+0900,A - Prefix and Suffix,abitbai,0,WA
+2016-10-29 21:13:24+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 21:13:21+0900,A - Prefix and Suffix,PSMao,200,AC
+2016-10-29 21:13:19+0900,A - Prefix and Suffix,amano,200,AC
+2016-10-29 21:13:19+0900,A - Prefix and Suffix,devilsanek1,200,AC
+2016-10-29 21:13:17+0900,B - Median Pyramid Easy,tloinuy,0,WA
+2016-10-29 21:13:15+0900,A - Prefix and Suffix,nectar,200,AC
+2016-10-29 21:13:14+0900,A - Prefix and Suffix,yukidaruma6,0,WA
+2016-10-29 21:13:12+0900,A - Prefix and Suffix,ebicochineal,0,WA
+2016-10-29 21:13:11+0900,B - Median Pyramid Easy,sslotin,0,WA
+2016-10-29 21:13:10+0900,A - Prefix and Suffix,ninja7,200,AC
+2016-10-29 21:13:10+0900,B - Median Pyramid Easy,tomabou,0,WA
+2016-10-29 21:13:08+0900,B - Median Pyramid Easy,WuHongxun,0,WA
+2016-10-29 21:13:04+0900,A - Prefix and Suffix,mgr0204,200,AC
+2016-10-29 21:13:04+0900,A - Prefix and Suffix,zln139,200,AC
+2016-10-29 21:13:03+0900,A - Prefix and Suffix,PSMao,0,CE
+2016-10-29 21:13:03+0900,A - Prefix and Suffix,deoxy,200,AC
+2016-10-29 21:13:02+0900,A - Prefix and Suffix,darjeeling,0,WA
+2016-10-29 21:13:02+0900,A - Prefix and Suffix,keitoff314,200,AC
+2016-10-29 21:13:01+0900,B - Median Pyramid Easy,pekempey,0,WA
+2016-10-29 21:12:59+0900,A - Prefix and Suffix,yut071,0,WA
+2016-10-29 21:12:56+0900,B - Median Pyramid Easy,Huziwara,0,WA
+2016-10-29 21:12:54+0900,B - Median Pyramid Easy,FF256grhy,0,WA
+2016-10-29 21:12:50+0900,A - Prefix and Suffix,kbu1564,200,AC
+2016-10-29 21:12:45+0900,A - Prefix and Suffix,Allen,200,AC
+2016-10-29 21:12:44+0900,A - Prefix and Suffix,QianDonglin,0,WA
+2016-10-29 21:12:41+0900,A - Prefix and Suffix,mrphat,200,AC
+2016-10-29 21:12:39+0900,A - Prefix and Suffix,Yamatan,200,AC
+2016-10-29 21:12:39+0900,B - Median Pyramid Easy,t8m8,0,WA
+2016-10-29 21:12:38+0900,A - Prefix and Suffix,u_chi_ha_ra_,0,WA
+2016-10-29 21:12:37+0900,B - Median Pyramid Easy,yuiop,0,WA
+2016-10-29 21:12:34+0900,A - Prefix and Suffix,NSTomoS,200,AC
+2016-10-29 21:12:34+0900,A - Prefix and Suffix,ninja7,0,WA
+2016-10-29 21:12:33+0900,A - Prefix and Suffix,TryMyEdge,0,WA
+2016-10-29 21:12:31+0900,B - Median Pyramid Easy,Golovanov399,0,WA
+2016-10-29 21:12:29+0900,A - Prefix and Suffix,sujin2010,200,AC
+2016-10-29 21:12:28+0900,A - Prefix and Suffix,plat,200,AC
+2016-10-29 21:12:26+0900,A - Prefix and Suffix,isshtt,0,WA
+2016-10-29 21:12:26+0900,A - Prefix and Suffix,nurseyit200,200,AC
+2016-10-29 21:12:25+0900,B - Median Pyramid Easy,jiaqiyang,0,WA
+2016-10-29 21:12:24+0900,A - Prefix and Suffix,sssbear,200,AC
+2016-10-29 21:12:19+0900,A - Prefix and Suffix,ifsmirnov,0,WA
+2016-10-29 21:12:18+0900,B - Median Pyramid Easy,praran26,0,WA
+2016-10-29 21:12:15+0900,A - Prefix and Suffix,Arkin,200,AC
+2016-10-29 21:12:15+0900,A - Prefix and Suffix,ysakasin,200,AC
+2016-10-29 21:12:14+0900,B - Median Pyramid Easy,rantd,0,WA
+2016-10-29 21:12:12+0900,A - Prefix and Suffix,ukuku09,200,AC
+2016-10-29 21:12:11+0900,B - Median Pyramid Easy,selpo,0,WA
+2016-10-29 21:12:10+0900,A - Prefix and Suffix,xuanquang1999,200,AC
+2016-10-29 21:12:09+0900,A - Prefix and Suffix,woodcoding,0,WA
+2016-10-29 21:12:09+0900,A - Prefix and Suffix,deidzen,200,AC
+2016-10-29 21:12:06+0900,A - Prefix and Suffix,tom94826,200,AC
+2016-10-29 21:12:06+0900,A - Prefix and Suffix,ion,200,AC
+2016-10-29 21:12:03+0900,A - Prefix and Suffix,kurenaif,200,AC
+2016-10-29 21:12:03+0900,A - Prefix and Suffix,yukidaruma6,0,WA
+2016-10-29 21:12:02+0900,A - Prefix and Suffix,mscle11,200,AC
+2016-10-29 21:12:02+0900,A - Prefix and Suffix,commy,200,AC
+2016-10-29 21:12:01+0900,A - Prefix and Suffix,mino,0,WA
+2016-10-29 21:12:01+0900,B - Median Pyramid Easy,creatnx,0,WA
+2016-10-29 21:11:59+0900,A - Prefix and Suffix,ishowta,200,AC
+2016-10-29 21:11:58+0900,B - Median Pyramid Easy,yoseisan,0,WA
+2016-10-29 21:11:57+0900,A - Prefix and Suffix,freeloop,200,AC
+2016-10-29 21:11:57+0900,B - Median Pyramid Easy,x20,0,WA
+2016-10-29 21:11:55+0900,A - Prefix and Suffix,unexpected,0,WA
+2016-10-29 21:11:55+0900,A - Prefix and Suffix,leign,200,AC
+2016-10-29 21:11:54+0900,A - Prefix and Suffix,unexpected,0,WA
+2016-10-29 21:11:50+0900,A - Prefix and Suffix,narit,200,AC
+2016-10-29 21:11:49+0900,A - Prefix and Suffix,jimmy,200,AC
+2016-10-29 21:11:48+0900,A - Prefix and Suffix,cryptomanic,200,AC
+2016-10-29 21:11:47+0900,A - Prefix and Suffix,ant2357,0,WA
+2016-10-29 21:11:47+0900,A - Prefix and Suffix,unexpected,0,WA
+2016-10-29 21:11:45+0900,A - Prefix and Suffix,kimurasato4,0,WA
+2016-10-29 21:11:45+0900,A - Prefix and Suffix,Johniel,200,AC
+2016-10-29 21:11:42+0900,A - Prefix and Suffix,moguta,200,AC
+2016-10-29 21:11:41+0900,A - Prefix and Suffix,kazu123,200,AC
+2016-10-29 21:11:40+0900,A - Prefix and Suffix,paihu,200,AC
+2016-10-29 21:11:36+0900,A - Prefix and Suffix,kurenai3110,0,WA
+2016-10-29 21:11:36+0900,B - Median Pyramid Easy,CrazyBBB,0,WA
+2016-10-29 21:11:33+0900,A - Prefix and Suffix,jingtian777,200,AC
+2016-10-29 21:11:30+0900,A - Prefix and Suffix,suigingin,200,AC
+2016-10-29 21:11:30+0900,A - Prefix and Suffix,astro_lion,0,WA
+2016-10-29 21:11:29+0900,A - Prefix and Suffix,kotatsugame,200,AC
+2016-10-29 21:11:29+0900,B - Median Pyramid Easy,abeker,0,WA
+2016-10-29 21:11:27+0900,A - Prefix and Suffix,dsytk7,0,WA
+2016-10-29 21:11:27+0900,A - Prefix and Suffix,oda1979,200,AC
+2016-10-29 21:11:27+0900,A - Prefix and Suffix,balakrishnan_v,200,AC
+2016-10-29 21:11:24+0900,A - Prefix and Suffix,Ktya_59,200,AC
+2016-10-29 21:11:21+0900,A - Prefix and Suffix,sim193s,200,AC
+2016-10-29 21:11:21+0900,A - Prefix and Suffix,sandeepveethu,200,AC
+2016-10-29 21:11:20+0900,A - Prefix and Suffix,exqt,200,AC
+2016-10-29 21:11:17+0900,B - Median Pyramid Easy,behzad_nouri,0,WA
+2016-10-29 21:11:17+0900,A - Prefix and Suffix,harmokey,200,AC
+2016-10-29 21:11:15+0900,B - Median Pyramid Easy,tloinuy,0,WA
+2016-10-29 21:11:14+0900,B - Median Pyramid Easy,math,400,AC
+2016-10-29 21:11:12+0900,B - Median Pyramid Easy,shdut,0,WA
+2016-10-29 21:11:11+0900,A - Prefix and Suffix,juechen,200,AC
+2016-10-29 21:11:08+0900,A - Prefix and Suffix,kamo,0,WA
+2016-10-29 21:11:03+0900,A - Prefix and Suffix,moxtsuan,0,WA
+2016-10-29 21:11:02+0900,A - Prefix and Suffix,Mogby,200,AC
+2016-10-29 21:11:02+0900,A - Prefix and Suffix,dotharay,200,AC
+2016-10-29 21:11:00+0900,A - Prefix and Suffix,unexpected,0,WA
+2016-10-29 21:10:56+0900,A - Prefix and Suffix,yukidaruma6,0,RE
+2016-10-29 21:10:52+0900,A - Prefix and Suffix,rantd,200,AC
+2016-10-29 21:10:51+0900,A - Prefix and Suffix,bixind,200,AC
+2016-10-29 21:10:48+0900,A - Prefix and Suffix,exqt,0,WA
+2016-10-29 21:10:47+0900,A - Prefix and Suffix,oyoot,0,WA
+2016-10-29 21:10:41+0900,A - Prefix and Suffix,harry_potter_28,0,WA
+2016-10-29 21:10:41+0900,A - Prefix and Suffix,atm314,200,AC
+2016-10-29 21:10:41+0900,A - Prefix and Suffix,octopuses,0,WA
+2016-10-29 21:10:37+0900,A - Prefix and Suffix,gotofish,200,AC
+2016-10-29 21:10:35+0900,B - Median Pyramid Easy,Mikester,0,WA
+2016-10-29 21:10:35+0900,A - Prefix and Suffix,tinumukiti631,200,AC
+2016-10-29 21:10:35+0900,B - Median Pyramid Easy,anuraganand,0,WA
+2016-10-29 21:10:29+0900,A - Prefix and Suffix,toxzi,200,AC
+2016-10-29 21:10:29+0900,A - Prefix and Suffix,hoget157,200,AC
+2016-10-29 21:10:28+0900,A - Prefix and Suffix,M_Saito,200,AC
+2016-10-29 21:10:27+0900,B - Median Pyramid Easy,spencer,0,WA
+2016-10-29 21:10:25+0900,B - Median Pyramid Easy,melnyk,0,WA
+2016-10-29 21:10:24+0900,A - Prefix and Suffix,Bwambocos,0,WA
+2016-10-29 21:10:24+0900,A - Prefix and Suffix,moxtsuan,0,WA
+2016-10-29 21:10:23+0900,A - Prefix and Suffix,suzukim0702,0,WA
+2016-10-29 21:10:22+0900,A - Prefix and Suffix,froghramar,200,AC
+2016-10-29 21:10:22+0900,B - Median Pyramid Easy,nigus,0,WA
+2016-10-29 21:10:21+0900,A - Prefix and Suffix,hiromi_ayase,200,AC
+2016-10-29 21:10:20+0900,A - Prefix and Suffix,cashisu1,200,AC
+2016-10-29 21:10:19+0900,A - Prefix and Suffix,Robin_Jadoul,200,AC
+2016-10-29 21:10:19+0900,A - Prefix and Suffix,Huziwara,200,AC
+2016-10-29 21:10:19+0900,A - Prefix and Suffix,suzume,200,AC
+2016-10-29 21:10:18+0900,B - Median Pyramid Easy,tanphatls987,0,WA
+2016-10-29 21:10:17+0900,A - Prefix and Suffix,treeone,200,AC
+2016-10-29 21:10:12+0900,A - Prefix and Suffix,tom94826,0,WA
+2016-10-29 21:10:12+0900,A - Prefix and Suffix,Kampachi,200,AC
+2016-10-29 21:10:05+0900,A - Prefix and Suffix,hashiryo,200,AC
+2016-10-29 21:10:00+0900,A - Prefix and Suffix,razvand,200,AC
+2016-10-29 21:09:59+0900,B - Median Pyramid Easy,dreamoon,0,WA
+2016-10-29 21:09:57+0900,A - Prefix and Suffix,Tibixb,200,AC
+2016-10-29 21:09:57+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 21:09:56+0900,A - Prefix and Suffix,balakrishnan_v,0,WA
+2016-10-29 21:09:56+0900,A - Prefix and Suffix,noilm,200,AC
+2016-10-29 21:09:52+0900,A - Prefix and Suffix,hogeover30,200,AC
+2016-10-29 21:09:51+0900,A - Prefix and Suffix,cherry7kurai24,200,AC
+2016-10-29 21:09:50+0900,A - Prefix and Suffix,natsuki_subaru,200,AC
+2016-10-29 21:09:50+0900,A - Prefix and Suffix,vicennial,200,AC
+2016-10-29 21:09:48+0900,A - Prefix and Suffix,ale3otik,200,AC
+2016-10-29 21:09:47+0900,A - Prefix and Suffix,kawabys,200,AC
+2016-10-29 21:09:45+0900,A - Prefix and Suffix,abitbai,0,WA
+2016-10-29 21:09:45+0900,A - Prefix and Suffix,tsfissure,200,AC
+2016-10-29 21:09:39+0900,A - Prefix and Suffix,Gacho_0716,200,AC
+2016-10-29 21:09:37+0900,A - Prefix and Suffix,unexpected,0,WA
+2016-10-29 21:09:34+0900,A - Prefix and Suffix,hiromi_ayase,0,WA
+2016-10-29 21:09:32+0900,B - Median Pyramid Easy,platypus,0,WA
+2016-10-29 21:09:24+0900,A - Prefix and Suffix,T1610,200,AC
+2016-10-29 21:09:22+0900,A - Prefix and Suffix,tutinoko79,0,WA
+2016-10-29 21:09:22+0900,A - Prefix and Suffix,IDrandom,0,WA
+2016-10-29 21:09:21+0900,A - Prefix and Suffix,Tatsuno,200,AC
+2016-10-29 21:09:20+0900,A - Prefix and Suffix,mellotron,200,AC
+2016-10-29 21:09:19+0900,A - Prefix and Suffix,masha_encount,200,AC
+2016-10-29 21:09:18+0900,A - Prefix and Suffix,tsuburin,200,AC
+2016-10-29 21:09:18+0900,A - Prefix and Suffix,mitohato,0,WA
+2016-10-29 21:09:18+0900,A - Prefix and Suffix,h_noson,200,AC
+2016-10-29 21:09:17+0900,B - Median Pyramid Easy,nikutto,0,WA
+2016-10-29 21:09:17+0900,A - Prefix and Suffix,abhishek_saini,200,AC
+2016-10-29 21:09:17+0900,A - Prefix and Suffix,nyon,200,AC
+2016-10-29 21:09:15+0900,A - Prefix and Suffix,ejq,200,AC
+2016-10-29 21:09:15+0900,A - Prefix and Suffix,kenkoooo,200,AC
+2016-10-29 21:09:14+0900,A - Prefix and Suffix,ania,200,AC
+2016-10-29 21:09:14+0900,A - Prefix and Suffix,Paladin,200,AC
+2016-10-29 21:09:13+0900,A - Prefix and Suffix,kimurasato4,0,WA
+2016-10-29 21:09:13+0900,A - Prefix and Suffix,yunmagz,200,AC
+2016-10-29 21:09:10+0900,A - Prefix and Suffix,treeone,0,CE
+2016-10-29 21:09:10+0900,A - Prefix and Suffix,toxzi,0,WA
+2016-10-29 21:09:09+0900,A - Prefix and Suffix,kzyKT,0,WA
+2016-10-29 21:09:09+0900,A - Prefix and Suffix,ptrs,200,AC
+2016-10-29 21:09:09+0900,A - Prefix and Suffix,RAMBO_tejasv,200,AC
+2016-10-29 21:09:09+0900,A - Prefix and Suffix,Gobi,0,WA
+2016-10-29 21:09:04+0900,A - Prefix and Suffix,gumfum,200,AC
+2016-10-29 21:09:04+0900,B - Median Pyramid Easy,I3MNIX,0,WA
+2016-10-29 21:09:01+0900,A - Prefix and Suffix,dhruvsrivastava,200,AC
+2016-10-29 21:09:00+0900,A - Prefix and Suffix,thedark,200,AC
+2016-10-29 21:08:59+0900,A - Prefix and Suffix,kaz49bz,200,AC
+2016-10-29 21:08:56+0900,A - Prefix and Suffix,TryMyEdge,0,WA
+2016-10-29 21:08:56+0900,A - Prefix and Suffix,WaelAlJamal,0,WA
+2016-10-29 21:08:56+0900,A - Prefix and Suffix,tatt61880,200,AC
+2016-10-29 21:08:54+0900,A - Prefix and Suffix,tashikani,200,AC
+2016-10-29 21:08:53+0900,B - Median Pyramid Easy,Laakeri,0,WA
+2016-10-29 21:08:52+0900,B - Median Pyramid Easy,Sumeet_Varma,0,WA
+2016-10-29 21:08:51+0900,A - Prefix and Suffix,Luzhiled,0,WA
+2016-10-29 21:08:47+0900,A - Prefix and Suffix,QAQ,200,AC
+2016-10-29 21:08:45+0900,A - Prefix and Suffix,Stresshoover,200,AC
+2016-10-29 21:08:45+0900,A - Prefix and Suffix,abisheka,200,AC
+2016-10-29 21:08:40+0900,A - Prefix and Suffix,mondatto,200,AC
+2016-10-29 21:08:37+0900,A - Prefix and Suffix,spk,200,AC
+2016-10-29 21:08:37+0900,A - Prefix and Suffix,physics0523,0,WA
+2016-10-29 21:08:35+0900,A - Prefix and Suffix,tsutaj,200,AC
+2016-10-29 21:08:34+0900,A - Prefix and Suffix,yasuyuky,0,WA
+2016-10-29 21:08:34+0900,A - Prefix and Suffix,orisano,200,AC
+2016-10-29 21:08:33+0900,A - Prefix and Suffix,Kaban5,200,AC
+2016-10-29 21:08:33+0900,A - Prefix and Suffix,xuanquang1999,0,WA
+2016-10-29 21:08:32+0900,A - Prefix and Suffix,scor,200,AC
+2016-10-29 21:08:32+0900,A - Prefix and Suffix,Snickeen,200,AC
+2016-10-29 21:08:32+0900,A - Prefix and Suffix,tzhuan,200,AC
+2016-10-29 21:08:31+0900,A - Prefix and Suffix,koyumeishi,200,AC
+2016-10-29 21:08:28+0900,A - Prefix and Suffix,dotharay,0,WA
+2016-10-29 21:08:24+0900,A - Prefix and Suffix,hamukichi,200,AC
+2016-10-29 21:08:24+0900,A - Prefix and Suffix,hiratai,200,AC
+2016-10-29 21:08:21+0900,B - Median Pyramid Easy,johnchen902,0,WA
+2016-10-29 21:08:21+0900,A - Prefix and Suffix,treeone,0,CE
+2016-10-29 21:08:21+0900,A - Prefix and Suffix,jin_matakich,200,AC
+2016-10-29 21:08:20+0900,A - Prefix and Suffix,codeador,0,WA
+2016-10-29 21:08:15+0900,A - Prefix and Suffix,chentong,200,AC
+2016-10-29 21:08:13+0900,A - Prefix and Suffix,tarepan0622,200,AC
+2016-10-29 21:08:12+0900,A - Prefix and Suffix,eukaryo,200,AC
+2016-10-29 21:08:12+0900,A - Prefix and Suffix,tatt61880,0,CE
+2016-10-29 21:08:10+0900,A - Prefix and Suffix,piroz95,200,AC
+2016-10-29 21:08:08+0900,A - Prefix and Suffix,threepipes_s,200,AC
+2016-10-29 21:08:08+0900,A - Prefix and Suffix,TryMyEdge,0,WA
+2016-10-29 21:08:08+0900,B - Median Pyramid Easy,zscoder,0,WA
+2016-10-29 21:08:07+0900,A - Prefix and Suffix,lrmystp,200,AC
+2016-10-29 21:08:05+0900,A - Prefix and Suffix,stni,0,WA
+2016-10-29 21:08:04+0900,A - Prefix and Suffix,unrar,0,WA
+2016-10-29 21:08:04+0900,A - Prefix and Suffix,yu3mars,200,AC
+2016-10-29 21:08:02+0900,A - Prefix and Suffix,Hoi_koro,200,AC
+2016-10-29 21:08:02+0900,A - Prefix and Suffix,davidkek,200,AC
+2016-10-29 21:08:02+0900,A - Prefix and Suffix,yanagi3150,200,AC
+2016-10-29 21:08:02+0900,B - Median Pyramid Easy,roiti,0,WA
+2016-10-29 21:07:59+0900,A - Prefix and Suffix,cstdlib,200,AC
+2016-10-29 21:07:59+0900,A - Prefix and Suffix,overnite81,200,AC
+2016-10-29 21:07:58+0900,A - Prefix and Suffix,tatuyan,200,AC
+2016-10-29 21:07:55+0900,B - Median Pyramid Easy,minaminao,0,WA
+2016-10-29 21:07:55+0900,A - Prefix and Suffix,sean617,200,AC
+2016-10-29 21:07:54+0900,A - Prefix and Suffix,TonyMooori,0,WA
+2016-10-29 21:07:53+0900,A - Prefix and Suffix,hey,0,WA
+2016-10-29 21:07:51+0900,B - Median Pyramid Easy,geniucos,0,WA
+2016-10-29 21:07:48+0900,A - Prefix and Suffix,yuki2006,0,WA
+2016-10-29 21:07:48+0900,A - Prefix and Suffix,PSMao,0,WA
+2016-10-29 21:07:47+0900,A - Prefix and Suffix,makeecat,200,AC
+2016-10-29 21:07:46+0900,A - Prefix and Suffix,mmxsrup,200,AC
+2016-10-29 21:07:46+0900,A - Prefix and Suffix,ek_ss,200,AC
+2016-10-29 21:07:43+0900,A - Prefix and Suffix,tos,200,AC
+2016-10-29 21:07:41+0900,A - Prefix and Suffix,hiwang123,200,AC
+2016-10-29 21:07:41+0900,A - Prefix and Suffix,ctyl,200,AC
+2016-10-29 21:07:39+0900,A - Prefix and Suffix,namelessmonster,200,AC
+2016-10-29 21:07:38+0900,A - Prefix and Suffix,tokumini,200,AC
+2016-10-29 21:07:37+0900,A - Prefix and Suffix,tokumini,200,AC
+2016-10-29 21:07:36+0900,A - Prefix and Suffix,triplem5ds,200,AC
+2016-10-29 21:07:34+0900,A - Prefix and Suffix,gumfum,0,WA
+2016-10-29 21:07:32+0900,A - Prefix and Suffix,sitiya,200,AC
+2016-10-29 21:07:30+0900,B - Median Pyramid Easy,maroonrk,0,WA
+2016-10-29 21:07:30+0900,A - Prefix and Suffix,yuiop,200,AC
+2016-10-29 21:07:30+0900,A - Prefix and Suffix,nebukuro09,200,AC
+2016-10-29 21:07:28+0900,A - Prefix and Suffix,L3Sota,0,WA
+2016-10-29 21:07:26+0900,A - Prefix and Suffix,tata,200,AC
+2016-10-29 21:07:25+0900,A - Prefix and Suffix,flag,200,AC
+2016-10-29 21:07:23+0900,B - Median Pyramid Easy,piroz95,0,WA
+2016-10-29 21:07:23+0900,B - Median Pyramid Easy,kusano,0,WA
+2016-10-29 21:07:23+0900,A - Prefix and Suffix,selpo,200,AC
+2016-10-29 21:07:22+0900,A - Prefix and Suffix,npz35,200,AC
+2016-10-29 21:07:20+0900,B - Median Pyramid Easy,atetubou,0,WA
+2016-10-29 21:07:19+0900,B - Median Pyramid Easy,Y_UME,0,WA
+2016-10-29 21:07:18+0900,A - Prefix and Suffix,arukuka,200,AC
+2016-10-29 21:07:14+0900,B - Median Pyramid Easy,eitaho,0,WA
+2016-10-29 21:07:12+0900,A - Prefix and Suffix,kuuso,200,AC
+2016-10-29 21:07:12+0900,A - Prefix and Suffix,abisheka,0,WA
+2016-10-29 21:07:06+0900,A - Prefix and Suffix,Suibaka,200,AC
+2016-10-29 21:07:06+0900,A - Prefix and Suffix,tochukaso,200,AC
+2016-10-29 21:07:04+0900,A - Prefix and Suffix,gedorinku,200,AC
+2016-10-29 21:07:03+0900,A - Prefix and Suffix,polingy,200,AC
+2016-10-29 21:07:02+0900,A - Prefix and Suffix,jtnydv25,200,AC
+2016-10-29 21:07:02+0900,A - Prefix and Suffix,WuHongxun,200,AC
+2016-10-29 21:07:01+0900,A - Prefix and Suffix,CoDeRoK,200,AC
+2016-10-29 21:07:01+0900,A - Prefix and Suffix,ale3otik,0,WA
+2016-10-29 21:07:00+0900,A - Prefix and Suffix,unrar,0,WA
+2016-10-29 21:06:59+0900,B - Median Pyramid Easy,asi1024,0,WA
+2016-10-29 21:06:57+0900,A - Prefix and Suffix,pepi1707,200,AC
+2016-10-29 21:06:57+0900,A - Prefix and Suffix,shubhamgoyal__,200,AC
+2016-10-29 21:06:56+0900,B - Median Pyramid Easy,pekempey,0,WA
+2016-10-29 21:06:55+0900,A - Prefix and Suffix,grandmaster208,200,AC
+2016-10-29 21:06:53+0900,B - Median Pyramid Easy,snuke,400,AC
+2016-10-29 21:06:53+0900,A - Prefix and Suffix,damekamo,200,AC
+2016-10-29 21:06:53+0900,A - Prefix and Suffix,sugarrr,0,WA
+2016-10-29 21:06:51+0900,A - Prefix and Suffix,yoshum,200,AC
+2016-10-29 21:06:49+0900,A - Prefix and Suffix,startcpp,200,AC
+2016-10-29 21:06:47+0900,A - Prefix and Suffix,unsre,200,AC
+2016-10-29 21:06:47+0900,A - Prefix and Suffix,unexpected,0,WA
+2016-10-29 21:06:46+0900,A - Prefix and Suffix,sekiya9311,200,AC
+2016-10-29 21:06:45+0900,A - Prefix and Suffix,unexpected,0,WA
+2016-10-29 21:06:45+0900,A - Prefix and Suffix,mao,200,AC
+2016-10-29 21:06:45+0900,A - Prefix and Suffix,tossy,0,WA
+2016-10-29 21:06:43+0900,A - Prefix and Suffix,alex_world,200,AC
+2016-10-29 21:06:43+0900,A - Prefix and Suffix,eha,200,AC
+2016-10-29 21:06:42+0900,A - Prefix and Suffix,tinumukiti631,0,WA
+2016-10-29 21:06:39+0900,A - Prefix and Suffix,toxzi,0,WA
+2016-10-29 21:06:39+0900,A - Prefix and Suffix,roto_37,200,AC
+2016-10-29 21:06:38+0900,A - Prefix and Suffix,cojna,200,AC
+2016-10-29 21:06:38+0900,A - Prefix and Suffix,naoyk1212,0,WA
+2016-10-29 21:06:38+0900,A - Prefix and Suffix,devilsanek1,0,WA
+2016-10-29 21:06:37+0900,A - Prefix and Suffix,Daikon,200,AC
+2016-10-29 21:06:37+0900,A - Prefix and Suffix,praran26,200,AC
+2016-10-29 21:06:36+0900,A - Prefix and Suffix,imulan,200,AC
+2016-10-29 21:06:36+0900,A - Prefix and Suffix,selpo,0,WA
+2016-10-29 21:06:36+0900,A - Prefix and Suffix,FF256grhy,200,AC
+2016-10-29 21:06:36+0900,A - Prefix and Suffix,softgoorm,200,AC
+2016-10-29 21:06:35+0900,A - Prefix and Suffix,Kampachi,0,WA
+2016-10-29 21:06:32+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 21:06:30+0900,A - Prefix and Suffix,SuprDewd,200,AC
+2016-10-29 21:06:30+0900,A - Prefix and Suffix,haji,200,AC
+2016-10-29 21:06:30+0900,A - Prefix and Suffix,tankblood,200,AC
+2016-10-29 21:06:25+0900,A - Prefix and Suffix,nutorbit,0,WA
+2016-10-29 21:06:25+0900,A - Prefix and Suffix,rain528,0,WA
+2016-10-29 21:06:21+0900,A - Prefix and Suffix,nokonoko,200,AC
+2016-10-29 21:06:21+0900,A - Prefix and Suffix,gotto,200,AC
+2016-10-29 21:06:21+0900,A - Prefix and Suffix,alex_bucevschi,200,AC
+2016-10-29 21:06:20+0900,A - Prefix and Suffix,cstdlib,0,WA
+2016-10-29 21:06:17+0900,A - Prefix and Suffix,mitohato,0,WA
+2016-10-29 21:06:16+0900,A - Prefix and Suffix,yuki2006,0,WA
+2016-10-29 21:06:14+0900,A - Prefix and Suffix,SriLankan,200,AC
+2016-10-29 21:06:14+0900,A - Prefix and Suffix,One_touch_finish,200,AC
+2016-10-29 21:06:14+0900,A - Prefix and Suffix,oigami,200,AC
+2016-10-29 21:06:13+0900,B - Median Pyramid Easy,j_gui0121,0,WA
+2016-10-29 21:06:13+0900,A - Prefix and Suffix,nigus,200,AC
+2016-10-29 21:06:12+0900,A - Prefix and Suffix,mamekin,200,AC
+2016-10-29 21:06:11+0900,A - Prefix and Suffix,fahim,200,AC
+2016-10-29 21:06:09+0900,A - Prefix and Suffix,satanic0258,200,AC
+2016-10-29 21:06:08+0900,A - Prefix and Suffix,tsuzu,200,AC
+2016-10-29 21:06:08+0900,A - Prefix and Suffix,gktni,0,WA
+2016-10-29 21:06:08+0900,A - Prefix and Suffix,nectar,0,WA
+2016-10-29 21:06:08+0900,A - Prefix and Suffix,toe42vbnys,0,WA
+2016-10-29 21:06:07+0900,A - Prefix and Suffix,gigime,200,AC
+2016-10-29 21:06:07+0900,A - Prefix and Suffix,okaduki,200,AC
+2016-10-29 21:06:06+0900,A - Prefix and Suffix,guangxuan,200,AC
+2016-10-29 21:06:06+0900,A - Prefix and Suffix,LiChenKoh,200,AC
+2016-10-29 21:06:06+0900,A - Prefix and Suffix,minus9d,200,AC
+2016-10-29 21:06:05+0900,A - Prefix and Suffix,sfiction,200,AC
+2016-10-29 21:06:03+0900,A - Prefix and Suffix,beet,0,WA
+2016-10-29 21:06:02+0900,A - Prefix and Suffix,iTakeshi,200,AC
+2016-10-29 21:06:00+0900,A - Prefix and Suffix,rapurasu,200,AC
+2016-10-29 21:05:58+0900,A - Prefix and Suffix,a551100kk,200,AC
+2016-10-29 21:05:57+0900,A - Prefix and Suffix,ACforgood,0,WA
+2016-10-29 21:05:57+0900,A - Prefix and Suffix,latte0119,200,AC
+2016-10-29 21:05:56+0900,A - Prefix and Suffix,mHuman,200,AC
+2016-10-29 21:05:55+0900,A - Prefix and Suffix,sandeepveethu,0,WA
+2016-10-29 21:05:54+0900,A - Prefix and Suffix,pekoong,200,AC
+2016-10-29 21:05:53+0900,A - Prefix and Suffix,jcvb,200,AC
+2016-10-29 21:05:53+0900,A - Prefix and Suffix,nokoTaro,200,AC
+2016-10-29 21:05:53+0900,A - Prefix and Suffix,hoxosh,0,WA
+2016-10-29 21:05:52+0900,A - Prefix and Suffix,Queued,200,AC
+2016-10-29 21:05:50+0900,A - Prefix and Suffix,sntea,200,AC
+2016-10-29 21:05:49+0900,A - Prefix and Suffix,t8m8,200,AC
+2016-10-29 21:05:48+0900,A - Prefix and Suffix,chaemon,200,AC
+2016-10-29 21:05:46+0900,A - Prefix and Suffix,paruki,200,AC
+2016-10-29 21:05:46+0900,A - Prefix and Suffix,Titanium_Owner,0,WA
+2016-10-29 21:05:43+0900,A - Prefix and Suffix,Kuni88,200,AC
+2016-10-29 21:05:43+0900,A - Prefix and Suffix,claw88,0,WA
+2016-10-29 21:05:42+0900,A - Prefix and Suffix,koolboy,200,AC
+2016-10-29 21:05:41+0900,A - Prefix and Suffix,x20,200,AC
+2016-10-29 21:05:40+0900,A - Prefix and Suffix,tosaka2,200,AC
+2016-10-29 21:05:40+0900,A - Prefix and Suffix,Mikester,200,AC
+2016-10-29 21:05:38+0900,A - Prefix and Suffix,AreTrash,200,AC
+2016-10-29 21:05:37+0900,A - Prefix and Suffix,femto16,200,AC
+2016-10-29 21:05:36+0900,A - Prefix and Suffix,Muco,200,AC
+2016-10-29 21:05:35+0900,A - Prefix and Suffix,kakalan,200,AC
+2016-10-29 21:05:34+0900,A - Prefix and Suffix,gantheory,200,AC
+2016-10-29 21:05:34+0900,A - Prefix and Suffix,tomabou,200,AC
+2016-10-29 21:05:33+0900,A - Prefix and Suffix,hirokazu1020,200,AC
+2016-10-29 21:05:32+0900,A - Prefix and Suffix,aitch,200,AC
+2016-10-29 21:05:32+0900,A - Prefix and Suffix,rsalesc,200,AC
+2016-10-29 21:05:32+0900,A - Prefix and Suffix,a2stnk,200,AC
+2016-10-29 21:05:27+0900,A - Prefix and Suffix,oyas,200,AC
+2016-10-29 21:05:26+0900,A - Prefix and Suffix,Yamatan,0,WA
+2016-10-29 21:05:25+0900,A - Prefix and Suffix,CrazyBBB,200,AC
+2016-10-29 21:05:23+0900,A - Prefix and Suffix,angel_p_57,0,WA
+2016-10-29 21:05:23+0900,A - Prefix and Suffix,spencer,200,AC
+2016-10-29 21:05:23+0900,A - Prefix and Suffix,dened,200,AC
+2016-10-29 21:05:22+0900,A - Prefix and Suffix,tsuzu,0,WA
+2016-10-29 21:05:22+0900,A - Prefix and Suffix,eukaryo,0,WA
+2016-10-29 21:05:19+0900,A - Prefix and Suffix,kuuso,0,WA
+2016-10-29 21:05:18+0900,A - Prefix and Suffix,suiyuan2009,200,AC
+2016-10-29 21:05:16+0900,A - Prefix and Suffix,scor,0,WA
+2016-10-29 21:05:14+0900,A - Prefix and Suffix,norma,0,WA
+2016-10-29 21:05:14+0900,A - Prefix and Suffix,bigINnnner,200,AC
+2016-10-29 21:05:13+0900,A - Prefix and Suffix,passcut2000,200,AC
+2016-10-29 21:05:12+0900,A - Prefix and Suffix,tloinuy,200,AC
+2016-10-29 21:05:12+0900,A - Prefix and Suffix,Stresshoover,0,WA
+2016-10-29 21:05:09+0900,A - Prefix and Suffix,ehot_rascal,0,WA
+2016-10-29 21:05:08+0900,A - Prefix and Suffix,mugenen,200,AC
+2016-10-29 21:05:08+0900,A - Prefix and Suffix,poyodr,200,AC
+2016-10-29 21:05:00+0900,A - Prefix and Suffix,phyllo,200,AC
+2016-10-29 21:04:59+0900,A - Prefix and Suffix,alecsyde,200,AC
+2016-10-29 21:04:59+0900,A - Prefix and Suffix,walkre,200,AC
+2016-10-29 21:04:58+0900,A - Prefix and Suffix,Akim,200,AC
+2016-10-29 21:04:57+0900,A - Prefix and Suffix,eha,0,WA
+2016-10-29 21:04:55+0900,A - Prefix and Suffix,Extazy,200,AC
+2016-10-29 21:04:55+0900,A - Prefix and Suffix,plasmaeffect,200,AC
+2016-10-29 21:04:55+0900,A - Prefix and Suffix,elkurin,200,AC
+2016-10-29 21:04:55+0900,A - Prefix and Suffix,AcrossTheSky,200,AC
+2016-10-29 21:04:54+0900,A - Prefix and Suffix,assy,200,AC
+2016-10-29 21:04:54+0900,A - Prefix and Suffix,reality,200,AC
+2016-10-29 21:04:53+0900,A - Prefix and Suffix,mute1997,0,WA
+2016-10-29 21:04:52+0900,A - Prefix and Suffix,torus711,200,AC
+2016-10-29 21:04:52+0900,A - Prefix and Suffix,wubincen,200,AC
+2016-10-29 21:04:51+0900,A - Prefix and Suffix,nikutto,200,AC
+2016-10-29 21:04:48+0900,A - Prefix and Suffix,yosupo,200,AC
+2016-10-29 21:04:48+0900,A - Prefix and Suffix,softgoorm,0,WA
+2016-10-29 21:04:47+0900,A - Prefix and Suffix,sorao,200,AC
+2016-10-29 21:04:46+0900,A - Prefix and Suffix,yash_mittal,200,AC
+2016-10-29 21:04:46+0900,A - Prefix and Suffix,AlexeyEnkov,200,AC
+2016-10-29 21:04:45+0900,A - Prefix and Suffix,deoxy,0,WA
+2016-10-29 21:04:43+0900,A - Prefix and Suffix,yoseisan,200,AC
+2016-10-29 21:04:42+0900,A - Prefix and Suffix,shllhs,200,AC
+2016-10-29 21:04:41+0900,A - Prefix and Suffix,mmaks,200,AC
+2016-10-29 21:04:41+0900,A - Prefix and Suffix,noconocolib,0,WA
+2016-10-29 21:04:40+0900,A - Prefix and Suffix,ninja7,0,WA
+2016-10-29 21:04:36+0900,A - Prefix and Suffix,nmnmnmnmnmnmnm,200,AC
+2016-10-29 21:04:36+0900,A - Prefix and Suffix,lab104_yifan,200,AC
+2016-10-29 21:04:35+0900,A - Prefix and Suffix,komendart,200,AC
+2016-10-29 21:04:35+0900,A - Prefix and Suffix,sorao,0,CE
+2016-10-29 21:04:34+0900,A - Prefix and Suffix,imulan,0,WA
+2016-10-29 21:04:34+0900,A - Prefix and Suffix,platypus,200,AC
+2016-10-29 21:04:34+0900,A - Prefix and Suffix,alishafiee,200,AC
+2016-10-29 21:04:33+0900,A - Prefix and Suffix,kotamanegi,200,AC
+2016-10-29 21:04:33+0900,A - Prefix and Suffix,scor,0,WA
+2016-10-29 21:04:32+0900,A - Prefix and Suffix,ec24,200,AC
+2016-10-29 21:04:32+0900,A - Prefix and Suffix,cherry7kurai24,0,WA
+2016-10-29 21:04:32+0900,A - Prefix and Suffix,zscoder,200,AC
+2016-10-29 21:04:30+0900,A - Prefix and Suffix,shiratty8,200,AC
+2016-10-29 21:04:30+0900,A - Prefix and Suffix,aid,200,AC
+2016-10-29 21:04:29+0900,A - Prefix and Suffix,Asuka_Tsukimi,200,AC
+2016-10-29 21:04:27+0900,B - Median Pyramid Easy,mmaxio,0,WA
+2016-10-29 21:04:26+0900,A - Prefix and Suffix,garnacha,200,AC
+2016-10-29 21:04:26+0900,A - Prefix and Suffix,cocococoa,200,AC
+2016-10-29 21:04:26+0900,A - Prefix and Suffix,lrmystp,0,WA
+2016-10-29 21:04:25+0900,A - Prefix and Suffix,Vax,200,AC
+2016-10-29 21:04:23+0900,A - Prefix and Suffix,yassin,200,AC
+2016-10-29 21:04:22+0900,A - Prefix and Suffix,atetubou,200,AC
+2016-10-29 21:04:21+0900,A - Prefix and Suffix,Lepton,200,AC
+2016-10-29 21:04:20+0900,A - Prefix and Suffix,aaaaajack,200,AC
+2016-10-29 21:04:20+0900,A - Prefix and Suffix,triplem5ds,0,WA
+2016-10-29 21:04:18+0900,A - Prefix and Suffix,nigus,0,WA
+2016-10-29 21:04:16+0900,A - Prefix and Suffix,kosakkun,200,AC
+2016-10-29 21:04:16+0900,A - Prefix and Suffix,sslotin,200,AC
+2016-10-29 21:04:15+0900,A - Prefix and Suffix,Gfy593L3,200,AC
+2016-10-29 21:04:14+0900,A - Prefix and Suffix,Morass,200,AC
+2016-10-29 21:04:13+0900,A - Prefix and Suffix,lajiniunai,200,AC
+2016-10-29 21:04:12+0900,A - Prefix and Suffix,bulat_s,200,AC
+2016-10-29 21:04:11+0900,A - Prefix and Suffix,rsk0315,200,AC
+2016-10-29 21:04:11+0900,A - Prefix and Suffix,JTJL,200,AC
+2016-10-29 21:04:11+0900,A - Prefix and Suffix,conf,200,AC
+2016-10-29 21:04:11+0900,A - Prefix and Suffix,EvgeniSergeev,200,AC
+2016-10-29 21:04:10+0900,A - Prefix and Suffix,kenimo,200,AC
+2016-10-29 21:04:10+0900,A - Prefix and Suffix,poyodr,0,WA
+2016-10-29 21:04:10+0900,A - Prefix and Suffix,ichyo,200,AC
+2016-10-29 21:04:07+0900,A - Prefix and Suffix,kubusgol,200,AC
+2016-10-29 21:04:07+0900,A - Prefix and Suffix,gahou,200,AC
+2016-10-29 21:04:05+0900,A - Prefix and Suffix,yamad,200,AC
+2016-10-29 21:04:04+0900,A - Prefix and Suffix,abeker,200,AC
+2016-10-29 21:04:03+0900,A - Prefix and Suffix,sd0061,200,AC
+2016-10-29 21:04:02+0900,A - Prefix and Suffix,Deemo,200,AC
+2016-10-29 21:04:02+0900,A - Prefix and Suffix,ccdd4211,200,AC
+2016-10-29 21:04:01+0900,A - Prefix and Suffix,TangentDay,200,AC
+2016-10-29 21:04:00+0900,A - Prefix and Suffix,bigelephant29,200,AC
+2016-10-29 21:04:00+0900,A - Prefix and Suffix,plat,0,WA
+2016-10-29 21:03:58+0900,A - Prefix and Suffix,chenmark,200,AC
+2016-10-29 21:03:57+0900,A - Prefix and Suffix,m_buyoh,0,WA
+2016-10-29 21:03:56+0900,A - Prefix and Suffix,qazwsxedcrfvtg14,200,AC
+2016-10-29 21:03:55+0900,A - Prefix and Suffix,yashkumar18,200,AC
+2016-10-29 21:03:54+0900,A - Prefix and Suffix,math,200,AC
+2016-10-29 21:03:53+0900,A - Prefix and Suffix,motxx,0,WA
+2016-10-29 21:03:52+0900,A - Prefix and Suffix,bigINnnner,0,CE
+2016-10-29 21:03:52+0900,A - Prefix and Suffix,blue_jam,200,AC
+2016-10-29 21:03:51+0900,A - Prefix and Suffix,mamekin,0,WA
+2016-10-29 21:03:50+0900,A - Prefix and Suffix,seiyab,200,AC
+2016-10-29 21:03:50+0900,A - Prefix and Suffix,Archazey,200,AC
+2016-10-29 21:03:49+0900,A - Prefix and Suffix,Fcdkbear,200,AC
+2016-10-29 21:03:49+0900,A - Prefix and Suffix,majk,200,AC
+2016-10-29 21:03:49+0900,A - Prefix and Suffix,creatnx,200,AC
+2016-10-29 21:03:47+0900,A - Prefix and Suffix,kzyKT,0,WA
+2016-10-29 21:03:46+0900,A - Prefix and Suffix,Paladin,0,WA
+2016-10-29 21:03:46+0900,A - Prefix and Suffix,palpal,200,AC
+2016-10-29 21:03:45+0900,A - Prefix and Suffix,I3MNIX,200,AC
+2016-10-29 21:03:44+0900,A - Prefix and Suffix,tanphatls987,200,AC
+2016-10-29 21:03:41+0900,A - Prefix and Suffix,bidzilya,200,AC
+2016-10-29 21:03:41+0900,A - Prefix and Suffix,mcginn,200,AC
+2016-10-29 21:03:41+0900,A - Prefix and Suffix,adamant,200,AC
+2016-10-29 21:03:40+0900,A - Prefix and Suffix,maroonrk,200,AC
+2016-10-29 21:03:39+0900,A - Prefix and Suffix,oshiumi,0,WA
+2016-10-29 21:03:39+0900,A - Prefix and Suffix,cympfh,200,AC
+2016-10-29 21:03:38+0900,A - Prefix and Suffix,SYury,200,AC
+2016-10-29 21:03:38+0900,A - Prefix and Suffix,Titanium_Owner,0,WA
+2016-10-29 21:03:36+0900,A - Prefix and Suffix,roiti,200,AC
+2016-10-29 21:03:36+0900,A - Prefix and Suffix,hasi,200,AC
+2016-10-29 21:03:35+0900,A - Prefix and Suffix,bulat_s,0,RE
+2016-10-29 21:03:33+0900,A - Prefix and Suffix,octopuses,0,WA
+2016-10-29 21:03:33+0900,A - Prefix and Suffix,behzad_nouri,200,AC
+2016-10-29 21:03:33+0900,A - Prefix and Suffix,Sumeet_Varma,200,AC
+2016-10-29 21:03:32+0900,A - Prefix and Suffix,ei13333,200,AC
+2016-10-29 21:03:28+0900,A - Prefix and Suffix,kusano,200,AC
+2016-10-29 21:03:28+0900,A - Prefix and Suffix,shdut,200,AC
+2016-10-29 21:03:27+0900,A - Prefix and Suffix,azukun,200,AC
+2016-10-29 21:03:27+0900,A - Prefix and Suffix,King_George,200,AC
+2016-10-29 21:03:27+0900,A - Prefix and Suffix,ikbal,200,AC
+2016-10-29 21:03:26+0900,A - Prefix and Suffix,p_km,200,AC
+2016-10-29 21:03:25+0900,A - Prefix and Suffix,yuki2006,0,WA
+2016-10-29 21:03:25+0900,A - Prefix and Suffix,melnyk,200,AC
+2016-10-29 21:03:25+0900,A - Prefix and Suffix,yutaka1999,200,AC
+2016-10-29 21:03:24+0900,A - Prefix and Suffix,ondrah,200,AC
+2016-10-29 21:03:23+0900,A - Prefix and Suffix,ihaveint,200,AC
+2016-10-29 21:03:22+0900,A - Prefix and Suffix,grandmaster208,0,WA
+2016-10-29 21:03:20+0900,A - Prefix and Suffix,hamadu,200,AC
+2016-10-29 21:03:18+0900,A - Prefix and Suffix,mio_h1917,200,AC
+2016-10-29 21:03:18+0900,A - Prefix and Suffix,Elshiko,200,AC
+2016-10-29 21:03:16+0900,A - Prefix and Suffix,anuraganand,200,AC
+2016-10-29 21:03:15+0900,A - Prefix and Suffix,eitaho,200,AC
+2016-10-29 21:03:15+0900,A - Prefix and Suffix,Ra16bit,200,AC
+2016-10-29 21:03:14+0900,A - Prefix and Suffix,reew2n,0,WA
+2016-10-29 21:03:13+0900,A - Prefix and Suffix,konjo,200,AC
+2016-10-29 21:03:12+0900,A - Prefix and Suffix,lajiniunai,0,WA
+2016-10-29 21:03:11+0900,A - Prefix and Suffix,nasa,200,AC
+2016-10-29 21:03:10+0900,A - Prefix and Suffix,shik,200,AC
+2016-10-29 21:03:09+0900,A - Prefix and Suffix,USA,200,AC
+2016-10-29 21:03:09+0900,A - Prefix and Suffix,markysha,200,AC
+2016-10-29 21:03:08+0900,A - Prefix and Suffix,triplem5ds,0,WA
+2016-10-29 21:03:08+0900,A - Prefix and Suffix,johnchen902,200,AC
+2016-10-29 21:03:08+0900,A - Prefix and Suffix,lyoz,200,AC
+2016-10-29 21:03:07+0900,A - Prefix and Suffix,ainta,0,WA
+2016-10-29 21:03:06+0900,A - Prefix and Suffix,dprpavlin,200,AC
+2016-10-29 21:03:02+0900,A - Prefix and Suffix,AndreiNet,200,AC
+2016-10-29 21:03:00+0900,A - Prefix and Suffix,geniucos,200,AC
+2016-10-29 21:02:59+0900,A - Prefix and Suffix,ahmed1ossama13,200,AC
+2016-10-29 21:02:58+0900,A - Prefix and Suffix,zemen,200,AC
+2016-10-29 21:02:56+0900,A - Prefix and Suffix,kzyKT,0,WA
+2016-10-29 21:02:55+0900,A - Prefix and Suffix,imang,200,AC
+2016-10-29 21:02:54+0900,A - Prefix and Suffix,Golovanov399,200,AC
+2016-10-29 21:02:45+0900,A - Prefix and Suffix,dragonic,200,AC
+2016-10-29 21:02:44+0900,A - Prefix and Suffix,dreamoon,200,AC
+2016-10-29 21:02:44+0900,A - Prefix and Suffix,logicmachine,200,AC
+2016-10-29 21:02:43+0900,A - Prefix and Suffix,piroz95,0,WA
+2016-10-29 21:02:42+0900,A - Prefix and Suffix,ixmel_rd,200,AC
+2016-10-29 21:02:41+0900,A - Prefix and Suffix,ikatanic,200,AC
+2016-10-29 21:02:40+0900,A - Prefix and Suffix,asi1024,200,AC
+2016-10-29 21:02:38+0900,A - Prefix and Suffix,minaminao,0,WA
+2016-10-29 21:02:37+0900,A - Prefix and Suffix,cchao,200,AC
+2016-10-29 21:02:34+0900,A - Prefix and Suffix,SanSiroWaltz,200,AC
+2016-10-29 21:02:32+0900,A - Prefix and Suffix,kawatea,200,AC
+2016-10-29 21:02:30+0900,A - Prefix and Suffix,ei13333,0,WA
+2016-10-29 21:02:30+0900,A - Prefix and Suffix,Reyna,200,AC
+2016-10-29 21:02:29+0900,A - Prefix and Suffix,Laakeri,200,AC
+2016-10-29 21:02:27+0900,A - Prefix and Suffix,LeBron,200,AC
+2016-10-29 21:02:27+0900,A - Prefix and Suffix,T1610,0,WA
+2016-10-29 21:02:27+0900,A - Prefix and Suffix,Rafbill,200,AC
+2016-10-29 21:02:26+0900,A - Prefix and Suffix,LHiC,200,AC
+2016-10-29 21:02:23+0900,A - Prefix and Suffix,anta,200,AC
+2016-10-29 21:02:20+0900,A - Prefix and Suffix,Kostroma,200,AC
+2016-10-29 21:02:19+0900,A - Prefix and Suffix,pekempey,200,AC
+2016-10-29 21:02:18+0900,A - Prefix and Suffix,dohatsutsu,200,AC
+2016-10-29 21:02:17+0900,A - Prefix and Suffix,okaduki,0,WA
+2016-10-29 21:02:14+0900,A - Prefix and Suffix,j_gui0121,200,AC
+2016-10-29 21:02:11+0900,A - Prefix and Suffix,MathCrusader,200,AC
+2016-10-29 21:02:11+0900,A - Prefix and Suffix,rickytheta,200,AC
+2016-10-29 21:02:07+0900,A - Prefix and Suffix,kobae964,200,AC
+2016-10-29 21:02:07+0900,A - Prefix and Suffix,maroonrk,0,WA
+2016-10-29 21:02:07+0900,A - Prefix and Suffix,Y_UME,200,AC
+2016-10-29 21:02:06+0900,A - Prefix and Suffix,Arterm,200,AC
+2016-10-29 21:02:04+0900,A - Prefix and Suffix,abyssmall,200,AC
+2016-10-29 21:02:03+0900,A - Prefix and Suffix,w4yneb0t,200,AC
+2016-10-29 21:01:58+0900,A - Prefix and Suffix,jiaqiyang,200,AC
+2016-10-29 21:01:50+0900,A - Prefix and Suffix,sasa99,200,AC
+2016-10-29 21:01:50+0900,A - Prefix and Suffix,dsytk7,0,WA
+2016-10-29 21:01:48+0900,A - Prefix and Suffix,riadwaw,200,AC
+2016-10-29 21:01:44+0900,A - Prefix and Suffix,uwi,200,AC
+2016-10-29 21:01:40+0900,A - Prefix and Suffix,mmaxio,200,AC
+2016-10-29 21:01:35+0900,A - Prefix and Suffix,kmjp,200,AC
+2016-10-29 21:01:33+0900,A - Prefix and Suffix,endagorion,200,AC
+2016-10-29 21:01:32+0900,A - Prefix and Suffix,sigma425,200,AC
+2016-10-29 21:01:32+0900,A - Prefix and Suffix,ei13333,0,WA
