@@ -1,5 +1,10 @@
 import pandas as pd
 
+'''
+pro_with_features_difficulty.csv：根据每道题的分值将题目分为ABC三种难度等级
+双变量相关性分析：spearman相关评估两个连续变量之间的单调关系
+'''
+
 if __name__=='__main__':
     data = pd.read_csv('pro_with_features_difficulty.csv')
     print(data)

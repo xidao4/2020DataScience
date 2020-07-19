@@ -1,4 +1,10 @@
-按照运行顺序排序
+### **运行顺序：**
+
+**pre1.py -> pre2.py -> scrapy.py -> handle_data.py -> relation_analysis.py -> model.py**
+
+
+
+### 各文件主要功能与重要方法功能
 
 #### 1、pre1.py
 
@@ -57,3 +63,4 @@ spearman相关评估两个连续变量之间的单调关系
 ###### assessment()
 
 准确率评估
+

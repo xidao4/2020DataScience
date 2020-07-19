@@ -3,6 +3,10 @@ import csv
 import pandas as pd
 import datetime
 
+'''
+处理全部比赛的提交记录，得到每道题可能与题目难度相关的特征
+形成pro_with_features.csv
+'''
 
 def handle_submit(contest_name):
     df=pd.read_csv("contests\\"+contest_name+"\\record_"+contest_name+".csv")

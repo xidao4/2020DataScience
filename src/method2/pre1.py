@@ -9,7 +9,7 @@ from pandas import Series
 
 '''
     选出合适的比赛
-    将选出的比赛的题目ID和分数写进CSV
+    将选出的比赛的题目ID和分数写进contests文件下对应的比赛文件夹中
 '''
 
 

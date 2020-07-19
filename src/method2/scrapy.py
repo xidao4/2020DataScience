@@ -5,7 +5,8 @@ import datetime
 from bs4 import BeautifulSoup
 
 '''
-爬下所有数据形成pro_with_features.csv
+爬下比赛时间内的所有提交记录
+形成pro_with_features.csv
 '''
 
 def is_valid(start,real,end):

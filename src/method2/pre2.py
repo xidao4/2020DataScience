@@ -2,7 +2,9 @@ import pandas as pd
 from pandas import DataFrame
 
 '''
-创建pro.csv    选定的比赛的题目id(带比赛的编号),score
+根据contests文件夹下各场比赛的score.csv
+汇总所有选定的比赛的题目id(带比赛的编号),score
+写进pro.csv这一个文件    
 '''
 
 def get_pro(contests):

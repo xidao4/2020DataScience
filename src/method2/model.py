@@ -8,52 +8,11 @@ from sklearn.cluster import KMeans
 from sklearn import preprocessing
 from sklearn.metrics import calinski_harabasz_score
 
-def CART():
-    #没用
-    data=pd.read_csv('pro_with_features_difficulty.csv')
-    # print(data)
-    # print()
-    # print()
-    #特征选择
-    #features=['1a_rate','avg_ac_time','score_rate','total_submit','ac_Nums']
-    features = ['1a_rate', 'ac_rate', 'total_submit']
-    features_data=data[features]
-    # print('features_data')
-    # print(features_data)
-    # print()
-    # print()
-    labels_data=data['difficulty_level']
-    # print('labels_data')
-    # print(labels_data)
-    # print()
-    # print()
-    #划分训练集 测试集
-    train_features,test_features,train_labels,test_labels=train_test_split(features_data,labels_data,test_size=0.25,random_state=0)
-    # print('train_features')
-    # print(train_features)
-    # print()
-    # print()
-    # print('train_labels')
-    # print(train_labels)
-    # print()
-    # print()
-    # print('test_features')
-    # print(test_features)
-    # print()
-    # print()
-    print('test_labels')
-    print(test_labels)
-    print()
-    print()
-    clf=DecisionTreeClassifier()
-    clf.fit(train_features,train_labels)
-    pred_labels=clf.predict(test_features)
-    print('pred_labels')
-    print(pred_labels)
-    print()
-    print()
-    score=accuracy_score(test_labels,pred_labels)
-    print("CART分类树准确率 %.4lf" % score)
+'''
+采用AdaBoost机器算法进行分类，并调优参数
+    param()方法：对AdoBoost框架学习器个数进行择优
+    param2()方法：对AdoBoost所集成的弱分类树的深度进行择优
+'''
 
 def AdaBoost():
     data = pd.read_csv('pro_with_features_difficulty.csv')
