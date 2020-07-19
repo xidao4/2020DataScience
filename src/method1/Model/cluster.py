@@ -7,6 +7,15 @@ from sklearn.cluster import KMeans
 from sklearn import preprocessing
 from sklearn.metrics import calinski_harabasz_score
 
+'''
+kmeans无监督学习：
+    数据归一化
+    去除异常离群点
+    对n_clusters参数进行择优
+    评估模型
+    可视化
+'''
+
 def get_data1():
     # 数据加载
     f = open("../PDI/d_difficulty_dict_with_metrics_2.json", encoding="utf8")
@@ -17,7 +26,9 @@ def get_data1():
         inner_lst = []
         inner_lst.append(int(v["case_id"]))
         inner_lst.append(v["avg_cc_score"])
+        #修改：inner_lst.append(v["avg_cc_level"])
         # 将cc_score与LLOC从字符串转换为float
+        # 修改：把下面这个if else中的avg_cc_level改为avg_cc_score
         if v['avg_cc_level']!=None:
             inner_lst.append(float(v["avg_cc_level"]))
         else:
@@ -50,53 +61,35 @@ def get_data1():
 def draw_with_classification(y,data,centers):
     print(data)
     print(data.describe())
-    # arr0=0
-    # arr1=0
-    # arr2=0
-    # arr3=0
     fig = plt.figure(figsize=(10, 6))
     ax = Axes3D(fig)
     for i in range(len(y)):
         if y[i]==0:
-            ax.scatter(data.iloc[i,0], data.iloc[i,1], data.iloc[i,2],c='r', marker='.')
+            ax.scatter(data.iloc[i,0], data.iloc[i,1], data.iloc[i,2],c='b', marker='.')
         elif y[i]==1:
             ax.scatter(data.iloc[i, 0], data.iloc[i, 1], data.iloc[i, 2],c='y', marker='x')
         elif y[i]==2:
             ax.scatter(data.iloc[i, 0], data.iloc[i, 1], data.iloc[i, 2], c='g', marker='*')
         else:
             print('error')
-    ax.scatter(centers[:,0],centers[:,1],centers[:,2],c='b',marker='+')
-    # ax=fig.add_subplot(1,1,1)
-    # ax=fig.gca(projection='3d')
+    ax.scatter(centers[:,0],centers[:,1],centers[:,2],c='r',marker='+')
     plt.title('kmeans scatter result')
     ax.set_xlabel('avg_cc_score')
     ax.set_ylabel('avg_LLOC')
     ax.set_zlabel('avg_unique_operand_Nums')
-    #plt.legend(loc=2)
-    #plt.show()
     plt.savefig('with_classification.png', bbox_inches='tight')
-    # ax=Axes3D(fig)
-    # ax.set_zlabel('avg_cc_score')
-    # ax.set_ylabel('avg_LLOC')
-    # ax.set_xlabel('avg_unique_operand_Nums')
-    # for i in range(len(y)):
-    #     if y[i]==0:
-    # plt.savefig('with_classification.png', bbox_inches='tight')
+
 
 def my_draw(features_data,filename):
     fig = plt.figure(figsize=(10,6))
-    # plt.plot(data['avg_cc_score'],data['avg_LLOC'],data['avg_unique_operand_Nums'])
-    # plt.xlabel('avg_cc_score')
-    # plt.ylabel('avg_LLOC')
-    # plt.zlabel('avg_unique_operand_Nums')
     ax = Axes3D(fig)
     x = features_data.loc[:, 'avg_cc_score']
     y = features_data.loc[:, 'avg_LLOC']
     z = features_data.loc[:, 'avg_unique_operand_Nums']
     ax.scatter(x, y, z)
-    ax.set_zlabel('avg_cc_score')
+    ax.set_xlabel('avg_cc_score')
     ax.set_ylabel('avg_LLOC')
-    ax.set_xlabel('halstead')
+    ax.set_zlabel('avg_unique_operand_Nums')
     plt.savefig(filename, bbox_inches='tight')
 
 def get_data2(data):
@@ -106,7 +99,7 @@ def get_data2(data):
     data=data[data['avg_unique_operand_Nums']<35]
     print('去除了离群点')
     print(data)
-    my_draw(data,'before_scaler.png')
+    #my_draw(data,'before_scaler.png')
     return data
 
 def check_abnormal(data):
@@ -127,26 +120,6 @@ def check_abnormal(data):
     ax3.set_xlabel('avg_unique_operand_Nums')
     plt.show()
 
-
-
-# def get_features_data_labels_data(data):
-#
-#     # 数据探索
-#     # print(2)
-#     # print(data.describe())
-#     # print()
-#     features = ["avg_cc_score", "avg_LLOC","avg_unique_operand_Nums"]# 特征选择
-#     features_data = data[features]
-#     # # 写得有问题
-#     # features_data.loc[:, 'halstead'] = features_data.apply(total_halstead, axis=1)
-#
-#     #features_data = features_data.drop(["avg_unique_operator_Nums", "avg_operator_Nums", "avg_operand_Nums"], axis=1)
-#     print('最终选择的特征数据')
-#     print(features_data)
-#     labels_data = data["RDI"]
-#     print('所选的特征数据对应结果')
-#     print(labels_data)
-#     return features_data,labels_data
 def kmeans(features_data):
     #标准化 preprocessing.scale
     # 归一化 min-max-scaler
@@ -159,9 +132,9 @@ def kmeans(features_data):
     print('归一化后转换为dataframe的特征数据')
     print(features_data)
 
-    #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
     my_draw(features_data,'after_scaler.png')
+
 
     kmeans = KMeans(n_clusters=3)
     kmeans.fit(features_data)
@@ -174,11 +147,21 @@ def kmeans(features_data):
 
 
 if __name__=='__main__':
-    # features_data=get_features_data_labels_data()[0]
-    # print('数据归一前')
-    # print(features_data)
-    # kmeans(features_data)
-    data=get_data1() #去除D等级点
+
+    # 1、根据散点图可知，D等级点各软件指标不确定性大，故去除D等级点
+    data=get_data1()
+
+    #2、绘制所选特征的箱式图，以便去除异常离群点↓
     #check_abnormal(data)
-    data=get_data2(data) #去除了异常点，还未归一化处理
+
+    # 3、去除了异常点，但还未归一化处理
+    data=get_data2(data)
+
+    # 4、
+    #归一化处理数据，使之处于0-1之间
+    #调整参数n_clusters，比较calinski_harabasz_score。最终选择得分最大的n_clusters为3
+    #聚类并可视化，显示质心。
+    #由输出的质心坐标，
+    #  （XYZ轴分别为答案与满分代码的平均Cyclomatic complexity,logical Source Lines Of Code，unique operand numbers），
+    #   可将题目分为ABC三个难度等级
     kmeans(data)

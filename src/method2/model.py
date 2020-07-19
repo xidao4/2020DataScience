@@ -4,14 +4,13 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 from sklearn.ensemble import AdaBoostClassifier
-from sklearn.cluster import KMeans
-from sklearn import preprocessing
-from sklearn.metrics import calinski_harabasz_score
 
 '''
-采用AdaBoost机器算法进行分类，并调优参数
-    param()方法：对AdoBoost框架学习器个数进行择优
-    param2()方法：对AdoBoost所集成的弱分类树的深度进行择优
+采用AdaBoost机器算法进行分类：
+    调优参数
+        param()方法：对AdoBoost框架学习器个数进行择优
+        param2()方法：对AdoBoost所集成的弱分类树的深度进行择优
+    总体和分题型的平均准确率评估
 '''
 
 def AdaBoost():
@@ -108,8 +107,19 @@ def assessment(test_labels,pred_labels):
     return a_rate,b_rate,c_rate
 
 if __name__=='__main__':
+    '''
+    调优参数
+    '''
+    #对AdoBoost框架学习器个数进行择优↓
     #param()
+
+    #对AdoBoost所集成的弱分类树的深度进行择优↓
     #param2()
+
+
+    '''
+    调用参数调优过的adoboost()，评估准确率
+    '''
     a=0
     b=0
     c=0

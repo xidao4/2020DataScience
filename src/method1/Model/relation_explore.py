@@ -3,6 +3,10 @@ import matplotlib.pyplot as plt
 #import pandas as pd
 import json
 
+'''
+绘制各software metrics与题目平均得分的散点图
+'''
+
 if __name__=='__main__':
     f=open("../PDI/d_difficulty_dict_with_metrics_2.json",encoding="utf8")
     res=f.read()
@@ -21,7 +25,7 @@ if __name__=='__main__':
     halstead=[]
     for v in diff_dict.values():
         cc_score.append(v["avg_cc_level"])
-        #cc_lvl.append(v["avg_cc_level"])
+        #修改：cc_score.append(v['avg_cc_score'])
         LLOC.append(v["avg_LLOC"])
         u_rator.append(v["avg_unique_operator_Nums"])
         u_rand.append(v["avg_unique_operand_Nums"])
@@ -29,7 +33,6 @@ if __name__=='__main__':
         rand.append(v["avg_operand_Nums"])
         #RDI.append(v["RDI"])
         avg_score.append(v['avg_score'])
-        #halstead.append(v["avg_unique_operator_Nums"]+v["avg_unique_operand_Nums"]+v["avg_operator_Nums"]+v["avg_operand_Nums"])
     for i in range(len(cc_score)):
         if cc_score[i]==None:
             continue
@@ -52,6 +55,3 @@ if __name__=='__main__':
     # plt.show()
     # plt.scatter(halstead, avg_score)
     # plt.show()
-    # #Seaborn
-    # df=pd.DataFrame({'x':,'y':})
-    # sns.jointplot(x="x",y="y",data=df,kind='scatter')
