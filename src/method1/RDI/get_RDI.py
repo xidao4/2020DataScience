@@ -2,23 +2,23 @@ import json
 import matplotlib.pyplot as plt
 
 def draw(pro_dict):
-    scores=[]#1准备数据
+    scores=[]  # 1准备数据
     for v in pro_dict.values():
         scores.append(v["avg_score"])
-    plt.figure(figsize=(20,8),dpi=100)#2创建画布
-    #3绘制直方图
+    plt.figure(figsize=(20,8),dpi=100)  # 2创建画布
+    # 3绘制直方图
     dist=4
     group_num=int((max(scores)-min(scores))/dist)
     plt.hist(scores,bins=group_num)
-    plt.xticks(range(int(min(scores)),int(max(scores)+1),dist))#修改x轴刻度
-    plt.grid(linestyle="--",alpha=0.5)#添加网格
-    plt.xlabel("题目均分")#添加XY轴的描述信息
+    plt.xticks(range(int(min(scores)),int(max(scores)+1),dist))  # 修改x轴刻度
+    plt.grid(linestyle="--",alpha=0.5) # 添加网格
+    plt.xlabel("题目均分") # 添加XY轴的描述信息
     plt.ylabel("题目数量")
-    plt.show()#4显示图像
+    plt.show()  # 4显示图像
 
-#x<60 C
-#60<=x<88 B
-#88<=x<100 A
+# x<60 C
+# 60<=x<88 B
+# 88<=x<100 A
 
 def get_diff_level(pro_dict):
     difficulty_dict={}
@@ -58,7 +58,7 @@ def get_cnt(difficulty_dict):
             cnt[3]+=1
     plt.figure(figsize=(20,8),dpi=80)
     plt.pie(cnt,labels=level_name,autopct="%1.2f%%")
-    plt.legend()#显示图例
+    plt.legend()  # 显示图例
     plt.axis('equal')
     plt.show()
 

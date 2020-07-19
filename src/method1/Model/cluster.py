@@ -92,6 +92,7 @@ def my_draw(features_data,filename):
     ax.set_zlabel('avg_unique_operand_Nums')
     plt.savefig(filename, bbox_inches='tight')
 
+
 def get_data2(data):
     #根据箱式图，去除异常点
     data=data[data['avg_cc_score']<12]
@@ -101,6 +102,7 @@ def get_data2(data):
     print(data)
     #my_draw(data,'before_scaler.png')
     return data
+
 
 def check_abnormal(data):
     #data.drop(['case_id','avg_operator'],axis=1)
@@ -119,6 +121,7 @@ def check_abnormal(data):
     ax3.boxplot(data['avg_unique_operand_Nums'].values)
     ax3.set_xlabel('avg_unique_operand_Nums')
     plt.show()
+
 
 def kmeans(features_data):
     #标准化 preprocessing.scale
@@ -151,7 +154,7 @@ if __name__=='__main__':
     # 1、根据散点图可知，D等级点各软件指标不确定性大，故去除D等级点
     data=get_data1()
 
-    #2、绘制所选特征的箱式图，以便去除异常离群点↓
+    # 2、绘制所选特征的箱式图，以便去除异常离群点↓
     #check_abnormal(data)
 
     # 3、去除了异常点，但还未归一化处理

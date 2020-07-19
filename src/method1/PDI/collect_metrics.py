@@ -14,17 +14,17 @@ def path_msg(case_id):
         print("答案非py，且没有满分的提交记录","case_id",case_id,"path_idx",case["path_idx"])
 
 
-def get_avg_cc(case_id): #获取平均cc
+def get_avg_cc(case_id): # 获取平均cc
     try:
         all_cc_score=[]
         all_cc_level=[]
         # f=open("metrics//"+case_id+"//cc",encoding="utf8")
         path="metrics//"+case_id+"//cc"
         count=0
-        for file in os.listdir(path):      #统计cc文件下有多少个cc.json文件
+        for file in os.listdir(path):      # 统计cc文件下有多少个cc.json文件
             count+=1
 
-        for i in range(0,count):           #遍历全部算一遍
+        for i in range(0,count):           # 遍历全部算一遍
             res=get_cc(case_id,i)
             all_cc_score.append(res[0])
             all_cc_level.append(res[1])
@@ -32,17 +32,17 @@ def get_avg_cc(case_id): #获取平均cc
         for j in all_cc_level:
             level_to_num.append(ord(j)-64)
         avg_level=np.mean(level_to_num)
-        avg_level=chr(math.ceil(round(avg_level)+64))  #levcl转换数字求平均
-        #a=np.mean(all_cc_level)  #这样用会报错
-        a=format(sum(all_cc_score)/count,'.1f')   #笨方法求和平均
+        avg_level=chr(math.ceil(round(avg_level)+64))  # levcl转换数字求平均
+        #a=np.mean(all_cc_level)  # 这样用会报错
+        a=format(sum(all_cc_score)/count,'.1f')   # 笨方法求和平均
         global cc_suc
         cc_suc += 1
-        return avg_level,a   #返回平均值
+        return avg_level,a   # 返回平均值
     except Exception as e:
         print("打开cc文件失败",e)
         return
 
-def get_avg_raw(case_id): #求平均raw
+def get_avg_raw(case_id): # 求平均raw
     try:
         all_lloc_raw=[]
         # f = open("metrics//" + case_id + "//LLOC", encoding="utf8")
@@ -57,7 +57,7 @@ def get_avg_raw(case_id): #求平均raw
         print("打开LLOC文件失败", e)
         return
 
-def get_avg_hal(case_id):#求平均hal
+def get_avg_hal(case_id):# 求平均hal
     try:
         all_lloc_hal=[]
         # f = open("metrics//" + case_id + "//hal", encoding="utf8")
@@ -90,19 +90,19 @@ def get_cc(case_id,indexof_ccjson):
                 # print(item)
                 s=item["complexity"]
                 cc_lst.append(s)
-                for temp in item["closures"]:     #加上子方法的complexity
+                for temp in item["closures"]:     # 加上子方法的complexity
                     cc_lst.append(temp["complexity"])
 
     except Exception as e:
         print("dict",dict)
         print("radon获取圈复杂度失败，仅得到error",e)
-    #处理源码之前可能遇到的问题
+    # 处理源码之前可能遇到的问题
     if len(cc_lst)==0:
         print("dict",dict)
         print("cc为空")
         return
     global cc_suc
-    avg_cc_score=np.mean(cc_lst)    #去平均
+    avg_cc_score=np.mean(cc_lst)    # 去平均
     avg_cc_level=None
     if 1<=avg_cc_score and avg_cc_score<5.5:
         avg_cc_level="A"
@@ -191,7 +191,7 @@ for k in pro_dict.keys():
     if hal_lst!=[]:
         for i in range(0,len(hal_lst)):
             hal_lst[i]=math.ceil(round(hal_lst[i]))
-    if hal_lst!=[]:   #判断None改为[]
+    if hal_lst!=[]:   # 判断None改为[]
         inner_dict["avg_unique_operator_Nums"]=hal_lst[0]
         inner_dict["avg_unique_operand_Nums"] = hal_lst[1]
         inner_dict["avg_operator_Nums"] = hal_lst[2]
@@ -210,7 +210,7 @@ print("总题数",len(old_dict))
 
 
 json_difficulty=json.dumps(diff_dict,ensure_ascii=False, indent=4, separators=(',', ': '))
-#要加encoding="utf8" 否则输出到.json中中文乱码
+# 要加encoding="utf8" 否则输出到.json中中文乱码
 with open('s_difficulty_dict_with_metrics.json',mode='w',encoding="utf8") as f:
     f.write(json_difficulty)
 

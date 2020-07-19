@@ -17,16 +17,16 @@ for v in pro_dict.values():
         os.mkdir(pre+v["case_id"]+"\\hal")
     if not os.path.exists(pre+v["case_id"]+"\\LLOC"):
         os.mkdir(pre+v["case_id"]+"\\LLOC")
-#新增
-    usefulRecord=[]      #存放所有的有用的提交代码路径  包括参考答案和同学的满分答案
+# 新增
+    usefulRecord=[]      # 存放所有的有用的提交代码路径  包括参考答案和同学的满分答案
     for i in v["full_records"]:
         url = "E:\\2020DataScience\\src\\Preprocessing\\" + i + "main_modify.py"
         usefulRecord.append(url)
     if len(usefulRecord)>=target:
-        usefulRecord=random.sample(usefulRecord,target)  #随机抽取target份
+        usefulRecord=random.sample(usefulRecord,target)  # 随机抽取target份
     if v["ans_is_py"]:
-        if len(usefulRecord)==target:   #满足target个删掉一个让给标准答案
-              usefulRecord=random.sample(usefulRecord,len(usefulRecord)-1)  #一定把是py的参考答案加进去
+        if len(usefulRecord)==target:   # 满足target个删掉一个让给标准答案
+              usefulRecord=random.sample(usefulRecord,len(usefulRecord)-1)  # 一定把是py的参考答案加进去
         url = "E:\\2020DataScience\\src\\Preprocessing\\" + v["case_unzip_dir"] + ".mooctest\\answer_modify.py"
         usefulRecord.append(url)
     if len(usefulRecord)==0:

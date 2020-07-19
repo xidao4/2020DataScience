@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 from pandas import *
 
-f = open("../PDI/s_difficulty_dict_with_metrics.json", encoding="utf8")
+f = open("../PDI/d_difficulty_dict_with_metrics_2.json", encoding="utf8")
 res = f.read()
 data = json.loads(res)
 data = list(dict.values(data))

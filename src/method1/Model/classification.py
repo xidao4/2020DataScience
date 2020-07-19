@@ -48,6 +48,7 @@ def param2(train_features, test_features, train_labels, test_labels):
     print(samples_split)
     return tree_depth,samples_split
 
+
 def adoboost(train_features,test_features,train_labels,test_labels):
     clf = AdaBoostClassifier(DecisionTreeClassifier(max_depth=1,min_samples_split=19), n_estimators=124)
     clf.fit(train_features, train_labels)
@@ -55,6 +56,7 @@ def adoboost(train_features,test_features,train_labels,test_labels):
     score = accuracy_score(test_labels, pred_labels)
     print("adaboost分类树准确率 %.4lf" % score)
     return test_labels, pred_labels
+
 
 def get_features_data_labels_data():
     # 数据加载
@@ -65,7 +67,7 @@ def get_features_data_labels_data():
     for v in diff_dict.values():
         inner_lst = []
         inner_lst.append(int(v["case_id"]))
-        #修改：下两行的avg_cc_score与avg_cc_level互换
+        # 修改：下两行的avg_cc_score与avg_cc_level互换
         inner_lst.append(v["avg_cc_score"])
         inner_lst.append(v["avg_cc_level"])
         inner_lst.append(v["avg_LLOC"])
@@ -84,7 +86,7 @@ def get_features_data_labels_data():
     print(data)
     # 去除空行
     data.dropna(how='any', inplace=True)
-    #根据散点图，可知D等级题目的各项software metrics不规律，故去除RDI为D的行
+    # 根据散点图，可知D等级题目的各项software metrics不规律，故去除RDI为D的行
     data.drop(data[data.RDI=='D'].index,inplace=True)
     print('去除RDI为D的行后的dataframe')
     print(data)
