@@ -8,11 +8,9 @@
 
 #### 1、pre1.py
 
-从https://atcoder.jp上全部grand contests001-046中挑选18场比赛，并获取选中比赛的题目难度分值，写入contests\\agc004\\score_agc004.csv中
+从https://atcoder.jp上全部grand contests001-046中挑选18场比赛，并获取选中比赛的题目难度分值，写入contests文件夹下对应比赛文件夹下的.csv中
 
 ##### get_difficulty()
-
-技术：requests xpath etree
 
 #### 2、pre2.py
 
@@ -30,13 +28,9 @@
 
 获取比赛开始和结束时间 以及 总页数
 
-技术：beautifulsoup requests etree xpath
-
 ###### get_all_records()
 
 爬取每场比赛的提交记录,仅取比赛时间内的提交
-
-技术：beautifulsoup requests etree xpath
 
 #### 4、handle_data.py
 
