@@ -5,6 +5,7 @@ from matplotlib import pyplot as plt
 import numpy as np
 from pandas import *
 
+# 获得RDI数值和RDI各项参数的列表
 f = open("../PDI/d_difficulty_dict_with_metrics_2.json", encoding="utf8")
 res = f.read()
 data = json.loads(res)

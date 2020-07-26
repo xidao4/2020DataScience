@@ -4,7 +4,7 @@ import random
 f=open("s_pro_detail_dict.json",encoding="utf8")
 res=f.read()
 pro_dict=json.loads(res)
-target=10  #随机选十份有用代码计算度量值
+target=10  #随机选十份有效代码计算度量值
 
 commands=[]
 pre="metrics\\"

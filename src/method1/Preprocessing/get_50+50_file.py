@@ -3,7 +3,7 @@ import os
 import shutil
 
 # local_path = r'本地地址\2020DataScience\src\Preprocessing\'
-# 手动复制绝对路径
+# 绝对路径
 local_path = ''
 
 # abnormal sample

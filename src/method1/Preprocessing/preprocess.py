@@ -17,6 +17,7 @@ def unzip(src_zip, dest_dir):
         print('第一个参数的路径' + src_zip + '不是压缩包，解压缩失败')
 
 
+# 移除压缩包
 def remove_zip(zip_path):
     if os.path.exists(zip_path):
         os.remove(zip_path)
@@ -202,7 +203,7 @@ def modify_code(path):
         f.writelines(code)
 
 
-# 排除c++ java,也排除一些python2的情况 radon好像只认python3
+# 排除c++ java,也排除一些python2的情况 radon只能判断python3
 def check_py(path):
     fp = open(path, encoding="utf8")
     num_end = 0  # 计算分号的数量

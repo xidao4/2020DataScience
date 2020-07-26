@@ -5,7 +5,7 @@ import sys
 from six.moves import urllib
 
 # local_path = r'本地地址\2020DataScience\src\Preprocessing\'
-# 手动复制绝对路径
+# 绝对路径
 local_path = ''
 
 
@@ -55,6 +55,7 @@ with open('valid_dict.json', 'w') as f:
 
 # get file
 # abnormal sample
+# 以下代码用于获取所有的异常和正常样本
 """
 f = open("abnormal_dict.json", encoding="utf8")
 res = f.read()
