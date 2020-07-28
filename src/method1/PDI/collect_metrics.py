@@ -152,10 +152,10 @@ def get_hal(case_id,indexof_haljson):
             return []
 
 
-f=open("s_pro_detail_dict.json",encoding="utf8")
+f=open("d_pro_detail_dict.json",encoding="utf8")
 res=f.read()
 pro_dict=json.loads(res)
-f=open("s_difficulty_dict.json",encoding="utf8")
+f=open("d_difficulty_dict.json",encoding="utf8")
 res=f.read()
 old_dict=json.loads(res)
 
@@ -211,6 +211,6 @@ print("总题数",len(old_dict))
 
 json_difficulty=json.dumps(diff_dict,ensure_ascii=False, indent=4, separators=(',', ': '))
 # 要加encoding="utf8" 否则输出到.json中中文乱码
-with open('s_difficulty_dict_with_metrics.json',mode='w',encoding="utf8") as f:
+with open('d_difficulty_dict_with_metrics.json',mode='w',encoding="utf8") as f:
     f.write(json_difficulty)
 

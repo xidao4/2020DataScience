@@ -20,7 +20,7 @@ def download_and_extract(filepath, save_dir):
 
 
 # s_record_dict.json
-f = open("s_record_dict.json", encoding="utf8")
+f = open("d_record_dict.json", encoding="utf8")
 res = f.read()
 data = json.loads(res)
 data = list(dict.values(data))
