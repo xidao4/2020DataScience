@@ -1,31 +1,46 @@
 ### **运行顺序：**
 
-#### Preprocessing:
+
+
 ##### 预处理
-preprocess.py -> pro_basic_info.py
+Preprocessing/preprocess.py -> Preprocessing/pro_basic_info.py
 ##### 分离正常和异常样本，抽取样本进行准确率检测
-sample_separator.py -> random_50+50_sample.py -> get_50+50_file.py
+Preprocessing/sample_separator.py -> Preprocessing/random_50+50_sample.py -> 
+
+Preprocessing/get_50+50_file.py
+
 ##### 数据可视化
-student_TO_visiable.py -> to_visiable.py
 
-#### PDI:
-cmd_command.py 生成 get_metrics.bat 运行 get_metrics.bat -> collect_metrics.py
-modify.py
+Preprocessing/student_TO_visiable.py -> Preprocessing/to_visiable.py
 
-#### RDI:
-get_RDI.py
+##### 数据探索 
 
-#### Model:
-relation_explore.py -> classification.py -> cluster.py 
+model/relation_explore.py
+
+##### 第一种方法  
+
+model/cluster.py
+
+##### 第二种方法 
+
+PDI/cmd_command.py 生成PDI/ get_metrics.bat 运行PDI/ get_metrics.bat -> PDI/collect_metrics.py
+
+PDI/modify.py
+
+RDI/get_RDI.py
+
+Model/classification.py
 
 
-### 各文件主要功能与重要方法功能
+### 各py文件主要功能与重要方法功能
 
 #### 1、preprocess.py
 采用给定的数据集test_data.json，检测异常提交，包括面向用例和非python语言提交
-##### check_TO
+###### check_TO
 判断面向用例
-##### check_py
+
+###### check_py
+
 判断非python语言
 
 #### 2、pro_basic_info.py
