@@ -63,11 +63,11 @@ Model/classification.py
 绘制各项特征与题目平均得分的散点图
 
 ##### classification.py
-adoboost分类器
+adaboost分类器
 ###### param()
-对AdoBoost框架学习器个数进行择优
+对AdaBoost框架学习器个数进行择优
 ###### param2()
-对AdoBoost所集成的弱分类树的深度进行择优
+对AdaBoost所集成的弱分类树的深度进行择优
 
 ##### cluster.py 
 kmeans无监督学习
